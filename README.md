@@ -1,4 +1,4 @@
-# Книга "Основи на програмирането" \(със C\#\)
+# "Programming Basics" Book \(with C\#\)
 
 Книгата "**Основи на програмирането със C#**" запознава читателите с писането на **програмен код** на начално ниво (работа с данни, проверки, цикли и методи) с езика **C\#**.
 
@@ -27,10 +27,7 @@
 * [11. Хитрости и хакове](Content/Chapter-11-tricks-and-hacks/overview.md)
 * [Заключение](Content/Conclusion/overview.md)
 
-Изтеглете книгата "Основи на програмирането със C#" в PDF формат:
-* <a href="https://github.com/SoftUni/Programming-Basics-Book-CSharp-BG/blob/master/resources/Programming-Basics-CSharp-v2017.pdf">Programming-Basics-CSharp-v2017.pdf</a>
-
-Настоящата книга е достъпна на няколко езика за програмиране:
+Настоящата книга е достъпна на няколко езика за програмиране (на български език):
 * [Основи на програмирането със C#](https://csharp-book.softuni.bg)
 * [Основи на програмирането с Java](https://java-book.softuni.bg)
 * [Основи на програмирането с JavaScript](https://js-book.softuni.bg)
@@ -42,9 +39,9 @@
 Кратка информация за изданието:
 * Заглавие: **Основи на програмирането със C#**
 * Автори: **Светлин Наков и колектив**
-* ISBN: **978-619-00-0635-0**
+* ISBN: **TODO**
 * Издание: **Faber Publishing, София, юли 2017 г.**
 * Лиценз: **CC-BY-NC-SA**
-* Сорс код: https://github.com/SoftUni/Programming-Basics-Book-CSharp-BG
+* Сорс код: https://github.com/SoftUni/Programming-Basics-Book-CSharp-EN
 
 Приятно четене и не забравяйте да се запишете на [**практическия безплатен курс "Основи на програмирането"**](https://softuni.bg/apply) към тази книга, защото програмирането се учи с практика, писане на код и решаване на много, много задачи, а не само с четене!
