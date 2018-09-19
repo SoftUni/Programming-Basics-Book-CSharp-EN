@@ -27,20 +27,20 @@
 * [11. Хитрости и хакове](Content/Chapter-11-tricks-and-hacks/overview.md)
 * [Заключение](Content/Conclusion/overview.md)
 
-Настоящата книга е достъпна на няколко езика за програмиране (на български език):
+Настоящата книга е достъпна в няколко варианта с различни езици за програмиране:
 * [Основи на програмирането със C#](https://csharp-book.softuni.bg)
+* [Programming Basics with C# (English)](https://csharp-book.softuni.org)
 * [Основи на програмирането с Java](https://java-book.softuni.bg)
 * [Основи на програмирането с JavaScript](https://js-book.softuni.bg)
 * [Основи на програмирането с Python](https://python-book.softuni.bg)
 * [Основи на програмирането със C++](https://cpp-book.softuni.bg)
 * [Основи на програмирането с PHP](https://php-book.softuni.bg)
-* [Основи на програмирането с Ruby](https://ruby-book.softuni.bg)
 
 Кратка информация за изданието:
 * Заглавие: **Основи на програмирането със C#**
 * Автори: **Светлин Наков и колектив**
 * ISBN: **TODO**
-* Издание: **Faber Publishing, София, юли 2017 г.**
+* Издание: **Faber Publishing, София, 2018 г.**
 * Лиценз: **CC-BY-NC-SA**
 * Сорс код: https://github.com/SoftUni/Programming-Basics-Book-CSharp-EN
 
