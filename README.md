@@ -1,47 +1,46 @@
-# "Programming Basics" Book \(with C\#\)
+# "Programming Basics" Book (with C#)
 
-Книгата "**Основи на програмирането със C#**" запознава читателите с писането на **програмен код** на начално ниво (работа с данни, проверки, цикли и методи) с езика **C\#**.
+The book "**Programming Basics with C#**" introduces the readers to writing **programming code** at beginner level (variables and data, conditional statements, loops and methods) using the **C#** language.
 
-<a href="https://github.com/SoftUni/Programming-Basics-Book-CSharp-BG/blob/master/resources/Programming-Basics-CSharp-v2017.pdf">
-<img src="/assets/CSharp-Programming-Basics-Book-Cover.png" alt="Книга основи на програмирането със C# - корица" class="readme-book-cover-image" /></a>
+<img src = "/assets/CSharp-Programming-Basics-Book-Cover.png" alt = "Programming Basics with C# - book cover" readme-book-cover-image />
 
-* [Предговор](Content/Preface/overview.md)
-* [1. Първи стъпки в програмирането](Content/Chapter-1-first-steps-in-programming/overview.md)
-* [2.1. Прости пресмятания](Content/Chapter-2-1-simple-calculations/overview.md)
-* [2.2. Прости пресмятания – изпитни задачи](Content/Chapter-2-2-simple-calculations-exam-problems/overview.md)
-* [3.1. Прости проверки](Content/Chapter-3-1-simple-conditions/overview.md)
-* [3.2. Прости проверки – изпитни задачи](Content/Chapter-3-2-simple-conditions-exam-problems/overview.md)
-* [4.1. По-сложни проверки](Content/Chapter-4-1-complex-conditions/overview.md)
-* [4.2. По-сложни проверки – изпитни задачи](Content/Chapter-4-2-complex-conditions-exam-problems/overview.md)
-* [5.1. Повторения \(цикли\)](Content/Chapter-5-1-loops/overview.md)
-* [5.2. Цикли – изпитни задачи](Content/Chapter-5-2-loops-exam-problems/overview.md)
-* [6.1. Вложени цикли](Content/Chapter-6-1-nested-loops/overview.md)
-* [6.2. Вложени цикли – изпитни задачи](Content/Chapter-6-2-nested-loops-exam-problems/overview.md)
-* [7.1. По-сложни цикли](Content/Chapter-7-1-complex-loops/overview.md)
-* [7.2. По-сложни цикли – изпитни задачи](Content/Chapter-7-2-complex-loops-exam-problems/overview.md)
-* [8.1. Подготовка за практически изпит – част I](Content/Chapter-8-1-exam-preparation/overview.md)
-* [8.2. Подготовка за практически изпит – част II](Content/Chapter-8-2-exam-preparation-part-2/overview.md)
-* [9.1. Задачи за шампиони – част I](Content/Chapter-9-1-problems-for-champions/overview.md)
-* [9.2. Задачи за шампиони – част II](Content/Chapter-9-2-problems-for-champions-part-2/overview.md)
-* [10. Методи](Content/Chapter-10-methods/overview.md)
-* [11. Хитрости и хакове](Content/Chapter-11-tricks-and-hacks/overview.md)
-* [Заключение](Content/Conclusion/overview.md)
+ * [Preface] (Content/Preface/overview.md)
+ * [1. First Steps in Programming] (Content/Chapter-1-first-steps-in-programming/overview.md)
+ * [2.1. Simple Calculations] (Content/Chapter-2-1-simple-calculations/overview.md)
+ * [2.2. Simple Calculations - Exam Problems] (Content/Chapter-2-2-simple-calculations-exam-problems/overview.md)
+ * [3.1. Simple Conditions] (Content/Chapter-3-1-simple-conditions/overview.md)
+ * [3.2. Simple Conditions - Exam Problems] (Content/Chapter-3-2-simple-conditions-exam-problems/overview.md)
+ * [4.1. More Complex Conditions] (Content/Chapter-4-1-complex-conditions/overview.md)
+ * [4.2. More Complex Conditions - Exam Problems] (Content/Chapter-4-2-complex-conditions-exam-problems/overview.md)
+ * [5.1. Repetitions (Loops)] (Content/Chapter-5-1-loops/overview.md)
+ * [5.2. Loops - Exam Problems] (Content/Chapter-5-2-loops-exam-problems/overview.md)
+ * [6.1. Nested Loops] (Content/Chapter-6-1-nested-loops/overview.md)
+ * [6.2. Nested Loops - Exam Problems] (Content/Chapter-6-2-nested-loops-exam-problems/overview.md)
+ * [7.1. More Complex Loops] (Content/Chapter-7-1-complex-loops/overview.md)
+ * [7.2. More Complex Loops - Exam Problems] (Content/Chapter-7-2-complex-loops-exam-problems/overview.md)
+ * [8.1. Practical Exam Preparations - Part I] (Content/Chapter-8-1-exam-preparation/overview.md)
+ * [8.2. Practical Exam Preparations - Part II] (Content/Chapter-8-2-exam-preparation-part-2/overview.md)
+ * [9.1. Problems for Champions - Part I] (Content/Chapter-9-1-problems-for-champions/overview.md)
+ * [9.2. Problems for Champions - Part II] (Content/Chapter-9-2-problems-for-champions-part-2/overview.md)
+ * [10. Methods] (Content/Chapter-10-methods/overview.md)
+ * [11. Tricks and Hacks] (Content/Chapter-11-tricks-and-hacks/overview.md)
+ * [Conclusion] (Content/Conclusion/overview.md)
 
-Настоящата книга е достъпна в няколко варианта с различни езици за програмиране:
-* [Основи на програмирането със C#](https://csharp-book.softuni.bg)
-* [Programming Basics with C# (English)](https://csharp-book.softuni.org)
-* [Основи на програмирането с Java](https://java-book.softuni.bg)
-* [Основи на програмирането с JavaScript](https://js-book.softuni.bg)
-* [Основи на програмирането с Python](https://python-book.softuni.bg)
-* [Основи на програмирането със C++](https://cpp-book.softuni.bg)
-* [Основи на програмирането с PHP](https://php-book.softuni.bg)
+This book is available in several variants in different programming languages:
+ * [Programming Basics with C# (Bulgarian)] (https://csharp-book.softuni.bg)
+ * [Programming Basics with C# (English)] (https://csharp-book.softuni.org)
+ * [Programming Basics with Java (Bulgarian)] (https://java-book.softuni.bg)
+ * [Programming Basics with JavaScript (English)] (https://js-book.softuni.bg)
+ * [Programming Basics with Python (Bulgarian)] (https://python-book.softuni.bg)
+ * [Programming Basics with C++ (Bulgarian)] (https://cpp-book.softuni.bg)
+ * [Programming Basics with PHP (Bulgarian)] (https://php-book.softuni.bg)
 
-Кратка информация за изданието:
-* Заглавие: **Основи на програмирането със C#**
-* Автори: **Светлин Наков и колектив**
-* ISBN: **TODO**
-* Издание: **Faber Publishing, София, 2018 г.**
-* Лиценз: **CC-BY-NC-SA**
-* Сорс код: https://github.com/SoftUni/Programming-Basics-Book-CSharp-EN
+Brief information about this edition:
+ * Title: **Programming Basics with C#**
+ * Authors: **Svetlin Nakov & Team**
+ * ISBN: **TODO**
+ * Edition: **Faber Publishing, Sofia, 2018**
+ * License: **CC-BY-NC-SA**
+ * Source code: https://github.com/SoftUni/Programming-Basics-Book-CSharp-EN
 
-Приятно четене и не забравяйте да се запишете на [**практическия безплатен курс "Основи на програмирането"**](https://softuni.bg/apply) към тази книга, защото програмирането се учи с практика, писане на код и решаване на много, много задачи, а не само с четене!
+Have a nice reading and do not forget to **sign-up** for the [**Practical Free Course "Programming Basics"**] (https://softuni.bg/apply) comming tegether with this book because **programming is learned with practice**, code writing and solving of many, many problems, not just by reading!
