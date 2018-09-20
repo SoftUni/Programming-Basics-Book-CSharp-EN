@@ -1,8 +1,8 @@
-### Задача: поздрав по име
+### Problem: поздрав по име
 
 Да се напише програма, която **чете от конзолата име на човек** и отпечатва **`Hello, <name>!`**, където **<name>** е въведеното преди това име.
 
-#### Насоки и подсказки
+#### Hints and Guidelines
 
 Първо създаваме **нов C# конзолен проект** с име "Greeting" в решението "Simple-Calculations":
 
@@ -16,6 +16,6 @@
 
 ![](/assets/chapter-2-images/03.Greeting-by-name-03.png)
 
-#### Тестване в Judge системата
+#### Testing in the Judge System
 
 Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/504#2](https://judge.softuni.bg/Contests/Practice/Index/504#2).

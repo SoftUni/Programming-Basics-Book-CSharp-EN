@@ -1,4 +1,4 @@
-#### Насоки и подсказки
+#### Hints and Guidelines
 
 Първо сумираме трите числа, за да получим общия резултат в секунди. Понеже **1 минута = 60** секунди, ще трябва да изчислим броя минути и броя секунди в диапазона от 0 до 59:
 - Ако резултатът е между 0 и 59, отпечатваме 0 минути + изчислените секунди.
@@ -8,6 +8,6 @@
 
 ![](/assets/chapter-3-images/07.Sum-seconds-01.png)
 
-#### Тестване в Judge системата
+#### Testing in the Judge System
 
 Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/506#6](https://judge.softuni.bg/Contests/Practice/Index/506#6).

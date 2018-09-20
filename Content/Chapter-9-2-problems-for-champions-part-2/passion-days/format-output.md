@@ -1,4 +1,4 @@
-#### Форматиране на изхода
+#### Formatting the Output
 
 В края на задачата трябва да **принтираме** определен **изход**, в зависимост от следното условие:
 
@@ -9,6 +9,6 @@
 
 Как можем да направим това? Ще оставим отговора на този въпрос на читателя.
 
-### Тестване в Judge системата
+### Testing in the Judge System
 
 Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/519#0](https://judge.softuni.bg/Contests/Practice/Index/519#0).

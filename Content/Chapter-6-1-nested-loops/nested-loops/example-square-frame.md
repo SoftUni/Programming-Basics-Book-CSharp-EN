@@ -1,16 +1,16 @@
-### Пример: квадратна рамка
+### Example: квадратна рамка
 
 Да се напише програма, която въвежда цяло положително число **n** и чертае на конзолата **квадратна рамка** с размер **n \* n**.
 
-|Вход|Изход|Вход|Изход|
-|---|---|---|---|
+| Input | Output | Input | Output |
+| --- | --- | --- | --- |
 |3|<code>+ - +</code><br><code>&#124; - &#124;</code><br><code>+ - +</code>|4|<code>+ - - +</code><br><code>&#124; - - &#124;</code><br><code>&#124; - - &#124;</code><br><code>+ - - +</code>|
 
-|Вход|Изход|Вход|Изход|
-|---|---|---|---|
+| Input | Output | Input | Output |
+| --- | --- | --- | --- |
 |5|<code>+ - - - +</code><br><code>&#124; - - - &#124;</code><br><code>&#124; - - - &#124;</code><br><code>&#124; - - - &#124;</code><br><code>+ - - - +</code>|6|<code>+ - - - - +</code><br><code>&#124; - - - - &#124;</code><br><code>&#124; - - - - &#124;</code><br><code>&#124; - - - - &#124;</code><br><code>&#124; - - - - &#124;</code><br><code>+ - - - - +</code>|
 
-#### Насоки и подсказки
+#### Hints and Guidelines
 
 Можем да решим задачата по следния начин:
 * Четем от конзолата числото **`n`**.
@@ -22,6 +22,6 @@
 
 ![](/assets/chapter-6-images/05.Square-frame-01.png)
 
-#### Тестване в Judge системата
+#### Testing in the Judge System
 
 Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/512#4](https://judge.softuni.bg/Contests/Practice/Index/512#4).

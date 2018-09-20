@@ -1,4 +1,4 @@
-### Пример: сумиране на цифрите на число
+### Example: сумиране на цифрите на число
 
 Да се сумират цифрите на цяло **положително** число **n**. Например, ако **n = 5634**, то резултатът ще бъде: 5 + 6 + 3 + 4 = **18**.
 
@@ -19,6 +19,6 @@
 <code><strong>n / 10</strong></code>: <b>изтрива</b> последната цифра на <code><strong>n</strong></code>.</td>
 </tr></table>
 
-#### Тестване в Judge системата
+#### Testing in the Judge System
 
 Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/514#8](https://judge.softuni.bg/Contests/Practice/Index/514#8).

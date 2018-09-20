@@ -4,6 +4,6 @@
 
 **Hint**: Обмислете използването на функцията **`Math.Abs(…)`** при отпечатване на изхода, когато наследството е недостатъчно.
 
-### Тестване в Judge системата
+### Testing in the Judge System
 
 Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/511#2](https://judge.softuni.bg/Contests/Practice/Index/511#2).

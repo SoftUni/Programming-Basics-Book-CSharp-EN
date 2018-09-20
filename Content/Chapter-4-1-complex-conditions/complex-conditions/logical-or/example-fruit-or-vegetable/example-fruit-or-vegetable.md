@@ -1,9 +1,9 @@
-### Пример: плод или зеленчук
+### Example: плод или зеленчук
 
 Нека проверим дали даден **продукт** е **плод** или **зеленчук**. Плодовете "**fruit**" са **banana**, **apple**, **kiwi**, **cherry**, **lemon** и **grapes**. Зеленчуците "**vegetable**" са **tomato**, **cucumber**, **pepper** и **carrot**. Всички останали са "**unknown**".
 
-#### Примерен вход и изход
+#### Sample Input and Output
 
-|Вход|Изход|
+| Input | Output |
 |----|----|
 |banana<br>tomato<br>java|fruit<br>vegetable<br>unknown|

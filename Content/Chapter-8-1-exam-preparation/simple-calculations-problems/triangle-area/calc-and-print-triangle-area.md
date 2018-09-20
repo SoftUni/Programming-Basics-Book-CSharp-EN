@@ -8,6 +8,6 @@
 
 ![](/assets/chapter-8-1-images/01.Triangle-area-06.png)
 
-#### Тестване в Judge системата
+#### Testing in the Judge System
 
 Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/516#0](https://judge.softuni.bg/Contests/Practice/Index/516#0).

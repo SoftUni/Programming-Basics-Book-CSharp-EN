@@ -10,6 +10,6 @@
 
 ![](/assets/chapter-6-2-images/01.Draw-fort-07.png)
 
-### Тестване в Judge системата
+### Testing in the Judge System
 
 Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/513#0](https://judge.softuni.bg/Contests/Practice/Index/513#0).

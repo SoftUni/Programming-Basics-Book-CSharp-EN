@@ -1,4 +1,4 @@
-### Пример: лице на правоъгълник в равнината
+### Example: лице на правоъгълник в равнината
 
 Правоъгълник е зададен с **координатите на два от своите два срещуположни ъгъла**. Да се пресметнат **площта и периметъра** му:
 
@@ -26,6 +26,6 @@ Console.WriteLine("Perimeter = " + 2 * (width + height));
 
 ![](/assets/chapter-2-images/00.Rectangle-area-02.jpg)
 
-#### Тестване в Judge системата
+#### Testing in the Judge System
 
 Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/504#6](https://judge.softuni.bg/Contests/Practice/Index/504#6).

@@ -8,6 +8,6 @@
 
 ![](/assets/chapter-8-1-images/08.Increasing-numbers-04.png)
 
-#### Тестване в Judge системата
+#### Testing in the Judge System
 
 Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/516#7](https://judge.softuni.bg/Contests/Practice/Index/516#7).

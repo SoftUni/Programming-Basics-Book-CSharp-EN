@@ -1,4 +1,4 @@
-### Пример: най-голям общ делител (НОД)
+### Example: най-голям общ делител (НОД)
 
 Да се въведат **цели** числа **a** и **b** и да се намери **НОД(a, b)**.
 
@@ -14,6 +14,6 @@
 
 ![](/assets/chapter-7-images/07.GCD-01.png)
 
-#### Тестване в Judge системата
+#### Testing in the Judge System
 
 Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/514#6](https://judge.softuni.bg/Contests/Practice/Index/514#6).

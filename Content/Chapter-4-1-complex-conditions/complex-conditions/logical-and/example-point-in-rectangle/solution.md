@@ -1,4 +1,4 @@
-#### Решение
+#### Solution
 
 Една точка е вътрешна за даден многоъгълник, ако **едновременно** са изпълнени следните четири условия:
 
@@ -9,6 +9,6 @@
 
 ![](/assets/chapter-4-images/03.Point-in-rectangle-03.PNG)
 
-#### Тестване в Judge системата
+#### Testing in the Judge System
 
 Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/508#2](https://judge.softuni.bg/Contests/Practice/Index/508#2).

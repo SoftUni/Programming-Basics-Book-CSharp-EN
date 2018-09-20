@@ -8,6 +8,6 @@
 
 Повече за условния оператор: [https://www.dotnetperls.com/ternary](https://www.dotnetperls.com/ternary), [https://msdn.microsoft.com/en-us/library/ty67wk28.aspx](https://msdn.microsoft.com/en-us/library/ty67wk28.aspx). 
 
-### Тестване в Judge системата
+### Testing in the Judge System
 
 Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/511#1](https://judge.softuni.bg/Contests/Practice/Index/511#1).

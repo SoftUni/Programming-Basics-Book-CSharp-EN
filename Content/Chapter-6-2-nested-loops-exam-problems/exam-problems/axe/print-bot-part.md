@@ -8,6 +8,6 @@
 
 ![](/assets/chapter-6-2-images/05.Axe-06.png)
 
-### Тестване в Judge системата
+### Testing in the Judge System
 
 Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/513#4](https://judge.softuni.bg/Contests/Practice/Index/513#4).

@@ -8,6 +8,6 @@
 
 ![](/assets/chapter-8-1-images/03.Point-on-segment-08.png)
 
-#### Тестване в Judge системата
+#### Testing in the Judge System
 
 Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/516#2](https://judge.softuni.bg/Contests/Practice/Index/516#2).

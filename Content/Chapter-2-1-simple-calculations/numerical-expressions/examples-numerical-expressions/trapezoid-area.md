@@ -1,4 +1,4 @@
-### Пример: изчисляване на лице на трапец
+### Example: изчисляване на лице на трапец
 
 Да напишем програма, която въвежда дължините на двете основи на трапец и неговата височина (по едно дробно число на ред) и пресмята **лицето на трапеца** по стандартната математическа формула:
 
@@ -18,6 +18,6 @@ Console.WriteLine("Trapezoid area = " + area);
 Trapezoid area = 17.5
 ```
 
-#### Тестване в Judge системата
+#### Testing in the Judge System
 
 Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/504#4](https://judge.softuni.bg/Contests/Practice/Index/504#4).

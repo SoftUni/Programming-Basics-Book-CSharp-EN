@@ -4,6 +4,6 @@
 
 ![](/assets/chapter-3-2-images/01.Transport-price-06.png)
 
-### Тестване в Judge системата
+### Testing in the Judge System
 
 Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/507#0](https://judge.softuni.bg/Contests/Practice/Index/507#0).

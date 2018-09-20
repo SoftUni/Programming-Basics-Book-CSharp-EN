@@ -1,16 +1,16 @@
-### Пример: знак на цяло число
+### Example: знак на цяло число
 
 Да се създаде метод, който печата знака на цяло число n.
 
-#### Примерен вход и изход
+#### Sample Input and Output
 
-|Вход|Изход|
-|---|---|
+| Input | Output |
+| --- | --- |
 |2|The number 2 is positive.|
 |-5|The number -5 is negative.|
 |0|The number 0 is zero.|
 
-#### Насоки и подсказки
+#### Hints and Guidelines
 
 Първата ни стъпка е **създаването** на метод и даването му на описателно име, например **`PrintSign`**. Този метод ще има само един параметър от тип **`int`**. 
 
@@ -22,6 +22,6 @@
 
 ![](/assets/chapter-10-images/06.Print-sign-02.png)
 
-#### Тестване в Judge системата
+#### Testing in the Judge System
 
 Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/594#1](https://judge.softuni.bg/Contests/Practice/Index/594#1).

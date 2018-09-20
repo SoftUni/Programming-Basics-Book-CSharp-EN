@@ -1,4 +1,4 @@
-#### Насоки и подсказки
+#### Hints and Guidelines
 
 Можем да решим задачата за сумиране на числа по следния начин:
  - Четем входното число **`n`**.
@@ -10,6 +10,6 @@
 
 ![](/assets/chapter-5-images/04.Sum-numbers-01.png)
 
-#### Тестване в Judge системата
+#### Testing in the Judge System
 
 Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/510#3](https://judge.softuni.bg/Contests/Practice/Index/510#3).

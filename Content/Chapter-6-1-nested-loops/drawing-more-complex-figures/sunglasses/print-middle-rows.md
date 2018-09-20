@@ -4,6 +4,6 @@
 
 ![](/assets/chapter-6-images/08.Sunglasses-02.png)
 
-#### Тестване в Judge системата
+#### Testing in the Judge System
 
 Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/512#7](https://judge.softuni.bg/Contests/Practice/Index/512#7).

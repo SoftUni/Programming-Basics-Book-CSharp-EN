@@ -1,15 +1,15 @@
-### Пример: правоъгълник от N x N звездички
+### Example: правоъгълник от N x N звездички
 
 Да се напише програма, която въвежда цяло положително число **n** и печата на конзолата **правоъгълник от N x N звездички**.
 
-|Вход|Изход|Вход|Изход|Вход|Изход|
-|---|---|---|---|---|---|
+| Input | Output | Input | Output | Input | Output |
+| --- | --- | --- | --- | --- | --- |
 |2|<code>\*\*</code><br><code>\*\*</code>|3|<code>\*\*\*</code><br><code>\*\*\*</code><br><code>\*\*\*</code>|4|<code>\*\*\*\*</code><br><code>\*\*\*\*</code><br><code>\*\*\*\*</code><br><code>\*\*\*\*</code>|
 
-#### Насоки и подсказки
+#### Hints and Guidelines
 
 ![](/assets/chapter-6-images/02.Rectangle-of-N-x-N-stars-01.png)
 
-#### Тестване в Judge системата
+#### Testing in the Judge System
 
 Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/512#1](https://judge.softuni.bg/Contests/Practice/Index/512#1).

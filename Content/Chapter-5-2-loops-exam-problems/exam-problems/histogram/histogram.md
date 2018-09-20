@@ -1,4 +1,4 @@
-## Задача: хистограма
+## Problem: хистограма
 	
 Дадени са **n цели числа** в интервала [**1 … 1000**]. От тях някакъв процент **p1** са под 200, процент __p2__ са от 200 до 399, процент **p3** са от 400 до 599, процент **p4** са от 600 до 799 и останалите **p5** процента са от 800 нагоре. Да се напише програма, която изчислява и отпечатва процентите **p1**, **p2**, **p3**, **p4** и **p5**.
 
@@ -12,23 +12,23 @@
 | 600 … 799   | 680, 600, 799                                   | 3              | p4 = 3 / 20 * 100 = 15.00%      |
 | ≥ 800       | 920, 800                                        | 2              | p5 = 2 / 20 * 100 = 10.00%      |
 
-### Входни данни
+### Input Data
 
 На първия ред от входа стои цялото число **n** (1 ≤ **n** ≤ 1000), което представлява броя редове с числа, които ще ни бъдат подадени. На следващите **n реда** стои **по едно цяло число** в интервала [**1 … 1000**] – числата, върху които да бъде изчислена хистограмата.
 
-### Изходни данни
+### Output Data
 
 Да се отпечата на конзолата **хистограма от 5 реда**, всеки от които съдържа число между 0% и 100%, форматирано с точност две цифри след десетичния знак (например 25.00%, 66.67%, 57.14%).
 
-### Примерен вход и изход
+### Sample Input and Output
 
 <table>
 <thead>
 <tr>
-<th align="left"><strong>Вход</strong></th>
-<th align="left"><strong>Изход</strong></th>
-<th align="left"><strong>Вход</strong></th>
-<th align="left"><strong>Изход</strong></th>
+<th align="left"><strong>Input</strong></th>
+<th align="left"><strong>Output</strong></th>
+<th align="left"><strong>Input</strong></th>
+<th align="left"><strong>Output</strong></th>
 </tr>
 </thead>
 <tbody>
@@ -44,10 +44,10 @@
 <table>
 <thead>
 <tr>
-<th align="left"><strong>Вход</strong></th>
-<th align="left"><strong>Изход</strong></th>
-<th align="left"><strong>Вход</strong></th>
-<th align="left"><strong>Изход</strong></th>
+<th align="left"><strong>Input</strong></th>
+<th align="left"><strong>Output</strong></th>
+<th align="left"><strong>Input</strong></th>
+<th align="left"><strong>Output</strong></th>
 </tr>
 </thead>
 <tbody>
@@ -63,8 +63,8 @@
 <table>
 <thead>
 <tr>
-<th align="left"><strong>Вход</strong></th>
-<th align="left"><strong>Изход</strong></th>
+<th align="left"><strong>Input</strong></th>
+<th align="left"><strong>Output</strong></th>
 </tr>
 </thead>
 <tbody>

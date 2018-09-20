@@ -12,6 +12,6 @@
    
 ![](/assets/chapter-6-2-images/04.Arrow-09.png)
 
-### Тестване в Judge системата
+### Testing in the Judge System
 
 Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/513#3](https://judge.softuni.bg/Contests/Practice/Index/513#3).

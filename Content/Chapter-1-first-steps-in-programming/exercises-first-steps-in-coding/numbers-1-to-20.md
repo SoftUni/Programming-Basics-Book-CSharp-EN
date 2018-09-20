@@ -1,8 +1,8 @@
-### Задача: числата от 1 до 20
+### Problem: числата от 1 до 20
 
 Да се напише C# конзолна програма, която **отпечатва числата от 1 до 20** на отделни редове на конзолата.
 
-#### Насоки и подсказки
+#### Hints and Guidelines
 
 Създаваме **конзолно C# приложение** с име “**Nums1To20**“:
 
@@ -20,7 +20,7 @@
 20
 ```
 
-#### Тестване в Judge системата
+#### Testing in the Judge System
 
 Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/503#2](https://judge.softuni.bg/Contests/Practice/Index/503#2).
 

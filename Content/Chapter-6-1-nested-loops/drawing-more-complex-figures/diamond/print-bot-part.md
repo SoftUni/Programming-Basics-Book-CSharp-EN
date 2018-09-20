@@ -10,6 +10,6 @@
 
 Ако сме написали всичко коректно, задачата ни е решена.
 
-#### Тестване в Judge системата
+#### Testing in the Judge System
 
 Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/512#9](https://judge.softuni.bg/Contests/Practice/Index/512#9).

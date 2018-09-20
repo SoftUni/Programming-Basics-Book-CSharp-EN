@@ -5,6 +5,6 @@
 ![](/assets/chapter-7-exam-preparation-images/01.stupid-password-generator-2.png)
 
 
-### Тестване в Judge системата
+### Testing in the Judge System
 
 Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/515#0](https://judge.softuni.bg/Contests/Practice/Index/515#0).

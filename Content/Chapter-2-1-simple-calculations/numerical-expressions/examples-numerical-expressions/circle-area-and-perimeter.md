@@ -1,4 +1,4 @@
-### Пример: периметър и лице на кръг 
+### Example: периметър и лице на кръг 
 
 Нека напишем програма, която при въвеждане **радиуса r** на кръг **изчислява лицето и периметъра** на кръга / окръжността.
 
@@ -19,6 +19,6 @@ Console.WriteLine("Perimeter = " + 2 * Math.PI * r);
 
 ![](/assets/chapter-2-images/00.Circle-area-01.jpg)
 
-#### Тестване в Judge системата
+#### Testing in the Judge System
 
 Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/504#5](https://judge.softuni.bg/Contests/Practice/Index/504#5).

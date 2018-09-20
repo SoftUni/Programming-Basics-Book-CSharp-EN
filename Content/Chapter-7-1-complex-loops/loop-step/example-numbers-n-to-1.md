@@ -1,4 +1,4 @@
-### Пример: числата от N до 1 в обратен ред
+### Example: числата от N до 1 в обратен ред
 
 Да се напише програма, която отпечатва числата **от n до 1 в обратен ред** (стъпка -1). Например, **ако n = 100**, то резултатът ще е: **100, 99, 98, …, 3, 2, 1**.
 
@@ -12,6 +12,6 @@
 
 ![](/assets/chapter-7-images/02.Numbers-n-to-1-01.png)
 
-#### Тестване в Judge системата
+#### Testing in the Judge System
 
 Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/514#1](https://judge.softuni.bg/Contests/Practice/Index/514#1).

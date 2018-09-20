@@ -1,4 +1,4 @@
-### Пример: изчисляване на факториел
+### Example: изчисляване на факториел
 
 За естествено число **n** да се изчисли **n! = 1 \* 2 \* 3 \* … \* n**. Например, ако **n = 5**, то резултатът ще бъде: **5!** = 1 \* 2 \* 3 \* 4 \* 5 = **120**.
 
@@ -14,6 +14,6 @@
 
 ![](/assets/chapter-7-images/08.Factorial-01.png)
 
-#### Тестване в Judge системата
+#### Testing in the Judge System
 
 Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/514#7](https://judge.softuni.bg/Contests/Practice/Index/514#7).

@@ -8,6 +8,6 @@
 
 Остава **да си сглобим цялата програма** като първо четем входа, печатаме горната част на диаманта и след него и долната част на диаманта.
 
-#### Тестване в Judge системата
+#### Testing in the Judge System
 
 Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/516#8](https://judge.softuni.bg/Contests/Practice/Index/516#8).

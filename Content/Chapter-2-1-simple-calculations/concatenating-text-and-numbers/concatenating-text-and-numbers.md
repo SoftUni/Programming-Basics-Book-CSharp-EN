@@ -10,9 +10,7 @@ var str = firstName + " " + lastName + " @ " + age;
 Console.WriteLine(str);  // Maria Ivanova @ 19
 ```
 
-Ето още един пример:
-
-```csharp
+Ето още един Example:```csharp
 var a = 1.5;
 var b = 2.5;
 var sum = "The sum is: " + a + b;

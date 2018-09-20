@@ -1,10 +1,10 @@
-### Задача: еднакви думи
+### Problem: еднакви думи
 
 Да се напише програма, която **въвежда две думи** и проверява дали са еднакви. Да не се прави разлика между главни и малки букви. Да се изведе “**yes**” или “**no**”. 
 
-#### Примерен вход и изход
+#### Sample Input and Output
 
-| Вход | Изход |
+| Input | Output |
 | --- | ---- |
 | Hello<br>Hello | yes |
 | SoftUni<br>softuni | yes |
@@ -12,10 +12,10 @@
 | beer<br>vodka | no |
 | HeLlO<br>hELLo | yes |
 
-#### Насоки и подсказки
+#### Hints and Guidelines
 
 Преди сравняване на думите, ги обърнете в долен регистър, за да не оказва влияние размера на буквите (главни/малки): **`word = word.ToLower()`**.
 
-#### Тестване в Judge системата
+#### Testing in the Judge System
 
 Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/506#10](https://judge.softuni.bg/Contests/Practice/Index/506#10).

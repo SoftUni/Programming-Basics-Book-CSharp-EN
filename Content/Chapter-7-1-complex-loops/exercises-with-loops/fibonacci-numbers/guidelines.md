@@ -1,4 +1,4 @@
-#### Насоки и подсказки
+#### Hints and Guidelines
 
 Идея за решаване на задачата:
 
@@ -15,6 +15,6 @@
 
 ![](/assets/chapter-7-images/12.Fibonacci-01.png)
 
-#### Тестване в Judge системата
+#### Testing in the Judge System
 
 Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/514#13](https://judge.softuni.bg/Contests/Practice/Index/514#13).

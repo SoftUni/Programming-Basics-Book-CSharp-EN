@@ -1,4 +1,4 @@
-### Пример: поздрав по име
+### Example: поздрав по име
 
 Да напишем програма, която въвежда името на потребителя и го поздравява с текста "**Hello, *име***".
 
@@ -11,6 +11,6 @@ Console.WriteLine("Hello, {0}!", name);
 
 ![](/assets/chapter-2-images/00.Greeting-by-name-01.jpg)
 
-#### Тестване в Judge системата
+#### Testing in the Judge System
 
 Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/504#2](https://judge.softuni.bg/Contests/Practice/Index/504#2).

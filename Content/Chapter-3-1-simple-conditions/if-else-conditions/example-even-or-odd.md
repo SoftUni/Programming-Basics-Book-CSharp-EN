@@ -1,4 +1,4 @@
-### Пример: четно или нечетно
+### Example: четно или нечетно
 
 Да се напише програма, която проверява, дали дадено цяло число е **четно** (even) или **нечетно** (odd).
 
@@ -6,6 +6,6 @@
 
 ![](/assets/chapter-3-images/03.Even-or-odd-02.png)
 
-#### Тестване в Judge системата
+#### Testing in the Judge System
 
 Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/506#2](https://judge.softuni.bg/Contests/Practice/Index/506#2).

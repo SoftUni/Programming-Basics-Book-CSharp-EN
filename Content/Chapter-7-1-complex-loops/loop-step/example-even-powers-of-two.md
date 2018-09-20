@@ -1,4 +1,4 @@
-### Пример: четни степени на 2
+### Example: четни степени на 2
 
 Да се отпечатат **четните** степени на **2** до **2^n**: **2^0, 2^2, 2^4, 2^8, …, 2^n**. Например, ако **n = 10**, то резултатът ще е **1, 4, 16, 64, 256, 1024**.
 
@@ -10,6 +10,6 @@
 
 ![](/assets/chapter-7-images/04.Even^2-01.png)
 
-#### Тестване в Judge системата
+#### Testing in the Judge System
 
 Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/514#3](https://judge.softuni.bg/Contests/Practice/Index/514#3).

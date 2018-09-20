@@ -1,4 +1,4 @@
-### Пример: по-голямото число
+### Example: по-голямото число
 
 Да се напише програма, която чете две цели числа и извежда по-голямото от тях.
 
@@ -6,6 +6,6 @@
 
 ![](/assets/chapter-3-images/04.Greater-number-02.png)
 
-#### Тестване в Judge системата
+#### Testing in the Judge System
 
 Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/506#3](https://judge.softuni.bg/Contests/Practice/Index/506#3).

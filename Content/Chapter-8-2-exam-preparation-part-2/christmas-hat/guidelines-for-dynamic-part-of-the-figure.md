@@ -17,6 +17,6 @@
 
 В случай че сме работили правилно получаваме фигурки, идентични на тези от примерите.
 
-### Тестване в Judge системата
+### Testing in the Judge System
 
 Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/517#4](https://judge.softuni.bg/Contests/Practice/Index/517#4).

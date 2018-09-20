@@ -1,7 +1,7 @@
-## Линк към файла
+## Link to the File
 
-## Описание
+## Description
 
-## Текущ текст
+## Current (Wrong) Text
 
-## Текст след поправката
+## Corrected (New) Text

@@ -8,6 +8,6 @@
 
 Ако всичко сме написали както трябва, задачата ни е решена.
 
-#### Тестване в Judge системата
+#### Testing in the Judge System
 
 Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/512#8](https://judge.softuni.bg/Contests/Practice/Index/512#8).

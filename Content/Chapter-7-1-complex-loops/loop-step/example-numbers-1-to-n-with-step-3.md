@@ -1,4 +1,4 @@
-### Пример: числата от 1 до N през 3
+### Example: числата от 1 до N през 3
 
 Да се напише програма, която отпечатва числата **от 1 до n** със **стъпка 3**. Например, **ако n = 100**, то резултатът ще е: **1, 4, 7, 10, …, 94, 97, 100**.
 
@@ -10,6 +10,6 @@
   
 ![](/assets/chapter-7-images/01.Numbers-1-to-n-01.png)
 
-#### Тестване в Judge системата
+#### Testing in the Judge System
 
 Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/514#0](https://judge.softuni.bg/Contests/Practice/Index/514#0).

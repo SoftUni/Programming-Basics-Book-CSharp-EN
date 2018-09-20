@@ -1,6 +1,6 @@
-### Примерен вход и изход
+### Sample Input and Output
 
-| Вход   | Изход | Чертеж |
+| Input   | Output | Чертеж |
 |---------|-------|--------|
 |15<br>8.9  |129  | ![](/assets/chapter-2-2-images/01.Training-lab-01.png)       | 
 |8.4<br>5.2 |39    | ![](/assets/chapter-2-2-images/01.Training-lab-02.png)        |

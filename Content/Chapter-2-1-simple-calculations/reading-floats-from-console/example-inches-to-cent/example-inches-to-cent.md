@@ -1,4 +1,4 @@
-### Пример: прехвърляне от инчове в сантиметри
+### Example: прехвърляне от инчове в сантиметри
 
 Да напишем програма, която чете дробно число в инчове и го обръща в сантиметри:
 
@@ -14,6 +14,6 @@ Console.WriteLine(centimeters);
 
 ![](/assets/chapter-2-images/00.Inches-to-centimeters-01.jpg)
 
-#### Тестване в Judge системата
+#### Testing in the Judge System
 
 Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/504#1](https://judge.softuni.bg/Contests/Practice/Index/504#1).

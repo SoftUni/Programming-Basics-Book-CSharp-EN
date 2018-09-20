@@ -1,4 +1,4 @@
-#### Решение 
+#### Solution 
 
 Време е да пристъпим към решението. Мислено можем да го разделим на три подзадачи: 
 * **Прочитане на входните данни**.
@@ -17,6 +17,6 @@
 
 ![](/assets/chapter-2-2-images/02.Vegetable-market-03.png)
 
-### Тестване в Judge системата
+### Testing in the Judge System
 
 Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/505#1](https://judge.softuni.bg/Contests/Practice/Index/505#1).

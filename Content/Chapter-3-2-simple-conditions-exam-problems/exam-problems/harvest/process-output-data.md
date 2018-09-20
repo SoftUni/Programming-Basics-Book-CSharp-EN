@@ -12,6 +12,6 @@
 
 ![](/assets/chapter-3-2-images/04.Harvest-04.png)
 
-### Тестване в Judge системата
+### Testing in the Judge System
 
 Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/507#3](https://judge.softuni.bg/Contests/Practice/Index/507#3).

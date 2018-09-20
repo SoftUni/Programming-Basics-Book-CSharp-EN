@@ -1,4 +1,4 @@
-## Какво научихме от тази глава?
+## What We Learned in This Chapter?
 
 Запознахме се с конструктора **`new string`**:
 

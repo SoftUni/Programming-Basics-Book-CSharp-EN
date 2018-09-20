@@ -26,6 +26,4 @@
 </tr>
 </table>
 
-Ето един пример:
-
-![](/assets/chapter-3-images/00.Comparing-numbers-02.png)
+Ето един Example:![](/assets/chapter-3-images/00.Comparing-numbers-02.png)

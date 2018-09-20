@@ -1,4 +1,4 @@
-### Задача: лица на фигури
+### Problem: лица на фигури
 
 Да се напише програма, която **въвежда размерите на геометрична фигура** и **пресмята лицето й**. Фигурите са четири вида: квадрат (**square**), правоъгълник (**rectangle**), кръг (**circle**) и триъгълник (**triangle**).
 
@@ -10,15 +10,15 @@
 
 Резултатът да се закръгли до **3 цифри след десетичния знак**. 
 
-#### Примерен вход и изход
+#### Sample Input and Output
 
-| Вход | Изход |
+| Input | Output |
 | --- | ---- |
 | square<br>5 | 25 |
 | rectangle<br>7<br>2.5 | 17.5 |
 | circle<br>6 | 113.097 |
 | triangle<br>4.5<br>20 | 45 |
 
-#### Тестване в Judge системата
+#### Testing in the Judge System
 
 Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/506#12](https://judge.softuni.bg/Contests/Practice/Index/506#12).

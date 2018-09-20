@@ -1,4 +1,4 @@
-### Пример: редица числа 2k+1
+### Example: редица числа 2k+1
 
 Да се напише програма, която отпечатва всички **числа ≤ n** от редицата: **1, 3, 7, 15, 31, …**, като приемем, че всяко следващо число = **предишно число \* 2 + 1**.
 
@@ -12,6 +12,6 @@
 
 ![](/assets/chapter-7-images/05.Numbers-2k+1-01.png)
  
-#### Тестване в Judge системата
+#### Testing in the Judge System
 
 Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/514#4](https://judge.softuni.bg/Contests/Practice/Index/514#4).

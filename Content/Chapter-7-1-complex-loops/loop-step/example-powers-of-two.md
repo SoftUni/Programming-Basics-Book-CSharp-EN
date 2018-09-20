@@ -1,4 +1,4 @@
-### Пример: числата от 1 до 2^n с for цикъл
+### Example: числата от 1 до 2^n с for цикъл
 
 В следващия пример ще разгледаме ползването на обичайната стъпка с размер 1.
 
@@ -6,6 +6,6 @@
 
 ![](/assets/chapter-7-images/03.Numbers-1-tо-2^n-01.png)
 
-#### Тестване в Judge системата
+#### Testing in the Judge System
 
 Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/514#2](https://judge.softuni.bg/Contests/Practice/Index/514#2).
