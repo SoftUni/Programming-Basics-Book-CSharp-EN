@@ -8,7 +8,7 @@
     ],
     "pluginsConfig": {
         "ga": {
-            "token": "TODO"
+            "token": "UA-11309924-26"
         },
         "meta": {
             "name": "google-site-verification",
