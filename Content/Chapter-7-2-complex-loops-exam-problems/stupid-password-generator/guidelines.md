@@ -1,7 +1,7 @@
-### Hints and Guidelines
+﻿### Hints and Guidelines
 
-Решението на задачата можем да разделим мислено на три час¬ти:
+We can split the solution of the problem into 3 parts:
 
-* **Прочитане на входните данни** – в настоящата задача това включва прочитането на две числа **`n`** и **`l`**, всяко на отделен ред.
-* **Обработка на входните данни** – използване на вложени цикли за преминаване през всеки възможен символ за всеки от петте символа на паролата.
-* **Извеждане на резултат** – отпечатване на всяка "тъпа" парола, която отговаря на условията.
+* **Read input** – in the current problem this includes reading two numbers **`n`** and **`l`**, each on a single line.
+* **Processing input data** – using of nested loops to iterate through every possible symbol for each of the five password symbols.
+* **Output** – printing every "dumb" password that meets the  requirements.
