@@ -1,17 +1,18 @@
-#### Знаете ли, че…?
+﻿#### Did you know that…?
 
-* Можем да **дефинираме `for`** цикъл с променлива от тип **`char`**:
+* We can **define  `for`** loop with variable of type **`char`**:
+
 
 ![](/assets/chapter-7-exam-preparation-images/01.stupid-password-generator-3.png)
 
-* Можем да **прочетем** променлива от тип **`char`** от конзолата със следната конструкция:
+* We can **read** variable of type ** `char` ** from the console with the following structure:
 
 ![](/assets/chapter-7-exam-preparation-images/01.stupid-password-generator-4.png)
     
-* Можем да обърнем **главен** символ **към малък**, използвайки вградена функция в C#:
+* We can convert a **Capital** char **into small**, using a built-in C # function:
     
 ![](/assets/chapter-7-exam-preparation-images/01.stupid-password-generator-5.png)
     
-* При прочит на символи от конзолата, директно можем да преобразуваме главни към малки букви, **обединявайки горните два реда**:
+* By reading the chars from the console, we can directly convert upper to lowercase letters, ** by combining the above two lines **:
 
 ![](/assets/chapter-7-exam-preparation-images/01.stupid-password-generator-6.png)
