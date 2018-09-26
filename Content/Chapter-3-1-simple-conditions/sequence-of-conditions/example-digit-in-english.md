@@ -26,7 +26,7 @@ else
 }
 ```
 
-The program logic from the above example **sequentially compares** the input digit from the console with the numbers from 1 to 9, as **each sequent comparison being performed only if the previous comparison is not true**. Eventually, if none of the **`if`** conditions are not executed, the last **`else`** **clause`** is.
+The program logic from the above example **sequentially compares** the input number from the console with the digits from 1 to 9, when **each sequent comparison is being performed only in case the previous comparison is not true**. Ultimately, if none of the **`if`** conditions are not executed, the last **`else`** **clause`** is.
 
 #### Testing in the Judge System
 
