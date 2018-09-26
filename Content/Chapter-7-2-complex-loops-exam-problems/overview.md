@@ -1,9 +1,16 @@
-# Chapter 7.2. По-сложни цикли – изпитни задачи
+﻿# Chapter 7.2.Complex loops - exam problems
 
-Вече **научихме** как може да изпълним даден **блок от команди повече от веднъж** използвайки **`for`** цикъл. В предходната глава **разгледахме** още няколко **циклични конструкции**, които биха ни помогнали при решаването на по-сложни проблеми, а именно:
-- **цикли със стъпка**
-- **вложени** цикли
-- **`while`** цикли
-- **`do-while`** цикли
-- **безкрайни** цикли и излизане от цикъл (**`break`** оператор)
-- конструкцията **`try-catch`**
+We have already learned **how to execute a** block of commands **more than once** using a **for** loop. In the previous chapter **we reviewed some** **loop structures** that would help us solve more complex problems:
+
+- **loops with step**
+
+- **nested** loops
+
+- **`while`** loops
+
+- **`do-while`** loop
+
+- **Infinite** loops and breaking out of loop (**`break`** operator)
+
+- **`try-catch`** construction
+
