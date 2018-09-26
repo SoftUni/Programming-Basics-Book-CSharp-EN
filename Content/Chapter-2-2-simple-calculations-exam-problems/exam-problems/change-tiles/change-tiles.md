@@ -1,24 +1,24 @@
-## Problem: ремонт на плочки
+## Problem: Change Tiles
 
-На площадката пред жилищен блок трябва **да се поставят плочки**. Площадката е с форма **на квадрат със страна N метра**. Плочките са **широки „W“ метра** и **дълги „L“ метра**. На площадката има една пейка с **ширина M метра и дължина O метра**. Под нея не е нужно да се слагат плочки. Всяка плочка се поставя за **0.2 минути**.
+**The tiles** on the ground in front of an apartment building **need changing**. The ground has a **square shape with side N metres**. The tiles are **wide "W" metres** and **long "L" metres**. There is one bench on the ground with **width M metres and length O metres**. The tiles under it are not necessary to be replaced. Each tile is replaced for **0.2 minutes**.
 
-Напишете програма, която **чете от конзолата размерите** на **площадката, плочките и пейката** и пресмята **колко плочки са необходими** да се покрие площадката и пресмята **времето за поставяне на всички плочки**.
+Write a program that **reads the size of the ground, the tiles and the bench from the console**, and calculates how many tiles are necessary to cover the ground and **the total time for replacing the tiles**. 
 
-**Example: площадка с размер 20 м.** има **площ 400 кв.м.**. **Пейка**, широка **1 м.** и дълга **2 м.**, заема площ **2 кв.м.** Една **плочка** е **широка 5 м.** и **дълга 4 м.** и има **площ = 20 кв.м.** **Площта**, която трябва да се покрие, е **400 – 2 = 398 кв.м.** Необходими са **398 / 20 = 19.90 плочки**. Необходимото **време** е **19.90 * 0.2 = 3.98 минути.**
+**Example: ground with size 20 m.** has **аrea 400 sq.m.**. **A bench** that is **1 m.** wide and **2 m.** long, has area of **2 sq.m.**. **One tile** is **5 m. wide, 4 m. long** and has **area of 20 sq.m.**. The space that needs to be covered is **400 – 2 = 398 sq.m.**. **398 / 20 = 19.90 tiles** are necessary. The **time** needed is **19.90 * 0.2 = 3.98 minutes.******
 
 ### Input Data
 
-От конзолата се четат **5 числа**:
+**5 numbers** are read from the console: 
 
-* **N – дължината** на **страна** от **площадката** в интервала [**1 … 100**].
-* **W – широчината** на една **плочка** в интервала [**0.1 … 10.00**].
-* **L – дължината** на една **плочка** в интервала [**0.1 … 10.00**].
-* **М – широчината** на **пейката** в интервала [**0 … 10**].
-* **О – дължината** на **пейката** в интервала [**0 … 10**].
+* **N – length** of **a size** from **the ground** in the range [**1 … 100**].
+* **W – width** per **tile** in the range [**0.1 … 10.00**].
+* **L – length** per **tile** in the range [**0.1 … 10.00**].
+* **М – width** of **the bench** in the range [**0 … 10**].
+* **О – length** of **the bench** in the range [**0 … 10**].
 
 ### Output Data
 
-Да се отпечатат на конзолата **две числа**: **броя плочки**, необходим за ремонта и **времето за поставяне**, всяко на нов ред.
+Print on the console **two numbers**: **number of necessary tiles** for the repair and the **total time for changing them**, each on a new line.
 
 ### Sample Input and Output
 
@@ -26,14 +26,14 @@
 |---------------|------------|
 |20<br>5<br>4<br>1<br>2|19.9<br>3.98| 
 
-**Обяснение към примера:**
+**Explanation of the example:**
 
-* **Обща площ** = 20 \* 20 = 400.
-* **Площ на пейката** = 1 \* 2 = 2.
-* **Площ за покриване** = 400 – 2 = 398.
-* **Площ на плочки** = 5 \* 4 = 20.
-* **Необходими плочки** = 398 \/ 20 = 19.9.
-* **Необходимо време** = 19.9 \* 0.2 = 3.98.
+* **Total area** = 20 \* 20 = 400.
+* **Area of the bench** = 1 \* 2 = 2.
+* **Area for covering** = 400 – 2 = 398.
+* **Area of tiles** = 5 \* 4 = 20.
+* **Necessary tiles** = 398 \/ 20 = 19.9.
+* **Necessary time** = 19.9 \* 0.2 = 3.98.
 
 | Input    | Output            |
 |-----------|--------------------|

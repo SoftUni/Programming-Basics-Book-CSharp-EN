@@ -1,12 +1,12 @@
 ### Sample Input and Output
 
-| Input   | Output | Чертеж |
+| Input   | Output | Figure |
 |---------|-------|--------|
 |15<br>8.9  |129  | ![](/assets/chapter-2-2-images/01.Training-lab-01.png)       | 
 |8.4<br>5.2 |39    | ![](/assets/chapter-2-2-images/01.Training-lab-02.png)        |
 
-#### Пояснения към примерите
+#### Clarification of the examples:
 
-В първия пример залата е дълга 1500 cm. В нея могат да бъдат разположени **12 реда** (12 \* 120 cm = 1440 + 60 cm остатък). Залата е широка 890 cm. От тях 100 cm отиват за коридора в средата. В останалите 790 cm могат да се разположат по **11 бюра на ред** (11 \* 70 cm = 770 cm + 20 cm остатък). **Брой места = 12 * 11 - 3** = 132 - 3 = **129** (имаме 12 реда по 11 места = 132 минус 3 места за катедра и входна врата).
+In the first example, the hall length is 1500 cm. **12 rows** can be situated in it (12 * 120 cm = 1440 + 60 cm difference). The hall width is 890 cm. 100 cm from them are for the hallway in the middle. The rest 790 cm can be situated by **11 desks per row** (11 * 70 cm = 770 cm + 20 cm difference). **Number of places = 12 * 11 - 3** = 132 - 3 = **129** (we have 12 rows with 11 working places = 132 minus 3 places for podium and entrance door).
 
-Във втория пример залата е дълга 840 cm. В нея могат да бъдат разположени **7 реда** (7 \* 120 cm = 840, без остатък). Залата е широка 520 cm. От тях 100 cm отиват за коридора в средата. В останалите 420 cm могат да се разположат по **6 бюра на ред** (6 \* 70 cm = 420 cm, без остатък). **Брой места = 7 * 6 - 3** = 42 - 3 = **39** (имаме 7 реда по 6 места = 42 минус 3 места за катедра и входна врата).
+In the second example, the hall length is 840 cm. **7 rows** can be situated in it (7 * 120 cm = 840, no difference). The hall width is 520 cm. 100 cm from them are for the hallway in the middle. The rest 420 cm can be situated by **6 desks per row** (6 * 70 cm = 420 cm, no difference). **Number of places = 7 * 6 - 3** = 42 - 3 = **39** (we have 7 rows with 6 working places = 42 minus 3 places for podium and entrance door).

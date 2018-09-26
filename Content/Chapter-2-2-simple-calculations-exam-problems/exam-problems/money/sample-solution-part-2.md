@@ -1,15 +1,15 @@
-#### Solution - част II
+#### Solution - part II
 
-В условието на задачата не е зададено специално форматиране или закръгляне на резултата, следователно трябва просто да изчислим изхода и да го отпечатаме на конзолата. 
+The task does not specify special string formatting or rounding the result, therefore, we just have to calculate the output and print it on the console.
 
 ![](/assets/chapter-2-2-images/04.Money-04.png)
 
-Нека обърнем внимание на нещо, което важи за всички задачи от този тип: разписано по този начин, решението на задачата е доста подробно. Тъй като условието като цяло не е сложно, бихме могли на теория да напишем един голям израз, в който директно след получаване на входните данни да сметнем изходната стойност. Напр., такъв израз би изглеждал ето така: 
+Let' s pay attention to something that applies to all other problems of this type: written like that, the solution of the task is pretty detailed. As the task itself is not too complex, in theory, we could write one big expression, where right after having received the input, we calculate the output. For example, such expression would look like this:
 
 ![](/assets/chapter-2-2-images/04.Money-05.png)
 
-Този код би дал правилен резултат, **но се чете трудно**. Няма да ни е лесно да разберем какво прави и дали съдържа грешки, както и как да поправим някоя такава. По-добра практика е **вместо един сложен израз да напишем няколко прости** и да запишем резултатите от тях в променливи със подходящи имена. Така кодът е ясен и по-лесно променяем. 
+This code would print a correct result, but it is **hard to read**. It won't be easy to find out how it works and whether it contains any mistakes, as well as finding one and correcting it. **Instead of one complex expression, it is better to write a few simpler ones** and store their values in variables with appropriate names. This way, the code is more clean and easily maintainable.  
 
-### Testing in the Judge System
+### Test in the Judge system
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/505#3](https://judge.softuni.bg/Contests/Practice/Index/505#3).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/505#3](https://judge.softuni.bg/Contests/Practice/Index/505#3).

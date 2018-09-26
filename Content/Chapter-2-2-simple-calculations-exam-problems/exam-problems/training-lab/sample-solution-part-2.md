@@ -1,15 +1,15 @@
-#### Solution - част II
+#### Solution - part II
 
-Втори вариант: както вече знаем, операторът за деление **`/`** има различно действие върху цели и реални числа. **При деление на целочислен с целочислен тип** (напр. **`int`**), **върнатият резултат е отново целочислен**. Следователно можем да потърсим как да преобразуваме реалните числа, които имаме като стойности за височината и широчината, в цели числа и след това да извършим делението. 
+Second method: As we already know, the operator for division **`/`** operates differently on integers and decimals. **When dividing integer with integer, the result is also an integer**. Therefore, we can search how to convert the real numbers, which we have as values for the heigth and the width, into integers and then divide them. 
 
-Тъй като в този случай може да се получи **загуба на данни**, идваща от премахването на дробната част, е необходимо преобразуването да стане **изрично** (explicit typecasting). Използваме оператора за преобразуване на данни **`(type)`**, като заменяме думата **type** с необходимия **тип данни** и го поставяме **преди променливата**. (повече за преобразуването на типовете данни можете да прочетете на [Светлин Наков, Веселин Колев и колектив: "Въведение в програмирането със C#", стр. 153-157](http://www.introprogramming.info/intro-csharp-book/read-online/glava3-operatori-i-izrazi/#_Toc298863977)) 
+In this case, there could be **data loss** after having removed the fractional part, so it is necessary that it is converted **expressly** (explicit typecasting). We use the operator for converting data **`(type)`** by replacing the word **type** with the needed **data type** and place it **before the variable**. (you can learn more about data type conversion here [Svetlin Nakov, Veselin Kolev and team: "Programming Basics with C#", стр. 153-157](http://www.introprogramming.info/intro-csharp-book/read-online/glava3-operatori-i-izrazi/#_Toc298863977)) 
 
 ![](/assets/chapter-2-2-images/01.Training-lab-05.png)
 
-С **`Console.WriteLine(…)`** отпечатваме резултата на конзолата.
+With **`Console.WriteLine(…)`** we print the result on the console.
 
 ![](/assets/chapter-2-2-images/01.Training-lab-06.png)
 
-### Testing in the Judge System
+### Test in the Judge system
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/505#0](https://judge.softuni.bg/Contests/Practice/Index/505#0).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/505#0](https://judge.softuni.bg/Contests/Practice/Index/505#0).

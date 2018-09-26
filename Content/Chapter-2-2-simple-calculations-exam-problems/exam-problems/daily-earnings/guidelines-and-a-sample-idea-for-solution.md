@@ -1,7 +1,7 @@
 ### Hints and Guidelines
 
-Първо да анализираме задачата и да измислим как да я решим. След това ще изберем типовете данни и накрая ще напишем кода на решението.
+Firstly, we have to analyze the task and think of a way to solve it. Then, we will choose data types and, finally, we will write the code.
 
 #### Idea for Solution
 
-Нека първо пресметнем **колко е месечната заплата** на Иван. Това ще направим като **умножим работните дни в месеца по парите**, които той печели на ден. **Умножаваме получения резултат** първо по 12, за да изчислим колко е заплатата му за 12 месеца, а след това и **по 2.5**, за да пресметнем бонуса. Като съберем двете получени стойности, ще изчислим **общия му годишен доход**. От него **трябва да извадим 25%**. Това може да направим като умножим общия доход по **0.25** и извадим резултата от него. Спрямо дадения ни курс **преобразуваме доларите в лева**, след което **разделяме резултата на дните в годината**, за които приемаме, че са 365.     
+Let' s first calculate **how much the monthly salary** of Ivan is. We do that by **multiplying the working days per month by his daily earnings**. Firstly, we multiply the number by 12, so as to calculate his salary for 12 months, and then, we multiply it **by 2.5 ** in order to calculate the bonus. After having summed the two values, we calculate his **annual income**. Then, we **divide 25% of it**. We can do that by multiplying the total income by **0.25** and divide the result by it. Depending on the exchange rate, we **exchange the dollars to levs** and after that we **divide the result by 365 (days per year)**.  

@@ -1,3 +1,3 @@
 ## Exam Problems
 
-Сега, след като си припомнихме как се извършват пресмятания с числа и как се четат и печатат числа на конзолата, да минем към задачите. Ще решим няколко **задачи от приемен изпит** за кандидатстване в SoftUni.
+Now, after having revised how to make simple calculations and how to read and print numbers from the console, let' s go to the tasks. We will solve a few **problems from a SoftUni entrance exam**.

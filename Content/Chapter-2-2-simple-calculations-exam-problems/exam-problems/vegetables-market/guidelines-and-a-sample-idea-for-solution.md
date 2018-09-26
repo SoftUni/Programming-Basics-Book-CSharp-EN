@@ -1,7 +1,7 @@
 ### Hints and Guidelines
 
-Първо ще дадем няколко разсъждения, а след това и конкретни насоки за решаване на задачата, както и съществената част от кода.
+First, we will give a few ideas and particular hints for solving the problem, followed by the essential part of the code.  
 
 #### Idea for Solution
 
-Нека първо разгледаме зададеното ни условие. В случая, от нас се иска да пресметнем колко е **общият приход** от реколтата. Той е равен на **сбора от печалбата от плодовете и зеленчуците**, а тях можем да изчислим като умножим **цената на килограм по количеството им**. Входните данни са дадени в лева, а за изхода се изисква да бъде в евро. По условие 1 евро е равно на 1.94 лева, следователно за да получим исканата **изходна стойност, трябва да разделим сбора на 1.94**.
+Let' s first go through the problem requirements. In this case, we have to calculate the **total income** from the harvest. It equals **the sum of the earnings from the fruits and the vegetables** which we can calculate by multiplying **the price per kilogram by the quantity**. The input is received in lev and the output should be in euro. It is accepted that 1 euro equals 1.94 lev, therefore, in order to get the wanted **output value, we have to divide the sum by 1.94**.

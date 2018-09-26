@@ -1,30 +1,30 @@
-## Problem: дневна печалба
+## Problem: Daily Earnings
 
-Иван е програмист в **американска компания** и **работи** от вкъщи **средно N дни в месеца**, като изкарва **средно по M долара на ден**. В края на годината Иван **получава бонус**, който е **равен на 2.5 месечни заплати. От спечеленото през годината му се удържат 25% данъци**. Напишете програма, която да **пресмята колко е чистата средна печалба на Иван на ден в лева**, тъй като той харчи изкараното в България. Приема се, че **в годината има точно 365 дни. Курсът на долара** спрямо лева ще **се чете от конзолата**.
+Ivan is a programmer in an **American company** and he **works** at home **approximately N days per month** by earning **approximately M dollars per day**. At the end of the year, Ivan **receives a bonus**, which **equals 2.5 of his monthly salaries. 25% of his annual salary goes for taxes**. Write a program that calculates **how much are Ivan' s net average earnings in lev per day**, as he spends them in Bulgaria. It is accepted that **one year has exactly 365 days. The exchange rate of dollar** to lev will be **read from the console**. 
 
 ### Input Data
 
-От конзолата се четат **3 числа**: 
-* На първия ред – **работни дни в месеца**. Цяло число в интервала [**5 … 30**].
-* На втория ред – **изкарани пари на ден**. Реално число в интервала [**10.00 … 2000.00**].
-* На третия ред – **курсът на долара спрямо  лева** /1 долар = X лева/. Реално число в интервала [**0.99 … 1.99**].
+**Three numbers** are read from the console.
+* On the first line – **work days per month**. An integer in the range [**5 … 30**].
+* On the second line – **daily earnings**. A floating-point number in the range [**10.00 … 2000.00**].
+* On the third line – **exchange rate of dollar to lev** /1 dollar = X lev/. A floating-point number in the range [**0.99 … 1.99**].
 
 ### Output Data
 
-На конзолата **да се отпечата 1 число – средната печалба на ден в лева**. Резултатът да се **форматира до втората цифра след десетичния знак**.
+Print **one number** on the console - **the daily earnings in lev**. The result will be **rounded to the second decimal point**. 
 
-### Sample Input and Output
+### Examples
 
 | Input        | Output          |
 |---------------|------------------|
 |21<br>75.00<br>1.59|74.61| 
 
-**Обяснение**:
-* **1 месечна заплата** = 21 \* 75 = 1575 долара.
-* **Годишен доход** = 1575 \* 12 + 1575 \* 2.5 = 22837.5 долара.
-* **Данък** = 25% от 22837.5 = 5709.375 лева.
-* **Чист годишен доход** = 17128.125 долара = 27233.71875 лева.
-* **Средна печалба на ден** = 27233.71875 / 365 = 74.61 лева.
+**Explanation**:
+* **One monthly salary** = 21 \* 75 = 1575 dollars.
+* **Annual income** = 1575 \* 12 + 1575 \* 2.5 = 22837.5 dollars.
+* **Taxes** = 25% of 22837.5 = 5709.375 levs.
+* **Net annual income** = 17128.125 dollars = 27233.71875 levs.
+* **Average earnings per day** = 27233.71875 / 365 = 74.61 levs.
 
 | Input        | Output            | Input         | Output    |
 |-------------|------------------|-------------|------------------|

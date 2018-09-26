@@ -1,13 +1,13 @@
-## Problem: учебна зала
+## Problem: Training Lab
 
-**Учебна зала** има правоъгълен размер **l** на **w** метра, без колони във вътрешността си. Залата е разделена на две части – лява и дясна, с коридор - приблизително по средата. В лявата и в дясната част има **редици с бюра**. В задната част на залата има голяма **входна врата**. В предната част на залата има **катедра** с подиум за преподавателя. Едно **работно място** заема **70 на 120 cm** (маса с размер 70 на 40 cm + място за стол и преминаване с размер 70 на 80 cm). **Коридорът** е широк поне **100 cm**. Изчислено е, че заради **входната врата** (която е с отвор 160 cm) **се губи точно 1 работно място**, а заради **катедрата** (която е с размер 160 на 120 cm) се губят точно **2 работни места**. Напишете програма, която въвежда размери на учебната зала и изчислява **броя работни места в нея** при описаното разположение (вж. фигурата).
+**A training lab** has a rectangular size **l** to **w** meters, without columns on the inside. The hall is divided in two parts- left and right, with a hallway approximately in the middle. In both of the parts, there are **rows with desks**. In the back of the hall, there is a big **entrance door** and in the front, there is a **podium** for the lecturer. A single **working place** takes up **70 to 120 cm** (a table with size 70 to 40 cm + space for a chair with size 70 to 80 cm). **The hallway** width is at least **100 cm**. It is calculated that due to the **entrance door** (which is with 160 cm opening), **exactly one working space is lost**, and due to the **podium** (which is with size 160 to 120 cm), exactly **two working spaces** are lost. Write a program that receives the size of the training lab as input parameters and calculates the **number of working places in it **(look at the figure).
 
 ### Input Data
 
-От конзолата се четат **2 числа**, по едно на ред: **l** (дължина в метри) и **w** (широчина в метри).
+**Two numbers** are read from the console, one per line: **l** (length in meters) and **w** (width in meters).
 
-Ограничения: **3 ≤ w ≤ l ≤ 100**.
+Constraints: **3 ≤ w ≤ l ≤ 100.**
 
 ### Output Data
 
-Да се отпечата на конзолата едно цяло число: **броят места** в учебната зала.
+Print an integer: the **number of working places** in the training lab.
