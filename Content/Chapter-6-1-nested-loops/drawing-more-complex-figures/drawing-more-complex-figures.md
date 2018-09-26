@@ -1,3 +1,3 @@
-## Чертане на по-сложни фигури
+## Drawing more complex figures
 
-Да разгледаме как можем да чертаем на конзолата фигури с по-сложна логика на конструиране, за които трябва повече да помислим преди да почнем да пишем.
+Let's look at how to draw figures with more complex logic of construction in the console, for which we need to start thinking more before starting to write.

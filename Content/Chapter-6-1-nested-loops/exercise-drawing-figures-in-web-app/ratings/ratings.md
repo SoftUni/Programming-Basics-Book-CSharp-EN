@@ -1,5 +1,5 @@
-### Problem: рейтинги – визуализация в уеб среда
+### Problem: ratings – visualization in web environment
 
-Да се разработи ASP.NET MVC уеб приложение за визуализация на рейтинг (число от 0 до 100). Чертаят се от 1 до 10 звездички (с половинки). Звездичките да се генерират с **`for`** цикъл.
+Create an ASP.NET MVC web application for visualizing a rating (a number from 0 to 100). 1 to 10 stars should be drawn (with halves). The stars should be generated with a **`for`** loop.
 
 ![](/assets/chapter-6-images/11.Ratings-01.png)

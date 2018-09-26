@@ -1,28 +1,28 @@
-### Example: ромбче от звездички
+### Example: rhombus of stars
 
-Да се напише програма, която въвежда цяло положително число **n** и печата **ромбче от звездички** с размер **n**.
+Write a program, which takes a positive integer **n** and prints **a rhombus of stars** with size **n**.
 
-| Input | Output | Input | Output |
-| --- | --- | --- | --- |
+|Input|Output|Input|Output|
+|---|---|---|---|
 |1|<code>\*</code>|2|<code>&nbsp;\*&nbsp;</code><br><code>\*&nbsp;\*</code><br><code>&nbsp;\*&nbsp;</code><br>|
 
 
-| Input | Output | Input | Output |
-| --- | --- | --- | --- |
+|Input|Output|Input|Output|
+|---|---|---|---|
 |3|<code>&nbsp;&nbsp;\*&nbsp;&nbsp;</code><br><code>&nbsp;\*&nbsp;\*&nbsp;</code><br><code>\*&nbsp;\*&nbsp;\*</code><br><code>&nbsp;\*&nbsp;\*&nbsp;</code><br><code>&nbsp;&nbsp;\*&nbsp;&nbsp;</code>|4|<code>&nbsp;&nbsp;&nbsp;\*&nbsp;&nbsp;&nbsp;</code><br><code>&nbsp;&nbsp;\*&nbsp;\*&nbsp;&nbsp;</code><br><code>&nbsp;\*&nbsp;\*&nbsp;\*&nbsp;</code><br><code>\*&nbsp;\*&nbsp;\*&nbsp;\*</code><br><code>&nbsp;\*&nbsp;\*&nbsp;\*&nbsp;</code><br><code>&nbsp;&nbsp;\*&nbsp;\*&nbsp;&nbsp;</code><br><code>&nbsp;&nbsp;&nbsp;\*&nbsp;&nbsp;&nbsp;</code>|
 
-#### Hints and Guidelines
+#### Hints
 
-За решението на тази задача е нужно да **разделим** мислено **ромба** на **две части** - **горна**, която включва **и** средния ред, и **долна**. За **разпечатването** на всяка една част ще използваме **два** отделни цикъла, като оставяме на читателя сам да намери зависимостта между **`n`** и променливите на циклите. За първия цикъл може да използваме следните насоки:
+To solve this problem we need to mentally **divide** **the rhombus** into **two parts** - **upper**, which **also**includes the middle row, and **lower**. For **the printing** of each part we will use **two** separate loops, as we leave the reader to decide the dependency between **`n`** and the variables of the loops. For the first loop we can use the following tips:
 
-* Отпечатваме **`n-row`** интервала.
-* Отпечатваме **`*`**.
-* Отпечатваме **`row-1`** пъти **`*`**.
+* We print **`n-row`** white spaces.
+* We print **`*`**.
+* We print **`row-1`** times **`*`**.
 
-**Втората** (долна) част ще разпечатаме по **аналогичен** начин, което отново оставяме на читателя да се опита да направи сам.
+**The second** (lower) part will be printed **similarly**, which again we leave to the reader to do.
 
 ![](/assets/chapter-6-images/06.Rhombus-of-stars-01.png)
 
-#### Testing in the Judge System
+#### Testing in the Judge system
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/512#5](https://judge.softuni.bg/Contests/Practice/Index/512#5).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/512#5](https://judge.softuni.bg/Contests/Practice/Index/512#5).

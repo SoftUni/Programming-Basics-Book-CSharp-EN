@@ -1,9 +1,9 @@
-#### Добавяне на DrawRatings метода
+#### Adding the DrawRatings method
 
-Добавяме метод **`DrawRatings`** в контролера **`HomeController`**. Отваряме файла **`Controllers/HomeController.cs`** и добавяме следния код:
+Add a method **`DrawRatings`** in the controller **`HomeController`**. Open the file **`Controllers/HomeController.cs`** and add the following code:
 
 ![](/assets/chapter-6-images/11.Ratings-05.png)
 
-Горният код взима въведеното число **`rating`**, прави малко пресмятания и изчислява броя **пълни звездички**, броя **празни звездички** и броя **половинки звездички**, след което генерира HTML код, който нарежда няколко картинки със звездички една след друга, за да сглоби от тях картинката с рейтинга. Подготвеният HTML код се записва във **`ViewBag.Stars`** за визуализация от изгледа **`Index.cshtml`**. Допълнително се запазва и изпратеният рейтинг (като число) във **`ViewBag.Rating`**, за да се зададе в полето за рейтинг в изгледа. За да се ориентирате по-добре в проекта, може да си помогнете с картинката от Visual Studio по-долу:
+The above code takes the number **`rating`**, makes some calculations to find the number of **full stars**, the number of **empty stars** and the number of **half-full stars**, after which it generates an HTML code, which orders a few pictures of stars one after the other so that it can make the rating picture from them. The ready HTML code is written down in **`ViewBag.Stars`** to visualize the view **`Index.cshtml`**. Additionally the sent rating is kept (as a number) in **`ViewBag.Rating`**, so that it can be put in the field for rating in the view. In order to orientate yourself better, you can help yourself with the picture of Visual Studio below:
 
 ![](/assets/chapter-6-images/11.Ratings-06.png)

@@ -1,9 +1,9 @@
-#### Отпечатване на средните редове
+#### Printing the middle rows
 
-При печатането на **средната** част трябва да **проверим** дали редът е **`(n-1) / 2 - 1`**, тъй като от примерите е видно, че на **този ред** трябва да печатаме **вертикални чертички** вместо интервали.
+When drawing **the middle** part we need to **check** if the row is **`(n-1) / 2 - 1`**, because in the examples we can see that in **this row** we need to print **pipes** instead of white spaces.
 
 ![](/assets/chapter-6-images/08.Sunglasses-02.png)
 
-#### Testing in the Judge System
+#### Testing in the Judge system
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/512#7](https://judge.softuni.bg/Contests/Practice/Index/512#7).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/512#7](https://judge.softuni.bg/Contests/Practice/Index/512#7).

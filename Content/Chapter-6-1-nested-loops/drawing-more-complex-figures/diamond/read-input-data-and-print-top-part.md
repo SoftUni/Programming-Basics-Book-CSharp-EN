@@ -1,29 +1,29 @@
-#### Reading the Input Data и чертане на горната част на диаманта
+#### Reading the Input Data and drawing the upper part of the diamond
 
-Прочитаме стойността на **n** от конзолата и я записваме в променлива от тип **`int`**.  
+We read **n** from the console and we write it down in a variable of type **`int`**.  
 
 ![](/assets/chapter-6-images/10.Diamond-01.png)
 
-Започваме да чертаем горната част на диаманта. Първото нещо, което трябва да направим, е да изчислим началната стойност на външната бройка **тирета `leftRight`** (тиретата от външната част на **звездите**). Тя е равна на **`(n - 1) / 2`**, закръглено надолу.
+We start to draw the upper part of the diamond. The first thing we need to do is to calculate the number of the outer **dashes `leftRight`** (the dashes on the outer side of **the stars**). It is equal to **`(n - 1) / 2`**, rounded down.
 
 ![](/assets/chapter-6-images/10.Diamond-02.png)
 
-След като сме изчислили **`leftRight`**, започваме да чертаем **горната част** на диаманта. Може да започнем, като завъртим **цикъл** от **`0`** до **`n / 2 + 1`** (закръглено надолу).  
+After we have calculated **`leftRight`**, we start to draw **the upper part** of the diamond. We can start by making a **loop** from **`0`** to **`n / 2 + 1`** (rounded down).  
 
-При всяка итерация на цикъла трябва да се изпълнят следните стъпки:
-* Рисуваме по конзолата левите **тирета** (с дължина **`leftRight`**) и веднага след тях първата **звезда**.
+At each iteration of the loop the following steps must be taken:
+* We draw on the console the left **dashes** (with length **`leftRight`**) and right after them the first **star**.
 
 ![](/assets/chapter-6-images/10.Diamond-03.png)
 
-* Ще изчислим разстоянието между двете **звезди**. Може да го изчислим като извадим от **n** дължината на външните **тирета**, както и числото 2 (бройката на **звездите**, т.е. очертанията на диаманта). Резултата от тази разлика записваме в променлива **`mid`**. 
+* We will calculate the distance between the two **stars**. We can do this by subtracting from **n** the number of the outer **dashes**, and the number 2 (the number of **the stars**, i.e. the diamonds outline). The result of the subtraction we write down in a variable **`mid`**. 
 
 ![](/assets/chapter-6-images/10.Diamond-04.png)
 
-* Ако **`mid`** е по-малко от 0, то тогава знаем, че на реда трябва да има 1 звезда. Ако е по-голямо или равно на 0, то тогава трябва да начертаем **тирета** с дължина **`mid`** и една **звезда** след тях.
-* Рисуваме на конзолата десните външни **тирета** с дължина **`leftRight`**. 
+* If **`mid`** is lower than 0, we know that on the row there should be only 1 star. If it is higher or equal to 0 then we have to print **dashes** with length **`mid`** and one **star** after them.
+* We draw on the console the right outer **dashes** with length **`leftRight`**. 
 
 ![](/assets/chapter-6-images/10.Diamond-05.png)
 
-* В края на цикъла намаляваме **`leftRight`** с 1 (**звездите** се отдалечават).
+* In the end of the loop we decrease **`leftRight`** by 1 (**the stars** are moving away from each other).
 
-Готови сме с горната част.
+We are ready with the upper part.

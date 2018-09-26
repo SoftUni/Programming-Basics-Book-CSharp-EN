@@ -1,21 +1,21 @@
 #### Hints and Guidelines
 
-Разбираме от условието на задачата, че къщата е с размер **`n` x `n`**. Това, което виждаме от примерните вход и изход, е че:
+We take from the problem explanation that the house is with size of **`n` x `n`**. What we see from the example input and output is that:
 
-* Къщичката е разделена на 2 части: **покрив и основа**. 
+* The house is divided into two parts: **roof and base**. 
 
 ![](/assets/chapter-6-images/09.House-01.png)
 
-* Когато **`n`** е четно число, върхът на къщичката е "тъп".
-* Когато **`n`** е нечетно число, **покривът** е с един ред по-голям от **основата**.
+* When **`n`** is an even number, the point of the house is "dull".
+* When **`n`** is odd, **the roof** is one row larger than the **base**.
 
-##### Покрив
-* Съставен е от **звезди** и **тирета**.
-* В най-високата си част има една или две звезди, спрямо това дали **n** e четно или нечетно, както и тирета.
-* В най-ниската си част има много звезди и малко или никакви долни черти.
-* С всеки един ред по-надолу, **звездите** се увеличават с 2, а **тиретата** намаляват с 2.
+##### Roof
+* It is comprised of **stars** and **dashes**.
+* In the top part there are one or two stars, depending on if **n** is even or odd (also related to the dashes).
+* In the lowest part there are many stars and no dashes.
+* With each lower row, **the stars** increase by 2 and **the dashes** decrease by 2.
 
-##### Основа
-* Дълга е **`n`** на брой реда.
-* Съставена е от **звезди** и **тирета**.
-* Редовете представляват 2 **тирета** - по едно в началото и в края на реда, както и **звезди** между тиретата с дължина на низа **`n - 2`**.  
+##### Base
+* The height is **`n`** rows.
+* It is made out of **stars** and **pipes**.
+* Each row is comprised of 2 **pipes** - one in the beginning and one in the end of the row, and also **stars** between the pipes with string length of **`n - 2`**.  

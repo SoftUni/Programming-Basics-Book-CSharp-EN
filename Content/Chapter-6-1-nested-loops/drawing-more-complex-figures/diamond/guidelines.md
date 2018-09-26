@@ -1,21 +1,21 @@
 #### Hints and Guidelines
 
-Това, което знаем от условието на задачата, е че диамантът е с размер **`n` x `n`**.
+What we know from the problem explanation is that the diamond is with size **`n` x `n`**.
 
-От примерните вход и изход можем да си направим изводи, че всички редове съдържат точно по **`n`** символа и всички редове, с изключение на горните върхове, имат по **2 звезди**. Можем мислено да разделим диаманта на 2 части:
-* **Горна** част. Тя започва от горният връх до средата.
-* **Долна** част. Тя започва от реда след средата до най-долния връх (включително).
+From the example input and output we can conclude that all rows contain exactly **`n`** symbols and all the rows, with the exception of the top and bottom, have **2 stars**. We can mentally divide the diamond into 2 parts:
+* **Upper** part. It starts from the upper tip down to the middle.
+* **Lower** part. It starts from the row below the middle and goes down to the lower tip (inclusive).
 
-##### Горна част
-* Ако **n** е **нечетно**, то тя започва с **1 звезда**.
-* Ако **n** е **четно**, то тя започва с **2 звезди**.
-* С всеки ред надолу, звездите се отдалечават една от друга.
-* Пространството между, преди и след **звездите** е запълнено с **тирета**.
+##### Upper part
+* If **n** is **odd**, it starts with **1 star**.
+* If **n** is **even**, it starts with **2 stars**.
+* With each row down the stars get further away from each other.
+* The space between, before and after **the stars** is filled with **dashes**.
 
-##### Долна част
-* С всеки ред надолу, звездите се събират една с друга. Това означава, че пространството (**тиретата**) между тях намалява, а пространството (**тиретата**) отляво и отдясно се увеличава.
-* В най-долната си част е с 1 или 2 **звезди**, спрямо това дали **n** е четно или не.
+##### Lower part
+* With each row down the stars get closer to each other. This means that the space (**the dashes**) between them is getting smaller and the space (**the dashes**) in the left and in the right is getting larger.
+* The bottom-most part is with 1 or 2 **stars**, depending on if **n** is even or odd.
 
-##### Горна и долна част на диаманта
-* На всеки ред звездите са заобиколени от външни **тирета**, с изключение на средния ред.
-* На всеки ред има пространство между двете **звезди**, с изключение на първия и последния ред (понякога **звездата е 1**).
+##### Upper and lower parts of the diamond
+* On each row, except the middle row, the stars are surrounded by inner and outer **dashes**.
+* On each row there is space between the two **stars**, except on the first and the last row (sometimes **the star is 1**).

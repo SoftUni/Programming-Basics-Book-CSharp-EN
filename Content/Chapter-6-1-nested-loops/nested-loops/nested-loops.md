@@ -1,8 +1,8 @@
-## Вложени цикли
+## Nested loops
 
-Вложените цикли представляват конструкция, при която **в тялото на един цикъл** (външен) **се изпълнява друг цикъл** (вътрешен). За всяко завъртане на външния цикъл, вътрешният се извърта **целият**. Това се случва по следния начин:
+Nested loops are a construction where **in the body of one loop** (outer) **another loop is run** (inner). For each iteration of the outer loop, **the whole** of the inner loop is executed. This happens in the following way:
 
- - При стартиране на изпълнение на вложени цикли първо **стартира външният цикъл**: извършва се **инициализация** на неговата управляваща променлива и след проверка за край на цикъла, се изпълнява кодът в тялото му.
- - След това се **изпълнява вътрешният цикъл**. Извършва се инициализация на началната стойност на управляващата му променлива, прави се проверка за край на цикъла и се изпълнява кодът в тялото му.
- - При достигане на зададената стойност за **край на вътрешния цикъл**, програмата се връща една стъпка нагоре и се продължава започналото изпълнение предходния (външния) цикъл. Променя се с една стъпка управляващата променлива за външния цикъл, проверява се дали условието за край е удовлетворено и **започва ново изпълнение на вложения (вътрешния) цикъл**.
- - Това се повтаря докато променливата на външния цикъл достигне условието за **край на цикъла**.
+ - When nested loops start executing **the outer loop starts** first: the controlling variable is **initialized** and after a check for ending the loop the code in its body is executed.
+ - After this **the inner loop is executed**. The controlling variables start position is initialized, a check for ending the loop is made and the code in its body is executed.
+ - When reaching the set value for  **ending the loop**, the program goes back one step up and continues executing the previous (outer) loop. The controlling variable of the outer loop changes with one step, a check is made to see if the condition for ending the loop is met and **a new execution of the nested (inner) loop is started**.
+ - This is repeated until the variable of the outer loop meets the condition to **end the loop**.

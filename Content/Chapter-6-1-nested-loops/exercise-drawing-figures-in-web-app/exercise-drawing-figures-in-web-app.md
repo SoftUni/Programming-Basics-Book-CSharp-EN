@@ -1,5 +1,5 @@
-## Exercises: чертане на фигурки в уеб среда
+## Exercises: drawing figures in web environment
 
-Сега, след като свикнахме с **вложените цикли** и как да ги използваме, за да чертаем фигурки на конзолата, можем да се захванем с нещо още по-интересно: да видим как циклите могат да се използват за **чертане в уеб среда**. Ще направим уеб приложение, което визуализира числов рейтинг (число от 0 до 100) със звездички. Такава визуализация се среща често в сайтове за електронна търговия, ревюта на продукти, оценки на събития, рейтинг на приложения и други.
+Now that we got used to **nested loops** and how to use them to draw figures on the console, we can get ourselves into something even more interesting: we can see how loops can be used to **draw in web environment**. We will make a web application, which visualizes a number rating (a number from 0 to 100) with stars. This kind of visualization is common in e-commerce sites, reviews of products, event rating, rating of apps and others.
 
-Не се притеснявайте, ако не разберете целия код, как е точно е направен и как точно работи проектът. Нормално е, сега се учим да пишем код, не сме стигнали до технологиите за уеб разработка. Ако имате трудности да си напишете проекта, следвайки описаните стъпки, **гледайте видеото** от началото на тази глава или питайте в SoftUni форума: https://softuni.bg/forum.
+Don't worry if you don't understand all of the code, how exactly it is written and how the project works. It is normal, now we are learning to write code and we are a long way from the web development technologies. If you are struggling to write your project by following the steps, **watch the video** from the beginning of the chapter or ask in the SoftUni forum: https://softuni.bg/forum.

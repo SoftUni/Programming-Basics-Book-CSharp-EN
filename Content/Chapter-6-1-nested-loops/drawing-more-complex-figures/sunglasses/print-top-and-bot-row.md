@@ -1,7 +1,7 @@
-#### Отпечатване на горния и долния ред
+#### Printing the top and bottom rows
 
-От примерите виждаме, че очилата могат да се разделят на **три части** – горна, средна и долна. По-долу е част от кода, с който задачата може да се реши.
+From the examples we can see that the sunglasses can be divided into  **three parts** – upper, middle and lower. A part of the code with which the problem can be solved is given below.
 
-При рисуването на горния и долния ред трябва да се изпечатат **`2 * n`** звездички, **`n`** интервала и **`2 * n`** звездички.
+When drawing the upper and lower rows we need to print **`2 * n`** stars, **`n`** white spaces and **`2 * n`** stars.
 
 ![](/assets/chapter-6-images/08.Sunglasses-01.png)
