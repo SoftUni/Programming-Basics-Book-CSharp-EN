@@ -1,18 +1,18 @@
-## Сравняване на числа
+## Comparing numbers
 
-В програмирането можем да сравняваме стойности чрез следните **оператори**:
+In programming, we can compare values using the following **operators**:
 
-* Оператор **`<`** (по-малко)
-* Оператор **`>`** (по-голямо)
-* Оператор **`<=`** (по-малко или равно)
-* Оператор **`>=`** (по-голямо или равно)
-* Оператор **`==`** (равно)
-* Оператор **`!=`** (различно)
+* Operator **`<`** (less than)
+* Operator **`>`** (greater than)
+* Operator **`<=`** (less than or equals)
+* Operator **`>=`** (greater than or equals)
+* Operator **`==`** (equals)
+* Operator **`!=`** (inequals)
 
-При сравнение резултатът е булева стойност – **`true`** или **`false`**, в зависимост от това дали резултатът от сравнението е истина или лъжа.
+When compared the result is boolean value **true** or **false**, depending on whether the result of the comparison is true or false.
 
-### Exampleи за сравнение на числа
+### Examples of comparing numbers
 
 ![](assets/chapter-3-images/00.Comparing-numbers-01.png)
 
-Обърнете внимание, че при отпечатване на стойностите **`true`** и **`false`** в езика C#, те се отпечатват с главна буква, съответно **`True`** и **`False`**.
+Note that when printing the **true** and **false** values in C # language, they are printed with a capital letter, respectively **True** and **False**.

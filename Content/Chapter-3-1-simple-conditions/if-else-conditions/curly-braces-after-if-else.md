@@ -1,23 +1,23 @@
-### За къдравите скоби { } след if / else
+### For curly braces {} after if / other
 
-Когато имаме **само една команда** в тялото на **`if` конструкцията**, можем да **пропуснем къдравите скоби**, обозначаващи тялото на условния оператор. Когато искаме да изпълним **блок от код** (група команди), къдравите скоби са **задължителни**. В случай че ги изпуснем, ще се изпълни **само първият ред** след **`if` клаузата**.
+When we have **only one command** in the body of the ** if construction**, we can **skip the curly brackets**, indicating the conditional operator body. When we want to execute **block of code** (group of commands), curly brackets are **required**. In case we drop them, **only the first line**  after **if clause** will be executed.
 
 <table><tr><td><img src="/assets/alert-icon.png" style="max-width:50px" /></td>
-<td>Добра практика е, <strong>винаги да слагаме къдрави скоби</strong>, понеже това прави кода ни по-четим и по-подреден.</td>
+<td>It's a good practice to <strong>always put curly braces,</strong> because it makes our code more readable and clean.</td>
 </tr></table>
 
-Ето един пример, в който изпускането на къдравите скоби води до объркване:
+Here is an example where dropping curly braces leads to confusion:
 
 ![](/assets/chapter-3-images/00.Brackets-tip-01.png)
 
-Изпълнението на горния код ще изведе следния резултат на конзолата:
+Execute the above code will output the following console result:
 
 ![](/assets/chapter-3-images/00.Brackets-tip-03.png)
 
-С къдрави скоби:
+With curly braces:
 
 ![](/assets/chapter-3-images/00.Brackets-tip-02.png)
 
-На конзолата ще бъде отпечатано следното:
+The following output will be printed on the console:
 
 ![](/assets/chapter-3-images/00.Brackets-tip-04.png)

@@ -1,11 +1,11 @@
-### Example: по-голямото число
+### Example: the larger number
 
-Да се напише програма, която чете две цели числа и извежда по-голямото от тях.
+Write a program that reads from the console two integers and takes the larger of them.
 
-Първата ни задача е да **прочетем** двете числа. След което, чрез проста **`if-else`** конструкция, в съчетание с **оператора за по-голямо** (**`>`**), да направим проверка. Част от кода е замъглена умишлено, за да изпробваме наученото до момента.
-
+Our first task is to **read** the two numbers from the console. Then, with a simple **`if-else`** construction, combined with the **operator for greater than** (**`>`**), we do check. Part of the code is deliberately blurred to test what we have learned so far.
 ![](/assets/chapter-3-images/04.Greater-number-02.png)
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/506#3](https://judge.softuni.bg/Contests/Practice/Index/506#3).
+Test your solution from the example here:
+[https://judge.softuni.bg/Contests/Practice/Index/506#3](https://judge.softuni.bg/Contests/Practice/Index/506#3).
