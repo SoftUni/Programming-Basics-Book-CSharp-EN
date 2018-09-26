@@ -1,16 +1,16 @@
-#### Reading the Input Data и извършване на изчисленията
+#### Reading the Input Data and Doing the Calculations
 
-Отново: след като имаме идея как да решим задачата и сме помислили за типовете данни, с които ще работим, пристъпваме към **писането на програмата**. Както и в предходните задачи, можем да разделим решението на три подзадачи: 
-* **Прочитане на входните данни**.
-* **Извършване на изчисленията**.
-* **Извеждане на изход** на конзолата.
+Again: after we have an idea on how to solve the problem and we have considered the data types that we are going to use, we can start **writing the program**. As in the previous tasks, we can divide the solution into three smaller tasks: 
+* **Reading the input from the console**.
+* **Doing the calculations**.
+* **Printing the output** on the console.
 
-**Декларираме променливите**, които ще използваме, като отново се стараем да изберем **подходящи имена**. С **`Console.ReadLine(…)`** четем подадените числа на конзолата и **преобразуваме** въведения от потребителя стринг към **`int`** или **`double`** с **`int/double.Parse(…)`**. 
+**We declare the variables** that we are going to use by trying to choose **meaningful names**. With **`Console.ReadLine(…)`** we read the input numbers from the console and we **convert** the input string to **`int`** or **`double`** with **`int/double.Parse(…)`**.
 
-![](/assets/chapter-2-2-images/05.Daily-earnings-01.png)
+![](assets/chapter-2-2-images/05.Daily-earnings-01.png)
 
-Извършваме изчисленията: 
+We do the calculations:  
 
-![](/assets/chapter-2-2-images/05.Daily-earnings-02.png)
+![](assets/chapter-2-2-images/05.Daily-earnings-02.png)
 
-Бихме могли да напишем израза, с който пресмятаме общия годишен доход, и без скоби. Тъй като умножението е операция с по-висок приоритет от събирането, то ще се извърши първо. Въпреки това **писането на скоби се препоръчва, когато използваме повече оператори**, защото така кодът става **по-лесно четим** и възможността да се допусне грешка е по-малка. 
+We could write an expression that calculates the annual income without brackets as well. As multiplication is an operation that has a higher priority over addition, it will be performed first. Despite that, **writing brackets is recommended** when using more operators, as this way, the code is **easily readable** and chances of making a mistake are smaller. 

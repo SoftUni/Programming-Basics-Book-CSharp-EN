@@ -1,23 +1,23 @@
-## Problem: парички
+## Problem: Money
 
-Преди време **Пешо си е купил биткойни**. Сега ще ходи на екскурзия из Европа **и ще му трябва евро**. Освен биткойни има **и китайски юани**. Пешо иска **да обмени парите си в евро** за екскурзията. Напишете програма, която **да пресмята колко евро може да купи спрямо следните валутни курсове**:
-* **1 биткойн = 1168 лева.**
-* **1 китайски юан = 0.15 долара.**
-* **1 долар = 1.76 лева.**
-* **1 евро = 1.95 лева.**
+Some time ago, **Pesho bought himself bitcoins**. Now, he is going on a tour in Europe and **he needs euro**. Apart from bitcoins, he has **Chinese yuan** as well. Pesho wants to **exchange his money in euro** for the tour. Write a program that calculates **how much euro he can buy, depending on the following exchange rates**:  
+* **1 bitcoin = 1168 levs.**
+* **1 Chinese yuan = 0.15 dollars.**
+* **1 dollar = 1.76 levs.**
+* **1 euro = 1.95 levs.**
 
-Обменното бюро има **комисионна от 0 до 5 процента от крайната сума в евро**
+The exchange office has **commission from 0 to 5 percent from the final sum in euro**. 
 
 ### Input Data
 
-От конзолата се четат 3 числа:
-* На първия ред – **броят биткойни**. Цяло число в интервала [**0 … 20**].
-* На втория ред – **броят китайски юани**. Реално число в интервала [**0.00 … 50 000.00**].
-* На третия ред – **комисионната**. Реално число в интервала [**0.00 … 5.00**].
-
+Three numbers are read from the console: 
+* On the first line – **number of bitcoins**. Integer in the range [**0 … 20**].
+* On the second line – **number of Chinese yuan**. Floating-point number [**0.00 … 50 000.00**].
+* On the third line – **commission**. Floating-point number [**0.00 … 5.00**].
+* 
 ### Output Data
 
-На конзолата да се отпечата 1 число - **резултатът от обмяната на валутите**. Не е нужно резултатът да се закръгля.
+Print one number on the console - **the result of the exchange of the currencies**. Rounding is not necessary. 
 
 ### Sample Input and Output
 
@@ -25,13 +25,13 @@
 |---------------|------------|
 |1<br>5<br>5|569.668717948718| 
 
-**Обяснение**: 
-* 1 биткойн = 1168 лева
-* 5 юана = 0.75 долара 
-* 0.75 долара = 1.32 лева 
-* **1168 + 1.32 = 1169.32 лева = 599.651282051282 евро**
-* **Комисионна:** 5% от 599.651282051282 = **29.9825641025641** 
-* **Резултат**: 599.651282051282 - 29.9825641025641 = **569.668717948718 евро**
+**Explanation**: 
+* 1 bitcoin = 1168 levs
+* 5 Chinese yuan = 0.75 dollars 
+* 0.75 dollars = 1.32 levs 
+* **1168 + 1.32 = 1169.32 levs = 599.651282051282 euro**
+* **Commission:** 5% от 599.651282051282 = **29.9825641025641** 
+* **Result**: 599.651282051282 - 29.9825641025641 = **569.668717948718 euro**
 
 | Input        | Output            | Input         | Output            |
 |------------|------------------|--------------|------------------|

@@ -1,10 +1,10 @@
 #### Reading the Input Data
 
-Както и в предходните задачи, можем мислено да разделим решението на три части:
-* **Прочитане на входните данни**.
-* **Извършване на изчисленията**.
-* **Извеждане на изход** на конзолата.
+As in the previous tasks, we can divide the solution into three smaller tasks:
+* **Reading the input from the console**.
+* **Doing the calculations**.
+* **Printing the output** on the console.
 
-Първото, което трябва да направим, е да разгледаме **входните данни** на задачата. Важно е да внимаваме за последователността, в която са дадени. С **`Console.ReadLine(…)`** четем стойностите от конзолата, а с **`int.Parse(…)`** и **`double.Parse(…)`** преобразуваме зададената стрингова стойност, съответно в **`int`** и **`double`**.
+The first thing we have to do, is go through **the input** of the task. It is important to pay attention the the sequence they are given in. With **`Console.ReadLine(…)`** we read values from the console and with **`int.Parse(…)`** and **`double.Parse(…)`**, we convert the particular string value into **`int`** or **`double`**.
 
 ![](/assets/chapter-2-2-images/03.Change-tiles-02.png)
