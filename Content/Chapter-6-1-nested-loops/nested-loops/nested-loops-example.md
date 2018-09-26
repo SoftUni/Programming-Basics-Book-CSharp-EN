@@ -1,7 +1,7 @@
-### Вложени цикли - пример
+### Nested loops - example
 
-Ето и един **пример**, с който нагледно да илюстрираме вложените цикли. Целта е да се отпечата отново правоъгълник от **`n`** * **`n`** звездички, като за всеки ред се извърта цикъл от **1** до **`n`**, а за всяка колона се извърта вложен цикъл от **1** до **`n`**:
+Here is an **example**, which illustrates nested loops. The aim is again to print a rectangle made of **`n`** * **`n`** stars, in which for each row a loop iterates from **1** to **`n`**, and for each column a nested loop is executed from **1** to **`n`**:
 
 ![](/assets/chapter-6-images/00.Nested-loops-01.png)
 
-Да разгледаме примера по-горе. След инициализацията на **първия (външен) цикъл**, започва да се изпълнява неговото **тяло**, което съдържа **втория (вложен) цикъл**. Той сам по себе си печата на един ред **`n`** на брой звездички. След като **вътрешният** цикъл **приключи** изпълнението си при първата итерация на външния, то след това **външният ще продължи**, т.е. ще отпечата един празен ред на конзолата. **След това** ще се извърши **обновяване** на променливата на **първия** цикъл и отново ще бъде изпълнен целият **втори** цикъл. Вътрешният цикъл ще се изпълни толкова пъти, колкото се изпълнява тялото на външния цикъл, в случая **`n`** пъти.
+Let us look at the example above. After initializing **the first (outer) loop**, its **body**, which contains **the second (nested) loop** starts executing. By itself it prints on a row **`n`** number of stars. After **the inner** loop **finishes** executing at the first iteration of the outer, **the first loop will continue**, i.e. it will print an empty row in the console. **After this** the variable of **the first** loop will be **renewed** and the whole **second** loop will be executed again. The inner loop will execute as many times as the body of the outer loop executes, in this case **`n`** times.

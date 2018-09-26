@@ -1,12 +1,12 @@
-# Chapter 6.1. Вложени цикли
+# Chapter 6.1. Nested loops
 
-В настоящата глава ще разгледаме **вложените цикли** и как да използваме **`for`** цикли за **чертане** на различни **фигурки на конзолата**, които се състоят от символи и знаци, разположени в редове и колони на конзолата. Ще използваме **единични** и **вложени цикли** (цикли един в друг), **изчисления** и **проверки**, за да отпечатваме на конзолата прости и не чак толкова прости фигурки по зададени размери.
+In the current chapter we will be looking at **nested loops** and how to use **`for`** loops to **draw** different **figures on the console**, which contain symbols and signs, ordered in rows and columns in the console. We will use **single** and **nested loops** (loops, which are in other loops), **calculations** and **checks**, in order to print on the console simple and not so simple figures by previously given sizes.
 
 
 ## Video
 
 <div class="video-player">
-  Гледайте видео-урок по тази глава тук: <a target="\_blank"
+  Watch a video-lesson on this chapter here: <a target="\_blank"
   href="https://www.youtube.com/watch?v=x7zXRCpkebo">
   https://www.youtube.com/watch?v=x7zXRCpkebo</a>.
 </div>

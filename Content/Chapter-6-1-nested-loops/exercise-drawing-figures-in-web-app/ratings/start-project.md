@@ -1,7 +1,7 @@
-#### Стартиране на проекта
+#### Starting the project
 
-Стартираме проекта с [**Ctrl+F5**] и му се наслаждаваме:
+Start the project with [**Ctrl+F5**] and enjoy:
 
 ![](/assets/chapter-6-images/11.Ratings-09.png)
 
-Ако имате проблеми с примерния проект по-горе, **гледайте видеото** в началото на тази глава. Там приложението е направено на живо стъпка по стъпка с много обяснения. Или питайте във **форума на SoftUni**: https://softuni.bg/forum.
+If you have a problem with the example project above, **watch the video** in the beginning of the chapter. There the application is made live and step by step with much explanation. Or ask in **the SoftUni forum**: https://softuni.bg/forum.

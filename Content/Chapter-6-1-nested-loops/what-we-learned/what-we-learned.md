@@ -1,12 +1,12 @@
 ## What We Learned in This Chapter?
 
-Запознахме се с конструктора **`new string`**:
+We became acquainted with the constructor **`new string`**:
 
 ```csharp
 string printMe = new string('*', 5);
 ```
 
-Научихме се да чертаем фигури с вложени **`for`** цикли:
+We learned to draw figures with nested **`for`** loops:
 
 ```csharp
 for (var r = 1; r <= 5; r++)
