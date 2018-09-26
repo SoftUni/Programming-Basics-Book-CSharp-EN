@@ -1,19 +1,23 @@
-## Problem: генератор за тъпи пароли
+﻿## Problem: Dummy Passwords Generator
 
-Да се напише програма, която въвежда две цели числа **n** и **l** и генерира по азбучен ред всички възможни **"тъпи” пароли"**, които се състоят от следните **5 символа**:
--	Символ 1: цифра от **1** до **n**.
--	Символ 2: цифра от **1** до **n**.
--	Символ 3: малка буква измежду първите **l** букви на латинската азбука.
--	Символ 4: малка буква измежду първите **l** букви на латинската азбука.
--	Символ 5: цифра от **1** до **n, по-голяма от първите 2 цифри**.
+Write a program that enters two integers **n** and **l** and generates in alphabetical order all possible  **"dumb" passwords** that consist of the following **5 characters**:
+-	Character 1: digit from **1** to **n**.
+-	Character 2: digit from **1** to **n**.
+
+-	Character 3: small letter among the first **l** letters of the Latin alphabet.
+
+-	Character 4: small letter among the first **l** letters of the Latin alphabet.
+
+-	Character 5: digit from **1** to **n, bigger than first 2 digits**.
 
 ### Input Data
 
-Входът се чете от конзолата и се състои от **две цели числа: n** и **l** в интервала [**1 … 9**], по едно на ред.
+The input is read from the console and consists of **two integers: n** and **l** in the interval [**1 … 9**], each on a single line.
 
 ### Output Data
 
-На конзолата трябва да се отпечатат **всички "тъпи" пароли по азбучен ред**, разделени с **интервал**.
+Print on the console **all "dumb" passwords in alphabetical order**, separated by **space**.
+
 
 ### Sample Input and Output
 
