@@ -1,4 +1,4 @@
-﻿## Problem: Dummy Passwords Generator
+## Problem: Dummy Passwords Generator
 
 Write a program that enters two integers **n** and **l** and generates in alphabetical order all possible  **"dumb" passwords** that consist of the following **5 characters**:
 -	Character 1: digit from **1** to **n**.
