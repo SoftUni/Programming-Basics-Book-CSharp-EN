@@ -1,4 +1,4 @@
-##  Problem: stop number
+## Problem: stop number
 
 Write a program that prints on the console all numbers from **N** to **M**, that are **divisible by 2** and **3 without reminder **, in **reversed order**. We will read one more "stop" number from the console - **S**. If any of the divisible by 2 and 3 numbers **is equal to the stop number, it should not be printed** and the program should end.**Otherwise print all numbers to N**, that meets the condition.
 
