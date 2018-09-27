@@ -1,8 +1,8 @@
-## Problem: магически числа
+## Problem: Magic Numbers
 
-Да се напише програма, която въвежда едно цяло **магическо** число и изкарва всички възможни **6-цифрени числа**, за които **произведението на техните цифри е равно на магическото число**.
+Write a program that enter a single integer **magic** number and produces all possible **6-digit numbers** for which the output of their digits is equal to the magical number..
 
-Example: "Магическо число" &rarr; 2
+Example: "Magic number" &rarr; 2
 -	111112 &rarr; 1 \* 1 \* 1 \* 1 \* 1 \* 2 = 2
 -	111121 &rarr; 1 \* 1 \* 1 \* 1 \* 2 \* 1 = 2
 -	111211 &rarr; 1 \* 1 \* 1 \* 2 \* 1 \* 1 = 2
@@ -12,11 +12,12 @@ Example: "Магическо число" &rarr; 2
 
 ### Input Data
 
-Входът се чете от конзолата и се състои от **едно цяло число** в интервала [**1 … 600 000**].
+The input is read from the console and consists of **one integer** within the range [**1 … 600 000**].
+
 
 ### Output Data
 
-На конзолата трябва да се отпечатат **всички магически числа**, разделени с **интервал**.
+Print on the console **all magic numbers**, separated by **space**.
 
 ### Sample Input and Output
 
