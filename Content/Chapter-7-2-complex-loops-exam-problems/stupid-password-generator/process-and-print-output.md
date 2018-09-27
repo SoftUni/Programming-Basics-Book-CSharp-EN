@@ -1,4 +1,4 @@
-﻿#### Output
+#### Output
 
 We need to put **five** **`for`** nested loops, one for each variable. To ensure that the last digit **d3** is **greater** than the first two, we will use the built-in function **`Math.Max ​​(...)`**. 
  
