@@ -1,15 +1,13 @@
-## Problem: special numbers
+### Problem: special numbers
 
 Write a program that **receives one integer number N** and generates all possible **special numbers** from **1111** to **9999**. To be **special** one number,it must respond **following condition**:
 - **N to divide each of it's digits without reminder**.
-
 
 **Example:** at **N = 16, 2418** is special number:
 - 16 / 2 = 8 **without reminder**
 - 16 / 4 = 4 **without reminder**
 - 16 / 1 = 16 **without reminder**
 - 16 / 8 = 2 **without reminder**
-
 
 ### Input Data
 
