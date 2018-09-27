@@ -1,15 +1,15 @@
-## Проверки с if-else конструкция
+## The if-else statement
 
-Конструкцията **`if`** може да съдържа и **`else`** клауза, с която да окажем конкретно действие в случай, че булевият израз (който е зададен в началото **`if (булев израз)`**) върне отрицателен резултат (**`false`**). Така построена, **условната конструкция** наричаме **`if-else`** и поведението ѝ е следното: ако резултатът от условието е **позитивен** (**`true`**) - извършваме едни действия, a когато е **негативен** (**`false`**) - други. Форматът на конструкцията е:
+The **`if`** construction may also contain an **`else`** clause to give a specific action in case the boolean expression (which is set at the beginning **`if (boolean expression)`** ) returns a negative result (**`false`**). Built this way, **the conditional construction** is called **`if-else`** and its behavior is as follows: if the result of the condition is **positive** (**`true`**) - we perform some actions, a when it is **negative** (**`false`**) - others. The format of the construction is:
 
 ```csharp
-if (булево условие)
+if (condition)
 {
-    // тяло на условната конструкция;
+    // condition body;
 }
 else
 {
-    // тяло на else-конструкция;
+    // еlse construction body;
 }
 
 ```

@@ -1,13 +1,13 @@
-#### Извършване на изчисленията
+#### Doing the Calculations
 
-След като сме инициализирали променливите и сме запазили съответните стойности в тях, пристъпваме към **изчисленията**. Тъй като стойностите на променливите **`n`**, **`a`** и **`b`**, с които работим, са запазени в променливи от тип **`int`**, за резултатите от изчисленията може да дефинираме **променливи също от този тип**.  
+After we have initialized the variables and have stored the corresponding values in them, we go to the **calculations**.As the values of the variables **`n`**, **`a`** and **`b`** are stored in variables of type **`int`**, we can also declare **variables of the same type** for the results. 
 
 ![](/assets/chapter-2-2-images/03.Change-tiles-03.png)
 
-Променливите **`w`** и  **`h`** са от тип **`double`**, т.е. за **лицето на една плочка** създаваме променлива от същия тип. За финал **изчисляваме стойностите, които трябва да отпечатаме** на конзолата. **Броят** на необходимите **плочки** получаваме като **разделим площта, която трябва да се покрие, на площта на единична плочка**. При деление на две числа, от които **едното е реално**, резултатът е **реално число** с цяла и дробна част. Следователно, за да са коректни изчисленията ни, запазваме резултата в променлива от тип **`double`**. В условието на задачата не е зададено специално форматиране или закръгляне на изхода, затова просто отпечатваме стойностите с **`Console.WriteLine(…)`**. 
+The variables **`w`** and  **`h`** are of type **`double`**, therefore, for **the area of a single tile**, we create a variable of the same type. Finally, **we calculate the values that we have to print** on the console. **The number** of necessary **tiles** is received by **dividing the area that needs to be covered by the area of a tile**. When dividing the two numbers, one of which is **a floating-poing number**, the result will also be **a floating-point number**. Therefore, in order for the calculations to be correct, we store the result in a variable of type **`double`**. The task does not specify special formatting or rounding of the output, so we just print the values with **`Console.WriteLine(…)`**. 
 
 ![](/assets/chapter-2-2-images/03.Change-tiles-04.png)
 
 ### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/505#2](https://judge.softuni.bg/Contests/Practice/Index/505#2).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/505#2](https://judge.softuni.bg/Contests/Practice/Index/505#2).

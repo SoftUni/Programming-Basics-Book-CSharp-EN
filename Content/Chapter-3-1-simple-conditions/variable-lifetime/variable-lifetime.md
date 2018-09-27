@@ -1,7 +1,7 @@
-## Живот на променлива
+## Life of a variable
 
-Всяка една променлива си има обхват, в който съществува, наречен **variable scope**. Този обхват уточнява къде една променлива може да бъде използвана. В езика C# областта, в която една променлива съществува, започва от реда, на който сме я **дефинирали** и завършва до първата затваряща къдрава скоба **}** (на метода, на **`if` конструкцията** и т.н.). За това е важно да знаем, че **всяка променлива, дефинирана вътре в тялото на `if`, няма да бъде достъпна извън него**, освен ако не сме я дефинирали по-нагоре в кода.
+Each variable has a range in which it exists, called **variable scope**. This range specifies where a variable can be used. In the C # language, the area in which a variable exists, starts from the order in which we **defined it** and ends with the first closing curly bracket **}** (of the method, the **if construction** and etc.). For this, it is important to know that **any variable defined inside the body of `if` will not be available outside** of it unless we have defined it higher in the code.
 
-В примера по-долу, на последния ред, на който се опитваме да отпечатаме променливата **`salary`**, която е дефинирана в **`if` конструкцията**, ще получим **грешка**, защото нямаме достъп до нея.
+In the example below, on the last line we are trying to print the variable **salary** that is defined in the **if construction**, we will get an **error** because we don't have access to her.
 
 ![](/assets/chapter-3-images/00.Variable-scope-01.png)

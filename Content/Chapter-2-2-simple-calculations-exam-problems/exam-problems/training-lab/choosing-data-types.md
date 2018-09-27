@@ -1,3 +1,3 @@
 #### Choosing Data Types
 
-От примерните входни данни виждаме, че за вход може да ни бъде подадено реално число с цяла и дробна част, затова не е подходящо да избираме тип **`int`**, нека за тях използваме **`double`**. Изборът на тип за следващите променливи зависи от метода за решение, който изберем. Както всяка задача по програмиране, тази също има **повече от един начин на решение**. Тук ще бъдат показани два такива. 
+From the example, we see that a real number with whole and fractional part can be received as an input, therefore, it is not appropriate to choose data type **`int`**. This is why we use **`double`**. Choosing data type for the next variables depends on the method we choose to solve the problem. As with any programming task, this one has **more than one way to be solved**. Two methods will be shown here. 

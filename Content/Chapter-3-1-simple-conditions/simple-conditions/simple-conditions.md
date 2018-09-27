@@ -1,10 +1,10 @@
-## Прости проверки
+## Simple conditions
 
-В програмирането често **проверяваме дадени условия** и извършваме различни действия, според резултата от проверката. Това става чрез проверката **`if`**, която има следната конструкция:
+In programming we often **check the conditions** and perform different actions, depending on the result of the check. This is done by **if** verification, which has the following construction:
 
 ```csharp
-if (булев израз)
+if (condition)
 {
-    // тяло на условната конструкция;  
+    // condition body;  
 }
 ```

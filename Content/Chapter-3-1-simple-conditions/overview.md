@@ -1,10 +1,10 @@
-# Chapter 3.1. Прости проверки
+# Chapter 3.1. Simple Conditions
 
-В настоящата глава ще разгледаме **условните конструкции в езика C#**, чрез които нашата програма може да има различно действие, в зависимост от дадено условие. Ще обясним синтаксиса на условните оператори за проверки (**`if`** и **`if-else`**) с подходящи примери и ще видим в какъв диапазон живее една променлива (нейният **обхват**). Накрая ще разгледаме техники за **дебъгване**, чрез които постъпково да проследяваме пътя, който извървява нашата програма по време на своето изпълнение.
+In this chapter, we will discuss the **conditional constructions in the C # language**, through which our program may have different effects, depending on a condition. We'll explain the syntax of conditional operators for checks (**`if`** and **`if-else`**) with appropriate examples and we will see in what range one variable (its **scope**) lives. Finally, we will go through **debugging** techniques to track the path that runs through our program during implementation.
 
 ## Video
 
 <div class="video-player">
-  Гледайте видео-урок по тази глава тук: <a target="_blank" href="https://www.youtube.com/watch?v=uwW_ueaOt7M">https://www.youtube.com/watch?v=uwW_ueaOt7M</a>.
+  Watch the video lesson from this chapter here: <a target="_blank" href="https://www.youtube.com/watch?v=uwW_ueaOt7M">https://www.youtube.com/watch?v=uwW_ueaOt7M</a>.
 </div>
 <script src="/assets/js/video.js"></script>

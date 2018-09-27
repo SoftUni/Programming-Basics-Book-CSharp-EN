@@ -1,20 +1,20 @@
-## Problem: зеленчукова борса
+## Problem: Vegetable Market
 
-Градинар продава реколтата от градината си на зеленчуковата борса. Продава **зеленчуци за N лева на килограм** и **плодове за M лева за килограм**. Напишете програма, която **да пресмята приходите от реколтата в евро** (ако приемем, че **едно евро** е равно на **1.94 лв.**).
+A gardener is selling his harvest on the vegetable market. He is selling **vegetables for N levs per kilogram** and **fruits for M levs per kilogram**. Write a program that **calculates the earnings of the harvest in euro** (if **one euro** equals **1.94 lv.**)
 
 ### Input Data
 
-От конзолата се четат **4 числа**, по едно на ред:
-* Първи ред – Цена за килограм зеленчуци – число с плаваща запетая.
-* Втори ред – Цена за килограм плодове – число с плаваща запетая.
-* Трети ред – Общо килограми на зеленчуците – цяло число.
-* Четвърти ред – Общо килограми на плодовете – цяло число.
+**Four numbers** are read from the console, one per line: 
+* First line - Price per kilogram for vegetables - a floating-point number.
+* Second line - Price per kilogram for fruits - a floating-point number.
+* Third line - Total kilograms of vegetables - an integer.
+* Fourth line - Total kilograms of fruits - an integer. 
 
-**Constraints: Всички числа ще са в интервала от 0.00 до 1000.00**
+**Constraints: All numbers will be in the interval between 0.00 and 1000.00**
 
 ### Output Data
 
-Да се отпечата на конзолата **едно число с плаваща запетая: приходите от всички плодове и зеленчуци в евро**.
+Print on the console **one floating-point number: the earnings of all fruits and vegetables in euro**.
 
 ### Sample Input and Output
 
@@ -22,11 +22,11 @@
 |-----------|----------|
 |0.194<br>19.4<br>10<br>10|101 | 
 
-**Пояснения към първия Example:**
+**Clarification for the first example:**
 
-* Зеленчуците струват: 0.194 лв. \* 10 кг. = **1.94 лв.**
-* Плодовете струват: 19.4 лв. \* 10 кг.  = **194 лв.**
-* Общо: **195.94 лв. = 101 евро**. 
+* Vegetables cost: 0.194 lv. \* 10 kg. = **1.94 lv.**
+* Fruits cost: 19.4 lv. \* 10 kg.  = **194 lv.**
+* Total: **195.94 lv. = 101 euro**. 
 
 | Input    | Output      |
 |-----------|----------------|

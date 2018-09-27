@@ -1,6 +1,6 @@
-## Извеждане на текст по шаблон (placeholder)
+## Using placeholders
 
-**Placeholder** представлява израз, който ще бъде заменен с конкретна стойност при отпечатване. Методите **`Console.Write(…)`** / **`WriteLine(…)`** поддържат печатане на текст по шаблон, като първият аргумент, който трябва да подадем, е форматиращият низ, следван от броя аргументи, равен на броя на плейсхолдърите.
+**Placeholder** is an expression which is replaced with a particular value while printing an output. The methods **`Console.Write(…)`** / **`WriteLine(…)`** support printing a string pattern, where the first argument is the formatted string, followed by the number of arguments, equal to the number of placeholders.
 
 ```csharp
 Console.WriteLine("You are {0} {1}, a {2}-years old person from {3}.",

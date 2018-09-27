@@ -1,12 +1,12 @@
-### Example: отлична оценка
+### Example: excellent grade
 
-Въвеждаме оценка в конзолата и проверяваме дали тя е отлична (**`≥ 5.50`**).
+We read the grade from the console and check if it's excellent (**`≥ 5.50`**).
 
 ![](/assets/chapter-3-images/01.Еxcellent-result-01.png)
 
-Тествайте кода от примера локално. Опитайте да въведете различни оценки, например **4.75**, **5.49**, **5.50** и **6.00**. При оценки **по-малки от 5.50** програмата няма да изведе нищо, а при оценка **5.50 или по-голяма**, ще изведе “**Excellent!**”.
+Test the code from the example locally. Try entering different grades, for example **4.75**, **5.49**, **5.50** and **6.00**. For grades **less than 5.50**, the program will not give any output, however if the grade is **5.50 or greater**, the output would be "**Excellent!**".
 
 #### Testing in the Judge System
 
-Тествайте програмата от примера в judge системата на SoftUni:
+Test your solution from the example here:
 [https://judge.softuni.bg/Contests/Practice/Index/506#0](https://judge.softuni.bg/Contests/Practice/Index/506#0).

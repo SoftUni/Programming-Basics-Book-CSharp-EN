@@ -1,18 +1,18 @@
-## Четене на числа от конзолата
+## Reading numbers from the console
 
-Преди да преминем към задачите, да си припомним най-важното от изучавания материал от предходната тема. Ще започнем с четенето на числа от конзолата.
+Before going to the tasks, we are going to revise the most important aspects of what we have studied in the previous chapter. We will start with reading numbers from the console.
 
-### Четене на цяло число
+### Reading an integer
 
-Необходима ни е променлива, в която да запазим числото (напр. **`num`**), и да използваме стандартната команда за четене на данни от конзолата в съчетание с функцията **`int.Parse(…)`**, която конвертира текст в число:
+We need to create a variable to store the integer (for example, **`num`**) and use a standard command for reading input from the console, combined with the function **`int.Parse(…)`** which converts string to an integer:
 
 ```csharp
 var num = int.Parse(Console.ReadLine());
 ```
 
-### Четене на дробно число
+### Reading a decimal number
 
-По същия начин, както четем цяло число, но този път ще използваме функцията **`double.Parse(…)`**:
+We read a decimal number, the same way we read an integer one, but this time we use the function **`double.Parse(…)`**:
 
 ```csharp
 var num = double.Parse(Console.ReadLine());

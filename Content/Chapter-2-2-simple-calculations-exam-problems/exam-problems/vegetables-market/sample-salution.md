@@ -1,22 +1,22 @@
 #### Solution 
 
-Време е да пристъпим към решението. Мислено можем да го разделим на три подзадачи: 
-* **Прочитане на входните данни**.
-* **Извършване на изчисленията**.
-* **Извеждане на изход** на конзолата.
+It is time to get to the solution. We can divide it into three smaller tasks:  
+* **Reading input from the console**.
+* **Doing the calculations**.
+* **Printing the output on the console**.
 
-За да прочетем входните данни декларираме променливи, като внимаваме да ги именуваме по такъв начин, който да ни подсказва какви стойности съдържат променливите. С **`Console.ReadLine(…)`** четем стойностите от конзолата, а с функциите **`int.Parse(…)`** и **`double.Parse(…)`** преобразуваме зададената стрингова стойност съответно в **`int`** и **`double`**.
+In order to read the input, we declare variables, which we have to name carefully, so that they can give us a hint about the values they store. With **`Console.ReadLine(…)`**, we read values from the console and with the the functions **`int.Parse(…)`** and **`double.Parse(…)`**, we convert the particular string value into **`int`** and **`double`**.
 
 ![](/assets/chapter-2-2-images/02.Vegetable-market-01.png)
 
-Извършваме необходимите изчисления: 
+We do the necessary calculations:  
 
 ![](/assets/chapter-2-2-images/02.Vegetable-market-02.png)
 
-В условието на задачата не е зададено специално форматиране на изхода, следователно трябва просто да изчислим исканата стойност и да я отпечатаме на конзолата. Както в математиката, така и в програмирането делението има приоритет пред събирането. За задачата обаче трябва първо да **сметнем сбора** на двете получени стойности и след това да **разделим на 1.94**. За да дадем предимство на събирането, може да използваме скоби. С **`Console.WriteLine(…)`** отпечатваме изхода на конзолата.  
+The task does not specify special output format, therefore, we just have to calculate the wanted value and print it on the console. As in mathematics and so in programming, division has a priority over addition. However, in this task, first we have to **calculate the sum** of the two received values and then **divide by 1.94**. In order to give priority to addition, we can use brackets. With **`Console.WriteLine(…)`** we print the output on the console. 
 
 ![](/assets/chapter-2-2-images/02.Vegetable-market-03.png)
 
-### Testing in the Judge System
+### Test in the Judge system
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/505#1](https://judge.softuni.bg/Contests/Practice/Index/505#1).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/505#1](https://judge.softuni.bg/Contests/Practice/Index/505#1).

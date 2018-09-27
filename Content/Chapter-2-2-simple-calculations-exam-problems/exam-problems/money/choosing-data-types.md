@@ -1,3 +1,3 @@
 #### Choosing Data Types
 
-**Биткойните** са дадени като **цяло число**, следователно за тяхната стойност може да декларираме **променлива от тип `int`**. Като брой **китайски юани и комисионна** ще получим **реално число**, следователно за тях използваме **`double`**. Тъй като **`double`** e типът данни с по-голям обхват, а **изходът** също ще бъде **реално число**, ще използваме него и за останалите променливи, които създаваме. 
+**Bitcoins** are given as **an integer**, therefore, we can declare a **variable of type `int`** for their value. For **Chinese yuan and commission** we receive **a floating-point number**, therefore, we are going to use **`double`**. As **`double`** is the data type with bigger scope, and the **output** should also be **a floating-point number**, we will use it for the other variables we create as well.

@@ -1,23 +1,23 @@
-## Серии от проверки
+## Sequence of conditions
 
-Понякога се налага да извършим серия от проверки, преди да решим какви действия ще изпълнява нашата програма. В такива случаи, можем да приложим конструкцията **`if-else if…-else` в серия**. За целта използваме следния формат: 
+Sometimes we need to do a sequnce of conditions before we decide what actions our program will execute. In such cases, we can apply the construct **`if-else if ... -else`** **in serie**. For this purpose we use the following format:
 
 ```csharp
-if (условие)
+if (condition)
 {
-    // тяло на условната конструкция;
+    // condition body;
 }
-else if (условие2)
+else if (second condition)
 {
-    // тяло на условната конструкция;
+    // condition body;
 }
-else if (условие3)
+else if (third condition)
 {
-    // тяло на условната конструкция;
+    // condition body;
 }
 …
 else
 {
-    // тяло на else-конструкция;
+    // else construction body;
 }
 ```
