@@ -1,23 +1,23 @@
-### Hints and Guidelines
+﻿### Hints and Guidelines
 
-Задачата може да се раздели на **четири** логически части:
-* **Четене** на входните данни от конзолата.
-* **Проверка** на всички числа в дадения интервал, съответно завъртане на **цикъл**.
-* **Проверка** на условията от задачата спрямо всяко едно число от въпросния интервал.
-* **Разпечатване** на числата.
+The problem can be divided by **four** logical parts:
+* **Reading** the input.
+* **Check** of all numbers in the given range, and then **loop**.
+* **Check** the conditions of problem according to every number in the given range.
+* **Printing** the numbers.
 
-**Първата** част е тривиална - прочитаме **три** цели числа от конзолата, съответно ще използваме тип **`int`**.
+**First** part is ordinary - we read **three** integer numbers from the console, so we will use **`int`**.
 
-С **втората** част също сме се сблъсквали - инициализиране на **`for`** цикъл. Тук има малка **уловка** - в условието е споменато, че числата трябва да се принтират в **обратен ред**. Това означава, че **началната** стойност на променливата **`i`** ще е **по-голямото число**, което от примерите виждаме, че е **M**. Съответно, **крайната** стойност на **`i`** трябва да е **N**. Фактът, че ще печатаме резултатите в обратен ред и стойностите на **`i`** ни подсказват, че стъпката ще е **намаляване с 1**.
+We have already came together with the**second** part - initialize the **`for`** loop. It is a bit **tricky** - in the explanation is mentioned that the numbers have to be printed in ** reversed order**. This means that **initial** value of variable **`i`** will be  **bigger**, and from the examples we can see that it is **M**. So the **final** value of  **`i`** should be **N**. The fact that we will print the results in reversed order and the values of **`i`**, suggests that the step would be **decreased by 1**.
 
 ![](/assets/chapter-7-exam-preparation-images/04.stop-number-1.png)
 
-След като сме инициализирали **`for`** цикъла, идва ред на **третата** част от задачата - **проверка** на условието дали даденото **число се дели на 2 и на 3 без остатък**. Това ще направим с една обикновена **`if`** проверка, която ще оставим на читателя сам да построи.
+After we have initialized the **`for`** loop, it comes the **third** part of the problem  - **check** in problem description if the given **number is divisible both to 2 and 3 without reminder**. We will do this with one simple **`if`** check , that we will leave to the reader to do it by themselves.
 
-Другата **уловка** в тази задача е, че освен горната проверка, трябва да направим **още** една - дали **числото е равно на "спиращото" число**, подадено ни от конзолата на третия ред. За да се стигне до тази проверка, числото, което проверяваме, трябва да премине през горната. По тази причина ще построим още една **`if`** конструкция, която ще **вложим в предходната**. Ако условието е **вярно**, заданието е да спрем програмата да печата, което в конкретния случай можем да направим с оператор **`break`**, който ще ни **изведе** от **`for`** цикъла.
+Another **tricky** part of this problem is that apart of the above check we need to do **another** one - if **number is equal to the "stop" number**, entered from the console on the third line. To reach this test,number we check, should pass the above one. For this reason we will build another  **`if`** construction,  that we will  **nest in the previous one**. If the condition is **true**, we need to stop program from printing, we can do this using operator **`break`**, and it will lead us **out** of the  **`for`** loop.
  
-Съответно, ако **условието** на проверката дали числото съвпада със "спиращото" число върне резултат **`false`**, по задание нашата програма трябва да **продължи да печата**. Това всъщност покрива и **четвъртата и последна** част от нашата програма.
+If **condition** of the check whether the number is equal with "stop" number returns result **`false`**,  our program should **continue to print**. This covers **fourth and last** part of our program.
 
 ### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/515#2](https://judge.softuni.bg/Contests/Practice/Index/515#2).
+Test your solution here:  [https://judge.softuni.bg/Contests/Practice/Index/515#2](https://judge.softuni.bg/Contests/Practice/Index/515#2).
