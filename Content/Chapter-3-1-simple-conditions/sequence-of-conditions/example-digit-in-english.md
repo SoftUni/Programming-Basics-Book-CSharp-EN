@@ -1,7 +1,6 @@
-### Example: число от 1 до 9 на английски
+### Example: digit in english
 
-Да се изпише число в интервала от 1 до 9 с текст на английски език (числото се чете от конзолата). Можем да прочетем числото и след това чрез **серия от проверки** отпечатваме съответстващата му английска дума:
-
+Print the digits in the range of 1 to 9 (the digit is read from the console). We can read the digit and then, through a **sequence of conditions** we print the relevant english word:
 ```csharp
 int num = int.Parse(Console.ReadLine());
 
@@ -27,8 +26,8 @@ else
 }
 ```
 
-Програмната логика от примера по-горе **последователно сравнява** входното число от конзолата с цифрите от 1 до 9, като **всяко следващо сравнение се извършва, само в случай че предходното сравнение не е било истина**. В крайна сметка, ако никое от **`if`**  условията не е изпълнено, се изпълнява последната **`else` клаузa**.
+The program logic from the above example **sequentially compares** the input number from the console with the digits from 1 to 9, when **each sequent comparison is being performed only in case the previous comparison is not true**. Ultimately, if none of the **`if`** conditions are not executed, the last **`else`** **clause`** is.
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/506#4](https://judge.softuni.bg/Contests/Practice/Index/506#4).
+Test your solution from the example here: [https://judge.softuni.bg/Contests/Practice/Index/506#4](https://judge.softuni.bg/Contests/Practice/Index/506#4).

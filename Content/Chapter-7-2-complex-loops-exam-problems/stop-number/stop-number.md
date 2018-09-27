@@ -1,27 +1,30 @@
-## Problem: спиращо число
+﻿##  Problem: stop number
 
-Напишете програма, която принтира на конзолата всички числа от **N** до **M**, които **се делят на 2** и **на 3 без остатък**, в **обратен ред**. От конзолата ще се чете още **едно** "спиращо" число **S**. Ако някое от делящите се на 2 и 3 числа е **равно на спиращото число, то не трябва да се принтира** и програмата трябва да приключи. **В противен случай се принтират всички числа до N**, които отговарят на условието.
+Write a program that prints on the console all numbers from **N** to **M**, that are **divisible by 2** and **3 without reminder **, in **reversed order**. We will read one more "stop" number from the console - **S**. If any of the divisible by 2 and 3 numbers **is equal to the stop number, it should not be printed** and the program should end.**Otherwise print all numbers to N**, that meets the condition.
 
 ### Input Data
 
-От конзолата се четат 3 числа, всяко на отделен ред:
-* **N** - цяло число: **0 &le; N &lt; M**.
-* **M** - цяло число: **N &lt; M &le; 10000**.
-* **S** - цяло число: **N &le; S &le; M**.
+Read from the console 3 numbers, each on a single line:
+* **N** - integer number: **0 &le; N &lt; M**.
+* **M** - integer number: **N &lt; M &le; 10000**.
+* **S** - integer number: **N &le; S &le; M**.
+
 
 ### Output Data
 
-На конзолата се принтират на един ред, разделени с интервал, всички числа, отговарящи на условията.
+Print on the console on a single line all numbers, that meets the condition, separated by space. 
+
 
 ### Sample Input and Output
 
 | Input | Output | Comments |
 | --- | --- | --- |
-|1<br>30<br>15|30 24 18 12 6|Числата от 30 до 1, които се делят едновременно на 2 и на 3 без остатък са: 30, 24, 18, 12 и 6. Числото 15 **не е равно** на нито едно, затова редицата **продължава**.|
+||1<br>30<br>15|30 24 18 12 6|Numbers from 30 to 1, that is divisible at the same time by 2 and 3 without reminder are: 30, 24, 18, 12 and 6. The number 15 **is not equal** to any, so the sequence  **continues**.|
 
 | Input | Output | Comments |
 | --- | --- | --- |
-|1<br>36<br>12|36 30 24 18|Числата от 36 до 1, които се делят едновременно на 2 и на 3 без остатък, са: 36, 30, 24, 18, 12 и 6. Числото 12 **е равно** на спиращото число, затова **спираме до 18**.|
+|1<br>36<br>12|36 30 24 18|Numbers from 36 to 1, that is divisible at the same time by 2 and 3 without reminder are: 36, 30, 24, 18, 12 and 6. The number 12 **is equal** to the stop number , so **we stop by 18**.|
+
 
 | Input | Output |
 | --- | --- |

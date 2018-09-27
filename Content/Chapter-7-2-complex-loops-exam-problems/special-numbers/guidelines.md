@@ -1,7 +1,8 @@
-### Hints and Guidelines
+﻿### Hints and Guidelines
 
-Решете задачата самостоятелно използвайки наученото от предишните две. Спомнете си разликата между операторите за **целочислено деление ( __/__ )** и **деление с остатък ( __%__ )** в C#.
+Solve the problem by yourself using the learned from the previous two. Remember difference between operators for **integer division ( __/__ )** and **division with reminder ( __%__ )** in C#.
+
 
 ### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/515#3](https://judge.softuni.bg/Contests/Practice/Index/515#3).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/515#3](https://judge.softuni.bg/Contests/Practice/Index/515#3).
