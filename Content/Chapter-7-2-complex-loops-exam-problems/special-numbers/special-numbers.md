@@ -1,27 +1,33 @@
-## Problem: специални числа
+﻿## Problem: special numbers
 
-Да се напише програма, която **въвежда едно цяло число N** и генерира всички възможни **"специални" числа** от **1111** до **9999**. За да бъде **"специално"** едно число, то трябва да отговаря на **следното условие**:
-- **N да се дели на всяка една от неговите цифри без остатък.**
+Write a program that **enters one integer number N** and generates all possible **special numbers** from **1111** to **9999**. To be **special** one number,it must respond **following condition**:
+- **N to divide each of it's digits without reminder**.
 
-**Example:** при **N = 16, 2418** е специално число:
-- 16 / 2 = 8 **без остатък**
-- 16 / 4 = 4 **без остатък**
-- 16 / 1 = 16 **без остатък**
-- 16 / 8 = 2 **без остатък**
+
+**Example:** at **N = 16, 2418** is special number:
+- 16 / 2 = 8 **without reminder**
+
+- 16 / 4 = 4 **without reminder**
+
+- 16 / 1 = 16 **without reminder**
+
+- 16 / 8 = 2 **without reminder**
+
 
 ### Input Data
 
-Входът се чете от конзолата и се състои от **едно цяло число** в интервала **[1 … 600 000]**.
+The input is read from the console and consists of ** one integer number** within the range  **[1 … 600 000]**.
+
 
 ### Output Data
 
-Да се отпечатат на конзолата **всички специални числа**, разделени с **интервал**.
+Print on the console **all special numbers**, separated by **space**.
 
 ### Sample Input and Output
 
 | Input | Output | Comments |
 | --- | --- | --- |
-|3|1111 1113 1131 1133 1311 1313 1331 1333 3111 3113 3131 3133 3311 3313 3331 3333|3 / 1 = 3 без остатък<br>3 / 3 = 1 без остатък<br>3 / 3 = 1 без остатък<br>3 / 3 = 1 без остатък|
+|3|1111 1113 1131 1133 1311 1313 1331 1333 3111 3113 3131 3133 3311 3313 3331 3333|3 / 1 = 3 without reminder<br>3 / 3 = 1 without reminder<br>3 / 3 = 1 without reminder<br>3 / 3 = 1 without reminder|
 
 | Input | Output | Input | Output |
 | --- | --- | --- | --- |
