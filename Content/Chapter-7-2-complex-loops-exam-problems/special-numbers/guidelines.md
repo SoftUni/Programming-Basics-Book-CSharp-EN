@@ -1,6 +1,7 @@
-### Hints and Guidelines
+﻿### Hints and Guidelines
 
 Solve the problem by yourself using the learned from the previous two. Remember difference between operators for **integer division ( __/__ )** and **division with reminder ( __%__ )** in C#.
+
 
 ### Testing in the Judge System
 
