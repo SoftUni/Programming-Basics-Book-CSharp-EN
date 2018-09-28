@@ -1,4 +1,4 @@
-#### for-loop Solution
+#### for loop Solution
 
 **The solution** follows **the same** concept  (again we need to generate all combinations for the n element). Following these steps, try to solve the problem yourself.
 

@@ -1,4 +1,4 @@
-#### Използване на безкраен while цикъл
+#### Infinite while loop
 
 Lets remove the **`if`** check from the innermost loop.   Now, let's initialize each variable outside of the loops and delete the rows **`dx = 0`**. After we run the program we only get 10 results.Why? What if you use **`do-while`**? In this case this loop does not look appropriate,doesn't it?Think why. Of course, you can solve the problem using **infinite loop**.
 
