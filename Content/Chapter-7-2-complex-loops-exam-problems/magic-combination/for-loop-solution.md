@@ -1,9 +1,9 @@
-#### Solution с for цикъл
+#### for-loop Solution
 
-**Решението** на задачата за магическите числа следва **същата** концепция (отново трябва да генерираме всички комбинации за n елемента). Следвайки тези стъпки, опитайте да решите задачата сами.
+**The solution** follows **the same** concept  (again we need to generate all combinations for the n element). Following these steps, try to solve the problem yourself.
 
--	Декларирайте и инициализирайте **променлива** от целочислен тип **`int`** и прочетете **входа** от конзолата.
--	Вложете **шест `for` цикъла** един в друг, по един за всяка цифра на търсените 6-цифрени числа.
--	В последния цикъл, чрез **`if`** конструкция проверете дали **произведението** на шестте цифри е **равно** на **магическото** число.
+-	Declare and initialize **variable** of type **`int`** and read the **input** from the console.
+-	Nest **six `for` loops** one in each other,  for every single digit of the searched 6-digit numbers. 
+-	In the last loop, using **`if`** construction check if the **product** of the six digits is **equal** to the **magic number**.
 
 ![](/assets/chapter-7-exam-preparation-images/02.magic-numbers-1.png)
