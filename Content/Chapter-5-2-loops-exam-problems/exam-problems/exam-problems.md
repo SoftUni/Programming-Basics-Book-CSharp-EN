@@ -1,3 +1,3 @@
 ## Exam Problems
 
-Да решим няколко задачи с цикли от изпити в SoftUni.
+Lets solve a few problems with loops from exams in SoftUni. 
