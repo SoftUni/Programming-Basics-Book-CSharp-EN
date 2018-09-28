@@ -1,6 +1,6 @@
 ## Problem: Back to the Past
 
-Ivancho is **18 years old** and receives an inheritance that consists of ** X ** money ** and ** time machine **. He decides **to return to 1800**, but does not know **if money** will **be enough** to live without working. Write ** a program that calculates ** if Ivancho **will have enough money**  to not have to work until the given year. Assuming that **for every even** (1800, 1802, etc.) year he **will spend 12 000 dollars**. For **every odd** (1801, 1803, etc.) he will spend **12 000 + 50 * [the age he will have reached in the given year]**.
+Ivancho is **18 years old** and receives an inheritance that consists of **X** money and **time machine**. He decides **to return to 1800**, but does not know **if money** will **be enough** to live without working. Write **a program that calculates** if Ivancho **will have enough money**  to not have to work until the given year. Assuming that **for every even** (1800, 1802, etc.) year he **will spend 12 000 dollars**. For **every odd** (1801, 1803, etc.) he will spend **12 000 + 50 * [the age he will have reached in the given year]**.
 
 ### Input Data
 
