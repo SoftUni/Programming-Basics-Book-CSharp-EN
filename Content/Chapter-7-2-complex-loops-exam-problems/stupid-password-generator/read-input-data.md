@@ -1,4 +1,4 @@
-### Reading and Processing Input Data
+### Read Input Data
 
 For **reading** of **input** data we will declare two integer variables **`int`**: **`n`** and **`l`**.
 

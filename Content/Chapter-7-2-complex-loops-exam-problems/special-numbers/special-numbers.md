@@ -1,4 +1,4 @@
-### Problem: special numbers
+### Problem: Special Nmbers
 
 Write a program that **receives one integer number N** and generates all possible **special numbers** from **1111** to **9999**. To be **special** one number,it must respond **following condition**:
 - **N to divide each of it's digits without reminder**.
