@@ -13,7 +13,7 @@ The input is read from the console and **contains exactly 2 lines**:
 **Print** on the console **1 line**. **Sum** must be **formated** to the **second decimal point**:
   * If **money is enough**:
     * „**Yes! He will live a carefree life and will have {N} dollars left.**“ – when **N** is money, which will remain.
-  *If **money is NOT enough**:
+  * If **money is NOT enough**:
     * „**He will need {М} dollars to survive.**“ – where **M** is sum, which **is NOT enough**.
 
 ### Sample Input and Output
