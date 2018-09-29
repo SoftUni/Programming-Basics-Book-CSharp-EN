@@ -12,4 +12,4 @@ Note that for this exercise, the judge is set to ignore anything that is not a n
 
 #### Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/506#5](https://judge.softuni.bg/Contests/Practice/Index/506#5).
+Test your solution from the example here: [https://judge.softuni.bg/Contests/Practice/Index/506#5](https://judge.softuni.bg/Contests/Practice/Index/506#5).
