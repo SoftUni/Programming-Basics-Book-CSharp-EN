@@ -1,9 +1,9 @@
-#### Проверяване дали наследството е достатъчно и отпечатване на резултата
+#### Check Heritage and Print Output
 
-Накрая остава да отпечатаме резултатите, като за целта правим **проверка дали наследството** (**`heritage`**) му е било достатъчно да живее без да работи или не. Ако наследството (**`heritage`**) е **положително число**, отпечатваме: „**`Yes! He will live a carefree life and will have {N} dollars left.`**“, а ако е **отрицателно число**: „**`He will need {М} dollars to survive.`**“. Не забравяме да форматираме сумата до два знака след десетичната точка.
+Finally we need to print out the results by checking **if the `heritage`** was enough to live without working or not. If `heritage` is **positive number** , we print: „**`Yes! He will live a carefree life and will have {N} dollars left.`**“, and if is **negative number** : „**`He will need {М} dollars to survive.`**“. Do not forget to format the sum to the second decimal point.
 
-**Hint**: Обмислете използването на функцията **`Math.Abs(…)`** при отпечатване на изхода, когато наследството е недостатъчно.
+**Hint**: Consider using the **`Math.Abs(…)`** function when printing the output, if the heritage is not enough.
 
 ### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/511#2](https://judge.softuni.bg/Contests/Practice/Index/511#2).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/511#2](https://judge.softuni.bg/Contests/Practice/Index/511#2).
