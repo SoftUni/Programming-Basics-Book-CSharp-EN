@@ -1,6 +1,6 @@
-### Problem: сумиране на секунди
+### Problem: sum seconds
 
-Трима спортни състезатели финишират за някакъв **брой секунди** (между **1** и **50**). Да се напише програма, която въвежда времената на състезателите и пресмята **сумарното им време** във формат "минути:секунди". Секундите да се изведат с **водеща нула** (2 -> "02", 7 -> "07", 35 -> "35").
+Three athletes finish for a few **seconds** (between **1** and **50**). Write a program that introduces the times of the contestants and calculates their **total time** in "minutes:seconds". Seconds need to be **zeroed at the front** (2 -> "02", 7 -> "07", 35 -> "35").
 
 #### Sample Input and Output
 
