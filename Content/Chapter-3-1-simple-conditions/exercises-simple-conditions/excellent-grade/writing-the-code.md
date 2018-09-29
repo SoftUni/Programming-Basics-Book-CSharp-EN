@@ -1,10 +1,10 @@
-#### Писане на програмния код
+#### Writing the code
 
-За целта отиваме в тялото на метода **`Main(string[] args)`** и пишем следния код:
+For this purpose we go into the body of the **`Main (string [] args)`** method and write the following code:
 
  ![](/assets/chapter-3-images/09.Excellent-result-03.png)
 
-**Стартираме** програмата с [**Ctrl+F5**], за да я **тестваме** с различни входни стойности:
+**Run** the program with [**Ctrl+F5**], to test it with different input values:
 
  ![](/assets/chapter-3-images/09.Excellent-result-04.png)
 

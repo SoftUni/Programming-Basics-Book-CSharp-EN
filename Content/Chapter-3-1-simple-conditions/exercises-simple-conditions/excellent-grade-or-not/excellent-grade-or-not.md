@@ -1,6 +1,6 @@
-### Problem: отлична оценка или не
+### Problem: excellent grade or not
 
-Следващата задача от тази тема е да се напише **конзолна програма**, която **въвежда оценка** (десетично число) и отпечатва “**Excellent!**”, ако оценката е **5.50** или по-висока, или “**Not excellent.**” в противен случай.
+The next exercise from this topic is to write a **console program** that **inputs the grade** (decimal number) and prints **Excellent!** if the rating is **5.50** or higher , otherwise "**Not excellent.**".
 
 #### Sample Input and Output
 

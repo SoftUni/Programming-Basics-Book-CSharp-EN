@@ -1,9 +1,9 @@
-## Дебъгване - прости операции с дебъгер
+## Debugging
 
-До момента писахме доста код и често пъти в него имаше грешки, нали? Сега ще покажем един инструмент, с който можем да намираме грешките по-лесно.
+So far we wrote a lot of code, and there were some mistakes in it, right? Now we will show a tool that can help us to find mistakes easier.
 
-### Какво е "дебъгване"?
+### What is "debugging"?
 
-**Дебъгване** е процесът на „**закачане**“ към изпълнението на програмата, който ни позволява да проследим поетапно процеса на изпълнение. Можем да следим **ред по ред** какво се случва с нашата програма, какъв път следва, какви стойности имат дефинираните променливи на всяка стъпка от дебъгването и много други неща, които ни позволяват да откриваме грешки (**бъгове**).
+**Debugging** is the „**attach**“ process to the running program, which allows us to track step by step the process. We can track **line by row** what happens to our program, what path it follows, what are the values of defined variables at each step of debugging, and many other things that allow us to detect errors (**bugs**).
 
 ![](/assets/chapter-3-images/00.Debugging-01.png)

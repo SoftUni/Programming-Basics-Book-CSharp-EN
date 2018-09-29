@@ -1,6 +1,6 @@
-### Problem: четно или нечетно
+### Problem: even or odd
 
-Да се напише програма, която въвежда **цяло число** и печата дали е **четно** или **нечетно**.
+Write a program that checks whether an **integer** is **even** or **odd**.
 
 #### Sample Input and Output
 

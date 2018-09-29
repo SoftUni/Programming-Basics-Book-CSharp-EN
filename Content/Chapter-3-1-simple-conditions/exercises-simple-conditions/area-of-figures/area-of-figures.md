@@ -1,14 +1,14 @@
-### Problem: лица на фигури
+### Problem: area of figures
 
-Да се напише програма, която **въвежда размерите на геометрична фигура** и **пресмята лицето й**. Фигурите са четири вида: квадрат (**square**), правоъгълник (**rectangle**), кръг (**circle**) и триъгълник (**triangle**).
+Write a program that ** inputs the sizes of a geometric figure** and **calculates its face**. The figures are four types: **square**, **rectangle**, **circle** and **triangle**.
 
-На първия ред на входа се чете вида на фигурата (`square`, `rectangle`, `circle`, `triangle`).
-* Ако фигурата е **квадрат**, на следващия ред се чете едно число – дължина на страната му.
-* Ако фигурата е **правоъгълник**, на следващите два реда се четат две числа – дължините на страните му.
-* Ако фигурата е **кръг**, на следващия ред се чете едно число – радиусa на кръга.
-* Ако фигурата е **триъгълник**, на следващите два реда се четат две числа – дължината на страната му и дължината на височината към нея.
+The first line of the entrance reads the type of the figure (`square`, `rectangle`, `circle`, `triangle`).
+* If the figure is **square**, the next row reads one number - the length of its side.
+* If the figure is a **rectangle**, on the next two rows we read two numbers - the lengths of its sides.
+* If the figure is **circle**, the next row reads one number - the radius of the circle.
+* If the figure is **triangle**, on the next two rows we read two numbers - the length of the side and the length of its height.
 
-Резултатът да се закръгли до **3 цифри след десетичния знак**. 
+Round the result up to the **third digit after the decimal point**.
 
 #### Sample Input and Output
 
@@ -21,4 +21,4 @@
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/506#12](https://judge.softuni.bg/Contests/Practice/Index/506#12).
+Test your solution from the example here: [https://judge.softuni.bg/Contests/Practice/Index/506#12](https://judge.softuni.bg/Contests/Practice/Index/506#12).

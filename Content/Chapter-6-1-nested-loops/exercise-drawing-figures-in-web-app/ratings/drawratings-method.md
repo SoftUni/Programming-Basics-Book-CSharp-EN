@@ -1,4 +1,4 @@
-#### Adding the DrawRatings method
+#### Adding the DrawRatings Method
 
 Add a method **`DrawRatings`** in the controller **`HomeController`**. Open the file **`Controllers/HomeController.cs`** and add the following code:
 

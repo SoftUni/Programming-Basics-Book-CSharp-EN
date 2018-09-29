@@ -1,6 +1,6 @@
-### Problem: число от 100 до 200
+### Problem: number from 100 to 200
 
-Да се напише програма, която **въвежда цяло число** и проверява дали е **под 100**, **между 100 и 200** или **над 200**. Да се отпечатат съответно съобщения, като в примерите по-долу.
+Write a program that **inputs an integer** and checks if it is **below 100**, **between 100 and 200** or **over 200**. Print the appropriate message as in the examples below.
 
 #### Sample Input and Output
 
@@ -12,4 +12,4 @@
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/506#9](https://judge.softuni.bg/Contests/Practice/Index/506#9).
+Test your solution from the example here: [https://judge.softuni.bg/Contests/Practice/Index/506#9](https://judge.softuni.bg/Contests/Practice/Index/506#9).

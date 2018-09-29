@@ -1,4 +1,4 @@
-## Nested loops
+## Nested Loops
 
 Nested loops are a construction where **in the body of one loop** (outer) **another loop is run** (inner). For each iteration of the outer loop, **the whole** of the inner loop is executed. This happens in the following way:
 

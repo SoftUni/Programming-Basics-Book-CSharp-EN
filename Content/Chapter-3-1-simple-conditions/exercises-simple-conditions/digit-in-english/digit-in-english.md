@@ -1,6 +1,6 @@
-### Problem: изписване на число до 9 с думи
+### Problem: digit in english
 
-Да се напише програма, която въвежда **цяло число в диапазона** [**0 … 9**] и го **изписва с думи** на английски език. Ако числото е извън диапазона, изписва “**number too big**”.
+Write a program that inputs **an integer in the range** [**0 ... 9**] and output it **with words** in English. If the number is out of range, print "**too large a number**".
 
 #### Sample Input and Output
 
@@ -13,8 +13,8 @@
 
 #### Hints and Guidelines
 
-Може да използваме поредица **`if-else`** конструкции, с които да разгледаме възможните **11 случая**.
+We can use a series of **`if-else`** conditions to create the possible **11 cases**.
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/506#4](https://judge.softuni.bg/Contests/Practice/Index/506#4).
+Test your solution from the example here: [https://judge.softuni.bg/Contests/Practice/Index/506#4](https://judge.softuni.bg/Contests/Practice/Index/506#4).

@@ -1,9 +1,9 @@
-#### Aвтоматично превключване към текущия проект
+#### Auto set startup the project
 
-Включваме режим на **автоматично превключване към текущия проект** като кликнем върху главния Solution с десния бутон на мишката и изберем [**Set StartUp Projects…**]:  
+We turn on mode to **automatic switching to the current project** by clicking on the main Solution with the right mouse button and choosing [**Set StartUp Projects...**]:
 
  ![](/assets/chapter-3-images/02.Excellent-or-not-02.png)
 
- Ще се появи диалогов прозорец, от който трябва да се избере [**Startup Project**] -> [**Current selection**]:
-
+A dialog box will appear and you have to choose [**Startup Project**] -> [**Current selection**]:
+ 
  ![](/assets/chapter-3-images/02.Excellent-or-not-03.png)

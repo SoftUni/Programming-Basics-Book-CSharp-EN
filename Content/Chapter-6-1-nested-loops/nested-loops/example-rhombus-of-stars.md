@@ -1,4 +1,4 @@
-### Example: rhombus of stars
+### Example: Rhombus of Stars
 
 Write a program, which takes a positive integer **n** and prints **a rhombus of stars** with size **n**.
 
@@ -11,7 +11,7 @@ Write a program, which takes a positive integer **n** and prints **a rhombus of 
 |---|---|---|---|
 |3|<code>&nbsp;&nbsp;\*&nbsp;&nbsp;</code><br><code>&nbsp;\*&nbsp;\*&nbsp;</code><br><code>\*&nbsp;\*&nbsp;\*</code><br><code>&nbsp;\*&nbsp;\*&nbsp;</code><br><code>&nbsp;&nbsp;\*&nbsp;&nbsp;</code>|4|<code>&nbsp;&nbsp;&nbsp;\*&nbsp;&nbsp;&nbsp;</code><br><code>&nbsp;&nbsp;\*&nbsp;\*&nbsp;&nbsp;</code><br><code>&nbsp;\*&nbsp;\*&nbsp;\*&nbsp;</code><br><code>\*&nbsp;\*&nbsp;\*&nbsp;\*</code><br><code>&nbsp;\*&nbsp;\*&nbsp;\*&nbsp;</code><br><code>&nbsp;&nbsp;\*&nbsp;\*&nbsp;&nbsp;</code><br><code>&nbsp;&nbsp;&nbsp;\*&nbsp;&nbsp;&nbsp;</code>|
 
-#### Hints
+#### Hints and Guidelines
 
 To solve this problem we need to mentally **divide** **the rhombus** into **two parts** - **upper**, which **also**includes the middle row, and **lower**. For **the printing** of each part we will use **two** separate loops, as we leave the reader to decide the dependency between **`n`** and the variables of the loops. For the first loop we can use the following tips:
 
@@ -23,6 +23,6 @@ To solve this problem we need to mentally **divide** **the rhombus** into **two 
 
 ![](/assets/chapter-6-images/06.Rhombus-of-stars-01.png)
 
-#### Testing in the Judge system
+#### Testing in the Judge System
 
 Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/512#5](https://judge.softuni.bg/Contests/Practice/Index/512#5).

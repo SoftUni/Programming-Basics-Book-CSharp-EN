@@ -1,4 +1,4 @@
-# Chapter 6.1. Nested loops
+# Chapter 6.1. Nested Loops
 
 In the current chapter we will be looking at **nested loops** and how to use **`for`** loops to **draw** different **figures on the console**, which contain symbols and signs, ordered in rows and columns in the console. We will use **single** and **nested loops** (loops, which are in other loops), **calculations** and **checks**, in order to print on the console simple and not so simple figures by previously given sizes.
 
