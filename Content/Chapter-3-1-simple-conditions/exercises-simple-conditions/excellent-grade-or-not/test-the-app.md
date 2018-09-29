@@ -1,6 +1,6 @@
 #### Test the app
 
-Now **we run the program** as usual with [**Ctrl + F5**] and test it if it works correctly::
+Now **we run the program** as usual with [**Ctrl + F5**] and test it if it works correctly:
 
  ![](/assets/chapter-3-images/02.Excellent-or-not-04.png)
  ![](/assets/chapter-3-images/02.Excellent-or-not-05.png)
