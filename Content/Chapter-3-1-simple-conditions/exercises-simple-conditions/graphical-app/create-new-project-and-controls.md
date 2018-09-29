@@ -1,15 +1,15 @@
-#### Създаване на нов C# проект и добавяне на контроли
+#### Create a new C # project and add controls
 
-Този път създаваме нов **Windows Forms Application** с име “Currency-Converter”:
+This time we create a new **Windows Forms Application** with name “Currency-Converter”:
 
 ![](/assets/chapter-3-images/14.Converter-02.png)
 
-**Нареждаме следните контроли** във формата: 
-* Една кутийка за въвеждане на число (**`NumericUpDown`**)
-* Един падащ списък с валути (**`ComboBox`**)
-* Текстов блок за резултата (**`Label`**) 
-* Няколко надписа (**`Label`**)
+**We order the following controls** in the form:
+* One box for entering a number (**`NumericUpDown`**)
+* One drop-down list with currencies (**`ComboBox`**)
+* Text block for the result (**`Label`**) 
+* Several inscriptions (**`Label`**)
 
-Нагласяме **размерите** и свойствата им, за да изглеждат долу-горе като на картинката:
+We set the **sizes** and their properties to look like the picture below:
  
 ![](/assets/chapter-3-images/14.Converter-03.png)
