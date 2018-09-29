@@ -1,4 +1,4 @@
-### Example: house
+### Example: House
 
 Write a program, which takes a number **n** (2 ≤ **n** ≤ 100) and prints **a house** with size **n x n**, just as in the examples:
 

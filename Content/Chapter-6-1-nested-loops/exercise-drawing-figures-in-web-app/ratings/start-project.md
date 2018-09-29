@@ -1,4 +1,4 @@
-#### Starting the project
+#### Starting the Project
 
 Start the project with [**Ctrl+F5**] and enjoy:
 

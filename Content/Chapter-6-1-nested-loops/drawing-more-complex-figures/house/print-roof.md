@@ -1,4 +1,4 @@
-#### Printing the roof
+#### Printing the Roof
 
 After we have calculated the length of the roof we make a loop from 0 to **`roofLength`**. On each iteration we will:
 * Calculate the number of **dashes** we need to draw. The number will be equal to **`(n - stars) / 2`**. We write it down in a variable **`padding`**.

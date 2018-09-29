@@ -1,4 +1,4 @@
-### Example: diamond
+### Example: Diamond
 
 Write a program, which takes an integer **n** (1 ≤ **n** ≤ 100) and prints a diamond with size **n**, as in the following examples:
 
