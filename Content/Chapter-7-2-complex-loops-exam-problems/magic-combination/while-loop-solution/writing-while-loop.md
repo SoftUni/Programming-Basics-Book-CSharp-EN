@@ -1,10 +1,12 @@
-#### Разписване на while цикъла
+#### Writing while loop
 
-След това ще започнем да разписваме **`while`** циклите.
-- Ще инициализираме **първата цифра**: **`d1 = 0`**.
-- Ще зададем **условие за всеки** цикъл: цифрата да бъде по-малка или равна на 9.
-- В **началото** на всеки цикъл задаваме стойност на **следващата** цифра, в случая: **`d2 = 0`**. При вложените **`for`** цикли инициализираме променливите във вътрешните цикли при всяко увеличение на външните. Искаме да постигнем същото поведение и тук.
-- В **края** на всеки цикъл ще **увеличаваме** цифрата с едно: **`d++`**.
-- В **най-вътрешния** цикъл ще направим **проверката** и ако е необходимо, ще принтираме на конзолата.
+Then we will start writing **`while`** loops.
+
+- We will initialize **first digit**: **`d1 = 0`**.
+- We will set a **condition for each** loop: the digit will be less than or equal to 9.
+- In the **beginning** of every loop we set a value of the **next** digit, in this case: **`d2 = 0`**. In the nested **`for`** loops we initialize the variables in the inner loops at each increment of the outer ones.We want to do the same here.
+- At **the end**  of each loop we will increase the digit by one : **`d++`**.
+- In the **innermost** loop we will make **the check** and if necessary ,  we will print on the console.
+
 
 ![](/assets/chapter-7-exam-preparation-images/02.magic-numbers-3.png)

@@ -1,7 +1,7 @@
-#### Solution с while цикъл
+#### While loop solution
 
-В предходната глава разгледахме и други циклични конструкции. Нека разгледаме примерно решение на същата задача, в което използваме цикъла **`while`**.
+In the previous chapter we reviewed other loop constructions. Lets look at the sample solution of the same problem using the **`while`** loop.
 
-Първо трябва да запишем **входното магическо число** в подходяща променлива. След това ще инициализираме 6 променливи - по една за всяка от шестте цифри на търсените като **резултат** числа.
+First we need to store **input magical number** in a suitable variable. Then we will initialize 6 variables- one for each of the six digits of **the searched numbers**. 
 
 ![](/assets/chapter-7-exam-preparation-images/02.magic-numbers-2.png)

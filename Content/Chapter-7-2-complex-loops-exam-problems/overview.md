@@ -1,4 +1,4 @@
-﻿# Chapter 7.2.Complex loops - exam problems
+# Chapter 7.2.Complex Loops - Exam Problems
 
 We have already learned **how to execute a** block of commands **more than once** using a **for** loop. In the previous chapter **we reviewed some** **loop structures** that would help us solve more complex problems:
 

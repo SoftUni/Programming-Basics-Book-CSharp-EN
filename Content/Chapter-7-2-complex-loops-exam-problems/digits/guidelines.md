@@ -1,6 +1,7 @@
 ### Hints and Guidelines
-Решете задачата **самостоятелно**, използвайки наученото от предишните. Не забравяйте, че ще е нужно да дефинирате **отделна** променлива за всяка цифра на входното число.
+Solve the problem ** by yourself**, using the learned from the previous ones. Remember, that you will need to define **different** variables for each digit of the input number.
+
 
 ### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/515#4](https://judge.softuni.bg/Contests/Practice/Index/515#4).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/515#4](https://judge.softuni.bg/Contests/Practice/Index/515#4).

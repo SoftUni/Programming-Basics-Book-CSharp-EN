@@ -1,4 +1,4 @@
 ## Exam Problems
 
-Нека затвърдим знанията си като решим няколко по-сложни задачи с цикли, давани на приемни изпити.
+To improve our knowledge lets solve some more complicated problems with loops,used for exam contests .
 

@@ -1,4 +1,4 @@
-﻿#### Did you know that…?
+### Did you know that…?
 
 * We can **define  `for`** loop with variable of type **`char`**:
 

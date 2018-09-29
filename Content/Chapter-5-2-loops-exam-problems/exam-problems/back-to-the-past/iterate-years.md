@@ -1,5 +1,6 @@
-#### Обхождане на годините
+#### Iterate years
 
-С помощта на **`for` цикъл** ще обходим всички години. **Започваме от 1800** – годината, в която Иванчо се връща, и стигаме **до годината, до която той трябва да живее**. В цикъла проверяваме дали текущата година е **четна** или **нечетна**. Проверката за четност осъществяваме чрез **деление с остатък** (**`%`**) на 2. Ако годината е **четна**, изваждаме от наследството (**`heritage`**) **12000**, a ако е **нечетна**, изваждаме от наследството (**`heritage`**) **12000 + 50 * (годи
+
+Using a **`for` loop** , we will iterate through all years. We **start from 1800** – the year in that Ivancho returns, and we reach the **year until he must live**. We check in the loop if the current year is **even** or **odd**. We do this through **division with remainder** (**`%`**) by 2. If the year is **even**, we subtract from **`heritage`** **12000**, and if is **odd**, we subtract from **`heritage`** **12000 + 50 * (years)**.
 
 ![](/assets/chapter-5-2-images/03.Back-to-the-past-02.png)
