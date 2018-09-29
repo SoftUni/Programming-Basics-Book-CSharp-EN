@@ -1,6 +1,6 @@
 ## Problem: Back to the Past
 
-Ivancho is **18 years old** and receives an inheritance that consists of ** X ** money ** and ** time machine **. He decides **to return to 1800**, but does not know **if money** will **be enough** to live without working. Write ** a program that calculates ** if Ivancho **will have enough money**  to not have to work until the given year. Assuming that **for every even** (1800, 1802, etc.) year he **will spend 12 000 dollars**. For **every odd** (1801, 1803, etc.) he will spend **12 000 + 50 * [the age he will have reached in the given year]**.
+Ivancho is **18 years old** and receives an inheritance that consists of **X** money and **time machine**. He decides **to return to 1800**, but does not know **if money** will **be enough** to live without working. Write **a program that calculates** if Ivancho **will have enough money**  to not have to work until the given year. Assuming that **for every even** (1800, 1802, etc.) year he **will spend 12 000 dollars**. For **every odd** (1801, 1803, etc.) he will spend **12 000 + 50 * [the age he will have reached in the given year]**.
 
 ### Input Data
 
@@ -13,7 +13,7 @@ The input is read from the console and **contains exactly 2 lines**:
 **Print** on the console **1 line**. **Sum** must be **formated** to the **second decimal point**:
   * If **money is enough**:
     * „**Yes! He will live a carefree life and will have {N} dollars left.**“ – when **N** is money, which will remain.
-  *If **money is NOT enough**:
+  * If **money is NOT enough**:
     * „**He will need {М} dollars to survive.**“ – where **M** is sum, which **is NOT enough**.
 
 ### Sample Input and Output
