@@ -1,6 +1,6 @@
-### Problem: \* изписване на число от 0 до 100 с думи
+### Problem: \* number to words
 
-Да се напише програма, която превръща число в диапазона [**0 … 100**] в текст. 
+Write a program that converts a number in the range of [**0 ... 100**] into text.
 
 #### Sample Input and Output
 
@@ -12,8 +12,8 @@
 
 #### Hints and Guidelines
 
-Проверете първо за **едноцифрени числа** и ако числото е едноцифрено, отпечатайте съответната дума за него. След това проверете за **двуцифрени числа**. Тях отпечатвайте на две части: лява част (**десетици** = числото / 10) и дясна част (**единици** = числото % 10). Ако числото има 3 цифри, трябва да е 100 и може да се разгледа като специален случай.
+First check for **one-digit numbers** and if the number is one-digit, print the appropriate word for it. Then check for **two-digit numbers**. Print them in two parts: left part (**tenth** = number / 10) and right part (**units** = number % 10). If the number has 3 digits, it must be 100 and can be considered as a special case.
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/506#15](https://judge.softuni.bg/Contests/Practice/Index/506#15).
+Test your solution from the example here: [https://judge.softuni.bg/Contests/Practice/Index/506#15](https://judge.softuni.bg/Contests/Practice/Index/506#15).
