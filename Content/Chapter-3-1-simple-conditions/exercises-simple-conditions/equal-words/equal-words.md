@@ -1,6 +1,6 @@
-### Problem: еднакви думи
+### Problem: equal words
 
-Да се напише програма, която **въвежда две думи** и проверява дали са еднакви. Да не се прави разлика между главни и малки букви. Да се изведе “**yes**” или “**no**”. 
+Write a program that **inputs two words** and checks if they are the same. Do not make difference between uppercase and lowercase letters. You have to print "**yes**" or "**no**".
 
 #### Sample Input and Output
 
@@ -14,8 +14,8 @@
 
 #### Hints and Guidelines
 
-Преди сравняване на думите, ги обърнете в долен регистър, за да не оказва влияние размера на буквите (главни/малки): **`word = word.ToLower()`**.
+Before comparing the words, turn them to a lowercase to avoid the letter size influence (uppercase / lowercase): **`word = word.ToLower()`**.
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/506#10](https://judge.softuni.bg/Contests/Practice/Index/506#10).
+Test your solution from the example here: [https://judge.softuni.bg/Contests/Practice/Index/506#10](https://judge.softuni.bg/Contests/Practice/Index/506#10).
