@@ -1,7 +1,7 @@
-### Дебъгване във Visual Studio
+### Debbuging in Visual Studio
 
-Чрез натискане на бутона [**F10**], стартираме програмата в **debug режим**. Преминаваме към **следващия ред** отново с [**F10**]. 
+By pressing the [**F10**] button, we run the program in **debug mode**. We move to **the next line** again with [**F10**].
 
 ![](/assets/chapter-3-images/00.Debugging-02.png)
 
-Чрез [**F9**] създаваме стопери – така наречените **breakpoints**, до които можем да стигнем директно използвайки [**F5**] при стартирането на програмата.
+With [**F9**] we create stoppers - the so-called **breakpoints**, that we can get directly using [**F5**] when we start the program.
