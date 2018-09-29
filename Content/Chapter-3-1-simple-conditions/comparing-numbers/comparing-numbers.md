@@ -13,6 +13,6 @@ When compared the result is boolean value **true** or **false**, depending on wh
 
 ### Examples of comparing numbers
 
-![](assets/chapter-3-images/00.Comparing-numbers-01.png)
+![](/assets/chapter-3-images/00.Comparing-numbers-01.png)
 
 Note that when printing the **true** and **false** values in C # language, they are printed with a capital letter, respectively **True** and **False**.

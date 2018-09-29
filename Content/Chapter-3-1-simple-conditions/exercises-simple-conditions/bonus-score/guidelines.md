@@ -1,15 +1,15 @@
 #### Hints and Guidelines
 
-Основните и допълнителните бонус точки можем да изчислим с поредица от няколко **`if-else-if-else`** проверки. Като за **основните бонус точки имаме 3 случая** (когато въведеното число е до 100, между 100 и 1000 и по-голямо от 1000), а за **допълнителните бонус точки - още 2 случая** (когато числото е четно и нечетно).
+We can calculate the basic and additional bonus points with a series of **`if-else-if-else`** conditions. For **the main bonus points we have 3 cases** (when the entered number is up to 100, between 100 and 1000 and larger than 1000), and for **extra bonus points - 2 more cases** (when the number is even and odd).
 
 ![](/assets/chapter-3-images/06.Bonus-score-01.png)
 
-Ето как би могло да изглежда решението на задачата в действие:
+Here's an example solution::
 
 ![](/assets/chapter-3-images/06.Bonus-score-02.png)
 
-Обърнете внимание, че за тази задача judge е настроен да игнорира всичко, което не е число, така че можем да печатаме не само числата, но и уточняващ текст.
+Note that for this exercise, the judge is set to ignore anything that is not a number, so we can print not only the numbers, but also the specifying text.
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/506#5](https://judge.softuni.bg/Contests/Practice/Index/506#5).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/506#5](https://judge.softuni.bg/Contests/Practice/Index/506#5).
