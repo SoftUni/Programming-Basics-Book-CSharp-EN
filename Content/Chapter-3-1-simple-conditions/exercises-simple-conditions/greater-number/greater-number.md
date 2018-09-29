@@ -1,6 +1,6 @@
-### Problem: намиране на по-голямото число
+### Problem: Greater number
 
-Да се напише програма, която въвежда **две цели числа** и отпечатва по-голямото от двете.
+Write a program that inputs **two integers** and prints the larger one.
 
 #### Sample Input and Output
 
