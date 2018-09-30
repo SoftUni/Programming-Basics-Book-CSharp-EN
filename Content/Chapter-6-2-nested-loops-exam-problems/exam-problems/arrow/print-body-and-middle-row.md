@@ -1,9 +1,9 @@
-#### Отпечатване на тялото и средния ред на стрелката
+#### Printing the Body and the Middle Row of the Arrow
 
-За да нарисуваме на конзолата **тялото на стрелката**, трябва да създадем **цикъл**, който да се повтори **`n - 2`** пъти.
+In order to draw **the body of the arrow**, we need to make **a loop**, which recurs **`n - 2`** times.
 
 ![](/assets/chapter-6-2-images/04.Arrow-05.png)
 
-**Средата на фигурата** е съставена от начало **`#`**, среда **`.`** и край **`#`**. Броят на **`#`** е равен на **`outerDots`** и за това можем да използваме отново същата **променлива**.
+**The middle of the figure** is made of a beginning **`#`**, a middle **`.`** and an end **`#`**. The number of **`#`** is equal to **`outerDots`** and that's why we can use the same **variable** again.
 
 ![](/assets/chapter-6-2-images/04.Arrow-06.png)

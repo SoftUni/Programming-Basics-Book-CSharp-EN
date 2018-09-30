@@ -1,10 +1,10 @@
-### Прочитане на входните данни
+### Reading the Input Data
 
-От условието на задачата виждаме, че **входните данни** ще се състоят само от един ред, който ще съдържа в себе си едно **цяло число** в интервала [**3 … 1000**]. По тази причина ще използваме **променлива** от тип **`int`**.
+We can see from the explanation that **the input data** will be only one row which will contain **an integer** in the interval [**3 … 1000**]. Therefore we will use **a variable** of type **`int`**.
 
 ![](/assets/chapter-6-2-images/01.Draw-fort-01.png)
 
-След като вече сме декларирали и инициализирали входните данни, трябва да разделим **крепостта** на три части:
-* покрив
-* тяло
-* основа
+After we have declared and initialized the input data we must divide **the fort** into three parts:
+* roof
+* body
+* base

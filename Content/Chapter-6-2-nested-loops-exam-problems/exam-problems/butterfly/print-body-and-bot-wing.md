@@ -1,13 +1,13 @@
-#### Отпечатване на тялото и долното крило 
+#### Printing the Body and the Lower Wing 
 
-За да направим **тялото на пеперудата**, можем отново да използваме **променливата** **`halfRowSize`** и да отпечатаме на конзолата точно **един** ред. Структурата на тялото е с начало **`(празно място)`**, среда **`@`** и край **`(празно място)`**.
+In order to make **the body of the butterfly** we can use **the variable** **`halfRowSize`** again and print in the console exactly **one** row. The body structure begins with **`(white space)`**, middle **`@`** and ends with **`(white space)`**.
 
 ![](/assets/chapter-6-2-images/02.Butterfly-05.png)
 
-Остава да отпечатаме на конзолата и долното крило, което е еднакво с горното крило.
+Now we need to print the lower wing, which is the same as the upper.
 
 ![](/assets/chapter-6-2-images/02.Butterfly-06.png)
 
 ### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/513#1](https://judge.softuni.bg/Contests/Practice/Index/513#1).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/513#1](https://judge.softuni.bg/Contests/Practice/Index/513#1).

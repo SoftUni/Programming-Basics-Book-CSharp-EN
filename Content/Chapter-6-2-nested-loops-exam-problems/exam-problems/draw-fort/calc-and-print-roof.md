@@ -1,19 +1,19 @@
-#### Изчисляване и отпечатване на покрива
+#### Calculating and Printing the Roof
 
-От примерите можем да разберем, че **покривът** е съставен от **две кули** и **междинна част**. Всяка кула се състои от начало **`/`**, среда **`^`** и край **`\`**.
+We can see from the examples that **the roof** is made of **two towers** and **a middle part**. Each tower has a beginning **`/`**, middle **`^`** and an end **`\`**.
 
 <table><tr><td><img src="/assets/alert-icon.png" style="max-width:50px" /></td>
-<td><strong><code>\</code></strong> е специален символ в езика C# и използвайки само него в метода <strong><code>Console.WriteLine(…)</code></strong>, конзолата няма да го разпечата, затова с <strong><code>\\</code></strong> показваме на конзолата, че искаме да отпечатаме точно този символ, без да се интерпретира като специален (<b>екранираме го</b>, на английски се нарича “<b>character escaping</b>”).</td>
+<td><strong><code>\</code></strong> is a special symbol in C# and using only it in the method <strong><code>Console.WriteLine(…)</code></strong>, the console will not print it, that's why we show with <strong><code>\\</code></strong> that we want to print exactly this symbol, without being interpreted as a special symbol (<b>escaping it</b>).</td>
 </tr></table>
 
-Средата е с размер, равен на **`n / 2`**, следователно можем да отделим тази стойност в отделна **променлива**. Тя ще пази **големината** на **средата на кулата**.
+The size of the middle is **`n / 2`**, therefore we can write this value in a new **variable**. It will keep **the size** of **the middle of the tower**.
 
 ![](/assets/chapter-6-2-images/01.Draw-fort-02.png)
 
-Декларираме си и втора **променлива**, в която ще пазим **стойността** на частта **между двете кули**. Междинната част на покрива е с размер  **`2 * n - 2 * colSize - 4`**.
+Now we declare a second **variable**, which will keep **the value** of the part **between the two towers**. The middle of the roofs size is **`2 * n - 2 * colSize - 4`**.
 
 ![](/assets/chapter-6-2-images/01.Draw-fort-03.png)
 
-За да отпечатаме на конзолата **покрива**, ще използваме **`new string`**, която приема два параметъра **`(char, int)`** и съединява даден символ **n** на брой пъти.
+In order to print **the roof**, we will use **`new string`**, which takes two parameters **`(char, int)`** and connects a symbol **n** times.
 
 ![](/assets/chapter-6-2-images/01.Draw-fort-04.png)

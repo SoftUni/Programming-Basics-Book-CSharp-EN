@@ -1,6 +1,6 @@
-# Chapter 6.2. Вложени цикли – изпитни задачи
+# Chapter 6.2. Nested Loops - Exam Problems
 
-В предходната глава разгледахме **вложените цикли** и как да ги използване за **рисуване** на различни **фигури на конзолата**. Научихме се как да отпечатваме фигури с различни размери, измисляйки подходяща логика на конструиране с използване на **единични и вложени `for`** цикли в комбинация с различни изчисления и програмна логика:
+In the previous chapter we looked at **nested loops** and how to use them to **draw** different kinds of **figures on the console**. We learned how to print figures with different sizes, thinking of an appropriate logic to construct them using **single and nested `for`** loops in combination with various calculations and program logic:
 
 ```csharp
 for (var r = 1; r <= 5; r++)
@@ -12,7 +12,7 @@ for (var r = 1; r <= 5; r++)
 }
 ```
 
-Запознахме се и с **конструктора `new string`**, който дава възможност да се печата **даден символ определен** от нас **брой** пъти:
+We also learned of **the constructor `new string`**, which lets you print **a character a fixed** by us **number of** times:
 
 ``` csharp
 string printMe = new string('*', 5);

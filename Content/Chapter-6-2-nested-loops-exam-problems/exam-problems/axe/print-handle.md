@@ -1,5 +1,5 @@
-#### Отпечатване на дръжката 
+#### Printing the Handle 
 
-**Дръжката на брадвата** можем да нарисуваме, като завъртим цикъл, който се повтаря **`n - 2`** пъти. От примерите можем да разберем, каква е нейната структура.
+We can draw **the handle of the axe** by making a loop, which recurs **`n - 2`** times. We can see in the examples what its structure is.
 
 ![](/assets/chapter-6-2-images/05.Axe-04.png)

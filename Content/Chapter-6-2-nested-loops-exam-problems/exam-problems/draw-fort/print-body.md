@@ -1,5 +1,5 @@
-#### Отпечатване на тялото на замъка
+#### Printing the Body of the Fort
 
-**Тялото на крепостта** се състои от начало **`|`**, среда **`(празно място)`** и край **`|`**. **Средата** от празно място е с големина **`2 * n - 2`**. Броят на **редовете** за стени, можем да определим от дадените ни примери - **`n - 3`**.
+**The body of the fort** contains a beginning **`|`**, a middle **`(white space)`** and an end **`|`**. **The middle** fo white spaces is **`2 * n - 2`** columns wide. The number of **the rows** for walls can be found in the examples - **`n - 3`**.
 
 ![](/assets/chapter-6-2-images/01.Draw-fort-05.png)
