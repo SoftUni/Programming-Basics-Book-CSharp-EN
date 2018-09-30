@@ -1,18 +1,18 @@
-#### Тестване на програмата локално
+#### Testing the program locally 
 
-Да тестваме с дробни числа, например с **2.5**:
+Let us test with floating-point numbers, for example with **2.5**:
 
 ![](/assets/chapter-2-images/02.Inches-to-centimeters-10.png)
 
 <table><tr><td><img src="/assets/alert-icon.png" style="max-width:50px" /></td>
-<td>В зависимост от регионалните настройки на операционната система, е възможно вместо <b>десетична точка</b> (US настройки) да се използва <b>десетична запетая</b> (BG настройки).</td>
+<td>Depending on the regional settings of the operational system, it is possible instead of using a <b>decimal point </b> (US settings), to be used a <b>decimal comma</b> (BG settings).</td>
 </tr></table>
 
-Ако програмата очаква десетична точка и бъде въведено число с десетична запетая или обратното (бъде въведена десетична точка, когато се очаква десетична запетая), ще се получи следната грешка:
+If the program expects a decimal point and instead a number with a decimal comma is entered or the opposite (to enter a decimal point, when a decimal comma is expected), the following error will be received:
 
 ![](/assets/chapter-2-images/02.Inches-to-centimeters-13.png)
 
-Препоръчително е **да променим настройките на компютъра си**, така че да се използва **десетична точка**:
+It is recomended to **change the settings of our computer** to use a **decimal point**:
 
 ![](/assets/chapter-2-images/02.Inches-to-centimeters-14.png)
 

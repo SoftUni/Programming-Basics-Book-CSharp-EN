@@ -1,10 +1,10 @@
-### Problem:	конзолен конвертор - от радиани в градуси
+### Problem:	console converter - from radians to degrees
 
-Напишете програма, която чете **ъгъл в [радиани](https://bg.wikipedia.org/wiki/Радиан)** (**`rad`**) и го преобразува в **[градуси](https://bg.wikipedia.org/wiki/Градус_(ъгъл))** (`deg`). Потърсете в Интернет подходяща формула. Числото **π** в C# програмите е достъпно чрез **``Math.PI``**. Закръглете резултата до най-близкото цяло число използвайки метода **``Math.Round(…)``**.
+Write a program, that reads **an angle in [radians](https://bg.wikipedia.org/wiki/Радиан)** (**`rad`**) and converts it to **[degrees](https://bg.wikipedia.org/wiki/Градус_(ъгъл))** (`deg`). Look for a proper formula on the Internet. The number **π** in C# programs is available through **``Math.PI``**. Round the result to the nearest whole number using the **``Math.Round(…)``** method.
 
 #### Sample Input and Output
 
-|  Вход  | Output |
+|  Input  | Output |
 |------|-----|
 | 3.1416 |  180  |       
 | 6.2832 |  360  | 
@@ -13,4 +13,4 @@
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/504#9](https://judge.softuni.bg/Contests/Practice/Index/504#9).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/504#9](https://judge.softuni.bg/Contests/Practice/Index/504#9).

@@ -1,9 +1,8 @@
-### Събиране на числа (оператор **`+`**)
+### Addition of Numbers (operator **`+`**)
 
-Можем да събираме числа с оператора **`+`**:
+We can add a number with the operator **`+`**:
 
 ```csharp
 var a = 5;
 var b = 7;
-var sum = a + b; // резултатът е 12
-```
+var sum = a + b; // the result is 12

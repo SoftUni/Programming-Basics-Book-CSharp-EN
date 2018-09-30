@@ -1,3 +1,3 @@
-## Графични приложения с числови изрази
+## Graphical Applications with Numerical Expressions
 
-За да упражним работата с променливи и пресмятания с оператори и числови изрази, ще направим нещо интересно: ще разработим **настолно приложение** с графичен потребителски интерфейс. В него ще използваме пресмятания с дробни числа.
+To exercise working with variables and calculations with operators and numerical expressions, we will make something interesting: we will develop a **desktop application** with graphical user interface. In it, we will use calculations with floating-point numbers.

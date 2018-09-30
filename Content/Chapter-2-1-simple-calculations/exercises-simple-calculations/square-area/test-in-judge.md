@@ -1,7 +1,9 @@
-#### Testing in the Judge System
+#### Tetsing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/504#0](https://judge.softuni.bg/Contests/Practice/Index/504#0). Трябва да получите 100 точки (напълно коректно решение):
+Test your solution here:  [https://judge.softuni.bg/Contests/Practice/Index/504#0](https://judge.softuni.bg/Contests/Practice/Index/504#0).        You have to receive  100 points (completely correct solution):
 
 ![](/assets/chapter-2-images/01.Square-area-05.png)
 
 ![](/assets/chapter-2-images/01.Square-area-06.png)
+
+

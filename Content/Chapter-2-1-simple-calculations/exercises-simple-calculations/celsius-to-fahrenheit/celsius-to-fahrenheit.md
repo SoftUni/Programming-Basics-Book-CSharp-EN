@@ -1,6 +1,6 @@
-### Problem:	конзолен конвертор - от градуси °C към градуси °F
+### Problem:	console converter - from degrees on °C to degrees on °F
 
-Напишете програма, която чете **градуси по скалата на Целзий** (°C) и ги преобразува до **градуси по скалата на Фаренхайт** (°F). Потърсете в Интернет подходяща [формула](http://bfy.tw/3rGh "Търсене в Google"), с която да извършите изчисленията. Закръглете резултата до **2 символа след десетичния знак**. Ето няколко примера:
+Write a program that reads **degrees on Celsius scale** (°C) and converts them to **degrees on Fahrenheit** (°F). Look on the Internet for a proper [formula](http://bfy.tw/3rGh "Търсене в Google") to do the calculations. Round the result to **2 digits after the decimal separator**. Here are a few examples:
 
 #### Sample Input and Output
 
@@ -13,4 +13,4 @@
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/504#8](https://judge.softuni.bg/Contests/Practice/Index/504#8).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/504#8](https://judge.softuni.bg/Contests/Practice/Index/504#8).

@@ -1,10 +1,10 @@
-### Графично приложение: \*\*\* Хвани бутона!
+### Graphical application: \*\*\* Catch the button!
 
-Създайте забавно графично приложение **„хвани бутона“**: една форма съдържа един бутон. При преместване на курсора на мишката върху бутона той се премества на случайна позиция. Така се създава усещане, че **„бутонът бяга от мишката и е трудно да се хване“**. При „хващане“ на бутона се извежда съобщение-поздрав.
+Create a fun graphical application **„catch the button“**: a form consisting of one button. By moving the mouse cursor onto the button, it moves on random position. This way it creates the impression that **„the button runs form the mouse and it is hard to catch"**. When the button gets „caught“, a congratulations message is shown.
 
 ![](/assets/chapter-2-images/14.Catch-the-button-01.png)
 
-**Подсказка**: напишете обработчик за събитието **``Button.MouseEnter``** и премествайте бутона на случайна позиция. Използвайте генератор за случайни числа **``Random``**. Позицията на бутона се задава от свойството **``Location``**. За да бъде новата позиция на бутона в рамките на формата, можете да направите изчисления спрямо размера на формата, който е достъпен от свойството **``ClientSize``**. Можете да ползвате следния примерен код:
+**Hint**: write an eventhandler **``Button.MouseEnter``** and move the button on random position. Use the generator for random numbers **``Random``**. The position of the button is set from the property **``Location``**. To make sure the new position of the button is in the form's borders, you can make calculations based on the size of the form, which is available from the **``ClientSize``** property. You may use the following sample code:
 
 ```csharp
 private void buttonCatchMe_MouseEnter(object sender, EventArgs e)

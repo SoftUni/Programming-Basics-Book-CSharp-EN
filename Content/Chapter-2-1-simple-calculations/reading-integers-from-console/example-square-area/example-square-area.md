@@ -1,6 +1,6 @@
-### Example: пресмятане на лице на квадрат със страна **а**
+### Example: calculating a square area with side **а**
 
-За пример да вземем следната програма, която прочита цяло число от конзолата, умножава го по него самото (вдига го на квадрат) и отпечатва резултата от умножението. Така можем да пресметнем лицето на квадрат по дадена дължина на страната:
+For example, let us look at the following program, which reads an integer from the console, multiplies it by itself (squares it) and prints the result from the multiplication. This way we can calculate the square area by the given length of the side:
 
 ```csharp
 Console.Write("a = ");              
@@ -10,12 +10,12 @@ Console.Write("Square area = ");
 Console.WriteLine(area);
 ```
 
-Ето как би работила програмата при квадрат с размер на страната 3:
+Here is how the program would work when we have a square with a side length equal to 3:
 
 ![](/assets/chapter-2-images/00.Square-area-01.jpg)
 
-Опитайте да въведете грешно число, например "**hello**". Ще получите съобщение за грешка по време на изпълнение (exception). Това е нормално. По-късно ще разберем как можем да прихващаме такива грешки и да караме потребителят да въвежда число наново.
+Try to write a wrong number, for example "**hello**". You will receive an error message during runtime (exception). This is normal. Later on, we will find out how we can catch this kinds of errors and make the user enter a number again. 
 
-#### Testing in the Judge System
+#### Testing in the Judge system
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/504#0](https://judge.softuni.bg/Contests/Practice/Index/504#0).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/504#0](https://judge.softuni.bg/Contests/Practice/Index/504#0).

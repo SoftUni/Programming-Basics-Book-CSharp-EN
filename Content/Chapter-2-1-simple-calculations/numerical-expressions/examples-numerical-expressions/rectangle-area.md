@@ -1,10 +1,10 @@
-### Example: лице на правоъгълник в равнината
+### Example: area of a rectangle on a coordinate plane
 
-Правоъгълник е зададен с **координатите на два от своите два срещуположни ъгъла**. Да се пресметнат **площта и периметъра** му:
+There is a given rectangle with the **coordinates of two of its opposite angles**. Calculate the  **area and its perimeter**:
 
 <img alt="rectangleArea" src="/assets/chapter-2-images/00.Rectangle-area-01.png" width="250" height="200" />
 
-В тази задача трябва да съобразим, че ако от по-големия `x` извадим по-малкия `x`, ще получим дължината на правоъгълника. Аналогично, ако от по-големия `y` извадим по-малкия `y`, ще получим височината на правоъгълника. Остава да умножим двете страни. Ето примерна имплементация на описаната логика:
+In this task, we have to consider that if we substract the smaller `x` from the bigger `x`, we will receive the length of the rectangle. Analogically, if we substract the smaller `y` from the bigger `y` , we will receive the height of the rectangle. What is left is to multiply both sides. Here is an example of an implementation of the described logic: 
 
 ```csharp
 var x1 = double.Parse(Console.ReadLine());
@@ -12,7 +12,7 @@ var y1 = double.Parse(Console.ReadLine());
 var x2 = double.Parse(Console.ReadLine());
 var y2 = double.Parse(Console.ReadLine());
 
-// Изчисляване страните на правоъгълника:
+// Calculating the sides of the rectangle:
 var width = Math.Max(x1, x2) - Math.Min(x1, x2);
 var height = Math.Max(y1, y2) - Math.Min(y1, y2);
 
@@ -20,12 +20,12 @@ Console.WriteLine("Area = " + width * height);
 Console.WriteLine("Perimeter = " + 2 * (width + height));
 ```
 
-Използваме **`Math.Max(a, b)`**, за да намерим по-голямата измежду стойностите **`a`** и **`b`** и аналогично **`Math.Min(a, b)`** за намиране на по-малката от двете стойности.
+We use **`Math.Max(a, b)`**, to find the bigger value **`a`** and **`b`** and analogically **`Math.Min(a, b)`** to find the smaller of both values. 
 
-При стартиране на програмата със стойностите от координатната система в условието, получаваме следния резултат:
+When the program is executed with the values from the coordinate system given in the condition, we receive the following result:
 
 ![](/assets/chapter-2-images/00.Rectangle-area-02.jpg)
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/504#6](https://judge.softuni.bg/Contests/Practice/Index/504#6).
+Test your solution here:[https://judge.softuni.bg/Contests/Practice/Index/504#6](https://judge.softuni.bg/Contests/Practice/Index/504#6).

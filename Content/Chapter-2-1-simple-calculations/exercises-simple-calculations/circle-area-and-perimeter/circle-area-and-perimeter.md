@@ -1,20 +1,20 @@
-### Problem:	периметър и лице на кръг
+### Problem:	circle area and perimeter
 
-Напишете програма, която чете от конзолата **число r** и пресмята и отпечатва **лицето и периметъра на кръг**/**окръжност** с **радиус r**.
+Write a program that reads from the console a **number r** and calculates and prints **the circle's area and perimeter** with **radius r**.
 
-#### Sample Input and Output
+#### Input and output 
 
-| Input  |           Изход                                          |    
+| Input  |           Output|    
 |-----|--------------------------------------------------------|
 | 3     | Area = 28.2743338823081 <br> Perimeter = 18.8495559215388|
 | 4.5   | Area = 63.6172512351933 <br> Perimeter = 28.2743338823081|
 
-#### Hints and Guidelines
+#### Hints and Guideliness 
 
-За изчисленията можете да използвате следните формули:
+For the calculations you may use the following formulas: 
 -	**`Area = Math.PI * r * r`**.
 -	**`Perimeter = 2 * Math.PI * r`**.
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/504#5](https://judge.softuni.bg/Contests/Practice/Index/504#5).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/504#5](https://judge.softuni.bg/Contests/Practice/Index/504#5).

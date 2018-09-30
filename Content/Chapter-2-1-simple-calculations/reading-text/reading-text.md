@@ -1,9 +1,9 @@
-## Четене на текст
+## Reading a Text
 
-За да прочетем текст (стринг) от конзолата, отново **декларираме нова променлива** и използваме стандартната **команда за четене на информация от системната конзола**:
+To read a text (string) from the console, again, we have to **declare a new variable** and use the standart  **command for reading information from the console**:
 
 ```csharp
 var str = Console.ReadLine();
 ```
 
-Нека обърнем внимание на факта, че при **четене на текст не се декларира** по никакъв начин тип "**`string`**" (текст). Това е така, защото по подразбиране методът **`Console.ReadLine(…)`** връща като **резултат текст**. Допълнително, вие можете да зададете текста да бъде прехвърлен в цяло число чрез **`int.Parse(…)`** или дробно число чрез **`double.Parse(…)`**. Ако това не се направи, за програмата **всяко едно число** ще бъде просто **текст**, с който **не бихме могли да извършваме** аритметични операции.
+Let us pay attention to the fact that the **reading of  text is not declared** in any way as a type "**`string`**" (text). The reason is because by default the  **`Console.ReadLine(…)`** method returns a **text result**. Additionally, you can parse the text to an integer by **`int.Parse(…)`** or a real number by **`double.Parse(…)`**. If this is not done, for the program **every number** will be just **text**, and we **cannot do** arithmetic operations with it.

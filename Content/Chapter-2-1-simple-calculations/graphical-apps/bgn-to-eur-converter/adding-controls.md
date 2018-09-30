@@ -1,18 +1,18 @@
-#### Добавяне на контроли
+#### Adding controls
 
-Подреждаме следните UI контроли във формата:
+We arrange the following UI controls in the format: 
 
-* **`NumericUpDown`** с име **`numericUpDownAmount`** – ще въвежда сумата за конвертиране
-*	**`Label`** с име **`labelResult`** – ще показва резултата след конвертиране
-*	Още два **`Label`** компонента, служещи единствено за статично изобразяване на текст
+* **`NumericUpDown`** with name **`numericUpDownAmount`** – it will enter the amount for conversion
+*	**`Label`** with name **`labelResult`** – it will show the result after conversion
+*	Two more **`Label`** components, serving only for static representation of a text
 
-Графичният редактор за потребителски интерфейс може да изглежда по подобен начин:
+The graphical editor for user interface might look similar to this:
 
 ![](/assets/chapter-2-images/13.Currency-converter-03.png)
 
-Задаваме следните настройки на формата и на отделните контроли:
+We set the following settings of the format and the separate controls:
 
-|                                             Настройка                                                 | Снимка|
+|                                             Setting                                                 | Picture|
 |:-----------------------------------------------------------------------------------------------------:|:-----:|
 |**``FormConverter``**:<br>Text = "BGN to EUR",<br>Font.Size = 12,<br>MaximizeBox = False,<br>MinimizeBox = False,<br>FormBorderStyle = FixedSingle | <img alt="formConverter" src ="/assets/chapter-2-images/13.Currency-converter-04.png" /> |
 |**``numericUpDownAmount``**:<br>Value = 1,<br>Minimum = 0,<br>Maximum = 10000000,<br>TextAlign = Right,<br>DecimalPlaces = 2 | <img alt="numUpDown" src ="/assets/chapter-2-images/13.Currency-converter-05.png" /> |

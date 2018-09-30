@@ -1,16 +1,16 @@
-### Problem:	\* конзолен междувалутен конвертор
+### Problem:	\* console currency converter
 
-Напишете програма за **конвертиране на парична сума от една валута в друга**. Трябва да се поддържат следните валути: **BGN, USD, EUR, GBP**. Използвайте следните фиксирани валутни курсове:
+Write a program for **conversion of money from one currency to another**. It has to maintain the following currencies: **BGN, USD, EUR, GBP**. Use the following fixed currency rates:
 
 |  Курс  |   USD   |   EUR   |   GBP   |
 |:------:|:-------:|:-------:|:-------:|
 | 1 BGN  | 1.79549 | 1.95583 | 2.53405 |
 
-**Входът** e **сума за конвертиране**, **входна валута** и **изходна валута**. **Изходът** е едно число – преобразуваната сума по посочените по-горе курсове, закръглен до **2 цифри** след десетичната точка. 
+**The input** is **sum for conversion**, **input currency** and **output currency**. **The output** is one number – the converted value of the above currency rates, rounded **2 digits** after the decimal point. 
 
 #### Sample Input and Output
 
-|        Вход        |   Изход  |
+|        Input        |   Output  |
 |------------------|--------|
 |   20<br>USD<br>BGN |35.91 BGN |     
 |  100<br>BGN<br>EUR |51.13 EUR | 
@@ -19,4 +19,4 @@
  
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/504#11](https://judge.softuni.bg/Contests/Practice/Index/504#11).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/504#11](https://judge.softuni.bg/Contests/Practice/Index/504#11).

@@ -1,3 +1,3 @@
-## Аритметични операции
+## Arithmetic Operations
 
-Да разгледаме базовите аритметични операции в програмирането.
+Let us look at the basic arithmetic operations in programming.
