@@ -1,14 +1,14 @@
-## Problem: деление без остатък
+## Problem: Division without Remainder
 
-Дадени са **n цели числа** в интервала [**1 … 1000**]. От тях някакъв **процент p1 се делят без остатък на 2**, **процент p2** се **делят без остатък на 3**, **процент p3** се **делят без остатък на 4**. Да се напише програма, която изчислява и отпечатва процентите p1, p2 и p3.
-**Example:** имаме **n = 10** числа: 680, 2, 600, 200, 800, 799, 199, 46, 128, 65. Получаваме следното разпределение и визуализация:
+We have **n integers** in the range [**1 ... 1000**]. From them, **some percent p1 are divisible without remainder by 2**, **percent p2** are **divisible withour remainder by 3**, **percent p3** are **divisible without remainder by 4**. Write a program that calculates and prints the p1, p2 and p3 percents.
+**Example:** We have **n = 10** numbers: 680, 2, 600, 200, 800, 799, 199, 46, 128, 65. We get the following distribution and visualization:
 <table>
 <thead>
 <tr>
-<th align="left"><strong>Деление без остатък на:</strong></th>
-<th align="left"><strong>Числа</strong></th>
-<th align="left"><strong>Брой</strong></th>
-<th align="left"><strong>Процент</strong></th>
+<th align="left"><strong>Division without remainder by:</strong></th>
+<th align="left"><strong>Numbers</strong></th>
+<th align="left"><strong>Count</strong></th>
+<th align="left"><strong>Percent</strong></th>
 </tr>
 </thead>
 <tbody>
@@ -35,14 +35,14 @@
 
 ### Input Data
 
-На първия ред от входа стои цялото число **n** (1 ≤ **n** ≤ 1000) – брой числа. На следващите **n реда** стои **по едно цяло число** в интервала [**1 … 1000**] – числата, които да бъдат проверени на колко се делят.
+On the first line of the input is the integer **n** (1 ≤ **n** ≤ 1000) - count of numbers. In the next **n lines** stands ** one integer** in the range [**1 … 1000**] – numbers, that needs to be checked for division.
 
 ### Output Data
 
-Да се отпечатат на конзолата **3 реда**, всеки от които съдържа процент между 0% и 100%, с точност две цифри след десетичния знак, например 25.00%, 66.67%, 57.14%.
- * На **първия ред** – процентът на числата, които **се делят на 2**.
- * На **втория ред** – процентът на числата, които **се делят на 3**.
- * На **третия ред** – процентът на числата, които **се делят на 4**.
+Print on the console **3 lines**, each of them containing a percent between 0% and 100%, two places after the decimal point, for example 25.00%, 66.67%, 57.14%.
+ * On the **first line** – percent of the numbers, that are **divisible by 2**.
+ * On the **second line** – percent of the numbers, that are **divisible by 3**.
+ * On the **third line** – percent of the numbers, that are **divisible by 4**.
 
 ### Sample Input and Output
 

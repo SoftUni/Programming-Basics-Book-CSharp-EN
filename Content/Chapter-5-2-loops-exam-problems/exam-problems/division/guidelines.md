@@ -1,14 +1,14 @@
 ### Hints and Guidelines
 
-За тази и следващата задача ще трябва сами да напишете програмния код, следвайки дадените напътствия.
+For current and next task you will need to write by yourself the program code, following the given guidelines.
 
-Програмата, която решава текущия проблем, е аналогична на тази от задача **Хистограма**, която разгледахме по-горе. Затова можем да започнем с декларацията на нужните ни променливи:
-Примерни имена на променливи може да са: **`n`** – брой на числата (който трябва да прочетем от конзолата) и **`divisibleBy2`**, **`divisibleBy3`**, **`divisibleBy4`** – помощни променливи, пазещи броя на числата от съответната група.
+The program that solves the current problem is similar with the one from **Histogram** problem, which we reviewed above. That's why we can start declaring the necessary variables:
+Sample names of variables may be: **`n`** – count of numbers (that we need to read from the console) and **`divisibleBy2`**, **`divisibleBy3`**, **`divisibleBy4`** – helping variables, that keeps the count of the numbers in corresponding group.
 
-За да прочетем и разпределим всяко число в съответната му група, ще трябва да завъртим **`for` цикъл** от **`0`** до **`n`** (броя на числата). Всяка итерация на цикъла трябва да прочита и разпределя **едно единствено число**. Различното тук е, че **едно число може да попадне в няколко групи едновременно**, затова трябва да направим **три отделни `if` проверки за всяко число** – съответно дали се дели на 2, 3 и 4 (**`if-else`** конструкция в този случай няма да ни свърши работа, защото след като намери съвпадение се прекъсва по-нататъшното проверяване на условията) и да увеличим стойността на променливата, която пази броя на числата в съответната група.
+To read and allocate each number to its corresponding group we have to rotate **`for` loop** from **`0`** to **`n`** (count of numbers). Each iteration of the loop should read and allocate **one single number**. The difference here is that a **single number can get into several groups at once**, so we have to make **three separate `if` checks for each number** – respectively whether it is divided by 2, 3 and 4 (using **`if-else`** construction in this case will not work, because after finding a match is interrupted further checking the conditions) and increase the value of the variable that keeps the count of numbers in corresponding group.
 
-Накрая трябва да отпечатате получените резултати, като спазвате посочения формат в условието.
+Finally you need to print the received results, by following the specified format.
 
 ### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/511#4](https://judge.softuni.bg/Contests/Practice/Index/511#4).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/511#4](https://judge.softuni.bg/Contests/Practice/Index/511#4).
