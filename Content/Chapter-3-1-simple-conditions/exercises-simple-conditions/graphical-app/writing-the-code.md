@@ -1,7 +1,7 @@
-#### Писане на програмния код
+#### Writing the code
 
-Следва да напишем действието **`ConvertCurrency()`** за конвертиране на въведената сума от лева в избраната валута:
- 
+We have to write the event **`ConvertCurrency()`** to convert the amount of levs in the selected currency:
+
 ```csharp
 private void ConvertCurrency()
 {
@@ -24,6 +24,6 @@ private void ConvertCurrency()
 }
 ```
 
-Горният код взима **сумата** за конвертиране от полето **`numericUpDownAmount`** и **избраната валута** за резултата от полето **`comboBoxCurrency`**. След това с **условна конструкция**, според избраната валута, сумата се дели на **валутния курс** (който е фиксиран твърдо в сорс кода). Накрая се генерира текстово **съобщение с резултата** (закръглен до 2 цифри след десетичния знак) и се записва в зелената кутийка **`labelResult`**. Опитайте!
+The above code takes **the amount** for convert from the field **`numericUpDownAmount`** and **the selected currency** for the result from the field **`comboBoxCurrency`**. Then with a **conditional statement**, according to the selected currency, the amount is divided by **the exchange rate** (which is fixed in the source code). Finally, a text **message with the result** (rounded to second digit after the decimal point) is generated and recorded in the green box **`labelResult`**. Try it!
 
-Ако имате проблеми с примера по-горе, **гледайте видеото** в началото на тази глава или питайте във **форума на SoftUni**: https://softuni.bg/forum.
+If you have problems with the example above, **watch the video** at the beginning of this chapter or ask in the **forum of SoftUni**: https://softuni.bg/forum.

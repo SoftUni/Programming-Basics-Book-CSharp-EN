@@ -1,15 +1,15 @@
-## Problem: брадва
+## Problem: Axe
 
-Да се напише програма, която прочита **цяло число n** и чертае брадва с размери, показани по-долу.
-Ширината на брадвата е **`5 * N`**  колони.
+Write a program which takes **an integer n** and draws an axe with size as shown below.
+The width of the axe is **`5 * N`**  columns.
 
 ### Input Data
 
-Входът е **цяло число n** в интервала [**2..42**].
+The input is **an integer n** in the interval [**2..42**].
 
 ### Output Data
 
-Да се отпечата на конзолата **брадва**, точно както е в примерите.
+Print **an axe** on the console just as shown in the examples.
 
 ### Sample Input and Output
 

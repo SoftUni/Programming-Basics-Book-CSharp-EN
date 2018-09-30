@@ -1,17 +1,17 @@
-#### Reading the Input Data и отпечатване на горното крило
+#### Reading the Input Data and Printing the Upper Wing
 
-От условието на задачата виждаме, че **входните данни** ще бъдат прочетени само от един ред, който ще съдържа в себе си едно **цяло число** в интервала [**3 … 1000**]. По тази причина ще използваме **променлива** от тип **`int`**.
+We can see in the explanation that **the input data** will be taken from only one row which contains **an integer** in the interval [**3 … 1000**]. This is why we will use **a variable** of type **`int`**.
 
 ![](/assets/chapter-6-2-images/02.Butterfly-01.png)
 
-Можем да разделим фигурата на 3 части - горно крило, тяло и долно крило. За да начертаем горното крило на пеперудата, трябва да го разделим на части - начало **`*`**, среда **`\ /`** и край **`*`**. След разглеждане на примерите можем да кажем, че началото е с големина **`n - 2`**.
+We can divide the figure into 3 parts - upper wing, body and lower wing. In order to draw the upper wing, we need to divide it into parts - beginning **`*`**, middle **`\ /`** and end **`*`**. After looking at the examples we find that the beginning is with size **`n - 2`**.
 
 ![](/assets/chapter-6-2-images/02.Butterfly-02.png)
 
-Виждаме също така, че горното крило на пеперудата е с размер **`n - 2`**, затова можем да направим цикъл, който да се повтаря **`halfRowSize`** пъти.
+We can also see that the upper wing is with size **`n - 2`**, and that's why we can make a loop which recurs **`halfRowSize`** times.
 
 ![](/assets/chapter-6-2-images/02.Butterfly-03.png)
 
-От примерите можем да забележим, че на четен ред имаме начало **`*`**, среда **`\ /`** и край **`*`**, а на нечетен - начало **`-`**, среда **`\ /`** и край **`-`**. Следователно, трябва да направим **`if-else`** проверка дали е четен или нечетен редът и съответно да отпечатаме един от двата типа редове.
+We can see in the examples that on an even row we have a beginning **`*`**, a middle **`\ /`** and an end **`*`**, and on an odd row - beginning **`-`**, middle **`\ /`** and an end **`-`**. This is why we must make an **`if-else`** to check if the row is even or odd and then to draw one of the two types of rows.
 
 ![](/assets/chapter-6-2-images/02.Butterfly-04.png)

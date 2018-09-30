@@ -1,7 +1,7 @@
-## Графично (desktop) приложение: конвертор за валути
+## Graphical (desktop) application: currency converter
 
-След като направихме няколко упражнения върху **условни конструкции (проверки)**, сега нека направим нещо по-интересно: приложение с графичен потребителски интерфейс за конвертиране на валути. Ще използваме знанията от тази глава, за да избираме измежду няколко налични валути и съответно да извършваме пресмятания по различен курс спрямо избраната валута.
+After we've done some exercises on **conditional statements (checks)**, now let's do something more interesting: an application with a graphical user interface for converting currencies. We will use the knowledge from this chapter to choose from several available currencies and make calculations at different rate to the selected currency.
 
-Нека разгледаме как да създадем графично (**GUI**) приложение за **конвертиране на валути**. Приложението ще изглежда приблизително като на картинката по-долу:  
+Now let's see how to create a graphical (**GUI**) app for **currency conversion**. The app will look like the picture below:
 
 ![](/assets/chapter-3-images/14.Converter-01.png)

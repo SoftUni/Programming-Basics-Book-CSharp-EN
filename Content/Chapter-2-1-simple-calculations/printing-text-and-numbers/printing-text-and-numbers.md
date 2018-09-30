@@ -1,6 +1,6 @@
-## Печатане на текст и числа
+## Printing Text and Numbers
 
-При печат в конзолата на текст, числа и други данни, **можем да ги съединим**, като използваме шаблони **`{0}`**, **`{1}`**, **`{2}`** и т.н. В програмирането тези шаблони се наричат **placeholders**.
+When printing a text, numbers and other data on the console,  **we can join them** by using templates **`{0}`**, **`{1}`**, **`{2}`** etc. In programming, these templates are called **placeholders**.
 
 ```csharp
 var firstName = Console.ReadLine();
@@ -11,19 +11,22 @@ Console.WriteLine("You are {0} {1}, a {2}-years old person from {3}.",
   firstName, lastName, age, town);
 ```
 
-Ето резултатът, който ще получим, след изпълнение на този Example:![](/assets/chapter-2-images/00.Placeholders-01.jpg)
+Here is the result we are going to receive after the execution of this example: 
 
-Обърнете внимание как всяка една променлива трябва да бъде подадена в **реда, в който искаме да се печата**. По същество, шаблонът (**placeholder**) **приема променливи от всякакъв вид**.
+![](/assets/chapter-2-images/00.Placeholders-01.jpg)
 
-Възможно е един и същ номер на шаблон да се използва по няколко пъти и не е задължително шаблоните да са номерирани поредно. Ето Example:```csharp
+Notice how every variable should be given in the **order, in which we want it to be printed**. Practically, the template (**placeholder**) **accepts variables from every type**.
+
+It is possible for a template to be used multiple times and it is not necessary for the templates to be numbered sequentially. Here is an example:
+
+```csharp
 Console.WriteLine("{1} + {1} = {0}", 1+1, 1);
 ```
-
-Резултатът е:
+The result is:
 ```
 1 + 1 = 2
 ```
 
 ### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/504#3](https://judge.softuni.bg/Contests/Practice/Index/504#3).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/504#3](https://judge.softuni.bg/Contests/Practice/Index/504#3).

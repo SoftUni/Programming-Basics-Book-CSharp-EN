@@ -1,21 +1,21 @@
-### Problem:	съединяване на текст и числа
+### Problem:	concatenation of text and numbers
 
-Напишете C# програма, която прочита от конзолата име, фамилия, възраст и град и печата съобщение от следния вид: **`You are <firstName> <lastName>, a <age>-years old person from <town>`**.
+Write a C# program, that reads a name, a last name, an age and a city from the console and prints a message of the following kind: **`You are <firstName> <lastName>, a <age>-years old person from <town>`**.
 
-#### Hints and Guidelines
+#### Hints and Guideliness
 
-Добавяме към текущото Visual Studio решение още един конзолен C# проект с име “Concatenate-Data”.	**Пишем кода**, който чете входните данни от конзолата:
+We add to the exististing Visual Studio solution one more console C# project with name “Concatenate-Data”.	We **write the code** which reads the input from the console:
 
 ![](/assets/chapter-2-images/04.Concatenate-data-01.png)
 
-**Кодът**, който отпечатва описаното в условието на задачата съобщение, трябва да се допише.
+**The code** which prints the described in the condition of the problem message should be finished.
 
 ![](/assets/chapter-2-images/04.Concatenate-data-02.png)
 
-На горната картинка кодът е нарочно даден замъглен, за да помислите как да си го напишете сами.
+In the picture above the code is blurred on purpose, in order for you to think of a way to finish it yourself.
 
-Следва да се тества решението локално с [**Ctrl+F5**] и въвеждане на примерни входни данни.
+Next, the solution should be tested locally with [**Ctrl+F5**] and by entering an exemplary input data.
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/504#3](https://judge.softuni.bg/Contests/Practice/Index/504#3).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/504#3](https://judge.softuni.bg/Contests/Practice/Index/504#3).

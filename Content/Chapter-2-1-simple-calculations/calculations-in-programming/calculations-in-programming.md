@@ -1,7 +1,7 @@
-## Пресмятания в програмирането
+## Calculations in Programming
 
-За компютрите знаем, че са машини, които обработват данни. Всички **данни** се записват в компютърната памет (RAM памет) в **променливи**. Променливите са именувани области от паметта, които пазят данни от определен тип, например число или текст. Всяка една **променлива** в C# има **име**, **тип** и **стойност**. Ето как бихме дефинирали една променлива, като едновременно с декларацията ѝ, ѝ присвояваме и стойност:
+We know that computers are machines that process data. All **data** is stored inside the computer memory (RAM) in **variables**. The variables are named areas in the memory, which keep a certain data type, for example a number or a text. Each of the **variables** in C# has a **name**, a **type** and a **value**. Here is how we would declare a variable and assign it with a value at the same time: 
 
 ![](/assets/chapter-2-images/00.Declaring-variables-01.png)
 
-След тяхната обработка, данните се записват отново в променливи (т.е. някъде в паметта, заделена от нашата програма).
+After being processed, data is again stored  in variables (in somе place in the memory saved for our program).

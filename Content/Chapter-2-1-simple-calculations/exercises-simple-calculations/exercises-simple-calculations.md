@@ -1,3 +1,3 @@
-## Exercises: прости пресмятания
+## Exercises: simple calculations
 
-Нека затвърдим наученото в тази глава с няколко задачи.
+Let us confirm the knowledge gained througout this chapter with a few more exercises.

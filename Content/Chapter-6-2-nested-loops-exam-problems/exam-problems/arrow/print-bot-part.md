@@ -1,17 +1,17 @@
-#### Отпечатване на долната част на стрелката
+#### Printing the Lower Part of the Arrow
 
-За да начертаем **долната част на стрелката**, трябва да зададем нови стойности на двете **променливи** **`outerDots`** и **`innerDots`**.
+In order to draw **the lower part of the arrow**, we need to give new values to **the variables** **`outerDots`** and **`innerDots`**.
 
 ![](/assets/chapter-6-2-images/04.Arrow-07.png)
 
-Тъй като **`new string`** не може да съедини символ 0 пъти, **цикъла**,  който ще направим, трябва да се завърти **`n - 2`** пъти и отделно да отпечатаме последния ред от фигурата. На всяка итерация **`outerDots`** се увеличава с 1, а **`innerDots`** намалява с 2.
+Because **`new string`** ca't join a symbol 0 times, **the loop** we are going to make must recur **`n - 2`** times and we need to print the last row of the figure separately. At each iteration **`outerDots`** increases by 1, and **`innerDots`** decreases by 2.
 
 ![](/assets/chapter-6-2-images/04.Arrow-08.png)
 		
-**Последният ред** от нашата фигура е съставен от начало **`.`**, среда **`#`** и край **`.`**. Броят на **`.`** е равен на **`outerDots`**.
+**The last row** of our figure is made of a beginning **`.`**, a middle **`#`** and an end **`.`**. The number of **`.`** equals **`outerDots`**.
    
 ![](/assets/chapter-6-2-images/04.Arrow-09.png)
 
 ### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/513#3](https://judge.softuni.bg/Contests/Practice/Index/513#3).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/513#3](https://judge.softuni.bg/Contests/Practice/Index/513#3).

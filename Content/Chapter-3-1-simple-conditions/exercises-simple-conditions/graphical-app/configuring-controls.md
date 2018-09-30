@@ -1,8 +1,8 @@
-#### Конфигуриране на контролите
+#### Configuring the controls
 
-Задаваме следните **настройки на контролите**:
+We set the **configuring controls**:
 
-* **За главната форма** (**`Form`**), която съдържа всички контроли:
+* **For the main form** (**`Form`**), that contains all the controls:
   * **`(name)`** = **`FormConverter`**
   * **`Text`** = "**`Currency Converter`**"
   * **`Font.Size`** = **`12`**
@@ -11,7 +11,7 @@
   * **`FormBorderStyle`** = **`FixedSingle`**
 <br>
 
-* За **полето за въвеждане на число** (**`NumericUpDown`**):
+* For the **field for entering a number** (**`NumericUpDown`**):
   * **`(name)`** = **`numericUpDownAmount`**
   * **`Value`** = **`1`**
   * **`Minimum`** = **`0`**
@@ -20,7 +20,7 @@
   * **`DecimalPlaces`** = **`2`**
 <br>  
 
-* За **падащия списък с валутите** (**`ComboBox`**):
+* For the **drop-down list with currencies** (**`ComboBox`**):
   * **`(name)`** = **`comboBoxCurrency`**
   * **`DropDownStyle`** = **`DropDownList`**
   * **`Items`** =
@@ -29,7 +29,7 @@
     * **GBP**
 <br> 
 
-* За **текстовия блок за резултата** (**`Label`**):
+* For the **result text block** (**`Label`**):
   * **`(name)`** = **`labelResult`**
   * **`AutoSize`** = **`False`**
   * **`BackColor`** = **`PaleGreen`**

@@ -1,7 +1,7 @@
-#### Писане на програмния код и тестване на приложението
+#### Writing the program code and testing the application
 
 
-Ще използваме следния **C# код** за обработка на събитията:
+We will use the following **C# code** for handling events:
 
 ```csharp
 private void FormConverter_Load(object sender, EventArgs e)
@@ -20,9 +20,9 @@ private void numericUpDownAmount_KeyUp(object sender, KeyEventArgs e)
 }
 ```
 
-Всички прихванати събития извикват метода **`ConvertCurrency()`**, който конвертира зададената сума от лева в евро и показва резултата в зелената кутийка.
+All of the caught events call out the method **`ConvertCurrency()`**, which converts the given sum from levs to euro and shows the result int the green box.
 
-Трябва да напишем **кода** (програмната логика) за конвертиране от лева към евро: 
+We have to wrtite the **code** (program logic) for converting from levs to euro: 
 
 ```csharp
 private void ConvertCurrency()
@@ -35,6 +35,6 @@ private void ConvertCurrency()
 }
 ```
 
-Накрая **стартираме проекта** с [**Ctrl+F5**] и тестваме дали работи коректно.
+In the end **we start the project** with [**Ctrl+F5**] and test if it works correctly.
 
-Ако имате проблеми с примера по-горе, **гледайте видеото** в началото на тази глава. Там приложението е направено на живо стъпка по стъпка с много обяснения. Или питайте във **форума на SoftUni**: https://softuni.bg/forum.
+If you have any problems with the example above, **watch the video** in the begging of this chapter. There, the application is being built live, step by step, with a lot of explanations. Or ask a question in the **forum of SoftUni**: https://softuni.bg/forum.

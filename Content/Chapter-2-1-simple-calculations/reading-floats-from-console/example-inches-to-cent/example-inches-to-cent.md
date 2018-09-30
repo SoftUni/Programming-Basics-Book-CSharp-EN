@@ -1,6 +1,6 @@
-### Example: прехвърляне от инчове в сантиметри
+### Example: converting inches to centimeters
 
-Да напишем програма, която чете дробно число в инчове и го обръща в сантиметри:
+Let us write a program, which reads a floating-point number in inches and converts it to centimeters:
 
 ```csharp
 Console.Write("Inches = ");              
@@ -10,10 +10,10 @@ Console.Write("Centimeters = ");
 Console.WriteLine(centimeters);
 ```
 
-Да стартираме програмата и да се уверим, че при подаване на стойност в инчове, получаваме коректен резултат в сантиметри:
+Let us start the program and make sure that when a value in inches is entered, we receive a correct answer in centimeters:
 
-![](/assets/chapter-2-images/00.Inches-to-centimeters-01.jpg)
+![](assets/chapter-2-images/00.Inches-to-centimeters-01.jpg)
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/504#1](https://judge.softuni.bg/Contests/Practice/Index/504#1).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/504#1](https://judge.softuni.bg/Contests/Practice/Index/504#1).

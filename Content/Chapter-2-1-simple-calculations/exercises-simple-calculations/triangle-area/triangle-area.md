@@ -1,10 +1,10 @@
-### Problem:	лице на триъгълник
+### Problem:	triangle area
 
-Напишете програма, която чете от конзолата **страна и височина на триъгълник** и пресмята неговото лице. Използвайте **формулата** за лице на триъгълник: **area = a * h / 2**. Закръглете резултата до **2 цифри след десетичния знак използвайки `Math.Round(area, 2)`**.
+Write a program that reads from the console **a side and a height of a triangle** and calculates its area. Use the **formula** for triangle area: **area = a * h / 2**. Round the result to **2 digits after the decimal separator using `Math.Round(area, 2)`**.
 
 #### Sample Input and Output
 
-|       Вход           |         Изход         |
+|       Input           |         Output         |
 |--------------------|---------------------|
 | 20 <br>30            | Triangle area = 300   |
 | 15 <br>35            | Triangle area = 262.5 |
@@ -13,4 +13,4 @@
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/504#7](https://judge.softuni.bg/Contests/Practice/Index/504#7).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/504#7](https://judge.softuni.bg/Contests/Practice/Index/504#7).

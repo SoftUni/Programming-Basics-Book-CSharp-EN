@@ -1,11 +1,11 @@
-## Problem: стрелка
-Да се напише програма, която прочита от конзолата **цяло нечетно число n** и чертае **вертикална стрелка** с размери като в примерите по-долу.
+## Problem: Arrow
+Write a program which takes from the console **an integer n** and draws **a vertical arrow** with size as in the examples below.
 
 ### Input Data
-Входът е **цяло нечетно число n** в интервала [**3 … 79**].
+The input is **an odd integer n** in the interval [**3 … 79**].
 
 ### Output Data
-Да се отпечата на конзолата вертикална стрелка, при която "**`#`**" (диез) очертава стрелката, а "**`.`**" - останалото.
+Print a vertical arrow on the console, in which "**`#`**" (number sign) makes out the outline of the arrow, and "**`.`**" - the rest.
 
 ### Sample Input and Output
 

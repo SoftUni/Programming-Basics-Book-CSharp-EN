@@ -1,10 +1,10 @@
-### Problem:	** пресмятане с дати - 1000 дни на Земята
+### Problem:	** calcutations with dates - 1000 days on Earth
 
-Напишете програма, която въвежда **рождена дата** във формат **`dd-MM-yyyy`** и пресмята датата, на която се навършват **1000 дни** от тази рождена дата и я отпечатва в същия формат.
+Write a program that enters Напишете програма, която въвежда **a birthdate** in format **`dd-MM-yyyy`** and calculates the date on which are turned и пресмята датата, на която се навършват **1000 days** from this birthdate and prints it in the same format.
 
 #### Sample Input and Output
 
-|   Вход   |	 Изход  |
+|   Input   |	 Output  |
 |--------|--------|
 |25-02-1995|20-11-1997|
 |07-11-2003|02-08-2006|
@@ -13,9 +13,9 @@
 |14-06-1980|10-03-1983|
 
 #### Hints and Guidelines 
-* Потърсете информация за типа **``DateTime``** в C# и по-конкретно разгледайте методите **``ParseExact(str, format)``**, **``AddDays(count)``** и **``ToString(format)``**. С тяхна помощ може да решите задачата, без да е необходимо да изчислявате дни, месеци и високосни години.
-* **Не печатайте** нищо допълнително на конзолата освен изискваната дата!
+* Look for information about the data type **``DateTime``** in C# and in particular look at the methods **``ParseExact(str, format)``**, **``AddDays(count)``** and **``ToString(format)``**. With their help you can solve the problem without the need to calculate days, months and leap years.
+* **Don't print** anything additional on the console except for the wanted data!
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/504#12](https://judge.softuni.bg/Contests/Practice/Index/504#12).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/504#12](https://judge.softuni.bg/Contests/Practice/Index/504#12).

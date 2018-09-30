@@ -1,14 +1,14 @@
-## Problem: пеперуда
+## Problem: Butterfly
 
-Да се напише програма, която прочита от конзолата **цяло число n** и чертае **пеперуда** с ширина **2 * n - 1 колони** и височина **2 * (n - 2) + 1 реда** като в примерите по-долу.  **Лявата и дясната** ѝ **част** са **широки n - 1**.
+Write a program which takes **an integer n** from the console and draws **a butterfly** **2 * n - 1 columns** wide and **2 * (n - 2) + 1 rows** long as in the examples below.  **The left and right parts** are **n - 1 wide**.
 
 ### Input Data
 
-Входът е **цяло число n** в интервала [**3 … 1000**].
+The input is **an integer n** in the interval [**3 … 1000**].
 
 ### Output Data
 
-Да се отпечатат на конзолата **2 * (n - 2) + 1**  текстови реда, изобразяващи **пеперудата**, точно както в примерите.
+Print in the console **2 * (n - 2) + 1** text rows, which make up **the butterfly** as in the examples.
 
 ### Sample Input and Output
 

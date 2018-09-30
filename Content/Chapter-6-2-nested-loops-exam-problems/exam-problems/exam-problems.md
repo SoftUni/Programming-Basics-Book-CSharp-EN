@@ -1,3 +1,3 @@
 ## Exam Problems
 
-Сега нека решим заедно няколко изпитни задачи, за да затвърдим наученото и да развием още алгоритмичното си мислене.
+Let's solve several exam problems to confirm what we have learned and to further develop our algorithmical thinking.

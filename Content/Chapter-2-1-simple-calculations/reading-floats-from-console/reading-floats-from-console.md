@@ -1,6 +1,6 @@
-## Четене на дробно число от конзолата
+## Reading Floating-Point Numbers From the Console
 
-За да прочетем **дробно число** от конзолата е необходимо отново да **декларираме променлива**, да посочим **типа на числото**, както и да използваме стандартната команда за четене на информация от системната конзола:
+To read a **real number** from the console, it is necessary to а **declare a variable** again, define its **numeric type**, and also use the standart command for reading information from the console:
 
 ```csharp
 var num = double.Parse(Console.ReadLine());
