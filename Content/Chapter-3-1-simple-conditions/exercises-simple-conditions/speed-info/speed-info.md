@@ -1,6 +1,6 @@
-### Problem: информация за скоростта
+### Problem: speed info
 
-Да се напише програма, която **въвежда скорост** (десетично число) и отпечатва **информация за скоростта**. При скорост **до 10** (включително), отпечатайте “**slow**”. При скорост **над 10** и **до 50**, отпечатайте “**average**”. При скорост **над 50 и до 150**, отпечатайте “**fast**”. При скорост **над 150 и до 1000**, отпечатайте “**ultra fast**”. При по-висока скорост, отпечатайте “**extremely fast**”.
+Write a program that **inputs the speed** (decimal number) and prints **speed information**. For speed **up to 10** (inclusive), print "**slow**". For speed **over 10** and **up to 50**, print "**average**". For speed **over 50 and up to 150**, print "**fast**". For speed **over 150 and up to 1000**, print "**ultra fast**". For higher speed, print "**extremely fast**".
 
 #### Sample Input and Output
 
@@ -14,4 +14,4 @@
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/506#11](https://judge.softuni.bg/Contests/Practice/Index/506#11).
+Test your solution from the example here: [https://judge.softuni.bg/Contests/Practice/Index/506#11](https://judge.softuni.bg/Contests/Practice/Index/506#11).

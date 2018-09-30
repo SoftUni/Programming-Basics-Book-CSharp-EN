@@ -1,4 +1,4 @@
-#### Drawing the lower part of the diamond
+#### Drawing the Lower Part of the Diamond
 
 Drawing the lower part is very similar to that of the upper part. The difference is that instead of decreasing **`leftRight`** with 1 in the end of the loop, we will increase **`leftRight`** with 1 in the beginning of the loop. Also, **the loop will be from 0 to `(n - 1) / 2`**.   
 
@@ -10,6 +10,6 @@ Drawing the lower part is very similar to that of the upper part. The difference
 
 If we have written all correctly, then the problem is solved.
 
-#### Testing in the Judge system
+#### Testing in the Judge System
 
 Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/512#9](https://judge.softuni.bg/Contests/Practice/Index/512#9).

@@ -1,4 +1,4 @@
-﻿### Hints and Guidelines
+### Hints and Guidelines
 
 We can split the solution of the problem into 3 parts:
 

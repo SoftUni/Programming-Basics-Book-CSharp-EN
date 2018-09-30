@@ -1,4 +1,4 @@
-#### Reading the Input Data and drawing the upper part of the diamond
+#### Reading the Input Data and Drawing the Upper Part of the Diamond
 
 We read **n** from the console and we write it down in a variable of type **`int`**.  
 

@@ -1,3 +1,3 @@
-# Chapter 5.2. Повторения (цикли) – изпитни задачи
+# Chapter 5.2. Loops - Exam Problems
 
-В предходната глава научихме как да изпълним даден блок от команди **повече от веднъж**. Затова въведохме **`for` цикъл** и разгледахме някои от основните му приложения. Целта на настоящата глава е да затвърдим знанията си, решавайки няколко по-сложни задачи с цикли, давани на приемни изпити. За някои от тях ще покажем примерни подробни решения, а за други ще оставим само напътствия.
+In previous chapter we learned how to run a block of commands **more than once**. That's why we introduced a **`for` loop** and reviewed its main uses. The purpose of this chapter is to improve our knowledge ,with solving some more complicated problems with loops, used for exam contests. For some of them we will show sample of detailed solutions, and for others we will leave only guidance.

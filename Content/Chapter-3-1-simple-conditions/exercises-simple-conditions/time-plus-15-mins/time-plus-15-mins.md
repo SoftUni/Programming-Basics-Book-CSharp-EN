@@ -1,6 +1,6 @@
-### Problem: време + 15 минути
+### Problem: time plus 15 minutes
 
-Да се напише програма, която **въвежда час и минути** от 24-часово денонощие и изчислява колко ще е **часът след 15 минути**. Резултатът да се отпечата във формат **`hh:mm`**. Часовете винаги са между 0 и 23, а минутите винаги са между 0 и 59. Часовете се изписват с една или две цифри. Минутите се изписват винаги с по две цифри и с **водеща нула**, когато е необходимо.
+Write a program that **inputs hours and minutes** from a 24-hour day and calculates how much it will be **after 15 minutes**. Print the result in **hh: mm** format. Hours are always between 0 and 23, and minutes are always between 0 and 59. Hours are written with one or two digits. Minutes are always written with two digits and zero at the front when needed.
 
 #### Sample Input and Output
 
@@ -14,8 +14,8 @@
 
 #### Hints and Guidelines
 
-Добавете 15 минути и направете няколко проверки. Ако минутите надвишат 59, **увеличете часовете** с 1 и **намалете минутите** с 60. По аналогичен начин разгледайте случая, когато часовете надвишат 23. При печатането на минутите, **проверете за водеща нула**.
+Add 15 minutes and write a few conditions. If minutes are over 59, **increase hours** with 1 and **reduce minutes** with 60. Thereby look at the case when hours are over 23. When you print the minutes you should **check for zero at the front**.
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/506#13](https://judge.softuni.bg/Contests/Practice/Index/506#13).
+Test your solution from the example here: [https://judge.softuni.bg/Contests/Practice/Index/506#13](https://judge.softuni.bg/Contests/Practice/Index/506#13).

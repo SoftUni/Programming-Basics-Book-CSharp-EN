@@ -1,8 +1,8 @@
-### Problem: конвертор за мерни единици
+### Problem: metric converter
 
-Да се напише програма, която **преобразува разстояние** между следните **8 мерни единици**: **`m`, `mm`, `cm`, `mi`, `in`, `km`, `ft`, `yd`**. Използвайте съответствията от таблицата по-долу:
+Write a program that **convert a distance** between the following **8 units of measure**: **`m`, `mm`,` cm`, `mi`, `in`, `km`,` ft `,` yd`**. Use the below table:
 
-| Inputна единица | Outputна единица |
+| Input measure | Output measure |
 | :-------------: | :--------------: |
 | 1 meter (m) | 1000 millimeters (mm) |
 | 1 meter (m) | 100 centimeters (cm) |
@@ -12,11 +12,11 @@
 | 1 meter (m) | 3.2808399 feet (ft)  |
 | 1 meter (m) | 1.0936133 yards (yd) |
 
-Входните данни се състоят от три реда:
+You have three input lines:
 
-- Първи ред: число за преобразуване.
-- Втори ред: входна мерна единица.
-- Трети ред: изходна мерна единица (за резултата).
+- First line: number for converting.
+- Second line: input unit.
+- Third line: output unit (the result).
 
 #### Sample Input and Output
 

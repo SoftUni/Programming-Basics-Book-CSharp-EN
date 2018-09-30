@@ -1,4 +1,4 @@
-#### Creating a web form
+#### Creating a Web Form
 
 Open and redact the file **`Views/Home/Index.cshtml`**. Delete everything and insert the following code:
 

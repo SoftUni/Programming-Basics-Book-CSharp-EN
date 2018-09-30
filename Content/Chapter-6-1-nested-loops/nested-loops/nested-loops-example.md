@@ -1,4 +1,4 @@
-### Nested loops - example
+### Nested Loops - Example
 
 Here is an **example**, which illustrates nested loops. The aim is again to print a rectangle made of **`n`** * **`n`** stars, in which for each row a loop iterates from **1** to **`n`**, and for each column a nested loop is executed from **1** to **`n`**:
 

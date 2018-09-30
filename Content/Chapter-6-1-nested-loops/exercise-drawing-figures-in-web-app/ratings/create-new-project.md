@@ -1,4 +1,4 @@
-#### Creating a new C# project
+#### Creating a New C# Project
 
 Create a new ASP.NET MVC web app with C# in Visual Studio. We add a new project from [**Solution Explorer**] -> [**Add**] -> [**New Project…**] . Give it a meaningful name, for example "WebApp-Ratings".
 

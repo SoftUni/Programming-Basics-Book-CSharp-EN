@@ -1,4 +1,4 @@
-#### Calculating the length of the roof
+#### Calculating the Length of the Roof
 
 In order to draw **the roof**, we write down how many **stars** we start with in a variable called **`stars`**:
 * If **`n`** i **an even** number, there will be 2 stars.
@@ -6,7 +6,7 @@ In order to draw **the roof**, we write down how many **stars** we start with in
 
 ![](/assets/chapter-6-images/09.House-03.png)
 
-We calculate the length of **the roof**. It equals half of **`n`**. We write the result in the variable  **`roofLength`**.
+Calculate the length of **the roof**. It equals half of **`n`**. Write the result in the variable  **`roofLength`**.
 
 ![](/assets/chapter-6-images/09.House-04.png)
 

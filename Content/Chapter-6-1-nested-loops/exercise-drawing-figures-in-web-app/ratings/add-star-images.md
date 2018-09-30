@@ -1,4 +1,4 @@
-#### Adding the pictures with the stars
+#### Adding the Pictures With the Stars
 
 Create a new folder **images** from [**Solution Explorer**]:
   

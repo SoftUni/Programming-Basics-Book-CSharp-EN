@@ -1,3 +1,3 @@
-## Exercises: прости проверки
+## Exercises: Simple Conditions
 
-За да затвърдим знанията си за условните конструкции **`if`** и **`if-else`**, ще решим няколко практически задачи.
+To verified our knowledge of conditional constructions **`if`** and **`if-else`**, we will solve a few practical exercises.

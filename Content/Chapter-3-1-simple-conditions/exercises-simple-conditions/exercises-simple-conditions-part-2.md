@@ -1,19 +1,19 @@
-## Exercises: прости проверки
+## Exercises: simple conditions
 
-Нека затвърдим наученото в тази глава с няколко задачи.
+Now let's practise the lessons learned in this chapter with a few exercises.
 
-### Празно Visual Studio решение (Blank Solution)
+### Empty Visual Studio solution (Blank Solution)
 
-Създаваме празно решение (**Blank Solution**) във Visual Studio, за да организираме по-добре решенията на задачите от упражненията – всяка задача ще бъде в отделен проект и всички проекти ще бъдат в общ solution.
+We create a blank solution (**Blank Solution**) in Visual Studio to organize better the task solutions from the exercise  - each task will be in a separate project and all projects will be in common solution.
 
-Стартираме Visual Studio. Създаваме нов **Blank Solution:** [**File**] -> [**New**] -> [**Project**].
+We run Visual Studio and create new **Blank Solution:** [**File**] -> [**New**] -> [**Project**].
 
 ![](/assets/chapter-3-images/00.Visual-studio-01.png)
 
-Избираме от диалоговия прозорец [**Templates**] -> [**Other Project Types**] -> [**Visual Studio Solutions**] -> [**Blank Solution**] и даваме подходящо име на проекта, например “Simple-Conditions”:  
+Choose from the dialog box [**Templates**] -> [**Other Project Types**] -> [**Visual Studio Solutions**] -> [**Blank Solution**] and give a appropriate project name, for example: “Simple-Conditions”:
 
 ![](/assets/chapter-3-images/00.Visual-studio-02.png)
 
-Сега имаме създаден празен Visual Studio Solution (без проекти в него):  
+Now we have empty Visual Studio Solution (no projects in it):
 
 ![](/assets/chapter-3-images/00.Visual-studio-03.png)

@@ -1,12 +1,12 @@
-### Problem: проверка за отлична оценка
+### Problem: excellent grade
 
-Първата задача от упражненията за тази тема е да се напише **конзолна програма**, която **въвежда оценка** (десетично число) и отпечатва “**Excellent!**”, ако оценката е **5.50** или по-висока.
+The first exercise for this topic is to write a **console program** that **inputs the grade** (decimal number) and prints **Excellent!** if the grade is **5.50** or high.
 
 #### Sample Input and Output
 
 | Input | Output |
 | --- | ---- |
 | 6 | Excellent! |
-| 5 | (няма изход) |
+| 5 | (no output) |
 | 5.5 | Excellent! |
-| 5.49 | (няма изход) |
+| 5.49 | (no output) |
