@@ -1,24 +1,24 @@
-## Problem: тръби в басейн
+## Problem: Pipes in Pool
 
-Басейн с **обем V** има **две тръби**, от които се пълни. **Всяка тръба има определен дебит** (литрите вода, минаващи през една тръба за един час). Работникът пуска тръбите едновременно и излиза за **N часа**. Напишете програма, която изкарва състоянието на басейна, **в момента, когато работникът се върне**. 
+A pool with **volume V** fills up with **two pipes**. **Each pipe has a certain flow rate** (the liters of water, flowing through a pipe for an hour). The worker starts the pipes simultaneously and goes out for **N hours**. Write a program that finds the state of the pool **the moment the worker comes back**. 
 
 ### Input Data
 
-От конзолата се четат **четири реда**:
-* Първият ред съдържа числото **V – обем на басейна в литри** – цяло число в интервала [**1 … 10000**].
-* Вторият ред съдържа числото **P1 – дебит на първата тръба за час** – цяло число в интервала [**1 … 5000**].
-* Третият ред съдържа числото **P2 – дебит на втората тръба за час** – цяло число в интервала [**1 … 5000**].
-* Четвъртият ред съдържа числото **H – часовете, в които работникът отсъства** – число с плаваща запетая в интервала [**1.0 … 24.00**].
+**Four lines** are read from the console: 
+* The first line contains a number **V – the volume of the pool in liters** – an integer in the range of [**1 … 10000**].
+* The second line contains a number **P1 – the flow rate of the first pipe for an hour** – an integer in the range of [**1 … 5000**].
+* The third line contains a number **P2 – the flow rate of the second pipe for an hour** – an integer in the range of [**1 … 5000**].
+* The fourth line contains a number **H – the hours that the worker is absent** – a floating-point number in the range of [**1.0 … 24.00**].
 
 ### Output Data
 
-Да се отпечата на конзолата **едно от двете възможни състояния**:
-* До колко се е запълнил басейнът и коя тръба с колко процента е допринесла. Всички проценти да се форматират до цяло число (без закръгляне).
+Print on the console **one of the two possible states**:
+* To what extent the pool has filled up and how many percent each pipe has contributed with. All percents must be formatted to an integer (without rounding).
   * "The pool is **[x]**% full. Pipe 1: **[y]**%. Pipe 2: **[z]**%."
-* Ако басейнът се е препълнил – с колко литра е прелял за даденото време, число с плаваща запетая.
+* If the pool has overflown - with how many liters it has overflown for the given time - a floating-point number. 
   * "For **[x]** hours the pool overflows with **[y]** liters."
 
-**Имайте предвид**, че поради **закръглянето до цяло число** се **губят данни** и e нормално **сборът на процентите да е 99%, а не 100%**.
+**Have in mind** that due to **the rounding to an integer**, there is **data loss** and it is normal **the sum of the percents to be 99%, not 100%**. 
 
 ### Sample Input and Output
 

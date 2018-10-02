@@ -1,9 +1,9 @@
 ### Hints and Guidelines
 
-За да решим задачата, ще прочетем входа, ще извършим няколко проверки и изчисления и ще отпечатаме резултата.
+In order to solve the task, we will read the input data. Then, we will write a few conditional statements and do some calculations. Finally, we will print the result.
 
 #### Reading the Input Data
 
-От условието на задачата виждаме, че **входните данни** ще бъдат прочетени само от **един ред**, който ще съдържа в себе си **едно цяло число** в интервала [**0 … 365**]. По тази причина ще използваме променлива от тип **`int`**. 
+From the task we see that **the input data** will be read only on **the first line** and will be **an integer** in the range of [**0 … 365**]. This is why we will use a variable of type **`int`**. 
 
-![](/assets/chapter-3-2-images/03.Sleepy-tom-cat-01.png)
+![](/assets/chapter-3-2-images/03.Sleepy****-tom-cat-01.png)

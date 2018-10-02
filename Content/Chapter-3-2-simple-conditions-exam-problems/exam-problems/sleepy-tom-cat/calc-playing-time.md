@@ -1,11 +1,11 @@
-#### Изчисляване на времето за игра
+#### Calculating the time for play
 
-След като вече имаме **количествата дни за игра**, то вече можем да **изчислим времето за игра** на Том в минути. Неговата **стойност е равна** на **резултата от умножението на работните дни по 63** минути (в условието е зададено, че в работни дни, времето за игра е 63 минути на ден) **събран с резултата от умножението на почивните дни по 127** минути (в условието е зададено, че в почивните дни, времето за игра е 127 минути на ден).
+After we have **the number of days for playing**, we can calculate **the time for games** of Tom in minutes. Its **value is equal** to the **result of the multiplication of the working days by 63** minutes (the task specifies that during working days, the time for play is 63 minutes per day), **summed with the result of the multiplication of the holidays by 127** minutes (the task specifies that during holidays, the time for play is 127 minutes per day).
 
 ![](/assets/chapter-3-2-images/03.Sleepy-tom-cat-03.png)
 
-В условието на задачата за изхода виждаме, че ще трябва да **разпечатаме разликата** между двете стойности в **часове** и **минути**. За тази цел от **общото** време за игра ще **извадим** нормата от **30 000** минути и получената разлика ще **запишем** в **нова** променлива. След това тази променлива ще **разделим целочислено** на 60, за да получим **часовете**, а след това, за да открием колко са **минутите** ще използваме **модулно деление с оператора `%`**, като отново ще разделим променливата на разликата с 60. 
+From the task we see that we have to **print the difference** between the two values in **hours** and **minutes** as output data. That is why we **subtract** the **total** time for play by the norm of **30 000** minutes and **store** the result in a **new** variable. After that, we **divide** that variable by 60 to get the **hours**, and then, to find out how many the **minutes** are, we use **modular division with the operator `%`**, as again we divide the variable by the difference by 60.
 
-Тук трябва да отбележим, че ако полученото количество **време игра** на Том е **по-малко** от **30 000**, при **изваждането** на нормата от него ще получим **число с отрицателен знак**. За да **неутрализираме** знака в двете деления по-късно, ще използваме **метода `Math.Abs(…)`** при намирането на разликата.
+Here we have to note that if the total **time for play** of Tom is **less** than **30 000**, when **subtracting** the norm by it, we will receive **a negative number**. In order to **neutralize** the number in the division, we use **the method `Math.Abs(…)`** when finding the difference.
 
 ![](/assets/chapter-3-2-images/03.Sleepy-tom-cat-04.png)

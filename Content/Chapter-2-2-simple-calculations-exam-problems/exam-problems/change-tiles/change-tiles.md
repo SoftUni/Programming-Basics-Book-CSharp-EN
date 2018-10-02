@@ -10,11 +10,11 @@ Write a program that **reads the size of the ground, the tiles and the bench fro
 
 **5 numbers** are read from the console: 
 
-* **N – length** of **a size** from **the ground** in the range [**1 … 100**].
-* **W – width** per **tile** in the range [**0.1 … 10.00**].
-* **L – length** per **tile** in the range [**0.1 … 10.00**].
-* **М – width** of **the bench** in the range [**0 … 10**].
-* **О – length** of **the bench** in the range [**0 … 10**].
+* **N – length** of **a size** from **the ground** in the range of [**1 … 100**].
+* **W – width** per **tile** in the range of [**0.1 … 10.00**].
+* **L – length** per **tile** in the range of [**0.1 … 10.00**].
+* **М – width** of **the bench** in the range of [**0 … 10**].
+* **О – length** of **the bench** in the range of [**0 … 10**].
 
 ### Output Data
 

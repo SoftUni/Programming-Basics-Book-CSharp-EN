@@ -1,11 +1,11 @@
-#### Изчисляване тарифата на таксито
+#### Calculating taxi rate
 
-След като вече сме **декларирали и инициализирали** входните данни и променливата, в която ще пазим стойността на цената, трябва да преценим кои **условия** от задачата първо **ще бъдат проверени**. 
+After having **declared and initialized** the input data and the variable that stores the value of the price, we have to decide which **conditions** of the task have to be **checked first**. 
 
-От условието е видно, че тарифите на две от превозните средства **не зависят** от това дали е **ден** или **нощ**, но тарифата на единия превоз (такси) **зависи**. По тази причина **първата проверка** ще е именно дали е **ден или нощ**, за да стане ясно коя тарифа на таксито ще се **използва**. За целта **декларираме още една променлива**, в която ще пазим стойността на **тарифата на таксито**.
+The task specifies that the rates of two of the vehicles **do not depend** on whether it is **day** or **night**, but the rate of one of the transports (taxi) **depends**. This is why the **first condition** will be whether it is **day or night**, so that it is clear which rate the taxi will be **using**. To do that, we **declare one more variable** that stores **the value of the taxi rate**. 
 
 ![](/assets/chapter-3-2-images/01.Transport-price-03.png)
 
-За да изчислим **тарифата на таксито**, ще използваме проверка от типа **`if-else`** и чрез нея променливата за цената на таксито ще си присвои **стойност**. 
+In order to calculate **the taxi rate**, we will use conditional statement of type **`if-else`** and through it, the variable for the price of the taxi will store its **value**. 
 
 ![](/assets/chapter-3-2-images/01.Transport-price-04.png)

@@ -1,21 +1,21 @@
-## Problem: цена за транспорт
+## Problem: Ticket Price
 
-Студент трябва да пропътува **n километра**. Той има избор измежду **три вида транспорт**:
-* **Такси**. Начална такса: **0.70** лв. Дневна тарифа: **0.79** лв./км. Нощна тарифа: **0.90** лв./км.
-* **Автобус**. Дневна / нощна тарифа: **0.09** лв./км. Може да се използва за разстояния минимум **20** км.
-* **Влак**. Дневна / нощна тарифа: **0.06** лв./км. Може да се използва за разстояния минимум **100** км.
+A student has to travel **n kilometers**. He can choose between **three types of transport**: 
+* **Taxi**. Starting fee: **0.70** lv. Day rate: **0.79** lv./km. Night rate: **0.90** lv./km.
+* **Bus**. Day / Night rate: **0.09** lv./km. Can be used for distances of minimum **20** km.
+* **Train**. Day / Night rate: **0.06** lv./km. Can be used for distances of minimum **100** km.
 
-Напишете програма, която въвежда броя **километри n** и **период от деня** (ден или нощ) и изчислява **цената на най-евтиния транспорт**.
+Write a program that receives the number of **kilometers n** and **period of the day** (day or night) and calculates **the price for the cheapest transport**.
 
 ### Input Data
 
-От конзолата се четат **два реда**:
-* Първият ред съдържа числото **n** – брой километри – цяло число в интервала [**1 … 5000**].
-* Вторият ред съдържа дума “**day**” или “**night**” – пътуване през деня или през нощта.
+**Two lines** are read from the console:
+* The first line contains a number **n** – number of kilometers – an integer in the range of [**1 … 5000**].
+* The second line contains the word “**day**” or “**night**” – travelling during the day or during the night. 
 
 ### Output Data
 
-Да се отпечата на конзолата **най-ниската цена** за посочения брой километри.
+Print on the console **the lowest price** for the given number of kilometers. 
 
 ### Sample Input and Output
 

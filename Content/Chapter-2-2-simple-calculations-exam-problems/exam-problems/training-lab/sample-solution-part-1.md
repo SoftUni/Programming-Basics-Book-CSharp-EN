@@ -4,6 +4,7 @@ It is time to go to the solution. We can divide it into three smaller tasks:
 * **Reading input from the console**.
 * **Doing the calculations**.
 * **Printing the output on the console**.
+
 The first thing we have to do is read the input from the console. With **`Console.ReadLine()`** we read the values from the console and with the function **`double.Parse(…)`** string is converted into **`double`**.
 
 ![](/assets/chapter-2-2-images/01.Training-lab-03.png)

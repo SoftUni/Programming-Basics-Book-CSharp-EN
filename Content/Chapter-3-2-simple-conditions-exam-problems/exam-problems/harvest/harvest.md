@@ -1,28 +1,28 @@
-## Problem: реколта
+## Problem: Harvest
 
-От **лозе с площ X квадратни метри** се заделя **40% от реколтата за производство на вино**. От **1 кв.м. лозе** се **изкарват Y килограма грозде**. За **1 литър вино** са **нужни 2,5 кг. грозде**. **Желаното количество вино** за продан е **Z литра.**
+From **vineyard with area X square meters**, **40% of the harvest goes for wine production**. From **1 sq.m. vineyard**, **Y kilograms of grapes** are extracted. **2,5 kg of grapes** are needed for **1 litre of wine**. **The wanted quantity of wine** for sale is **Z litres**. 
 
-Напишете **програма**, която **пресмята колко вино може да се произведе** и **дали** това количество **е достатъчно**. **Ако е достатъчно, остатъкът се разделя по равно между работниците на лозето.**
+Write **a program** that **calculates how much wine can be produced** and **whether** that quantity **is enough**. **If it is enough, the rest is divided between the vineyard workers equally**. 
 
 ### Input Data
 
-Входът се чете от конзолата и се състои от **точно 4 реда**:
-* 1-ви ред: **X кв.м е лозето – цяло число в интервала** [**10 … 5000**].
-* 2-ри ред: **Y грозде за един кв.м. – реално число в интервала** [**0.00 … 10.00**].
-* 3-ти ред: **Z нужни литри вино – цяло число в интервала** [**10 … 600**].
-* 4-ти ред: **брой работници – цяло число в интервала** [**1 … 20**].
+The input data is read from the console and consists of **exactly 4 lines**: 
+* First line: **X sq.m is the vineyard – an integer in the range of** [**10 … 5000**].
+* Second line: **Y grapes for one sq.m. – an integer in the range of** [**0.00 … 10.00**].
+* Third line: **Z needed litres of wine – an integer in the range of** [**10 … 600**].
+* Fourth line: **number of workers – an integer in the range of** [**1 … 20**].
 
 ### Output Data
 
-На конзолата трябва да се отпечата следното:
-* Ако **произведеното** вино е **по-малко от нужното**:
-  * **“It will be a tough winter! More {недостигащо вино} liters wine needed.**”  
-   \* **Резултатът** трябва да е **закръглен към по-ниско цяло число**.
-* Ако **произведеното** вино е **повече от нужното**:
-  * **“Good harvest this year! Total wine: {общо вино} liters.”**  
-   \* **Резултатът** трябва да е **закръглен към по-ниско цяло число**.
-  * **“{Оставащо вино} liters left -> {вино за 1 работник} liters per person.”**  
-   \* И **двата резултата** трябва да са **закръглени към по-високото цяло число**.
+The following has to be printed on the console:
+* If the **produced** wine is **less than the needed**:
+  * **“It will be a tough winter! More {wine more needed} liters wine needed.**”  
+   \* **The result** has to be **rounded down to the nearest integer**.
+* If **the produced** wine is **more than the needed**:
+  * **“Good harvest this year! Total wine: {total wine} liters.”**  
+   \* **The result** has to be **rounded down to the nearest integer**.
+  * **“{Wine left} liters left -> {wine for one worker} liters per person.”**  
+   \* **Both of the results** have to be **rounded to the higher integer**.
 
 ### Sample Input and Output
 

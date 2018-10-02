@@ -1,14 +1,14 @@
 ### Hints and Guidelines
 
-Ще прочетем входните данни и в зависимост от разстоянието ще изберем най-евтиния транспорт. За целта ще използваме няколко проверки.
+We will read the input data and depending on the distance, we will choose the cheapest transport. To do that, we will write a few conditional statements.
 
 #### Processing the Input Data
 
-В условието на задачата е дадена **информация за входа и изхода**. Съответно, първите **два реда** от решението ще съдържат декларирането и инициализирането на двете **променливи**, в които ще пазим **стойностите на входните данни**.
-За **първия ред е упоменато**, че съдържа **цяло число**, затова и променливата, която ще бъде декларирана, е от тип **`int`**. За **втория ред** указанието е, че съдържа **дума**, съответно променливата е от тип **`string`**. 
+In the task, we are given **information about the input and output data**. Therefore, in the first **two lines** from the solution, we will declare and initialize the two **variables** that are going to store **the values of the input data**. 
+**The first line** contains **an integer** and that is why the declared variable will be of type **`int`**. **The second line** contains **a word**, therefore, the variable will be of type **`string`**. 
 
 ![](/assets/chapter-3-2-images/01.Transport-price-01.png)
 
-Преди да започнем проверките е нужно да **декларираме** и една **променлива**, в която ще пазим стойността на **цената за транспорт**.
+Before starting with the conditional statements, it is necessary that we **declare** a **variable** that stores the value of **the price of the transport**. 
 
 ![](/assets/chapter-3-2-images/01.Transport-price-02.png)
