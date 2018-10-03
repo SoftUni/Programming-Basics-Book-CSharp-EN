@@ -1,16 +1,16 @@
-#### Събития и обработчици на събития
+#### Events and eventhandlers
 
-Дефинираме следните **обработчици на събития** по контролите:
+We difine the following **eventhandlers** in the controls:
 
 ![](/assets/chapter-2-images/13.Currency-converter-07.png)
 
-След това хващаме следните събития:
-- **``FormConverter.Load``** (като кликнем върху формата 2 пъти с мишката)
-- **``numericUpDownAmount.ValueChanged``** (като кликнем върху **``NumericUpDown``** контролата 2 пъти)
-- **``numericUpDownAmount.KeyUp``** (избираме **``Events``** от таблото **``Properties``** и кликнем 2 пъти върху **``KeyUp``**)
+After this we catch the following events:
+- **``FormConverter.Load``** (by clicking on the form twice with the mouse)
+- **``numericUpDownAmount.ValueChanged``** (by clicking on **``NumericUpDown``** control twice)
+- **``numericUpDownAmount.KeyUp``** (we choose **``Events``** from the dashboard **``Properties``** and click twice on **``KeyUp``**)
 
-Събитието **`Form.Load`** се изпълнява при стартиране на програмата, преди да се появи прозореца на приложението. Събитието **`NumericUpDown.ValueChanged`** се изпълнява при промяна на стойността в полето за въвеждане на число. Събитието **`NumericUpDown.KeyUp`** се изпълнява след натискане на клавиш в полето за въвеждане на число. При всяко от тези събития ще преизчисляваме резултата.
+The event **`Form.Load`** is executed when the program is started, before the window of the application is shown. The event **`NumericUpDown.ValueChanged`** is executed when a change in the value inside the field for entering a number occurs. The event **`NumericUpDown.KeyUp`** is executed after pressing a key in the field that enters a number. On the occurance of each of these events, we will recalculate the result.
 
-За **хващане на събитие** ползваме иконката със събитията (Events) в **Properties**  прозореца във Visual Studio:
+To **catch an event** we use the events icon (Events) in the **Properties**  window in Visual Studio:
 
 ![](/assets/chapter-2-images/13.Currency-converter-01.png)

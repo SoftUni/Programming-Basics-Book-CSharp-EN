@@ -1,10 +1,10 @@
-### Problem: конзолен конвертор - USD към BGN
+### Problem: console converter - USD to BGN
 
-Напишете програма за **конвертиране на щатски долари** (USD) **в български лева** (BGN). **Закръглете** резултата до **2 цифри** след десетичния знак. Използвайте фиксиран курс между долар и лев: **1 USD = 1.79549 BGN**.
+Write a program for **conversion of US dollars** (USD) **in bulgarian levs** (BGN). **Round** the result to **2 digits** after the decimal separator. Use a fixed rate between a dollar and a lev: **1 USD = 1.79549 BGN**.
 
 #### Sample Input and Output
 
-|  Вход  |    Изход  |
+|  Input  |    Output  |
 |------|---------|
 |   20   | 35.91 BGN |      
 |   100  | 179.55 BGN|
@@ -12,4 +12,4 @@
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/504#10](https://judge.softuni.bg/Contests/Practice/Index/504#10).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/504#10](https://judge.softuni.bg/Contests/Practice/Index/504#10).

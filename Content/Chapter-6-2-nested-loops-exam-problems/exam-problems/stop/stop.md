@@ -1,14 +1,14 @@
-## Problem: знак "Стоп"
+## Problem: "Stop" Sign
 
-Да се напише програма, която прочита от конзолата **цяло число n** и чертае **предупредителен знак STOP** с размери като в примерите по-долу.
+Write a program which takes **an integer n** from the console and draws **a warning sign STOP** with size as in the examples below.
 
 ### Input Data
 
-Входът е **цяло число N** в интервала [**3 … 1000**].
+The input is **an integer N** in the interval [**3 … 1000**].
 
 ### Output Data
 
-Да се отпечатат на конзолата текстови редове, изобразяващи **предупредителния знак STOP**, точно както в примерите.
+Print on the console text rows, which depict **the warning sign STOP**, as in the examples.
 
 ### Sample Input and Output
 

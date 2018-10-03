@@ -11,9 +11,9 @@ The exchange office has **commission from 0 to 5 percent from the final sum in e
 ### Input Data
 
 Three numbers are read from the console: 
-* On the first line – **number of bitcoins**. Integer in the range [**0 … 20**].
-* On the second line – **number of Chinese yuan**. Floating-point number [**0.00 … 50 000.00**].
-* On the third line – **commission**. Floating-point number [**0.00 … 5.00**].
+* On the first line – **number of bitcoins**. Integer in the range of [**0 … 20**].
+* On the second line – **number of Chinese yuan**. Floating-point number of [**0.00 … 50 000.00**].
+* On the third line – **commission**. Floating-point number of [**0.00 … 5.00**].
 * 
 ### Output Data
 

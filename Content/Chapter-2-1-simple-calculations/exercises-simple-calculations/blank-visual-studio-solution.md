@@ -1,19 +1,19 @@
-### Празно Visual Studio решение (Blank Solution)
+### Empty (Blank) Visual Studio Solution
 
-Започваме, като създадем празно решение **(Blank Solution)** във Visual Studio. Решенията (solutions) във Visual Studio обединяват **група проекти**. Тази възможност е **изключително удобна**, когато искаме да **работим по няколко проекта** и бързо да превключваме между тях или искаме да **обединим логически няколко взаимосвързани проекта**.
-В настоящото практическо занимание ще използваме **Blank Solution с няколко проекта**, за да организираме решенията на задачите от упражненията – всяка задача в отделен проект и всички проекти в общ solution.
+We start by creating an empty solution **(Blank Solution)** in Visual Studio. The solutions in Visual Studio combine **a group of projects**. This opportunity is **very convenient**, when we want to **work on a few projects** and switch quickly between them or we want to **unite logically a few interconnected projects**.
+In the current practical exercise we will use a **Blank Solution with a couple of projects** to organize the solutions of the tasks from the exercises - every task in a separate project and all of them in a common solution.
 
-* Стартираме Visual Studio.
-* Създаваме нов **Blank Solution:** [**File**] -> [**New**] -> [**Project**].
+*	We start Visual Studio
+* We create a new **Blank Solution:** [**File**] -> [**New**] -> [**Project**].
 
 ![](/assets/chapter-2-images/00.Blank-solution-01.png)
 
-Избираме от диалоговия прозорец [**Templates**] -> [**Other Project Types**] -> [**Visual Studio Solutions**] -> [**Blank Solution**] и даваме подходящо име на проекта, например “Simple-Calculations”:
+We choose from the dialogue window [**Templates**] -> [**Other Project Types**] -> [**Visual Studio Solutions**] -> [**Blank Solution**] and we give an appropriate name of the project, for example “Simple-Calculations”:
 
 ![](/assets/chapter-2-images/00.Blank-solution-02.png)
 
-Сега имаме създаден **празен Visual Studio Solution** (с 0 проекта в него):
+Now we have created and **emply Visual Studio Solution** (with 0 projects in it):
 
 ![](/assets/chapter-2-images/00.Blank-solution-03.png)
 
-Целта на този blank solution e да добавяме в него **по един проект за всяка задача** от упражненията.
+The purpose of this blank solution is to add **a project per problem** from the exercises.

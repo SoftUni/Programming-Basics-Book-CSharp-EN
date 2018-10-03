@@ -1,14 +1,14 @@
-## Problem: чертане на крепост
+## Problem: Drawing a Fort
 
-Да се напише програма, която прочита от конзолата **цяло число n** и чертае **крепост** с ширина **2 * n колони** и височина **n реда** като в примерите по-долу. Лявата и дясната колона във вътрешността си са широки **n / 2**.
+Write a program which takes **an integer n** and draws **a fort** wide **2 * n columns** and tall **n rows** as in the examples below. The left and right columns inside are wide **n / 2**.
 
 ### Input Data
 
-Входът е **цяло число n** в интервала [**3 … 1000**].
+The input is **an integer n** in the interval [**3 … 1000**].
 
 ### Output Data
 
-Да се отпечатат на конзолата **n** текстови реда, изобразяващи **крепостта**, точно както в примерите.
+Print on the console **n** rows, depicting **the fort**as in the examples.
 
 ### Sample Input and Output
 

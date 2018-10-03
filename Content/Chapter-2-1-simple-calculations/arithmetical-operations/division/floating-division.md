@@ -1,17 +1,15 @@
-#### Дробно деление
-
-Да разгледаме няколко примера за **деление на дробни числа**. При дробно делене резултатът винаги е **дробно число** и деленето никога не дава грешка и работи коректно със специалните стойности **+&#8734;** и **-&#8734;**:
+Let us look at a few examples for **floating division**. When we divide floating-point numbers, the result is always a **real number** and the division never fails and works correct with the special values **+&#8734;** and **-&#8734;**:
 
 ```csharp
 var a = 15;
-Console.WriteLine(a / 2.0);   // Дробен резултат: 7.5
-Console.WriteLine(a / 0.0);   // Резултат: Infinity
-Console.WriteLine(-a / 0.0);   // Резултат: -Infinity
-Console.WriteLine(0.0 / 0.0); // Резултат: NaN (Not a Number), т.е. резултатът
-                              // от операцията не е валидна числена стойност
+Console.WriteLine(a / 2.0);   // Float result: 7.5
+Console.WriteLine(a / 0.0);   // Result: Infinity
+Console.WriteLine(-a / 0.0);   // Result: -Infinity
+Console.WriteLine(0.0 / 0.0); // Result: NaN (Not a Number), e.g. the result
+                              // from the operation is not a valid numeric value
 ```
 
-При отпечатването на стойностите **&#8734;** и **-&#8734;** на конзолата може да излязат `?`, защото конзолата в Windows не поддържа коректно Unicode и поврежда повечето нестандартни символи, букви и специални знаци. Горният пример най-вероятно ще изведе следния резултат:
+When printing the values  **&#8734;** and **-&#8734;**, the console output may be `?`, because the console in Windows does not work correctly with Unicode and breaks most of the non-standart symbols, letters and special signs. The example above would most probably give the following result:
 ```
 7.5
 ?

@@ -1,9 +1,7 @@
-#### Целочислено деление
-
-Да разгледаме и няколко примера за **целочислено деление** (запомнете, че при **деление на цели числа** в езика C# резултатът е **цяло число**):
+Let us look at a few examples for **integer division** (remember that when we **divide integers** in C# the result is a **whole number**):
 
 ```csharp
 var a = 25;
-Console.WriteLine(a / 4);  // Целочислен резултат: 6
-Console.WriteLine(a / 0);  // Грешка: деление на 0
+Console.WriteLine(a / 4);  // Integer result: 6
+Console.WriteLine(a / 0);  // Error: divide by 0
 ```

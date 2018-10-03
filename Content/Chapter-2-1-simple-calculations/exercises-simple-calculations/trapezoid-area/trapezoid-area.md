@@ -1,21 +1,21 @@
-### Problem:	лице на трапец
+### Problem: trapezoid area
 
-Напишете програма, която чете от конзолата три числа **b1, b2 и h и пресмята лицето на трапец** с основи **b1 и b2 и височина h. Формулата за лице на трапец е (b1 + b2) * h / 2**.
+Write a program that reads three numbers from the console **b1, b2 and h and calculates the area of a trapezoid** with bases **b1 and b2 and height h. The formula for trapezoid area is  (b1 + b2) * h / 2**.
 
-На фигурата по-долу е показан трапец със страни 8 и 13 и височина 7. Той има лице **(8 + 13) * 7 / 2 = 73.5**.
+In the figure bellow is shown a trapezoid with bases 8 and 13 and height 7. It has an area **(8 + 13) * 7 / 2 = 73.5**.
 
 ![](/assets/chapter-2-images/05.Trapezoid-area-01.png)
 
-#### Hints and Guidelines
+#### Hints and Guideliness
 
-Отново трябва да добавим към текущото Visual Studio решение още един **конзолен C# проект** с име ""Trapezoid-Area" и да напишем **кода, който чете входните данни от конзолата, пресмята лицето на трапеца и го отпечатва**:
+Again, we have to add to the existing Visual Studio solution another **console C# project** with name "Trapezoid-Area" and write the **code that reads the input from the console, calculates the trapezoid area and prints it**:
 
 ![](/assets/chapter-2-images/05.Trapezoid-area-02.png)
 
-Кодът на картинката е нарочно размазан, за да помислите върху него и да го допишете сами.
+The code in the picture is purposely blurred, in order for you to give it a thought and finish it yourself.
 
-**Тествайте** решението локално с [**Ctrl+F5**] и въвеждане на примерни данни.
+**Test** your solution locally with [**Ctrl+F5**] and enter an examplary data.
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/504#4](https://judge.softuni.bg/Contests/Practice/Index/504#4).
+Test your solution here:  [https://judge.softuni.bg/Contests/Practice/Index/504#4](https://judge.softuni.bg/Contests/Practice/Index/504#4).

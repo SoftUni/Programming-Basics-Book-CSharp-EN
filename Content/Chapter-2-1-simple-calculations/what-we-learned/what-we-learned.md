@@ -1,8 +1,9 @@
-## What We Learned in This Chapter?
+## What did we learn from this chapter?
 
-Да резюмираме какво научихме от тази глава на книгата:
-- **Въвеждане на текст**: **`var str = Console.ReadLine();`**.
-- **Въвеждане на цяло число**: **`var num = int.Parse(Console.ReadLine());`**.
-- **Въвеждане на дробно число**: **`var num = double.Parse(Console.ReadLine());`**.
-- **Извършване на пресмятания с числа** и използване на съответните **аритметични оператори** [+, -, \*, /, ()]: **`var sum = 5 + 3;`**.
-- **Извеждане на текст по шаблон** на конзолата: **`Console.WriteLine("{0} + {1} = {2}", 3, 5, 3 + 5);`**.
+Let us summarize what we learned in this chapter of the book:
+
+- **Inserting a text**: **`var str = Console.ReadLine();`**.
+- **Inserting a whole number**: **`var num = int.Parse(Console.ReadLine());`**.
+- **Inserting a real number**: **`var num = double.Parse(Console.ReadLine());`**.
+- **Calculations with numbers** and using the suitable  **arithmetic operators** [+, -, \*, /, ()]: **`var sum = 5 + 3;`**.
+- **Printing a text by placeholders** on the console: **`Console.WriteLine("{0} + {1} = {2}", 3, 5, 3 + 5);`**.

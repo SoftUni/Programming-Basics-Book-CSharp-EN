@@ -1,7 +1,10 @@
-## Числени изрази
+## Numerical Expressions
 
-В програмирането можем да пресмятаме и **числови изрази**, For Example:```csharp
+In programming, we can calculate **numerical expressions**, for example:
+
+```csharp
 var expr = (3 + 5) * (4 – 2);
 ```
 
-В сила е стандартното правило за приоритетите на аритметичните операции: **умножение и деление се извършват винаги преди събиране и изваждане**. При наличие на **израз в скоби, той се изчислява пръв**, но ние знаем всичко това от училищната математика.
+The standart rule for priorities of the arithmetic operations is applied: **multiplying and dividing are always done before adding and substracting**. In case of an **expression in brackets, it is calculated first**, but we already know all of that from school math.
+

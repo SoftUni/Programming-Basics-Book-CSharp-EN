@@ -1,9 +1,9 @@
-#### Отпечатване на изходните данни
+#### Printing the Output Data
 
-След като сме направили **проверките** за разстоянието и сме **изчислили цената на най-евтиния транспорт**, следва да я **отпечатаме**. В условието на задачата **няма** изисквания как да бъде форматиран резултата и по тази причина ще отпечатаме само **променливата**.
+After we have checked the distance **conditions** and we have **calculated the price of the cheapest transport**, we have to **print it**. The task does not specify how to format the result, therefore, we just print **the variable**. 
 
 ![](/assets/chapter-3-2-images/01.Transport-price-06.png)
 
 ### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/507#0](https://judge.softuni.bg/Contests/Practice/Index/507#0).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/507#0](https://judge.softuni.bg/Contests/Practice/Index/507#0).

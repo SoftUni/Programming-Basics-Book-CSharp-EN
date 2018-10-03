@@ -1,17 +1,17 @@
-#### Reading the Input Data и отпечатване на началния ред
+#### Reading the Input Data and Printing the First Row
 
-От условието на задачата виждаме, че **входните данни** ще бъдат прочетени само от един ред, който ще съдържа в себе си едно **цяло число** в интервала [**3 … 1000**]. По тази причина ще използваме **променлива** от тип **`int`**.
+We can see from the explanation that **the input data** will be taken from only one row which contains **an integer** in the interval [**3 … 1000**]. Therefore we will use **a variable** of type **`int`**.
 
 ![](/assets/chapter-6-2-images/03.Stop-01.png)
 
-Можем да **разделим** фигурата на **3 части** - горна, средна и долна. **Горната част** се състои от две подчасти - начален ред и редове, в които знака се разширява. **Началния ред** е съставен от начало **`.`**, среда **`_`** и край **`.`**. След разглеждане на примерите можем да кажем, че началото е с големина **`n + 1`** и е добре да отделим тази **стойност** в отделна **променлива**.
+We can **divide** the figure into **3 parts** - upper, middle and lower. **The upper part** contains two subparts - first row and rows in which the sign widens. **The first row** is made of a beginning **`.`**, middle **`_`** and an end **`.`**. After looking at the examples we can say that the beginning is **`n + 1`** columns wide so it is good to write this **value** in a separate **variable**.
 
 ![](/assets/chapter-6-2-images/03.Stop-02.png)
 		
-Трябва да създадем и втора **променлива**, в която ще пазим **стойността** на **средата на началния ред** и е с големина **`2 * n + 1`**.
+We must also create a second **variable**, in which we will keep **the value** of **the middle of the first row**, which is **`2 * n + 1`** columns wide.
 
 ![](/assets/chapter-6-2-images/03.Stop-03.png)
 		
-След като вече сме декларирали и инициализирали двете променливи, можем да отпечатаме на конзолата началния ред.
+After we have declared and initialized the two variables we can print the first row on the console.
 
 ![](/assets/chapter-6-2-images/03.Stop-04.png)

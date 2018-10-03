@@ -1,25 +1,25 @@
-## Problem: фирма
+## Problem: Firm
 
-Фирма **получава заявка за изработването на проект, за който са необходими** определен брой часове. Фирмата разполага с **определен брой дни**. **През 10% от дните служителите** са на обучение и **не могат да работят** по проекта. Един нормален **работен ден във фирмата е 8 часа**. Проектът е важен за фирмата и всеки служител задължително работи по проекта в **извънработно време по 2 часа на ден**.
+A firm **receives a request for creating a project for which** a certain amount of hours **are needed**. The firm has **a certain number of days**. **During 10% of the days, the workers** are being trained and **cannot work** on the project. A normal **working day is 8 hours long**. The project is important for the firm and every worker must work on it in **overtime for 2 hours per day**. 
 
-**Часовете** трябва да са **закръглени към по-ниско цяло число** (например → **6.98 часа** се закръглят на **6 часа**).
+**The hours** must be **rounded down to the nearest integer** (example -> **6.98 hours** are rounded to **6 hours**).
 
-Напишете програма, която изчислява дали **фирмата може да завърши проекта навреме** и **колко часа не достигат или остават**.
+Write a program that calculates whether **the firm can finish the project on time** and **how many hours more are needed or left**.
 
 ### Input Data
 
-Входът се чете от **конзолата** и съдържа **точно 3 реда**:
-* На **първия** ред са **необходимите часове** – **цяло число в интервала** [**0 … 200 000**].
-* На **втория** ред са **дните, с които фирмата разполага** – **цяло число в интервала** [**0 … 20 000**].
-* На **третия** ред е **броят на всички служители** – **цяло число в интервала** [**0 … 200**].
+The input data is read from **the console** and contains **exactly three lines**: 
+* On **the first** line are **the needed hours** – **an integer in the range of** [**0 … 200 000**].
+* On **the second** line are **the days that the firm has** – **an integer in the range of** [**0 … 20 000**].
+* On **the third** line are **the number of all workers** – **an integer in the range of** [**0 … 200**].
 
 ### Output Data
 
-Да се **отпечата** на конзолата **един ред**:
-* Ако **времето е достатъчно**:
-  * **"Yes!{оставащите часове} hours left."**.
-* Ако  **времето НЕ Е достатъчно**:
-  * **"Not enough time!{недостигащите часове} hours needed."**.
+Print **one line** on **the console**: 
+* If **the time is enough**:
+  * **"Yes!{the hours left} hours left."**.
+* If  **the time is NOT enough**:
+  * **"Not enough time!{hours more needed} hours needed."**.
 
 ### Sample Input and Output
 

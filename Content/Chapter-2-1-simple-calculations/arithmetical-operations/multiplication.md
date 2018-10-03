@@ -1,9 +1,10 @@
-### Умножение на числа (оператор **`*`**)
+### Multiplication of Numbers (operator **`*`**)
 
-За умножение на числа използваме оператора **`*`**:
+For multiplication of numbers we use the operator **`*`**:
 
 ```csharp
 var a = 5;
 var b = 7;
 var product = a * b; // 35
 ```
+

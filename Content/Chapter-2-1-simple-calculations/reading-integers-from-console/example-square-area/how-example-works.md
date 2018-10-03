@@ -1,11 +1,11 @@
-#### How the Example Works?
+#### How does the example work?
 
-Първият ред **`Console.Write("a = ");`** печата информативно съобщение, което подканва потребителя да въведе страната на квадрата **a**. След отпечатването курсорът остава на същия ред. Оставането на същия ред е по-удобно за потребителя, чисто визуално. Използва се **`Console.Write(…)`**, а не **`Console.WriteLine(…)`** и така курсорът остава на същия ред.
+The first row **`Console.Write("a = ");`** prints an informative message, which invites the user to enter the side of the square  **a**. After the output is printed, the cursor stays on the same row. Staying on the same row is more convinient for the user, visually. We use **`Console.Write(…)`**, and not **`Console.WriteLine(…)`** and this way the cursor stays on the same row.
 
-Следващият ред **`var a = int.Parse(Console.ReadLine());`** прочита цяло число от конзолата. Всъщност първо се прочита текст (стринг) чрез **`Console.ReadLine()`** и след това се преобразува до цяло число (парсва се) чрез **`int.Parse(…)`**. Резултатът се записва в променлива с име **`a`**.
+The next row **`var a = int.Parse(Console.ReadLine());`** reads an integer from the console. Actually, it reads a text first (string) using **`Console.ReadLine()`** and after that it gets converted to an integer (it is parsed) using **`int.Parse(…)`**. The result is kept in a variable with name **`a`**.
 
-Следващата команда **`var area = a * a;`** записва в нова променлива **`area`** резултата от умножението на **`a`** по **`a`**.
+The next command **`var area = a * a;`** keeps in a new variable **`area`** the result of the multiplication of **`a`** by **`a`**.
 
-Следващата команда **`Console.Write("Square area = ");`** отпечатва посочения текст, без да преминава на нов ред. Отново се използва **`Console.Write(…)`**, а не **`Console.WriteLine(…)`** и така курсорът остава на същия ред, за да може след това да се отпечата и изчисленото лице на квадрата.
+The next command **`Console.Write("Square area = ");`** prints the given text without goint to the next line. Again, it is used  **`Console.Write(…)`**, and not **`Console.WriteLine(…)`** and this way the cursor stays on the same row in order to print the calculated area of the square afterwards. 
 
-Последната команда **`Console.WriteLine(area);`** отпечатва изчислената стойност от променливата **`area`**.
+The last command **`Console.WriteLine(area);`** prints the calculated value of the variable  **`area`**.

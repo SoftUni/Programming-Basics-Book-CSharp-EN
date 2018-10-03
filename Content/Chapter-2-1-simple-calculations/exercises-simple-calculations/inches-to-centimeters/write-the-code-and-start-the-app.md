@@ -1,14 +1,14 @@
-#### Писане на програмен код и стартиране на програмата
+#### Writing the program code and starting the program
 
-Следва да напишем **кода на програмата**:
+Next, we have to write the **program code**:
 
 ![](/assets/chapter-2-images/02.Inches-to-centimeters-03.png)
 
-**Стартираме програмата** с [**Ctrl+F5**]:
+**Start the program** with [**Ctrl+F5**]:
 
 ![](/assets/chapter-2-images/02.Inches-to-centimeters-04.png)
 
-Изненада! Какво става? Програмата не работи правилно… Всъщност това не е ли предходната програма?
-Във Visual Studio **текущият активен проект** в един solution е маркиран в получерно и може да се сменя:
+Surprise! What is happening? The program doesn't work correctly… Actually, isn't this the previous program?
+In Visual Studio **the current active project** in a solution is marked in half black colour and it could be changed:
 
 ![](/assets/chapter-2-images/02.Inches-to-centimeters-05.png)

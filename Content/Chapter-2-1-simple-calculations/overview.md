@@ -1,15 +1,16 @@
-# Chapter 2.1. Прости пресмятания с числа
+# Chapetr 2.1. Simple Calculations
 
-В настоящата глава ще се запознаем със следните концепции и програмни техники:
-- Какво представлява **системната конзола**?
-- Как да **прочитаме числа** от системната конзола?
-- Как да работим с **типове данни и променливи**, които са ни необходими при обработка на числа и операциите между тях?
-- Как да **изведем** резултат (число) на системната конзола?
-- Как да извършваме прости **аритметични операции**: събиране, изваждане, умножение, деление, съединяване на низ?
+In this chapter we are going to get familiar with the following concepts and programming techniques: 
+
+- What is the **system console**?
+- How to **read numbers** from the system console?
+- How to work with **data types and variables**, which are necessary to process numbers and the operations between them?
+- How to **print** a result (a number) on the console?
+- How to do simple **arithmetic operations**:  add, substract, multiply, divide, string concatenation?
 
 ## Video
 
 <div class="video-player">
-  Гледайте видео-урок по тази глава тук: <a target="_blank" href="https://www.youtube.com/watch?v=0f7c9RIZGaE">https://www.youtube.com/watch?v=0f7c9RIZGaE</a>.
+  Watch a video lesson on this chapter here: <a target="_blank" href="https://www.youtube.com/watch?v=0f7c9RIZGaE">https://www.youtube.com/watch?v=0f7c9RIZGaE</a>.
 </div>
 <script src="/assets/js/video.js"></script>

@@ -1,3 +1,3 @@
 ## Exam Problems
 
-След като си припомнихме как се пишат условни конструкции, да решим няколко задачи, за да получим практически опит с **`if-else`**-конструкцията.
+After having revised how to write simple conditions, let' s solve a few tasks in order to practice the **`if-else`**-construction.

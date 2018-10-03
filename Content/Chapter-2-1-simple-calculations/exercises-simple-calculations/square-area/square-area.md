@@ -1,3 +1,3 @@
-### Problem:	пресмятане на лице на квадрат
+### Problem:	calculating the area of a square
 
-Първата задача от тази тема е следната: да се напише конзолна програма, която **въвежда цяло число `a` и пресмята лицето** на квадрат със страна **`a`**. Задачата е тривиално лесна: **въвеждате число** от конзолата, **умножавате го само по себе си** и **печатате получения резултат** на конзолата.
+The first exercise from this theme is the following : write a console program that  **reads a whole number `a` and calculates the area** of a square with side **`a`**. The task is trivial and easy: **read a number** from the console, **multiply it by itself** and **print the received result** on the console.

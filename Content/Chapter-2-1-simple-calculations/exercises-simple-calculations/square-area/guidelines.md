@@ -1,17 +1,17 @@
-#### Hints and Guidelines
+#### Hints and Guideliness
 
-Създаваме **нов проект** в съществуващото Visual Studio решение. В **Solution Explorer** кликнете с десен бутон на мишката върху **Solution 'Simple-Calculations'**. Изберете [**Add**] -> [**New Project…**]:
+We create a **new project** in the existing Visual Studio solution. In the **Solution Explorer** click the right button of the mouse on **Solution 'Simple-Calculations'**. Choose [**Add**] -> [**New Project…**]:
 
 ![](/assets/chapter-2-images/01.Square-area-01.png)
 
-Ще се отвори **диалогов прозорец** за избор на **тип проект** за създаване. Избираме **C# конзолно приложение** с име “Square-Area”:
+**A dialogue window** is going to be opened for a choice of **project type** for creation. We choose **C# console application** with name “Square-Area”:
 
 ![](/assets/chapter-2-images/01.Square-area-02.png)
 
-Вече имаме solution с едно конзолно приложение в него. Остава да напишем **кода за решаване на задачата**. За целта отиваме в тялото на метода **`Main(string[] args)`** и пишем следния код:
+We already have a solution with one console application in it. It is left to write the **code for solving this problem**.  For this purpose we go to the main method's body **`Main(string[] args)`** and write the following code:
 
 ![](/assets/chapter-2-images/01.Square-area-03.png)
 
-Кодът въвежда цяло число чрез **`a = int.Parse(Console.ReadLine())`**, след това изчислява **`area = a * a`** и накрая печата стойността на променливата **`area`**. **Стартираме** програмата с [**Ctrl+F5**] и я **тестваме** с различни входни стойности:
+The code enters a whole number through **`a = int.Parse(Console.ReadLine())`**, afterwards it calculates  **`area = a * a`** and finally prints the value of the variable **`area`**. **We start** the program with [**Ctrl+F5**] and **test** it with different input values: 
 
 ![](/assets/chapter-2-images/01.Square-area-04.png)

@@ -1,17 +1,17 @@
-#### Извършване на проверки и обработка на изходните данни
+#### Conditional execution and Processing the Output Data
 
-Вече сме направили нужните пресмятания и **следващата стъпка** е да **проверим** дали **получените литри** вино са **достатъчни**. За целта ще използваме **проста условна конструкция** от типа **`if-else`**, като в условието ще **проверим** дали **литрите вино** от реколтата са **повече от** или **равни** на **нужните литри**. 
+After having done the necessary calculations, **the next step** is to **check** whether the **litres of wine** that have been produced, **are enough**. For that we will use **a simple conditional statement** of **`if-else`** type and we will **check** whether **the litres of wine** from the harvest are **more than** or **equal to** the **needed litres**. 
 
-Ако проверката върне резултат **`true`**, от условието на задачата виждаме, че на **първия ред** трябва да разпечатаме **виното, което сме получили от реколтата**. За да спазим условието **тази стойност** да бъде **закръглена до по-ниското цяло число**, ще използваме метода **`Math.Floor(…)`** при разпечатването й чрез **placeholder**. 
+If the condition returns **`true`**, from the task requirement we see that **on the first line** we have to print **the wine that has been produced from the harvest**. **That value** has to be **rounded down to the nearest integer**, which we will do by using both the method **`Math.Floor(…)`** and a **placeholder** when printing it. 
 
-На втория ред има изискване да разпечатаме резултатите, като ги **закръглим към по-високото цяло число**, което ще направим с метода **`Math.Ceiling(…)`**. Стойностите, които трябва да разпечатаме, са на **оставащото количество вино** и **количеството вино, което се пада на един работник**. Оставащото количество вино е равно на **разликата** между **получените литри вино** и **нужните литри вино**. Стойността на това количество ще изчислим в нова променлива, която ще декларираме и инициализираме в **блок тялото** на **`if`**, **преди** разпечатването на първия ред. Количеството вино, което **се полага на един работник**, ще изчислим като **оставащото вино** го **разделим** на **броя** на работниците. 
+On the second line we have to print the results by **rounding them up to the higher integer**, which we will do by using the method **`Math.Ceiling(…)`**. The values, that we have to print, are of **the quantity of left wine** and **the quantity that each worker gets**. The wine left is equal to **the difference** between **the produced litres of wine** and **the needed litres of wine**. We calculate the value of that quantity in a new variable, which we declare and initialize in the **`if` condition body**, before printing the first line. We calculate the quantity of wine that **each worker gets** by subtracting **the wine left** by **the number** of workers.
 
 ![](/assets/chapter-3-2-images/04.Harvest-03.png)
 
-Ако проверката ни върне резултат **`false`** от условието на задачата виждаме, че трябва да **разпечатаме разликата** от **нужните литри** и **получените от тази реколта литри вино**. Има условие резултата да е **закръглен към по-ниското цяло число**, което ще направим с метода **`Math.Floor(…)`**.
+If the condition returns **`false`**, we have to **print the difference** between **the needed litres** and the **produced from the harvest litres of wine**. There is a specification that the result has to be **rounded down to the nearest integer**, which we will do by using the method **`Math.Floor(…)`**.
 
 ![](/assets/chapter-3-2-images/04.Harvest-04.png)
 
 ### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/507#3](https://judge.softuni.bg/Contests/Practice/Index/507#3).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/507#3](https://judge.softuni.bg/Contests/Practice/Index/507#3).
