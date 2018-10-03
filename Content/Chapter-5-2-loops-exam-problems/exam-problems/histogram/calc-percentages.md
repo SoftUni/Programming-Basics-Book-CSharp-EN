@@ -12,7 +12,8 @@ If we divide by **100** (**`int`** number type) instead of **100.0** (**`double`
 
 ![](/assets/chapter-5-2-images/01.Histogram-05.png)
 
-To make it even clearer, let's take a look at the following Example: | Input | Output |
+To make it even clearer, let's take a look at the following Example: 
+| Input | Output |
 |--------|---------|
 |**3**<br>1<br>2<br>999|66.67%<br>0.00%<br>0.00%<br>0.00%<br>33.33%|
 
