@@ -5,9 +5,9 @@ Ivan is a programmer in an **American company** and he **works** at home **appro
 ### Input Data
 
 **Three numbers** are read from the console.
-* On the first line – **work days per month**. An integer in the range [**5 … 30**].
-* On the second line – **daily earnings**. A floating-point number in the range [**10.00 … 2000.00**].
-* On the third line – **exchange rate of dollar to lev** /1 dollar = X lev/. A floating-point number in the range [**0.99 … 1.99**].
+* On the first line – **work days per month**. An integer in the range of [**5 … 30**].
+* On the second line – **daily earnings**. A floating-point number in the range of [**10.00 … 2000.00**].
+* On the third line – **exchange rate of dollar to lev** /1 dollar = X lev/. A floating-point number in the range of [**0.99 … 1.99**].
 
 ### Output Data
 

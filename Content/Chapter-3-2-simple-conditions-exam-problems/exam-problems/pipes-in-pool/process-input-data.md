@@ -1,13 +1,13 @@
 ### Hints and Guidelines
 
-За да решим задачата, ще прочетем входа, ще извършим няколко проверки и изчисления и ще отпечатаме резултата.
+In order to solve the task, we read the input data, write a few conditional statements, do some calculations and print the result. 
 
 #### Processing the Input Data
 
-От условието на задачата виждаме, че в програмата ни трябва да има **четири реда**, от които четем **входните данни**. Чрез първите **три** ще въвеждаме **цели числа** и по тази причина **променливите**, в които ще запазваме стойностите, ще бъдат от тип **`int`**. За **четвъртия** ред ни е казано, че ще бъде **число**, което е **с плаваща запетая**, затова и **променливата**, която ще използваме, е от тип **`double`**.
+From the task requirements we note that our program must have **four lines** from which we read **the input data**. The first **three** consist of **integers** and that is why the **variables** that will store their values will be of type **`int`**. We know that the **fourth** line will be a **floating-point number**, therefore, the variable we use will be of type **`double`**.
 
 ![](/assets/chapter-3-2-images/02.Pipes-in-pool-01.png)
 
-Следващата ни стъпка е да **декларираме и инициализираме** променлива, в която ще изчислим с колко **литра** се е **напълнил** басейна за **времето**, в което работникът е **отсъствал**. Изчисленията ще направим като **съберем** стойностите на дебита на **двете тръби** и ги **умножим** по **часовете**, които са ни зададени като вход.
+Out next step is to **declare and initialize** a variable in which we are going to calculate with how many **liters** the pool has **filled up** for the time the worker was **absent**. We do the calculations by **summing** the values of the flow rates of the** two pipes** and **multiplying** them by the **hours** that are given as an input data. 
 
 ![](/assets/chapter-3-2-images/02.Pipes-in-pool-02.png)

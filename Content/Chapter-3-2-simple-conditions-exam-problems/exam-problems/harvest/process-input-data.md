@@ -1,15 +1,15 @@
 ### Hints and Guidelines
 
-За да решим задачата, ще прочетем входа, ще извършим няколко проверки и изчисления и ще отпечатаме резултата.
+In order to solve the task, we will read the input data. Then, we will write a few conditional statements and do some calculations. Finally, we will print the result.
 
-#### Processing the Input Data и прилежащи изчисления
+#### Processing the Input Data and Doing the Calculations
 
-Първо трябва да **проверим** какви ще са **входните данни** и да изберем какви **променливи** ще използваме. 
+First we have to **check** what **the input data** will be, so that we can choose what **variables** we will use. 
 
 ![](/assets/chapter-3-2-images/04.Harvest-01.png)
 
-За да решим задачата е нужно да **изчислим** колко **литра вино** ще получим на база **входните данни**. От условието на задачата виждаме, че за да **пресметнем** количеството **вино в литри**, трябва първо да разберем какво е **количеството грозде в килограми**, което ще се получи от тази реколта. За тази цел ще **декларираме** една **променлива**, на която ще присвоим **стойност**, равна на **40%** от резултата от **умножението** на площта на лозето и количеството грозде, което се получава от 1 кв. м.
+To solve the problem, based on **the input data**, we have to **calculate** how many **litres of wine** will be produced. From the task requirements, we see that in order to **calculate** the quantity of **wine in litres**, we firstly have to find **the quantity of grapes in kilograms**, which will be received from the harvest. For that, we will **declare** a **variable** that stores a **value**, equal to **40%** of the result from the **multiplication** of the vineyard area by the quantity of grapes, which is extracted from 1 sq. m.
 
-След като сме извършили тези пресмятания, сме готови да **пресметнем** и **количеството вино в литри**, което ще се получи от тази реколта. За тази цел **декларираме** още една **променлива**, в която ще пазим това **количество**, а от условието стигаме до извода, че за да го пресметнем, е нужно да **разделим количеството грозде в кг на 2.5**. 
+After having done these calculations, we are ready to **calculate the quantity of wine in litres** that will be produced from the harvest as well. For that, we **declare** one more **variable** that stores that **quantity**, which in order to calculate, we have to **divide the quantity of grapes in kg by 2.5**.
 
 ![](/assets/chapter-3-2-images/04.Harvest-02.png)

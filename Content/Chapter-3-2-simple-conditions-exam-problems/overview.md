@@ -1,20 +1,20 @@
-# Chapter 3.2. Прости проверки – изпитни задачи
+# Chapter 3.2. Simple Conditions - Exam Problems
 
-В предходната глава разгледахме условните конструкции в езика C#, чрез които можем да изпълняваме различни действия в зависимост от някакво условие. Споменахме още какъв е обхватът на една променлива (нейният **`scope`**), както и как постъпково да проследяваме изпълнението на нашата програма (т.нар. **дебъгване**). В настоящата глава ще упражним работата с логически проверки, като разгледаме някои задачи, давани на изпити. За целта нека първо си припомним конструкцията на логическата проверка:
+In the previous chapter, we went through the simple conditions in C#, which we can use to execute different actions depending on a given condition. We mentioned what **the scope ** of a variable is and how to track the execution of our program step by step (the so-called **debugging**) as well. In this chapter, we will practice working with simple conditions by going through some exam tasks. To do this, let' s first revise their construction:
 
 ```csharp
-if (булев израз)
+if (boolean expression)
 {
-    // тяло на условната конструкция;
+    // condition body;
 }
 else
 {
-    // тяло на else-конструкция;
+    // еlse-construction body;
 }
 ```
 
-**`if` проверките** се състоят от:
- * **`if` клауза**
- * булев израз - променлива от булев тип (**`bool`**) или булев логически израз (израз, който връща резултат **`true/false`**)
- * тяло на конструкцията - съдържа произволен блок със сорс код
- * **`else` клауза** и нейният блок със сорс код (**незадължително**)
+**`if` conditions** consist of:
+ * **`if` clause**
+ * boolean expression - a variable of boolean type (**`bool`**) or boolean logical expression (an expression that results in **`true/false`**)
+ * condition body - contains random block of source code
+ * **`else` clause** and its block of source code (**optional**)

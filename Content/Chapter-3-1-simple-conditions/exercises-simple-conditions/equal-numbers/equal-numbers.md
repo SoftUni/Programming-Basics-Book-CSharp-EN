@@ -1,6 +1,6 @@
-### Problem: еднакви 3 числа
+### Problem: equal numbers
 
-Да се напише програма, в която се въвеждат **3 числа** и се отпечатва дали те са еднакви (**yes** / **no**).
+Write a program that inputs **3 numbers** and prints whether they are the same (**yes** / **no**).
 
 #### Sample Input and Output
 
@@ -12,5 +12,5 @@
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/506#14](https://judge.softuni.bg/Contests/Practice/Index/506#14).
+Test your solution from the example here: [https://judge.softuni.bg/Contests/Practice/Index/506#14](https://judge.softuni.bg/Contests/Practice/Index/506#14).
 
