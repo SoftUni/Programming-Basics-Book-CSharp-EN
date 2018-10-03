@@ -2,7 +2,7 @@
 
 After we have determinated how many numbers there are in each group, we can move on to calculating the percentages, which is the main purpose of the problem. For this we will use the following formula:
 
-<p align="center"><strong>(gruop percentage) = (count of numbers in group) * 100 / (count of all numbers)</strong></p>
+<p align="center"><strong>(group percentage) = (count of numbers in group) * 100 / (count of all numbers)</strong></p>
 
 This formula in the program code looks like this:
 
