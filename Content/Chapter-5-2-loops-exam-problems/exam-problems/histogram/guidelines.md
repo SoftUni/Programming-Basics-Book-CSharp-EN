@@ -1,11 +1,11 @@
 ### Hints and Guidelines
 
-Програмата, която решава този проблем, можем да разделим мислено на три части:
+The program that solves this problem, we can split in three parts:
 
-  * **Прочитане на входните данни** – в настоящата задача това включва прочитането на числото **n**, последвано от **n на брой цели числа**, всяко на отделен ред.
-  * **Обработка на входните данни** – в случая това означава разпределяне на числата по групи и изчисляване на процентното разделение по групи.
-  * **Извеждане на краен резултат** – отпечатване на хистограмата на конзолата в посочения формат.
+  * **Reading the input data** – in the current problem this includes reading of the number **n**, following by **n count integer numbers**, each on a single line.
+  * **Processing the input data** – in this case that means allocating the numbers into groups and calculating the percentage breakdown by groups.
+  * **Printing the output** – print the histogram on the console in the specified format.
   
-Преди да продължим напред ще направим едно малко отклонение от настоящата тема, а именно ще споменем накратко, че в програмирането всяка променлива е от някакъв **тип данни**. В тази задача ще използваме числовите типове **`int`** за **цели числа** и **`double`** за **дробни**. Често, за улеснение, програмистите изпускат изричното уточняване на типа, като го заместват с ключовата дума **`var`**. С цел по-лесно разбиране ние ще изписваме типа при декларацията на променливите.
+Before we proceed forward, we will make a small deviation from the current topic, that is, we will briefly mention that in programming every variable is from some **type of data**. In this problem we will use the numeral types **`int`** for **integer numbers** and **`double`** for **real numbers**. Often, for making it easier, programmers miss the explicit specification of the type by replacing it with the keyword **`var`**.  For better understanding we will write the type in the variable declaration.
 
-Сега ще преминем към имплементацията на всяка от горепосочените точки.
+We will now proceed to the implementation of each of the above points.

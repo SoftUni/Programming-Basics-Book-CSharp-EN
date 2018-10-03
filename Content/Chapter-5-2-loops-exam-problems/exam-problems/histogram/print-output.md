@@ -1,9 +1,9 @@
-#### Извеждане на краен резултат
+#### Printing the output
   
-Остава само да отпечатаме получените резултати. В условието е казано, че процентите трябва да са **с точност две цифри след десетичната точка**. Това ще постигнем, като след placeholder-а изпишем “**`:f2`**”:
+We only have to print out the reults. In the description is said, that the percentages must be with **precision two points after the decimal point**. To achive this , write “:f2”: after the placeholder:
 
 ![](/assets/chapter-5-2-images/01.Histogram-06.png)
 
 ### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/511#0](https://judge.softuni.bg/Contests/Practice/Index/511#0).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/511#0](https://judge.softuni.bg/Contests/Practice/Index/511#0).
