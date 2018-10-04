@@ -1,3 +1,3 @@
 ## What We Learned in This Chapter?
 
-В **настоящата** глава се запознахме как **правилно** да **форматираме** и именуваме елементите на нашия **код**, някои **бързи клавиши** (shortcuts) за работа във Visual Studio, **шаблони с код** (code snippets) и разгледахме как се **дебъгва код**.
+In the **current** we learned how to **correctly** **format** and name the elements of our **code**, some **shortcuts** in Visual Studio, **code snippets** and we saw how to **debug the code**.

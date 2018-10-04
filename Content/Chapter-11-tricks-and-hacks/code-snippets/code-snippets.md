@@ -1,5 +1,5 @@
-## Шаблони с код (code snippets)
+## Code Snippets
 
-Във Visual Studio съществуват т.нар. **шаблони с код** (code snippets), при изписването на които се изписва по шаблон някакъв блок с код. Примерно, при изписването на кратък код “**`cw`**” и натискане на **[Tab]** + **[Tab]** се генерира кодът **`Console.WriteLine();`** в тялото на нашата програма, на мястото на краткия код. Това се нарича “разгъване на шаблон за кратък код”. Подобно работи и шаблона “**`for`**” + **[Tab]** + **[Tab]**. На фигурата по-долу е показано действието на шаблона “**`cw`**”:
+In Visual Studio there are the so called **code snippets**, which write a block of code by being written. For example, by writing the short code “**`cw`**” and then pressing **[Tab]** + **[Tab]** the **`Console.WriteLine();`** code generates in the body of our program, in place of the short code.This is called “unfolding a code snippet”. The “**`for`**” + **[Tab]** + **[Tab]** snippet works in the same way. On the figure below you can see the “**`cw`**” snippet in action:
 
 ![](/assets/chapter-11-images/01.Code-snippet-01.jpg)

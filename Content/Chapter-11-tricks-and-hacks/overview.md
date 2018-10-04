@@ -1,9 +1,9 @@
-# Chapter 11. Хитрости и хакове
+# Chapter 11. Tricks and Hacks
 
-В настоящата глава ще разгледаме някои хитрости, хакове и техники, които ще улеснят работата ни с езика C# в среда за разработка Visual Studio. По-специално ще се запознаем:
+In the current chapter we are going to see some tricks, hacks and techniques, which will make our work with C# easier in the Visual Studio IDE. In particular we will see:
 
-* Как правилно да **форматираме код**
-* С конвенции за **именуване на елементи от код**
-* С някои **бързи клавиши** (keyboard shortcuts)
-* С някои **шаблони с код** (code snippets)
-* С техники за **дебъгване на код**
+* How to propery **format our code**
+* Conventions for **naming elements in the code**
+* Some **keyboard shortcuts**
+* Some **code snippets**
+* Techniques to **debug our code**

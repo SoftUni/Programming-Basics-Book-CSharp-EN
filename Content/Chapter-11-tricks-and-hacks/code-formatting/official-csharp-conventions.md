@@ -1,8 +1,8 @@
-### Официална C# код конвенция
+### Official C# Code Conventions
 
-Официалната **C# код конвенция** на Microsoft е публикувана в статията "C# Coding Conventions" в MSDN (https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions) и в тази книга ще се ръководим основно от нея.
+The official **C# code convention** by Microsoft is published in the "C# Coding Conventions" article in MSDN (https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions) and in this book we will guide ourselves by it.
 
-За форматиране на кода от Microsoft се препоръчва **къдравите скоби `{}`** да са на отделен ред и точно под конструкцията, към която се отнасят, както е в примера по-долу.
+For formatting code Microsoft recommends **curly brackets `{}`** to be on a separate row and just below the construction to which they apply, as in the example below.
 
 ```csharp
 if (someCondition)
@@ -11,7 +11,7 @@ if (someCondition)
 }
 ```
 
-Вижда се, че командата **`Console.WriteLine(…)`** в примера е **4 празни полета навътре (един таб)**, което също се препоръчва от **Microsoft**. Също така, ако дадена конструкция с къдрави скоби е един таб навътре, то **къдравите скоби `{}`** трябва да са в **началото на конструкцията**, както е в примера по-долу:
+You can see that the command **`Console.WriteLine(…)`** in the example is **offset by 4 white spaces (one tab)**, which is also reccomended by **Microsoft**. Also if a given construction with curly brackets is offset by one tab, then **the curly brackets `{}`** must be in **the begining of the construction**, as in the example below:
 
 ```csharp
 if (someCondition)
@@ -23,25 +23,25 @@ if (someCondition)
 }
 ```
 
-Ето това е пример за **лошо форматиран код** спрямо общоприетите конвенции за писане на код на езика C#:
+Below you can see an example for **badly formatted code** according to the accepted conventions for writing code in C#:
    
 ```csharp
 if(someCondition){
 Console.WriteLine("Inside the if statement");}
 ```
 
-Първото, което се забелязва са **къдравите скоби `{}`**. Първата (отваряща) скоба трябва да е **точно под `if` условието**, a втората (затваряща) скоба - **под командата `Console.WriteLine(…)`, на отделен празен ред**. В допълнение, командата вътре в **`if`** конструкцията трябва да бъде **4 празни полета навътре (един таб)**. Веднага след ключовата дума **`if`** и преди условието на проверката се оставя **интервал**.
+The first thing that we see is **the curly brackets `{}`**. The first (opening) bracket should be **just below the `if` condition**, and the second (closing) bracket - **below the command `Console.WriteLine(…)`, at a new and empty row**. In addition, the command inside the **`if`** construction should be **offset by 4 white spaces (one tab)**. Just after the keyword **`if`** and before the condition you should put **an interval**.
 
-Същото правило важи и за **`for` цикли и всякакви други конструкции с къдрави скоби `{}`**. Ето още няколко примера:
+The same rule applies for **the `for` loops and all other constructinos with curly brackets `{}`**. Here are some more examples:
 
-Правилно:
+Right:
 ```csharp
 for (int i = 0; i < 5; i++)
 {
     Console.WriteLine(i);
 }
 ```
-Грешно:
+Wrong:
 ```csharp
 for(int i=0;i<5;i++){
 Console.WriteLine(i);

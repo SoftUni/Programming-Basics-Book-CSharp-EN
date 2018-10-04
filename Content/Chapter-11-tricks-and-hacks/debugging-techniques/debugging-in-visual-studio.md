@@ -1,8 +1,8 @@
-### Дебъгване във Visual Studio
+### Debugging in Visual Studio
 
-Visual Studio ни предоставя **вграден дебъгер** (debugger), чрез който можем да поставяме **точки на прекъсване** (или breakpoints), на избрани от нас места. При среща на **стопер** (breakpoint), програмата **спира изпълнението** си и позволява **постъпково изпълнение** на останалите редове. Дебъгването ни дава възможност да **вникнем в детайлите на програмата** и да видим къде точно възникват грешките и каква е причината за това.
+Visual Studio gives us **a built in debugger**, thanks to which we can place **breakpoints** at places we have chosen. When it reaches a **breakpoint**, the program **stops running** and allows **step-by-step running** of the remaining rows. Debugging allows us to **get in the details of the program** and see where exactly do the errors occur and what is the reason for this.
 
-За да демонстрираме работа с дебъгера ще използваме следната програма:
+In order to demonstrate the debugger, we will use the following program:
 
 ```csharp
 static void Main(string[] args)
@@ -14,6 +14,6 @@ static void Main(string[] args)
 }
 ```
 
-Ще сложим **стопер** (breakpoint) на функцията **`Console.WriteLine(…)`**. За целта трябва да преместим курсора на реда, който печата на конзолата, и да натиснем [**F9**]. Появява се **стопер**, където програмата ще **спре** изпълнението си:
+We will place a **breakpoint** at the function **`Console.WriteLine(…)`**. For this we will need to move our cursor to the row, which prints on the console, and press [**F9**]. A **breakpoint** appears, showing where the program will **stop** running:
 
 ![](/assets/chapter-11-images/02.Debugger-01.jpg) 
