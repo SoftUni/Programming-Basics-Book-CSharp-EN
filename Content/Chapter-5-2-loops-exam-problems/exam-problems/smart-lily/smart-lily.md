@@ -15,10 +15,10 @@ We read from the console **3 numbers**, each on separate line:
 Print on the console one single line:
 
   * If Lily's money is enough:
-    * “**Yes! {N}**” – where **N** is the ramaining money after the purchase
+    * “**Yes! {N}**” – where **N** is the remaining money after the purchase
   * If money is not enough:
     * “**No! {M}**” – where **M** is the insufficiency amount
-  *Numbers **N** and **M** must be **formatted to the second place after decimal point**.
+    * Numbers **N** and **M** must be **formatted to the second place after decimal point**.
 
 ### Sample Input and Output
 
