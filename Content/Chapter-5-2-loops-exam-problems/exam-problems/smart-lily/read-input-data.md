@@ -1,7 +1,7 @@
 #### Reading the Input Data
 
-Решението на тази задача, подобно на предходната, също можем да разделим мислено на три части – **прочитане** на входните данни, **обработката** им и **извеждане** на резултат.
+The solution of this problem,like the previous one can also be splited into three parts – **reading** input data , **processing** and **outputting** the result.
 
 ![](/assets/chapter-5-2-images/02.Smart-lilly-01.png)
 
-Отново започваме с избора на подходящи **типове данни** и имена на променливите. За годините на Лили (**`age`**) и единичната цена на играчката (**`presentPrice`**) по условие е дадено, че ще са **цели числа**. Затова ще използваме **типа `int`**. За цената на пералнята (**`priceOfWashingMachine`**) знаем, че е **дробно число и избираме `double`**. Разбира се, можем да пропуснем изричното уточняване на типа, като вместо това употребим **`var`**. В кода по-горе **декларираме** и **инициализираме** (присвояваме стойност) променливите.
+We start again with the choice of appropriate **data types** and names of the variables. For the Lilly's years (**`age`**) and the unit price of the toy (**`presentPrice`**) in the description is given, that they will be **integer numbers**. That's why we will use **`int` type**. For the price of the washing machine (**`priceOfWashingMachine`**) we know, that it is **real number and we choose `double`**. Of course, we can skip the explicit specification of type, by using **`var`**. In the above code we **declare** and **initialize** (assign value) the variables.

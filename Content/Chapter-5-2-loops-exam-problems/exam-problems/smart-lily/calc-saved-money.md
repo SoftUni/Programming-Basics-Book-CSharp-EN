@@ -1,9 +1,9 @@
-#### Изчисляване на спестяванията
+#### Calculating Saved Money
 
 ![](/assets/chapter-5-2-images/02.Smart-lilly-03.png)
 
-С **`for` цикъл** преминаваме през всеки рожден ден на Лили. Когато водещата променлива е **четно число**, това означава, че Лили е **получила пари** и съответно прибавяме тези пари към общите ѝ спестявания. Едновременно с това **изваждаме по 1 лев** - парите, които брат ѝ взема. След това **увеличаваме** стойността на променливата **`moneyForBirthday`**, т.е. увеличаваме с 10 сумата, която тя ще получи на следващия си рожден ден. Обратно, когато водещата променлива е **нечетно число**, увеличаваме броя на **играчките**. Проверката за четност осъществяваме чрез **деление с остатък** (**`%`**) **на 2** – когато остатъкът е 0, числото е четно, а при остатък 1 - нечетно.
+With **`for` loop** we iterate through every Lily's birthday. When the leading variable is **even  number**, that means Lily **has received money** and we add this money to her total savings. At the same time we **subtract 1 lev** - the money , that her brother takes. Then we **increase** the value of the variable **`moneyForBirthday`**, ie. we increase by 10 the sum, which she will receive on her next birthday. Iversely, when the leading variable is **odd number**, we increase the count of **toys**. We do the parity check by **division with remainder** (**`%`**) **by 2** - when the remainder is 0, the figure is even, and the remainder 1 is odd.
 
-Към спестяванията на Лили прибавяме и парите от продадените играчки:
+We also add the money from the sold toys to the Lily's savings.
 
 ![](/assets/chapter-5-2-images/02.Smart-lilly-04.png)
