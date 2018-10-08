@@ -1,13 +1,13 @@
-### Именуване на променливи
+### Naming Variables
 
-В програмирането променливите пазят някакви данни и за да е по-разбираем кода, името на една променлива трябва **да подсказва нейното предназначение**. Ето и още няколко препоръки за имената на променливите:
+In programming variables keep data and for the code to be more understandable the name of a variable should **suggest its purpose**. Here are some recommendations for naming variables:
 
-* Името трябва да е **кратко и описателно** и да обяснява за какво служи дадената променлива.
-* Името трябва да се състои само от буквите **a-z**, **A-Z**, **цифрите 0-9**, както и **символа '\_'**.
-* В C# е прието променливите да **започват** винаги **с малка буква** и да **съдържат малки букви**, като **всяка следваща дума** в тях **започва с главна буква** (това именуване е още познато като **`camelCase`** конвенция).
-* Трябва да се внимава за главни и малки букви, тъй като C# прави разлика между тях. Например **`age`** и **`Age`** са различни променливи.
-* Имената на променливите не могат да съвпадат със служебна дума (keyword) от езика C#, например **`int`** е невалидно име на променлива.
+* The name should be **short and descriptive** and to explain what the variable serves for.
+* The name should only contain the letters **a-z**, **A-Z**, **the numbers 0-9**, and **the symbol '\_'**.
+* It is accepted in C# for the variables to always **begin** **with a lowercase letter** and to **contain lowercase letters**, and **each next word** in them should **start with an uppercase letter** (this naming is also known as **`camelCase`** convention).
+* You should be careful about uppercase and lowercase letters, because C# makes a difference between them. For example **`age`** and **`Age`** are different variables.
+* The names of the variables can not coincide with keywords in the C# language, for example **`int`** is an invalid name for a variable.
 
 <table><tr><td><img src="/assets/alert-icon.png" style="max-width:50px" /></td>
-<td>Въпреки че използването на символа <code><b>_</b></code> в имената на променливите е разрешено, в C# това не се препоръчва и се счита за лош стил на именуване.</td>
+<td>Although using the symbol <code><b>_</b></code> in the names of variables is permitted, in C# it is not recommended and is considered a bad style of naming.</td>
 </tr></table>

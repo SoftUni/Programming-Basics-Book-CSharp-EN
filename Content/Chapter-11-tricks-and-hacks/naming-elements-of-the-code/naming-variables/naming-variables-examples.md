@@ -1,18 +1,18 @@
-#### Exampleи
+#### Examples
 
-Ето няколко примера за **добре именувани** променливи:
+Here are some examples for **well named** variables:
 
 * **`firstName`**
 * **`age`**
 * **`startIndex`**
 * **`lastNegativeNumberIndex`**
 
-Ето няколко примера за **лошо именувани променливи**, макар и имената да са коректни от гледна точка на компилатора на C#:
+Here are some examples for **badly named variables**, even though the names are correct according to the C# compilator:
 
-* **`_firstName`** (започва с '\_')
-* **`last_name`** (съдържа '\_')
-* **`AGE`** (изписана е с главни букви)
-* **`Start_Index`** (започва с главна буква и съдържа '\_')
-* **`lastNegativeNumber_Index`** (съдържа '\_')
+* **`_firstName`** (starts with '\_')
+* **`last_name`** (contains '\_')
+* **`AGE`** (it is written in uppercase)
+* **`Start_Index`** (starts with an uppercase letter and contains '\_')
+* **`lastNegativeNumber_Index`** (contains '\_')
 
-Първоначално всички тези правила може да ни се струват безсмислени и ненужни, но с течение на времето и натрупването на опит ще видите нуждата от норми за писане на качествен код, за да може да се работи по-лесно и по-бързо в екип. Ще разберете, че е изключително досадна работата с код, който е написан без да се спазват никакви правила за качествен код.
+At a first look all these rules can seem meaningless and unnecessary, but with time passed and gaining experience you will see the need for norms for writing quality code in order to be able to work easier and faster in a team. You will understand that the work with a code, which is written without complying with any rules for quality code, is extremely annoying.

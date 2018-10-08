@@ -1,5 +1,5 @@
-### Именуване на проекти и файлове
+### Naming Projects and Files
 
-**За именуване на проекти и файлове** се препоръчва описателно име, което подсказва **каква е ролята** на въпросния файл / проект и в същото време се препоръчва **`PascalCase` конвенцията**. Tова е **конвенция за именуване** на елементи, при която всяка дума, включително първата, започва с **главна буква**, например **`ExpressionCalculator`**.
+It is reccomended to use a descrpitive name **for naming projects and files**, which suggests **the role** of the file / project of the matter and in the same time the **`PascalCase` convention** is also reccomended. This is a **convention for naming** elements, in which every word, including the first one, starts with **an uppercase character**, for example **`ExpressionCalculator`**.
 
-Example: в този курс се започва с лекция на име **First steps in coding** и следователно едно примерно именуване на проекта (solution) за тази лекция може да бъде **`FirstStepsInCoding`**. Същата конвенция важи и за файловете в даден проект. Ако вземем за пример първата задача от лекцията **First steps in coding**, тя се казва **Hello World** и следователно нашият файл в проекта ще се казва **`HelloWorld`**.
+Example: this course starts with a **First steps in coding** lecture, therefore an exemplary name for the solution for this lecture can be **`FirstStepsInCoding`**. The same convention applies for the files in a project. If we take for example the first problem in the **First steps in coding** lecture, it is called **Hello World**, therefore our file in the project will be called **`HelloWorld`**.

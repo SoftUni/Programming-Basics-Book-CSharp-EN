@@ -1,8 +1,8 @@
-### Закръгляне чрез placeholder
+### Rounding With a Placeholder
 
 ```cs
 var num = 5.432424;
 Console.WriteLine("{0:f2}", num);
 ```
 
-В случая след числото добавяме **`:f2`**, което ще ограничи числото до 2 цифри след десетичния знак и ще работи като **`Math.Round(…)`**. Трябва да имаме предвид, че числото след буквата **`f`** означава до колко цифри след десетичния знак да е закръглено числото (т.е. може да е примерно **`f3`** или **`f5`**).
+In this case after the number we add **`:f2`**, which will limit the number to 2 decimal places and will work like **`Math.Round(…)`**. You should keep in mind that the number after the letter **`f`** means to how many decimal places the number is rounded (i.e. it can be **`f3`** or **`f5`**).

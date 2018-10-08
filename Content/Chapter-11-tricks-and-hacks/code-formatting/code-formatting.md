@@ -1,7 +1,7 @@
-## Форматиране на кода
+## Formatting the Code
 
-Правилното форматиране на нашия код ще го направи **по-четим и разбираем**, в случай че се наложи някой друг да работи с него. Това е важно, защото в практиката ще ни се наложи да работим в екип с други хора и е от голямо значение дали пишем кода си така, че колегите ни да могат **бързо да се ориентират** в него.
+The right formatting of our code will make it **easier to read and understand** in case someone else needs to work with it. This is important, because in practice we will need to work in a teem with other people and it of great importance if we write our code in a way that our colleagues can **quickly orient** in it.
 
-Има определени правила за правилно форматиране на кода, които събрани в едно се наричат **конвенции**. Конвенциите са група от правила, общоприети от програмистите на даден език, и се ползват масово. Тези конвенции помагат за изграждането на норми в дадени езици - как е най-добре да се пише и какви са добрите практики. Приема се, че ако един програмист ги спазва, то кодът му е лесно четим и разбираем.
+There are some defined rules for correct formatting of the code, which are collected in one place and are called **conventions**. The conventions are a group of rules, generally accepted by the programmers using a given language, which are massively used. These conventions help building norms in given languages - what is the best way to write and what are good practices. It is accepted that is a programmer follows them then his code is easy to read and understand.
 
-Езикът C# е направен от **Microsoft** и те са тези, които определят най-добрите практики за писане. Трябва да знаете, че дори да не спазвате конвенциите, наложени от **Microsoft**, кодът ви ще работи (стига да е написан правилно), но просто няма да бъде лесно разбираем. Това, разбира се, не е фатално на основно ниво, но колкото по-бързо свикнете да пишете качествен код, толкова по-добре.
+The C# language is made by **Microsoft** and they are the people who define the best practices for writing. You should know that even if you don't follow the conventions given by **Microsoft**, your code will work (as long as it is properly written), but it will not be easy to understand. This, of course, is not fatal at base level, but the faster you get used to write quality code the better.

@@ -1,18 +1,18 @@
-### Как се пише for цикъл?
+### How to Write a 'for' Loop?
 
-За **`for` цикъл** ни трябват няколко неща:
+For a **`for` loop** we need a couple of things:
 
-* Инициализационен блок, в който се декларира променливата-брояч (**`var i`**) и се задава нейна начална стойност.
-* Условие за повторение (**`i <= 10`**).
-* Обновяване на брояча (**`i++`**).
-* Тяло на цикъла.
+* Initializing block, in which the counting variable is declared (**`var i`**) and its initial value is set.
+* Condition for repetition (**`i <= 10`**).
+* Renewing the counter (**`i++`**).
+* Body of the loop.
 
 ```csharp
 for (var i = 0; i < 5; i++;)
 {
-    // тяло
+    // body
 }
 ```
 
-За улеснение може да използваме code snippet за **`for` цикъл**:
+To make it easier we can use a code snippet for a **`for` loop**:
  * **`for` + [Tab] + [Tab]**

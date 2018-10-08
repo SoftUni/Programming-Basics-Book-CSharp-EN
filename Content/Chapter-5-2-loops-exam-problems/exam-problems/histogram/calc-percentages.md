@@ -2,7 +2,7 @@
 
 After we have determinated how many numbers there are in each group, we can move on to calculating the percentages, which is the main purpose of the problem. For this we will use the following formula:
 
-<p align="center"><strong>(gruop percentage) = (count of numbers in group) * 100 / (count of all numbers)</strong></p>
+<p align="center"><strong>(group percentage) = (count of numbers in group) * 100 / (count of all numbers)</strong></p>
 
 This formula in the program code looks like this:
 
@@ -12,7 +12,9 @@ If we divide by **100** (**`int`** number type) instead of **100.0** (**`double`
 
 ![](/assets/chapter-5-2-images/01.Histogram-05.png)
 
-To make it even clearer, let's take a look at the following Example:| Input | Output |
+To make it even clearer, let's take a look at the following Example: 
+
+| Input | Output |
 |--------|---------|
 |**3**<br>1<br>2<br>999|66.67%<br>0.00%<br>0.00%<br>0.00%<br>33.33%|
 
@@ -22,4 +24,4 @@ For the loop we have:
    -   	**`i = 1`** – we read the number 2, which again falls into the first group (**`p1`**) and increase its counter (**`cntP1`**) again with 1.
    -   	**`i = 2`** – we read the number 999, which falls into the last group (**`p5`**), because its bigger than 800, and increase the counter of the group (**`cntP5`**) with 1.
    
-After reading the numbers in group **`p1`** we have, and in **`p5`** we have 1 number. We have **no numbers** in the other groups. By applying the above formula, we calculate the percentages of each group. If we multiply in the formula by **100**, instead of **100.0** we will receive for group **`p1`** 66%, and for group **`p5`** – 33% (without fractional part).
+After reading the numbers in group **`p1`** we have 2 numbers, and in **`p5`** we have 1 number. We have **no numbers** in the other groups. By applying the above formula, we calculate the percentages of each group. If we multiply in the formula by **100**, instead of **100.0** we will receive for group **`p1`** 66%, and for group **`p5`** – 33% (without fractional part).
