@@ -1,11 +1,11 @@
 ## For цикли
 
-Преди да се захванем за работа е добре да си припомним конструкцията на **цикъла `for`**:
+Before we start working,it will be good to review again construction of **`for` loop**:
 
 ![](/assets/chapter-5-2-images/00.For-construction-01.png)
 
-**For циклите** се състоят от:
- * Инициализационен блок, в който се декларира променливата-брояч (**`var i`**) и се задава нейна начална стойност.
- * Условие за повторение (**`i <= 10`**), изпълняващо се веднъж, преди всяка итерация на цикъла.
- * Обновяване на брояча (**`i++`**) – този код се изпълнява след всяка итерация.
- * Тяло на цикъла - съдържа произволен блок със сорс код.
+**For loops** consists of:
+ * Initialization block in which the variable-counter is declared (**`var i`**) and its initial value is set.
+ * Repeat condition (**`i <= 10`**), executing once, before every iteration of the loop.
+ * Refreshing of the counter (**`i++`**) – this code is executed after each iteration.
+ * Body of the loop - contains random block with source code.
