@@ -1,22 +1,22 @@
-### Как се пише условна конструкция?
+### How to Write a Conditional Construction?
 
-Условната **`if` конструкция** се състои от следните елементи:
+The conditional **`if` construction** contains the following elements:
 
-* Ключова дума **`if`**
-* **Булев израз** (условие)
-* **Тяло** на условната конструкция
-* Незадължително: **`else` клауза**
+* Keyword **`if`**
+* **A boolean expression** (condition)
+* **Body** of the conditional construction
+* Optional: **`else` clause**
 
 ```csharp
-if (условие)
+if (condition)
 {
-    // тяло
+    // body
 }
-else (условие)
+else (condition)
 {
-    // тяло
+    // body
 }
 ```
 
-За улеснение може да използваме code snippet за **`if` конструкция**:
+To make it easier we can use a code snippet for an **`if` construction**:
  * **`if` + [Tab] + [Tab]**

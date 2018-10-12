@@ -1,10 +1,10 @@
-## Problem: хистограма
+## Problem: Histogram
 	
-Дадени са **n цели числа** в интервала [**1 … 1000**]. От тях някакъв процент **p1** са под 200, процент __p2__ са от 200 до 399, процент **p3** са от 400 до 599, процент **p4** са от 600 до 799 и останалите **p5** процента са от 800 нагоре. Да се напише програма, която изчислява и отпечатва процентите **p1**, **p2**, **p3**, **p4** и **p5**.
+We have **n integer numbers** within the range [**1 … 1000**]. From them some percent **p1** are under 200, percent __p2__ are from 200 to 399, percent **p3** are from 400 to 599, percent **p4** are from 600 to 799 and the rest **p5** percentages are from 800 upwards. Write a program, that calculates and prints the percentages **p1**, **p2**, **p3**, **p4** and **p5**.
 
-**Пример**: имаме n = **20** числа: 53, 7, 56, 180, 450, 920, 12, 7, 150, 250, 680, 2, 600, 200, 800, 799, 199, 46, 128, 65. Получаваме следното разпределение и визуализация:
+**Example**: we have n = **20** numbers: 53, 7, 56, 180, 450, 920, 12, 7, 150, 250, 680, 2, 600, 200, 800, 799, 199, 46, 128, 65. We get the following distribution and visualization:
                           
-| **Група**   | **Числа**                                       | **Брой числа** | **Процент**                     |
+| **Group**   | **Numbers**                                       | **Count numbers** | **Percent**                     |
 |-------------|-------------------------------------------------|:---------------|---------------------------------|
 | < 200       | 53, 7, 56, 180, 12, 7, 150, 2, 199, 46, 128, 65 | 12             | p1 = 12 / 20 * 100 = 60.00%     |
 | 200 … 399   | 250, 200                                        | 2              | p2 = 2 / 20 * 100 = 10.00%      |
@@ -14,11 +14,11 @@
 
 ### Input Data
 
-На първия ред от входа стои цялото число **n** (1 ≤ **n** ≤ 1000), което представлява броя редове с числа, които ще ни бъдат подадени. На следващите **n реда** стои **по едно цяло число** в интервала [**1 … 1000**] – числата, върху които да бъде изчислена хистограмата.
+On the input line is the integer number **n** (1 ≤ **n** ≤ 1000), that represents the count of lines with numbers, which will be given. On the next **n lines** we have **one integer number** within range [**1 … 1000**] – numbers, on which we have to calculate the histogram.
 
 ### Output Data
 
-Да се отпечата на конзолата **хистограма от 5 реда**, всеки от които съдържа число между 0% и 100%, форматирано с точност две цифри след десетичния знак (например 25.00%, 66.67%, 57.14%).
+Print on the console **histogram that consists of 5 lines**, each of them containing a number within the range 0% and 100%, formatted to two digits after the decimal point (for example 25.00%, 66.67%, 57.14%).
 
 ### Sample Input and Output
 

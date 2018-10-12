@@ -1,18 +1,18 @@
-### Вкарване на променливи в стринг (string)
+### Inserting Variables in Strings
 
 ```csharp
 var text = "some text";
 Console.WriteLine("{0}", text);
-// Tова ще отпечата на конзолата "some text"
+// This will print on the console "some text"
 ```
 
-В случая използваме **placeholder** - **`{x}`**, където **x** е число (по-голямо или равно на 0), отговарящо на позицията, на която трябва да поставим променливата. Следователно, ако подаваме две променливи ще имаме един placeholder, който ще е **`{0}`** и той ще съдържа стойността на **първата променлива** и още един - **`{1}`**, който ще съдържа стойността на **втората променлива**. Примерно:
+In this case we are using a **placeholder** - **`{x}`**, where **x** is a number (larger than or equal to 0), corresponding to the position on which we have placed our variable. Therefore if we insert two variables, we will have one placeholder, which will be **`{0}`** and it will keep the value of **the first variable** and another one - **`{1}`**, which will keep the value of на **the second variable**. For example:
 
 ```csharp
 var text = "some text";
 var number = 5;
 Console.WriteLine("{0} {1} {0}", text, number);
-// Tова ще отпечата "some text 5 some text"
+// This will print "some text 5 some text"
 ```
 
-В този пример забелязваме, че можем да подаваме **не само текстови променливи**. Също така можем да използваме дадена променлива **няколко пъти** и за целта в placeholder-а слагаме числото, което **отговаря на позицията на променливата**. В случая на нулева позиция стои променливата **`text`**, а на първа позиция е променливата **`number`**. Номерацията е объркваща отначало, но трябва да запомните, че в програмирането **броенето започва от 0**.
+In this example we can see that we can insert **not only text variables**. We can also use a given variable **several times** and for this we put the number which **corresponds with the position of the variable** in the placeholder. In this case on position zero is the variable **`text`**, and at first position is the variable **`number`**. In the begining the numbering can be confusing, but you need to remember that in programming **counting starts from 0**.

@@ -1,15 +1,15 @@
-### Други методи за закръгляне
+### Other Rounding Methods
 
-В случай, че искаме винаги да закръгляме надолу можем вместо **`Math.Round(…)`** да използваме друг метод - **`Math.Floor(…)`**, който винаги закръгля надолу, но също така винаги закръгля до цяло число. Например, ако имаме числото 5.99 и използваме **`Math.Floor(5.99)`**, ще получим числото **5**.
+In case we always want to round down instead of **`Math.Round(…)`** we can use another method - **`Math.Floor(…)`**, which always rounds down, but also always rounds to an integer. For example if we have the number 5.99 and we use **`Math.Floor(5.99)`**, we will get the number **5**.
 
-Можем и да направим точно обратното - винаги да закръгляме нагоре, използвайки метода **`Math.Ceiling(…)`**. Отново, ако имаме число примерно 5.11 и използваме **`Math.Ceiling(5.11)`**, ще получим 6. Ето и няколко примера:
+We can also do the exact opposite - to always round up using the method **`Math.Ceiling(…)`**. Again if we have for example 5.11 and we use **`Math.Ceiling(5.11)`**, we will get 6. Here are some examples:
 
 ```csharp
 var numberToFloor = 5.99;
 Console.WriteLine(Math.Floor(numberToFloor));
-// Tова ще отпечата на конзолата 5
+// This will print on the console 5
 
 var numberToCeiling = 5.11;
 Console.WriteLine(Math.Ceiling(numberToCiling));
-// Tова ще отпечата на конзолата 6
+// This will print on the console 6
 ```

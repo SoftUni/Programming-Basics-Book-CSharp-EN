@@ -1,3 +1,3 @@
-## Справочник с хитрости
+## Tricks Guidebook
 
-В тази секция ще припомним накратко **хитрости и техники** от програмирането с езика C#, разглеждани вече в тази книга, които ще са ви много полезни, ако ходите на изпит по програмиране за начинаещи.
+In this section we will recall some **tricks and techniques** in programming with C#, already seen in this book, which can be very useful if you go to an exam for beginner programming.

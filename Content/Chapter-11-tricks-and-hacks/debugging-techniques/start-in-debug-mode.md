@@ -1,13 +1,13 @@
-### Стартиране на програмата в режим на дебъгване
+### Starting the Program in Debug Mode
 
-За да стартираме **програмата в режим на дебъгване**, избираме [**Debug**] -> [**Start Debugging**] или натискаме [**F5**]:
+In order to start  **the program in debug mode**, we choose [**Debug**] -> [**Start Debugging**] or press [**F5**]:
 
 ![](/assets/chapter-11-images/02.Debugger-02.jpg) 
 
-След стартиране на програмата виждаме, че тя **спира изпълнението си** на ред 11, където сложихме стопера (breakpoint). Кодът на текущия ред се **оцветява с жълт цвят** и можем да го **изпълняваме постъпково**. За да преминем на **следващ ред** използваме клавиш [**F10**]. **Забелязваме, че кодът на текущия ред все още не е изпълнен**. **Изпълнява се, когато преминем на следващия ред**:
+After starting the program, we can see that it **stops executing** at row 11, where we placed our breakpoint. The code in the current row **is colored in yellow** and we can **run it step by step**. In order to go to **the next row** we use the key [**F10**]. **We can see that the code on the current row hasn't executed yet**. **It executes when we go on the next row**:
 
 ![Debugger](/assets/chapter-11-images/02.Debugger-03.jpg) 
 
-От прозореца **Locals** можем да наблюдаваме **промените по локалните променливи**. За да отворите прозореца изберете [**Debug**] -> [**Windows**] -> [**Locals**].
+From the **Locals** window we can observe **the changes in the local variables**. In order to open the window you must choose [**Debug**] -> [**Windows**] -> [**Locals**].
 
 ![Debugger](/assets/chapter-11-images/02.Debugger-04.jpg) 

@@ -1,26 +1,26 @@
-## Problem: логистика
+## Problem: Logistics
 
-Отговаряте за логистиката на различни товари. **В зависимост от теглото** на всеки товар е нужно **различно превозно средство** и струва **различна цена на тон**:
+You are responsible for the logistics of different cargos. **Depending on the weight** of each load is needed **different vehicle** and costs **different price per tonne**:
 
- * До **3 тона** – **микробус** (200 лева на тон).
- * От **над 3 и до 11 тона** – **камион** (175 лева на тон).
- * **Над 11 тона – влак** (120 лева на тон).
+ * Up to **3 tonnes** – **minibus** (200 BGN per tonne).
+ * From **over 3 and up to 11 tonnes** – **truck** (175 BGN per tonne).
+ * **Over 11 tonnes – train** (120 BGN per tonne).
 
-Вашата задача е да изчислите **средната цена на тон превозен товар**, както и **колко процента от товара** се превозват с **всяко превозно средство**.
+Your task is to calculate **the average price per tonne of the cargo**, and also **how much percent of the cargo is transported in each vehicle** .
 
 ### Input Data
 
-От конзолата се четат **поредица от числа**, всяко на отделен ред:
- * **Първи ред**: **брой на товарите** за превоз – **цяло число** в интервала [**1 … 1000**].
- * На всеки следващ ред се подава **тонажът на поредния товар** – **цяло число** в интервала [**1 … 1000**].
+From the console is read **sequence of numbers**, each on separate line:
+ * **First line**: **count of the cargos** for carriage – **integer number** in range [**1 … 1000**].
+ * On the next lines is given **the tonnage of the current cargo** – **integer number** in range [**1 … 1000**].
 
 ### Output Data
 
-Да се отпечатат на конзолата **4 реда**, както следва:
- * **Ред #1** – **средната цена на тон превозен товар** (закръглена до втория знак след десетичната точка).
- * **Ред #2** – **процентът** товар, превозван с **микробус** (между 0.00% и 100.00%, закръглен до втория знак след десетичната точка).
- * **Ред #3** – **процентът** товар, превозвани с **камион** (между 0.00% и 100.00%).
- * **Ред #4** – **процентът** товар, превозвани с **влак** (между 0.00% и 100.00%).
+Print on the console **4 lines**, as follows:
+ * **Line #1** – **the average price per tonne of the cargo** (rounded to the second place after the decimal point).
+ * **Line #2** – **percent** of the cargo, carried by **minibus** (between 0.00% and 100.00%, rounded to the second place after the decimal point).
+ * **Line #3** – **percent** of the cargo, carried by **truck** (between 0.00% and 100.00%).
+ * **Line #4** – **percent** of the cargo, carried by **train** (between 0.00% and 100.00%).
  
 ### Sample Input and Output
 
@@ -29,7 +29,7 @@
 <tr>
 <th align="left"><strong>Input</strong></th>
 <th align="left"><strong>Output</strong></th>
-<th align="left"><strong>Обяснения</strong></th>
+<th align="left"><strong>Explanations</strong></th>
 </tr>
 </thead>
 <tbody>
@@ -37,14 +37,14 @@
 <td valign="top">4<br>1<br>5<br>16<br>3</td>
 <td valign="top">143.80<br>16.00%<br>20.00%<br>64.00%</td>
 <td valign="top">
-С <b>микробус</b> се превозват два от товарите <b>1</b> + <b>3</b>, общо <b>4</b> тона.<br>
-С <b>камион</b> се превозва един от товарите: <b>5</b> тона.<br>
-С <b>влак</b> се превозва един от товарите: <b>16</b> тона.<br>
-<b>Сумата</b> от всички товари е: 1 + 5 + 16 + 3 = <b>25</b> тона.<br>
-Процент товар <b>с микробус</b>: 4/25*100 = <b>16.00%</b><br>
-Процент товар <b>с камион</b>: 5/25*100 = <b>20.00%</b><br>
-Процент товар <b>с влак</b>: 16/25*100 = <b>64.00%</b><br>
-<b>Средна цена</b> на тон превозен товар: (4 * 200 + 5 * 175 + 16 * 120) / 25 = <b>143.80</b>
+By <b>minibus</b> are transported two of the cargos <b>1</b> + <b>3</b>, total <b>4</b> tonnes.<br>
+By <b>truck</b> is transportde one of the cargos: <b>5</b> tonnes.<br>
+By <b>train</b> is transported one of the cargos: <b>16</b> tonnes.<br>
+<b>Sum</b> of all cargos is: 1 + 5 + 16 + 3 = <b>25</b> tonnes.<br>
+Percent of the cargo <b>by minibus</b>: 4/25*100 = <b>16.00%</b><br>
+Percent of the cargo <b>by truck</b>: 5/25*100 = <b>20.00%</b><br>
+Percent of the cargo <b>by train</b>: 16/25*100 = <b>64.00%</b><br>
+<b>Average price</b> per tonne of carried cargo: (4 * 200 + 5 * 175 + 16 * 120) / 25 = <b>143.80</b>
 </td>
 </tr>
 </tbody>

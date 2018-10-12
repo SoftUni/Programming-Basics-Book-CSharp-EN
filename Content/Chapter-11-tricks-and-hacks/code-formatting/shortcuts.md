@@ -1,15 +1,15 @@
-### Бързи клавиши във Visual Studio
+### Keyboard Shortcuts in Visual Studio
 
-За ваше удобство има **бързи клавиши във Visual Studio**, за които ще обясним по-късно в настоящата глава, но засега ни интересуват 2 конкретни комбинации. Едната комбинация е за форматиране на **кода в целия документ**, а другата комбинация - за форматиране на **част от кода**. Ако искаме да форматираме **целия код**, то трябва да натиснем [**CTRL + K + D**]. В случай, че искаме да форматираме само **част от кода**, то ние трябва да **маркираме с мишката частта**, която искаме да форматираме, и да натиснем [**CTRL + K + F**].
+For your comfort there are **keyboard shortcuts in Visual Studio**, which we will explain later in this chapter, but for now we are interested in 2 specific combinations. One of the combinations is for formatting **the code in the whole document**, and the other one - ofr formatting **a part of the code**. If we want to format **the whole code**we need to predd [**CTRL + K + D**]. In case we need to format only **a part of the code**, we need to **mark this part with the mouse** and press [**CTRL + K + F**].
 
-Нека използваме **грешния пример** от преди малко:
+Let's use **the wrong example** from earlier:
 
 ```csharp
 for(int i=0;i<5;i++){
 Console.WriteLine(i);
 }
 ```
-Ако натиснем [**CTRL + K + D**], което е нашата комбинация за форматиране на **целия документ**, ще получим код, форматиран според **общоприетите конвенции за C#**, който ще изглежда по следния начин:
+If we press [**CTRL + K + D**], which is the combination to format **the whole document**, we will have a code, formatted according to **the accepted conventions for C#**, which will look as follows:
 
 ```csharp
 for (int i = 0; i < 5; i++)
@@ -17,4 +17,4 @@ for (int i = 0; i < 5; i++)
     Console.WriteLine(i);
 }
 ```
-Тази комбинация може да ни помогне, ако попаднем на лошо форматиран код.
+This key kombination can help us if we found a badly formatted code.

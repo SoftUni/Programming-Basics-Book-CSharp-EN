@@ -1,5 +1,5 @@
-#### Създаване на помощни променливи
+#### Creating Helper Variables
 
-За да решим задачата, ще се нуждаем от няколко помощни променливи – за **броя на играчките** (**`numberOfToys`**), за **спестените пари** (**`savedMoney`**) и за **парите, получени на всеки рожден ден** (**`moneyForBirthday`**). Като присвояваме на **`moneyForBirthday`** първоначална стойност 10, тъй като по условие е дадено, че първата сума, която Лили получава, е 10 лв:
+To solve the problem we will need several helper variables – for the **count of toys** (**`numberOfToys`**),for the **saved money** (**`savedMoney`**) and for the  **money, received on each birthday** (**`moneyForBirthday`**). The initial value of  **`moneyForBirthday`** is 10, because in the description is given, that the first sum, which Lily gets, is 10 lv:
 
 ![](/assets/chapter-5-2-images/02.Smart-lilly-02.png)

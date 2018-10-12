@@ -1,20 +1,20 @@
-## Бързи клавиши във Visual Studio
+## Visual Studio Shortcuts
 
-В предната секция споменахме за две от комбинациите, които се отнасят за форматиране на код. Едната комбинация [**CTRL + K + D**] беше за **форматиране на целия код в даден файл**, а втората [**CTRL + K + F**] ни служеше в случай, че искаме да **форматираме само дадена част от кода**. Тези комбинации се наричат **бързи клавиши** и сега ще дадем по-подробна информация за тях.
+In the previous section we mentioned two of the combinations, which are for formatting code. One of them [**CTRL + K + D**] was for **formatting the whole code in a file**, and the second [**CTRL + K + F**] serves if we want to **format just a piece of the code**. These combinations are called **shortcuts** and now we will give more thorough information for them.
 
-Бързи клавиши са **комбинации**, които ни предоставят възможността да извършваме някои действия **по-лесно и по-бързо**, като всяка среда за разработка на софтуер си има своите бързи клавиши, въпреки че повечето се повтарят. Сега ще разгледаме някои от **бързите клавиши** във **Visual Studio**.
+Shortcuts are **combinations**, which give us the possibility to do some things **easier and faster**, and each IDE has its shortcuts, even though most of them are recurring. Now we will look at some of the **shortcuts** in **Visual Studio**.
 
-| Комбинация | Действие |
+| Combination | Action|
 | --- | --- |
-|  [**CTRL + F**] | Комбинацията **отваря търсачка**, с която можем да **търсим в нашия код**. |
-|  [**CTRL + K + C**] | **Закоментира** част от кода. |
-|  [**CTRL + K + U**] | **Разкоментира код**, който е вече закоментиран. |
-|  [**CTRL + Z**] | **Връща една промяна назад** (т.нар. Undo). |
-|  [**CTRL + Y**] | Комбинацията има противоположно действие на [**CTRL + Z**] (т.нар. Redo). |
-|  [**CTRL + K + D**] | **Форматира кода** според конвенциите по подразбиране. |
-|  [**CTRL + Backspace**] | **Изтрива** думата вляво от курсора. |
-|  [**CTRL + Del**] | **Изтрива** думата вдясно от курсора. |
-|  [**CTRL + Shift + S**] | **Запазва** всички файлове в проекта. |
-|  [**CTRL + S**] | **Запазва** текущия файл. |
+|  [**CTRL + F**] | The combination **opens the search window**, with which we can **search in our code**. |
+|  [**CTRL + K + C**] | **Comments** part of the code. |
+|  [**CTRL + K + U**] | **Uncomments a code**, which is already commented. |
+|  [**CTRL + Z**] | **Brings back one change** (so called Undo). |
+|  [**CTRL + Y**] | The combination is opposite of [**CTRL + Z**] (so called Redo). |
+|  [**CTRL + K + D**] | **Formats the code** according the default conventions. |
+|  [**CTRL + Backspace**] | **Deletes** the word in the left of the cursor. |
+|  [**CTRL + Del**] | **Deletes** the word in the right of the cursor. |
+|  [**CTRL + Shift + S**] | **Saves** all files in the project. |
+|  [**CTRL + S**] | **Saves** the current file. |
 
-Повече за **бързите клавиши във Visual Studio** може да намерите тук: [https://shortcutworld.com/en/Visual-Studio/2015/win/all](https://shortcutworld.com/en/Visual-Studio/2015/win/all).
+More about the **shortcuts in Visual Studio** can be found here: [https://shortcutworld.com/en/Visual-Studio/2015/win/all](https://shortcutworld.com/en/Visual-Studio/2015/win/all).
