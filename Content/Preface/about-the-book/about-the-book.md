@@ -1,55 +1,57 @@
-## Историята на тази книга
+## The story of this book
 
-Главен двигател и ръководител на проекта за създаване на настоящата **свободна книга по програмиране за начинаещи** с отворен код е **[д-р Светлин Наков](http://www.nakov.com)**. Той е основен идеолог и създател на учебното съдържание от **[курса "Основи на програмирането" в SoftUni](https://softuni.bg/courses/programming-basics)**, който е използван за основа на книгата.
+General head of the project to create the book **free programming book for begginers** with and open code is **[Dr. Svetlin Nakov](http://www.nakov.com)**. He is the main ideologist and founder of the learning content of the **[course "Programming Basics" in SoftUni](https://softuni.bg/courses/programming-basics)**, which was used as the basis of the book. 
 
-Всичко започва с масовите **безплатни курсове по основи на програмирането**, провеждани в цялата страна от 2014 г. насам, когато стартира инициативата "SoftUni". В началото тези курсове имат по-голям обхват и включват повече теория, но през 2016 г. д-р Светлин Наков изцяло ги преработва, обновява, опростява и насочва много силно към практиката. Така е създадено ядрото на **учебното съдържание от тази книга**.
+Everything begins with the massive amount of **free basic programming lessons**, conducted in the whole country started in 2014 till now, when the "SoftUni" initiative launched. At the beggining these lessons had large range of theory, but in 2016 dr. Svetlin Nakov completely revise, update and simplifies the whole method of teaching, strongly emphasizes on practice. That is how the core of the **learning contect is created**.
 
-Безплатните обучения на SoftUni за старт в програмирането са може би най-мащабните, провеждани някога в България. До 2017 г. курсът на SoftUni по основи на програмирането **се провежда над 150 пъти в близо 40 български града** присъствено и многократно онлайн, с над 50 000 участника. Съвсем естествено възниква и нуждата да се напише **учебник** за десетките хиляди участници в курсовете на SoftUni по програмиране за начинаещи. На принципа на свободния софтуер и свободното знание, Светлин Наков повежда **екип от доброволци** и задвижва този open-source проект, първоначално за създаване на книга по основи на програмирането с езика C#, а по-късно и с други езици за програмиране.
+The free lessons at SoftUni for a start at programming, maybe are the most extensive ones ever conducted in Bulgaria. Until 2017 the course programming basics **is being held over 150 times, in around 40 bulgarian towns** in person and multiple times online with 50 000 participants in. Absolutely natural was the need to be written a **book** for the tens of thousands participants at SoftUni basic programming course. On the principle of free software and free knowledge, Svetlin Nakov leads a team of volunteers and starts that open-source project. At first the idea is to create a book with the basis of C# programming language and then other books with other programming languages.
 
-Проектът е част от усилията на **[Фондация "Софтуерен университет"](http://softuni.foundation)** да създава и разпространява отворено учебно съдържание за обучение на софтуерни инженери и ИТ специалисти.
+The project is part of the hard work of **[Software University fondation](http://softuni.fondation)** to create and distribute an open learning content to teach software engineers and IT profesionals.
 
-### Авторски колектив
+### Author's team
 
-Настоящата книга е разработена от широк авторски колектив от **доброволци**, които отделиха от своето време, за да ви подарят тези систематизирани знания и насоки при старта в програмирането. Списък на всички автори и редактори (по азбучен ред):
+This book is developed from wide author's team of **volunteers**, that dedecated their time to give away the systematized knowledge and guaide you at the start of programming. List of every author and editor (in alphabetival order.)
 
-> **Aлександър Кръстев, Александър Лазаров, Ангел Димитриев, Васко Викторов, Венцислав Петров, Даниел Цветков, Димитър Татарски, Димо Димов, Диян Тончев, Елена Роглева, Живко Недялков, Жулиета Атанасова, Захария Пехливанова, Ивелин Кирилов, Искра Николова, Калин Примов, Кристиян Памидов, Любослав Любенов, Николай Банкин, Николай Димов, Павлин Петков, Петър Иванов, Росица Ненова, Руслан Филипов, Светлин Наков, Стефка Василева, Теодор Куртев, Тоньо Желев, Християн Христов, Христо Христов, Цветан Илиев, Юлиан Линев, Яница Вълева**
+> **Aleksander Krustev, Aleksander Lazarov, Angel Dimitriev, Vasko Viktorov, Ventsislav Petrov, Daniel Tsvetkov, Dimitar Tatarski, Dimo Dimov, Diyan Tonchev, Elena Rogleva, Jivko Nedyalkov, Julieta Atanasova, Zahariya Pehlivanova, Ivelin Kirilov, Iskra Nikolova, Kalin Primov, Kristiyan Pamidov, Luboslav Lubenov, Nikolay Bankin, Nikolay Dimov, Pavlin Petkov, Petar Ivanov, Rositsa Nenova, Ruslan Filipov, Svetlin Nakov, Stefka Vasileva, Teodor Kurtev, Tonyo Jelev, Hristiyan Hristov, Hristo Hristov, Tsvetan Iliev, Ulian Linev, Yanitsa Vuleva.**
 
-Дизайн на корица: Марина Шидерова - https://behance.net/marinashiderova
+Book cover design: Marina Shiderova - https://behance.net/marinashiderova
 
 ### Translator Teams
 
 TODO
 
-## Официален сайт на книгата
+##  Official book site
 
-Настоящата книга по **основи на програмирането със C#** за начинаещи е достъпна за свободно ползване в Интернет от адрес:
+The book **programming basics with C#** is available for free use at this Inhernet address:
 
 <p align="center"><strong><a href="https://csharp-book.softuni.bg">https://csharp-book.softuni.bg</a></strong></p>
 
-Това е **официалният сайт на книгата** и там ще бъде качвана нейната последна версия. Книгата е преведена огледално и на други езици за програмиране, посочени на нейния сайт.
+This is the **official book site** and there will be upoloaded any new version. The book is translated mirrored on other programming languages mentioned in the website.
 
-## Форум за вашите въпроси
+## Forum for your questions
 
-Задавайте вашите **въпроси към настоящата книга** по основи на програмирането във **форума на SoftUni:**
+Ask your **questions about basic programming book** at the **SoftUni's forum**:
 
 <p align="center"><strong><a href="https://softuni.bg/forum">https://softuni.bg/forum</a></strong></p>
 
-В този дискусионен форум ще получите безплатно **адекватен отговор по всякакви въпроси от учебното съдържание на настоящия учебник**, както и по други въпроси от програмирането. Общността на SoftUni за навлизащи в програмирането е толкова голяма, че обикновено отговор на зададен въпрос се получава **до няколко минути**. Преподавателите, асистентите и менторите от SoftUni също отговарят постоянно на вашите въпроси.
+In this discussion forum you will recive **good response to any question associated with the content of this book** also any other questions about programming. The SoftUni community is that big that you will get response **after a few minutes**. All of the teachers, assistant and mentors at SoftUni also always responds on your questions.
 
-Поради големия брой учащи по настоящия учебник, във форума можете да намерите **решение на практически всяка задача от него**, споделено от ваш колега. Хиляди студенти преди вас вече са решавали същите задачи, така че ако закъсате, потърсете из форума. Макар и задачите в курса "Основи на програмирането" да се сменят от време на време, споделянето е винаги насърчавано в SoftUni и затова лесно ще намерите решения и насоки за всички задачи.
+Because of the big amount of learners, you can find in the forum practiclly any **solution of any exercise, shared by your collegue**. Thousands of students already got the answer on the same exercise, so if you are late you can check the forum. Even though the exercises in "Programming Basics" are changing at some point, the sharing at SoftUni is always welcomed and encouraged, that's why you will easly find solutions and guidance in any exercise.
 
-Ако все пак имате конкретен въпрос, например защо не тръгва дадена програма, над която умувате от няколко часа, **задайте го във форума** и ще получите отговор. Ще се учудите колко добронамерени и отзивчиви са обитателите на SoftUni форума.
+If you do have a specific question, for example if you spend many hours on an exact program and it doesn't start, you can always ask in the forum. You will be surprised how well-meaning are the SoftUni's forum participants are. 
 
-## Официална Facebook страница на книгата
+## Official facebook page of the book
 
-Книгата си има и **официална Facebook страница**, от която може да следите за новини около книгите от поредицата "Основи на програмирането", нови издания, събития и инициативи:
+The book has an **official facebook page** from where you can track news about the book series "Programming Basics", new releases, events and initiatives:
 
 <p align="center"><strong><a href="https://facebook.com/IntroProgrammingBooks/">fb.com/IntroProgrammingBooks</a></strong></p>
 
-## Докладване на грешки
+## Error reporting
 
-Ако откриете **грешки**, неточности или дефекти в книгата, можете да ги докладвате в официалния тракер на проекта:
+If you find **errors**, inaccuracies or defects in the book, you can report in the offical traker of the project:
 
 <p align="center"><strong><a href="https://github.com/SoftUni/Programming-Basics-Book-CSharp-BG/issues">https://github.com/SoftUni/Programming-Basics-Book-CSharp-BG/issues</a></strong></p>
 
-Не обещаваме, че ще поправим всичко, което ни изпратите, но пък имаме желание **постоянно да подобряваме качеството** на настоящата книга, така че докладваните безспорни грешки и всички разумни предложения ще бъдат разгледани.
+We do not promise to fix everything you send us, but we do want to **always improve the quality** of the book, so the reported errors and reasonable suggestions will be viewed.
+
+
