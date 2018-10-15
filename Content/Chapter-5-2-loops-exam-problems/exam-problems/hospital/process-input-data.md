@@ -1,7 +1,7 @@
 #### Reading the Input Data
 
-Отново започваме, като си **декларираме и инициализираме** нужните променливи: 
+Again, we begin by **declaring and initializing** the necessary variables:
 
 ![](/assets/chapter-5-2-images/04.Hospital-01.png)
 
-Периодът, за който трябва да направим изчисленията, прочитаме от конзолата и запазваме в променливата **`period`**. Ще се нуждаем и от няколко помощни променливи: броя на излекуваните пациенти (**`treatedPatients`**), броя на неизлекуваните пациенти (**`untreatedPatients`**) и броя на докторите (**`countOfDoctors`**), който първоначално е 7.
+The period in which we have to make the calculations is read from the console and saved in the **`period`** variable. We will also need some helping variables: the number of treated patients (**`treatedPatients`**), the number of untreated patients (**`untreatedPatients`**) and the number of doctors (**`countOfDoctors`**), which is initially 7. 
