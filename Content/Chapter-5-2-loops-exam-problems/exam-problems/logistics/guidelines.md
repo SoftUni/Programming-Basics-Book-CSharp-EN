@@ -1,22 +1,22 @@
 ### Hints and Guidelines
 
-Първо **ще прочетем теглото на всеки товар** и ще **сумираме** колко тона се превозват съответно с **микробус**, **камион** и **влак** и ще изчислим и **общите тонове** превозени товари. Ще пресметнем **цените за всеки вид транспорт** според превозените тонове и **общата цена**. Накрая ще  пресметнем и отпечатаме **общата средна цена на тон** и **каква част от товара е превозена с всеки вид транспорт процентно**.
+First **we will read the weigth of every cargo** and **sum** how much tonnes are being transported by **minibus**, **truck** and **train** and we will calculate **total tonnes** of the transported cargos. We will calculate **prices for every type of transport** according to the  transported tonnes and the **total price**. Finally we will calculate and print **the total average price per tonne** and **how much of the cargo is being transported by different types of transport in percents**.
 
-Декларираме си нужните променливи, For Example: **`countOfLoads`** – броя на товарите за превоз (прочитаме ги от конзолата), **`sumOfTons`** – сумата от тонажа на всички товари, **`microbusTons`**, **`truckTons`**, **`trainTons`** – променливи, пазещи сумата от тонажа на товарите, превозвани съответно с микробус, камион и влак.
+We declare the needed variables, For Example: **`countOfLoads`** – count of  the cargos for transportation (we read them from the console), **`sumOfTons`** – sum of the tonnage of all cargos, **`microbusTons`**, **`truckTons`**, **`trainTons`** – variables that keeps the sum of the cargo tonnage , transported by minibus, truck and train.
 
-Ще ни трябва **`for` цикъл** от **`0`** до **`countOfLoads-1`**, за да обходим всички товари. За всеки товар **прочитаме теглото му** (в тонове) от конзолата и го запазваме в променлива, например **`tons`**. Прибавяме към сумата от тонажа на всички товари (**`sumOfTons`**) теглото на текущия товар (**`tons`**). След като сме прочели теглото на текущия товар, **трябва да определим кое превозно средство ще се ползва за него** (микробус, камион или влак). За целта ще ни трябват **`if-else`** проверки:
+We sill need **`for` loop** from **`0`** to **`countOfLoads-1`**, to iterate through all the cargos. For every cargo **we read its weight** (in tonnes) from the console and save it in а variable, for example **`tons`**. We add to the tonnage sum of all cargos (**`sumOfTons`**) weight of the current cargo (**`tons`**). Once we have read the weight of the current cargo **we need to determine which vehicle type will be used** (minibus, truck or train). For this we will need **`if-else`** checks:
 
- * Ако стойността на променливата **`tons`** е **по-малка от 3**, увеличаваме стойността на променливата **`microbusTons`** със стойността на **`tons`**:
+ * If the value of the variable **`tons`** is **less than 3**, increase the value of **`microbusTons`** with the value of **`tons`**:
  
    ```csharp
    microbusTons += tons;
    ```
    
- * Иначе, ако стойността **`tons`** е **до 11**, увеличаваме **`truckTons`** с **`tons`**.
- * Ако **`tons`** e **повече от 11**, увеличаваме **`trainTons`** с **`tons`**.
+ * Otherwise, if the value **`tons`** is **less than 11**, increase **`truckTons`** with **`tons`**.
+ * If **`tons`** is **more than 11**, increase **`trainTons`** with **`tons`**.
 
-Преди да отпечатаме изхода трябва да **изчислим процента на тоновете, превозвани с всяко превозно средство** и **средната цена на тон**. За средната цена на тон ще си декларираме още една помощна променлива **`totalPrice`**, в която ще **сумираме общата цена на всички превозвани товари** (с микробус, камион и влак). Средната цена ще получим, разделяйки **`totalPrice`** на **`sumOfTons`**. Остава **сами да изчислите** процента на тоновете, превозвани с всяко превозно средство, и да отпечатате резултатите, спазвайки формата в условието.
+Before we print the output  we need to  **calculate percentages of the tonnes, transported by each vehicle** and **average price per tonne**. For the average price per tonne we will declare one more helper variable **`totalPrice`**, in which we will **sum total price of all transported cargos** (by minibus, truck and train). We will receive average price, by dividing **`totalPrice`** of **`sumOfTons`**. You need **to calculate by yourself** percentages of tonnes, transported by each vehicle, and print the results, keeping the specified format in the description.
 
 ### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/511#5](https://judge.softuni.bg/Contests/Practice/Index/511#5).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/511#5](https://judge.softuni.bg/Contests/Practice/Index/511#5).

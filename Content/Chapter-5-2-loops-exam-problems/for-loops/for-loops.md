@@ -1,4 +1,4 @@
-## For цикли
+## For loops
 
 Before we start working,it will be good to review again construction of **`for` loop**:
 
