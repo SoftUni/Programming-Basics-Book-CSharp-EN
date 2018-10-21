@@ -1,6 +1,6 @@
-### Example: знак на цяло число
+### Example: Sign of an Int NUmber
 
-Да се създаде метод, който печата знака на цяло число n.
+Create a method which prints the sign of an integer n.
 
 #### Sample Input and Output
 
@@ -12,16 +12,16 @@
 
 #### Hints and Guidelines
 
-Първата ни стъпка е **създаването** на метод и даването му на описателно име, например **`PrintSign`**. Този метод ще има само един параметър от тип **`int`**. 
+The first step is **creating** a method and giving it a descriptive name, e.g. **`PrintSign`**. This method will have only one parameter of type **`int`**. 
 
 ![](/assets/chapter-10-images/06.Print-sign-01.png)
 
-Следващата ни стъпка е **имплементирането** на логиката, по която програмата ни ще проверява какъв точно е знакът на числото. От примерите виждаме, че има три случая - числото е по-голямо от нула, равно на нула или по-малко от нула, което означава, че ще направим три проверки в тялото на метода. 
+The next step is **implementing** the logic by which the program will check what the sign of the number is. You can see from the examples that there are three cases  - the number is larger than, equal to or lower than zero, which means that we'll make three verifications in our method. 
 
-Следващата ни стъпка е да прочетем входното число и да извикаме новия метод от тялото на **`Main`** метода.
+The next step is to read the input number and to invoke the new method from the body of the **`Main`** method.
 
 ![](/assets/chapter-10-images/06.Print-sign-02.png)
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/594#1](https://judge.softuni.bg/Contests/Practice/Index/594#1).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/594#1](https://judge.softuni.bg/Contests/Practice/Index/594#1).

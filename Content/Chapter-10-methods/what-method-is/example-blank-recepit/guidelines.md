@@ -1,19 +1,19 @@
 #### Hints and Guidelines
 
-Първата ни стъпка е да създадем **`void`** метод за **принтиране на заглавната част** от касовата бележка (header). Нека му дадем смислено име, което описва кратко и ясно задачата му, например **`PrintReceiptHeader`**. В тялото му ще напишем кода от примера по-долу:
+The first step is to create a **`void`** method to **print the upper part** of the receipt (header). Let's give it a meaningful name, which describes what the method does, e.g. **`PrintReceiptHeader`**. In its body write the code from the example below:
 
 ![](/assets/chapter-10-images/04.Print-receipt-01.png)
 
-Съвсем аналогично ще създадем още два метода **за разпечатване на средната част** на бележката (тяло) **`PrintReceiptBody`** и **за разпечатване на долната част** на бележката (footer) **`PrintReceiptFooter`**.
+In the same way we'll create two more methods **to print the middle part** of the receipt (body) **`PrintReceiptBody`** and **to print the lower part** of the receipt (footer) **`PrintReceiptFooter`**.
 
-След това ще създадем и **още един метод**, който ще извиква трите метода, които написахме до момента един след друг:
+After this we will create **another method** , which will invoke the three methods we already wrote, one after the other:
 
 ![](/assets/chapter-10-images/04.Print-receipt-02.png)
 
-Накрая ще **извикаме** метода **`PrintReceipt`** от тялото на главния **`Main`** метод за нашата програма:
+In the end we'll **invoke** the **`PrintReceipt`** method from the body of the **`Main`** method of our program:
 
 ![](/assets/chapter-10-images/04.Print-receipt-03.png)
 
 #### Testing in the Judge System
 
-Програмата с общо пет метода, които се извикват един от друг, е готова и можем **да я изпълним и тестваме**, след което да я пратим за проверка в judge системата: [https://judge.softuni.bg/Contests/Practice/Index/594#0](https://judge.softuni.bg/Contests/Practice/Index/594#0).
+The program with five methods, which invoke each other, is ready and we can **run and test it**, after which we can send it for testing in the judge system: [https://judge.softuni.bg/Contests/Practice/Index/594#0](https://judge.softuni.bg/Contests/Practice/Index/594#0).

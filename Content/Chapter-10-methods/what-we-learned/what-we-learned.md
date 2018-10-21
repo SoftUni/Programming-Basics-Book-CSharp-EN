@@ -1,8 +1,8 @@
 ## What We Learned in This Chapter?
 
-В тази глава се запознахме с базовите концепции при работа с методи:
-* Научихме, че **целта** на методите е да **разделят** големи програми с много редове код на по-малки и кратки задачи.
-* Запознахме се със **структурата** на методите, как да ги **декларираме** и **извикваме** по тяхното име. 
-* Разгледахме примери за методи с **параметри** и как да ги използваме в нашата програма.
-* Научихме какво представляват **сигнатурата** и **връщаната стойност** на метода, както и каква е функцията на оператора **`return`** в методите.
-* Запознахме се с **добрите практики** при работа с методи, как да именуваме методите и техните параметри, как да форматираме кода и други.
+In this chapter we were introduced to the basic conseption of working with methods:
+* We learned that the **purpose** of methods is to **divide** big programs with a lot of lines of code into smaller, shorter tasks.
+* We introduced ourselves with the **structure** of methods, how to **declare** them and **invoke** them by their name.
+* We went over examples for methods with **parameters** and how to use them in our program.
+* We learned what **signature** and **return value** of a  method is and also what is the function of the operator **`return`**.
+* We introduced ourselves with the **good practice** when working with methods, how to name them and their parameters, how to format code, etc.

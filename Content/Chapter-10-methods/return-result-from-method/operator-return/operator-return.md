@@ -1,11 +1,11 @@
-### Оператор return
+### Return Operator
 
-За да получим резултат от метода, на помощ идва операторът **`return`**. Той трябва да бъде **използван в тялото** на метода и указва на програмата да **спре изпълнението** му и да **върне** на извиквача на метода определена **стойност**, която се определя от израза след въпросния оператор **`return`**.
+In order to receive a result from the method we need to use the **`return`** operator. It should be **used in the body** of the method and tells the program to **stop its execution** and to **return** the method invoker a certain **value**, which is defined by the expression after the **`return`** operator.
 
-В примера по-долу имаме метод, който чете две имена от конзолата, съединява ги и ги връща като резултат. Връщаната стойност е от тип **`string`**:
+In the example below there is a method that reads two names from the console, concatenates them and returns them as a result. The return value is of type **`string`**:
 
 ![](/assets/chapter-10-images/11.Return-operator-01.png)
 
-Операторът **`return`** може да бъде използван и във **`void`** методи. Тогава самият метод ще спре изпълнението си, без да връща никаква стойност, а след него не трябва да има израз, който да бъде върнат. В този случай употребата на **`return`** е единствено за излизане от метода.
+The **`return`** operator can also be used in **`void`** methods. This way the method will stop its execution without returning a value, and after it there shouldn't be an expression, which should be returned. In this case we use **`return`** only to exit the method.
 
-**Има случаи**, в които **`return`** може да бъде извикван от няколко места в метода, но само ако има **определени** входни условия.
+**There are cases** where **`return`** can be called from multiple places in the method, but only if there are **certain** input conditions.

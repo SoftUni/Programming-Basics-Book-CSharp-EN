@@ -1,7 +1,7 @@
-### Защо да използваме методи?
+### Why Use Methods?
 
-До тук установихме, че методите спомагат за **разделянето на обемна задача на по-малки части**, което води до **по-лесно решаване** на въпросното задание. Това прави програмата ни не само по-добре структурирана и лесно четима, но и по-разбираема.
+So far we determined, that methods help with **dividing larger programs into smaller tasks**, which leads to **easier solving** of the problem in question. This makes our program not only better structured and easier to read, but more understandable as well.
 
-Чрез методите **избягваме повторението** на програмен код. **Повтарящият** се код е **лоша** практика, тъй като силно **затруднява поддръжката** на програмата и води до грешки. Ако дадена част от кода ни присъства в програмата няколко пъти и се наложи да променим нещо, то промените трябва да бъдат направени във всяко едно повторение на въпросния код. Вероятността да пропуснем място, на което трябва да нанесем корекция, е много голяма, което би довело до некоректно поведение на програмата. Това е причината, поради която е **добра практика**, ако използваме даден фрагмент код **повече от веднъж** в програмата си, да го **дефинираме като отделен метод**. 
+By using methods we **avoid repeating** code. **Repetition** is **bad** practice, because it **complicates maintaining** the program and leads to errors. If a certain part of our code can be found more than once in the program and we need to change it, the changes must be made in all of the repetitions of the code in question. There is a great probability to miss a spot where correction is needed, which would lead to incorrect behaviour of the program. This is the reason why it is **good practice** if we use a certain fragment of code **more than once** in our program, to **define it as a separate method**.
 
-Методите ни предоставят **възможността** да използваме даден **код няколко** пъти. С решаването на все повече и повече задачи ще установите, че използването на вече съществуващи методи спестява много време и усилия. 
+Methods make it **possible** to use certain **code multiple** times. With solving more and more problems you will find that using already existing methods saves a lot of time and effort.

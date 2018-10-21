@@ -1,7 +1,7 @@
-## Какво е "метод"?
+## What Is a "Method"?
 
-До момента установихме, че при **писане** на код на програма, която решава дадена задача, ни **улеснява** това, че **разделяме** задачата на **части**. Всяка част отговаря за **дадено действие** и по този начин не само ни е **по-лесно** да решим задачата, но и значително се подобрява както **четимостта** на кода, така и проследяването за грешки.
+Up until now we found out that when **writing** the code of a program, which solves a problem, what makes it **easier** is that we **divide** the task into **parts**. Each part fulfills **a given action** and this way it is not only **easier** to solve the task, but the **readability** of the code and looking for mistakes is significantly better.
 
-Всяко едно парче код, което изпълнява дадена функционалност и което сме отделили логически, може да изземе функционалността на метода. Точно това представляват **методите – парчета код, които са именувани** от нас по определен начин и които могат да бъдат **извикани** толкова пъти, колкото имаме нужда.
+Each piece of code, which executes some functionality and has been separated logically can take the functionallity of the method. This is exactly what **methods are – pieces of code with names** given by us in a certain way and which can be **invoked** as many times as we need them.
 
-Един метод може да бъде извикан толкова пъти, колкото ние преценим, че ни е нужно за решаване на даден проблем. Това ни **спестява** повторението на един и същи код няколко пъти, както и **намалява** възможността да пропуснем грешка при евентуална корекция на въпросния код.
+A method can be invoked as many times, as we think we need to solve a problem. This **saves** us repeating the same code over and over, and also **reduces** the possibility to miss a mistake when correcting the code.

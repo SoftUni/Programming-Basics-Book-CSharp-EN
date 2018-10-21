@@ -1,8 +1,8 @@
-### Именуване на параметрите на методите
+### Method Parameter Naming
 
-При именуването на **параметрите** на метода важат почти същите правила, както и при самите методи. Разликите тук са, че за имената на  параметрите е добре да използваме съществително име или двойка от прилагателно и съществително име, както и че при именуване на параметрите се спазва **`lowerCamelCase`** конвенцията, т.е. **всички думи без първата започват с главна буква**. Трябва да отбележим, че е добра практика името на параметъра да **указва** каква е **мерната единица**, която се използва при работа с него.
+When naming **the parameters** of a method you can apply almost the same rules as with the methods themselves. The difference here is that it is good for the names of the parameters to use a noun or a couple of an adjective and a noun, and when naming the parameters we use the **`lowerCamelCase`** convention, i.e. **each word except for the first one starts with uppercase**. We should note that it is good practice that the name of the parameter **shows** what **unit**is used when working with it.
 
-Няколко примера за **коректно** именуване на параметри на методи:
+A few examples for **correctly** named parameters:
 * **`firstName`**
 *	**`report`**
 *	**`speedKmH`**
@@ -10,7 +10,7 @@
 *	**`fontSizeInPixels`**
 *	**`font`**
 
-Няколко примера за **некоректно** именуване на параметри:
+A few examples for **incorrectly** named parameters:
 *	**`p`**
 *	**`p1`**
 *	**`p2`**

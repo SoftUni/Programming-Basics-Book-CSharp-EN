@@ -1,5 +1,5 @@
-### Добри практики при работа с методи
+### Good Practices When Working With Methods
 
-Нека отново припомним, че един метод трябва да изпълнява **само една** точно определена **задача**. Ако това не може да бъде постигнато, тогава трябва да помислим как да **разделим** метода на няколко отделни такива. Както казахме, името на метода трябва точно и ясно да описва неговата цел. Друга добра практика в програмирането е да **избягваме** методи, по-дълги от екрана ни (приблизително). Ако все пак кода стане много обемен, то е препоръчително метода да се **раздели** на няколко по-кратки, както в примера по-долу.
+Let us remind you that a method should do **only one** defined **task**. If this can not be done you must think how to **divide** the method into a few, smaller ones. As we already said the name of the method should be clear and should describe its purpose. Another good practice in programming is to **avoid** methods, which are longer than our screen (approximately). If the code still becomes large it is recommended to **divide** it into several, shorter methods, as in the example below.
 
 ![](/assets/chapter-10-images/20.Good-practice-01.png)

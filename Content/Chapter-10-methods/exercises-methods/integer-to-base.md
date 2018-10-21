@@ -1,6 +1,5 @@
-### Problem: число към бройна система
-
-Да се напише метод **`IntegerToBase(number, toBase)`**, който получава като параметри цяло число и основа на бройна система и връща входното число, конвертирано към посочената бройна система. След това, резултатът да се отпечата на конзолата. Входното число винаги ще е в бройна система 10, а параметърът за основа ще е между 2 и 10.
+### Problem: Integer to Base
+Write a method **`IntegerToBase(number, toBase)`**, which takes as parameters an integer and a base of a numeral system and returns the integer converted to the given numeral system. After this the result should be printed in the console. The input number will always be in decimal numeral system, and the base parameter will be between 2 and 10.
 
 #### Sample Input and Output
 
@@ -10,13 +9,13 @@
 
 #### Hints and Guidelines
 
-За да решим задачата, ще декларираме стрингова променлива, в която ще пазим резултата. След това трябва да изпълним следните изчисления, нужни за конвертиране на числото.
-* Изчисляваме **остатъка** от числото, разделено на основата.
-* **Вмъкваме остатъка** от числото в началото на низа, представящ резултата.
-* **Разделяме** числото на основата.
-* **Повтаряме** алгоритъма, докато входното число не стане 0.
+In order to solve the problem we will declare a string, in which we will keep the result. After this we need to do the following calculations to convert the number.
+* Calculate **the remainder** of the number, divided by the base.
+* **Insert the remainder** in the beginning of the string.
+* **Divide** the number to the base.
+* **Repeat** the algorithm, until the input integer equals 0.
 
-Допишете липсващата логика в метода по-долу:
+Write the missing logic in the method below:
 
 ```csharp
 static string IntegerToBase(int number, int toBase) {
@@ -30,4 +29,4 @@ static string IntegerToBase(int number, int toBase) {
 
 #### Testing in the Judge System 
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/594#11](https://judge.softuni.bg/Contests/Practice/Index/594#11).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/594#11](https://judge.softuni.bg/Contests/Practice/Index/594#11).

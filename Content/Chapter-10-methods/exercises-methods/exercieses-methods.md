@@ -1,3 +1,3 @@
-## Упражнения
+## Exercises
 
-За да затвърдим работата с методи, ще решим няколко задачи. В тях се изисква да напишете метод с определена функционалност и след това да го извикате като му подадете данни, прочетени от конзолата, точно както е показано в примерния вход и изход.
+In order to confirm what we have learned about methods we will solve a few problems. They will need you to write a method with certain functionality and after that invoke it by giving it data, read from the console, just as in the example input and output.

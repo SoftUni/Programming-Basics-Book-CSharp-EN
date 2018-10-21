@@ -1,12 +1,12 @@
-### Example: празна касова бележка
+### Example: Blank Receipt
 
-Да се напише метод, който печата празна касова бележка. Методът трябва да извиква други три метода: един за принтиране на заглавието, един за основната част на бележката и един за долната част.
+Write a method, which prints a blank receipt. The method should call another three methods: one to print the header, one for the middle part of the receipt and one for the lower part.
 
-|Част от касовата бележка|Текст|
+|Part of the receipt|Text|
 | --- | --- |
-|Горна част|CASH RECEIPT<br>------------------------------|
-|Средна част|Charged to\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_<br>Received by\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|
-|Долна част|------------------------------<br>(c) SoftUni|
+|Upper part|CASH RECEIPT<br>------------------------------|
+|Middle part|Charged to\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_<br>Received by\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|
+|Lower part|------------------------------<br>(c) SoftUni|
 
 #### Sample Input and Output
 

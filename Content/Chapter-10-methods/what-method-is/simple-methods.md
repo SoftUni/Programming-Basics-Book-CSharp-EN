@@ -1,11 +1,11 @@
-### Прости методи
+### Simple Methods
 
-**Простите** методи отговарят за изпълнението на дадено **действие**, което **спомага** за решаване на определен проблем. Такива действия могат да бъдат разпечатване на даден низ на конзолата, извършване на някаква проверка, изпълнение на цикъл и други.
+**The simple** methods are tasked to do a certain **task**, which **helps** to solve a given problem. These actions can be printing a string on the console, doing a verification, executing a loop and others.
 
-Нека разгледаме следния **пример за прост метод**:
+Let's see the following **example for a simple code**:
 
 ![](/assets/chapter-10-images/01.Simple-method-01.png)
 
-Този метод има задачата да отпечата заглавие, което представлява поредица от символа **`-`**. Поради тази причина името му е **`PrintHeader`**. Кръглите скоби **`( `** и **`)` винаги** следват името, независимо как сме именували метода. По-късно ще разгледаме как трябва да именуваме методите, с които работим, а за момента ще отбележим само, че е важно **името му да описва действието**, което той извършва.
+This method must print a header, which is a sequence of hte **`-`** symbol. Because of this its name is **`PrintHeader`**. The parentheses **`( `** and **`)` always** follow the name, no matter what we called the method. We will later see how to name the methods we work with and for the moment we will only say that it is important for **its name to describe the task** the method is doing.
 
-**Тялото** на метода съдържа **програмния код**, който се намира между къдравите скоби **`{`** и **`}`**. Тези скоби **винаги** следват **декларацията** му и между тях поставяме кода, който решава проблема, описан от името на метода. 
+**The body** of the method contains **the program code**, which is between the curly brackets **`{`** and **`}`**. These brackets **always** follow its **declaration** and between them we write the code, which solves the problem described by the methods name.

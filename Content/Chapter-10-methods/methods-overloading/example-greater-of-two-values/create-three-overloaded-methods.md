@@ -1,13 +1,13 @@
-#### Създаване на методите
+#### Creating the Methods
 
-За да създадем този метод, първо трябва да създадем три други метода с едно и също име и различни сигнатури. Първо създаваме метод, който ще сравнява цели числа.
+We need to create three methods with the same name and different signatures. First we create a method, which will compare integers.
 
 ![](/assets/chapter-10-images/18.Greater-of-two-values-01.png)
 
-Следвайки логиката от предходния метод, създаваме такъв със същото име, който обаче ще сравнява символи.
+Following the logic of the previous method we create another one with the same name, but this one will compare characters.
 
 ![](/assets/chapter-10-images/18.Greater-of-two-values-02.png)
 
-Следващият метод, който трябва да създадем, ще сравнява низове. Тук логиката ще е малко по-различна, тъй като стойностите от тип **`string`** не позволяват да бъдат сравнявани чрез операторите **`<`** и **`>`**. Ще използваме метода **`CompareTo(…)`**, който връща числова стойност: по-голяма от 0 (сравняваният обект е по-голям), по-малка от 0 (сравняваният обект е по-малък) и 0 (при два еднакви обекта).
+The next method we need to create will compare strings. The logic here is a bit different from the previous two methods because variables of type **`string`** can not be compared with the operators **`<`** and **`>`**. We will use the method **`CompareTo(…)`**, which returns a numerical value: larger than 0 (the compared object is larger), smaller than 0 (the compared object is smaller) and 0 (the two objects are the same).
 
 ![](/assets/chapter-10-images/18.Greater-of-two-values-03.png)

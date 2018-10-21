@@ -1,11 +1,11 @@
-### Problem: числа към думи
+### Problem: Numbers to Words
 
-Да се напише метод **`Letterize(number)`**, който прочита цяло число и го разпечатва с думи на английски език според условията по-долу:
-* Да се отпечатат с думи стотиците, десетиците и единиците (и евентуални минус) според правилата на английския език.
-* Ако числото е по-голямо от **999**, трябва да се принтира "**too large**".
-* Ако числото е по-малко от **-999**, трябва да се принтира "**too small**".
-* Ако числото е **отрицателно**, трябва да се принтира "**minus**" преди него.
-* Ако числото не е съставено от три цифри, не трябва да се принтира.
+Write a method **`Letterize(number)`**, which reads an integer and prints it in words in English according to the conditions below:
+* Print in words the hundreds, the tens and the ones (and the eventual minus) according to the rules of the English language.
+* If the number is larger than **999**, you must print "**too large**".
+* If the number is smaller than **-999**, you must print "**too small**".
+* If the number is **negative**, you must print "**minus**" before it.
+* If the number is not built up of three digits, you shouldn't print it.
 
 #### Sample Input and Output
 

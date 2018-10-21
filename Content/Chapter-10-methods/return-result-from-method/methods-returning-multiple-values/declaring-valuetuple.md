@@ -1,13 +1,13 @@
-#### Деклариране на ValueTuple
+#### Declaring ValueTuple
 
-Нека разгледаме примерна декларация на променлива от тип **`ValueTuple`**:
+Let's look at an example declaring of a variable of type **`ValueTuple`**:
 
 ```csharp
 var personInfo = (name: "Steeve", age: 27, "Bulgaria");
 ```
 
-За улеснение при декларирането използваме ключовата дума **`var`**, а в скобите изброяваме **имената на желаните стойности**, следвани от **самите стойности**. Нека погледнем и в дебъг режим какво се съдържа в променливата **`personInfo`**:
+To make it easier when declaring we use the keyword **`var`**, and in the brackets we list **the names of the values we want**, followed by **the values themselves**. Let's see what the variable **`personInfo`** contains in debug mode:
 
 ![](/assets/chapter-10-images/15.Tuples-01.jpg)
 
-Виждаме, че се състои от няколко **полета с имена и стойности**, описани при инициализацията на променливата. Забелязваме, че последната променлива е именувана **`Item3`**. Това е така, защото по време на инициализацията не сме уточнили име за променливата, в която се пази стойността **"Bulgaria"**. В такъв случай именуването е **по подразбиране**, т.е. променливите са именувани с **`Item1`**, **`Item2`**, **`Item3`** и т.н.
+We can see that it contains several **fields with names and values**, which were given when initializing the variable. We can see that the last variable is called **`Item3`**. This is so because when initializing we haven't named the variable, which contains the value **"Bulgaria"**. In this case the naming is **by default**, i.e. the variables are named **`Item1`**, **`Item2`**, **`Item3`** etc.

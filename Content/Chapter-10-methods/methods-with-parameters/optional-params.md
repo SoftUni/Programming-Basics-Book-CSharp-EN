@@ -1,11 +1,11 @@
-### Незадължителни параметри
+### OPtional Parameters
 
-Езикът C# поддържа използването на **незадължителни** параметри. Те позволяват **пропускането** на параметри при извикването на метода. Декларирането им става чрез **осигуряване на стойност по подразбиране** в описанието на съответния параметър.
+C# supports using **optional** parameters. They allow **missing** parameters when invoking the method. Their declaring is done by **providing default value** in the description of the parameter.
 
-Следващият пример онагледява употребата на незадължителните параметри:
+The following example illustrates using optional parameters:
 
 ![](/assets/chapter-10-images/07.Optional-parameters-01.png)
 
-Показаният метод **`PrintNumbers`** може да бъде извикан по няколко начина:
+The shown method **`PrintNumbers`** can be invoked in one of several ways:
 
 ![](/assets/chapter-10-images/07.Optional-parameters-02.png)

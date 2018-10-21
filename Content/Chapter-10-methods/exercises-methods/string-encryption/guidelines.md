@@ -1,8 +1,8 @@
 #### Hints and Guidelines
-На променливата от тип **`string`**, в която ще се пази стойността на резултата, ще присвоим първоначална стойност **`string.Empty`**. Трябва да се завърти цикъл **`n`** пъти, като на всяка итерация към променливата, в която пазим стойността на резултата, ще прибавяме криптирания символ. 
+Firstly, we will give a value of **`string.Empty`** to the **`string`**, which will keep the result. We must recur a loop **`n`** times, so that in each iteration we will add the encrypted symbol to the result string. 
 
-За да намерим първата и последната цифри от ASCII кода, ще използваме алгоритъма, който използвахме за решаване на задача "Число към бройна система".
+In order to find the first and the last digit of the ASCII code, we will use the same algorithm that we used to solve "Integer to Base".
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/594#14](https://judge.softuni.bg/Contests/Practice/Index/594#14).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/594#14](https://judge.softuni.bg/Contests/Practice/Index/594#14).

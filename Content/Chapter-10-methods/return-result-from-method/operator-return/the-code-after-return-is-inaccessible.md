@@ -1,9 +1,9 @@
-#### Кодът след return е недостъпен
+#### The Code After Return is Inaccessible
 
-След **`return`** оператора, в текущия блок, **не** трябва да има други редове код, тъй като тогава Visual Studio ще покаже предупреждение, съобщавайки ни, че е засякъл код, който **не може да бъде достъпен**:
+After the **`return`** operator, there **should not** be any more lines of code in the current block, because if there are Visual Studio will warn you that it has found a piece of code **which is inaccessible**:
 
 ![](/assets/chapter-10-images/11.Return-operator-03.png)
 
 <table><tr><td><img src="/assets/alert-icon.png" style="max-width:50px" />
-</td><td>В програмирането не може да има два пъти оператор <code><b>return</b></code> един след друг, защото изпълнението на първия няма да позволи да се изпълни вторият. Понякога програмистите се шегуват с фразата “<b><i>пиши</i> <code>return; return;</code> <i>и да си ходим</i></b>”, за да обяснят, че логиката на програмата е объркана.</td></tr>
+</td><td>In programming you can't have the <code><b>return</b></code> operator twice, one after the other, because executing the first one won't allow the execution of the second one. From time to time programmers joke by saying “<b><i>write</i> <code>return; return;</code> <i>and let's go</i></b>”, in order to explain that the program logic is lost.</td></tr>
 </table>

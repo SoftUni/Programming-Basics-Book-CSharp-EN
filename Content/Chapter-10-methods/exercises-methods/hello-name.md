@@ -1,6 +1,6 @@
-### Problem: "Hello, Име!"
+### Problem: "Hello, Name!"
 
-Да се напише метод, който получава като параметър име и принтира на конзолата "*Hello, \<name\>!*".
+Write a method which takes a name as a parameter and prints on the console "*Hello, \<name\>!*".
 
 #### Sample Input and Output
 
@@ -10,8 +10,8 @@
 
 #### Hints and Guidelines
 
-Дефинирайте метод **`PrintName(string name)`** и го имплементирайте, след което в главната програма прочетете от конзолата име на човек и извикайте метода като му подадете прочетеното име.
+Define a method **`PrintName(string name)`** and implement it, after which read a name from the console in the main program and invoke the method by feeding it the name.
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/594#7](https://judge.softuni.bg/Contests/Practice/Index/594#7).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/594#7](https://judge.softuni.bg/Contests/Practice/Index/594#7).

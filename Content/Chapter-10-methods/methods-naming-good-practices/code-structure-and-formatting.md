@@ -1,19 +1,19 @@
-### Структура и форматиране на кода
+### Code Structure and Formatting
 
-При писането на методи трябва да внимаваме да спазваме коректна **индентация** (отместване по-навътре на блокове от кода).
+When writing methods we should be careful to do correct **indentation** (moving blocks of the code to the right).
 
-Пример за **правилно** форматиран C# код:
+Example for **correctly** formatted C# code:
 
 ![](/assets/chapter-10-images/20.Good-practice-02.png)
 
-Пример за **некоректно** форматиран C# код:
+Example for **incorrectly** formatted C# code:
 
 ![](/assets/chapter-10-images/20.Good-practice-03.png)
 
-Когато заглавният ред на метода е **твърде дълъг**, се препоръчва той да се раздели на няколко реда, като всеки ред след първия се отмества с две табулации надясно (за по-добра четимост):
+When the title line of the method is **too long**, it is recommended to divide it into several lines, as each line after the first is two tabulations to the right of the first (for better readability):
 
 ![](/assets/chapter-10-images/13.Calculate-triangle-area-01.png)
 
-Друга добра практика при писане на код е да **оставяме празен ред** между методите, след циклите и условните конструкции. Също така, опитвайте да **избягвате** да пишете **дълги редове и сложни изрази**. С времето ще установите, че това подобрява четимостта на кода и спестява време. 
+Another good practice when writing code is **to leave an empty row** between the methods, after loops and conditional statements. Also try to **abstain** from writing **long lines and complicated expressions**. In time you will see that this makes the readability better and saves time. 
 
-Препоръчваме винаги да се **използват къдрави скоби за тялото на проверки и цикли**. Скобите не само подобряват четимостта, но и намалят възможността да бъде допусната грешка и програмата ни да се държи некоректно.
+It is also recommended to always **use cirly brackets for the bodies of conditional statements and loops**. The brackets not only improve readability, but also reduce the possibility to make a mistake and the program to run incorrectly.

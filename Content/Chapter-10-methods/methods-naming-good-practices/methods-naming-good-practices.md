@@ -1,3 +1,3 @@
-## Именуване на методи. Добри практики при работа с методи
+## Naming Methods. Good Practices When Working With Methods
 
-В тази част ще се запознаем с някои **утвърдени практики** при работа с методи, свързани с именуването, подредбата на кода и неговата структура.
+In this part we will show you some **established practices** when working with methods, connected with the naming, the arrangement and the structure of the code.

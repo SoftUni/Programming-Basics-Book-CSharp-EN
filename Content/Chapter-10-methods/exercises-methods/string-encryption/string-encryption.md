@@ -1,25 +1,25 @@
-### Problem: криптиране на низ
+### Problem: String Encryption
 
-Да се напише метод **`Encrypt(char letter)`**, който криптира дадена буква по следния начин:
-* Вземат се първата и последна цифра от ASCII кода на буквата и се залепят една за друга в низ, който ще представя резултата. 
-* Към началото на стойността на низа, който представя резултата, се залепя символа, който отговаря на следното условие:
-  * ASCII кода на буквата + последната цифра от ASCII кода на буквата.
-* След това към края на стойността на низа, който представя резултата, се залепя символа, който отговаря на следното условие:
-  * ASCII кода на буквата - първата цифра от ASCII кода на буквата.
-* Методът трябва да върне като резултат криптирания низ.
+Write a method **`Encrypt(char letter)`**, which encrypts a given letter in the following way:
+* It takes the first and the last digit from the ASCII code of the letter and concatenates them into a string, which will represent the result. 
+* In the beginning of the string, which represents the result, we will insert the symbol which matches the following condition:
+  * ASCII code of the letter + the last digit of the ASCII code of the letter.
+* After that in the end of the string, which represents the result, you concatenate the character which matches the following condition:
+  * ASCII code of the letter - the first digit of the ASCII code of the letter.
+* The method should return the encrypted string.
 
 Example:
 * j &rarr; **p16i**
-  * ASCII кодът на **j** e **106** &rarr; Първа цифра - **1**, последна цифра - **6**.
-  * Залепяме първата и последната цифра &rarr; **16**.
-  * Към **началото** на стойността на низа, който представя резултата, залепяме символа, който се получава от сбора на ASCII кода + последната цифра &rarr; 106 + 6 &rarr; 112 &rarr; **p**.
-  * Към **края** на стойността на низа, който представя резултата, залепяме символа, който се получава от разликата на ASCII кода - първата цифра &rarr; 106 - 1 &rarr; 105 &rarr; **i**.
+  * ASCII code of **j** is **106** &rarr; First digit - **1**, last digit - **6**.
+  * We concatenate the first and the last digit &rarr; **16**.
+  * At **the beginning** of the string, which represents the result, concatenate the symbol, which you get from the sum of the ASCII code + the last digit &rarr; 106 + 6 &rarr; 112 &rarr; **p**.
+  * At **the end** of the string, which represents the result, concatenate the symbol, which you get from subtracting the ASCII code - the first digit &rarr; 106 - 1 &rarr; 105 &rarr; **i**.
   
-Използвайки метода, описан по-горе, да се напише програма, която чете **поредица от символи**, **криптира ги** и отпечатва резултата на един ред.
+Using the method shown above, write a program which takes **a sequence of characters**, **encrypts them** and prints the result on one line.
 
-Приемаме, че входните данни винаги ще бъдат валидни. Главният метод трябва да прочита входните данни, подадени от потребителя – цяло число **`n`**, следвани от по един символ на всеки от следващите **`n`** реда.
+The input data will always be valid. The Main method must read the data given by the user – an integer **`n`**, followed by a character for each of the following **`n`** lines.
 
-Да се криптират символите и да се добавят към криптирания низ. Накрая като резултат трябва да се отпечата **криптиран низ от символи** като в следващия пример.
+Encrypt the symbols and add them to the encrypted string. In the end, as a result, you must print **an encrypted string** as in the following example.
 
 Example:
 * S, o, f, t, U, n, i &rarr; V83Kp11nh12ez16sZ85Mn10mn15h

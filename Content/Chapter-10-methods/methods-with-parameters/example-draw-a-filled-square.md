@@ -1,6 +1,6 @@
-### Example: рисуване на запълнен квадрат
+### Example: Draw a Filled Square
 
-Да се нарисува на конзолата запълнен квадрат със страна n, както е показно в примерите.
+Print on the comsole a filled square with side n, As in the examples.
 
 #### Sample Input and Output
 
@@ -10,18 +10,18 @@
 
 #### Hints and Guidelines
 
-Първата ни стъпка е да прочетем входа от конзолата. След това трябва да създадем метод, който ще принтира първия и последен ред, тъй като те са еднакви. Нека не забравяме, че трябва да му дадем **описателно име** и да му зададем като **параметър** дължината на страната. Ще използваме конструктора **`new string`**. 
+The first step is to read the input from the console. After that we need to create a method, which will print the firs and the last rows because they are the same. Let's remember that we must give it **a descriptive name** and give it as **a parameter** the length of the side. We will use the constructor **`new string`**. 
 
 ![](/assets/chapter-10-images/09.Draw-filled-square-01.png)
 
-Следващата ни стъпка е да създадем метод, който ще рисува на конзолата средните редове. Отново задаваме описателно име, например **`PrintMiddleRow`**.
+Our next step is to create a method, which will draw the middle rows in the console. Again give it a descriptive name i.e. **`PrintMiddleRow`**.
 
 ![](/assets/chapter-10-images/09.Draw-filled-square-02.png)
 
-Накрая извикваме създадените методи в главния метод **`Main()`** на програмата, за да нарисуваме целия квадрат:
+In the end invoke the methods in the **`Main()`** method of the program in order to draw the whole square:
 
 ![](/assets/chapter-10-images/09.Draw-filled-square-03.png)
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/594#3](https://judge.softuni.bg/Contests/Practice/Index/594#3).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/594#3](https://judge.softuni.bg/Contests/Practice/Index/594#3).

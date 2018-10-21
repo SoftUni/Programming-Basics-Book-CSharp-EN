@@ -1,6 +1,6 @@
-### Example: по-голямата от две стойности
+### Example: Greater of Two Values
 
-Като входни данни са дадени две стойности от един и същ тип. Стойностите могат да са от тип **`int`**, **`char`** или **`string`**. Да се създаде метод **`GetMax()`**, който връща като резултат по-голямата от двете стойности.
+The input is two values of the same type. The values can be of type **`int`**, **`char`** or **`string`**. Create a method **`GetMax()`**, which returns as a result the greater of the two values.
 
 #### Sample Input and Output
 

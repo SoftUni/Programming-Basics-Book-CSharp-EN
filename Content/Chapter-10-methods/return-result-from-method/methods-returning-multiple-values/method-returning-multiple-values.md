@@ -1,6 +1,6 @@
-#### Метод, връщащ няколко стойности
+#### Method Returning Multiple Values
 
-Следният метод приема за параметри две целочислени числа (**`x`** и **`y`**) и **връща две стойности** - резултата от целочислено деление на двете числа и остатъка от делението им:
+The following method takes as parameters two integers (**`x`** and **`y`**) and **returns two values** - the result of integer division and the remainder:
 
 ```csharp
 static (int result, int reminder) Divide(int x, int y)
@@ -12,12 +12,12 @@ static (int result, int reminder) Divide(int x, int y)
 }
 ```
 
-Този метод връща резултат от тип **`ValueTuple`**, съдържащ две променливи (полета) от тип **`int`**, съответно именувани **`result`** и **`reminder`**. Извикването на метода се осъществява по следния начин:
+This method returns a result of type **`ValueTuple`**, containing two variables (fields) of type **`int`**, named **`result`** and **`reminder`** respectively. Invoking the method is done in the following way:
 
 ```csharp
 var division = Divide(1, 3);
 ```
 
-За да достъпим резултатите, върнати от метода, прилагаме **точковата нотация към променливата** **`division`**:
+In order to get the results, returnde from the method, we apply **point notation to the variable** **`division`**:
 
 ![](/assets/chapter-10-images/15.Tuples-02.jpg)

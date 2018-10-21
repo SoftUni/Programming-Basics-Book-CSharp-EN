@@ -1,3 +1,3 @@
-# Chapter 10. Методи
+# Chapter 10. Methods
 
-В настоящата глава ще се запознаем с **методи** и ще научим какво **представляват** те, както и кои са **базовите концепции** при работа с тях. Ще научим защо е **добра практика** да ги използваме, как да ги **декларираме** и **извикваме**. Ще се запознаем с **параметри** и **връщана стойност на метод**, както и как да използваме тази връщана стойност. Накрая на главата, ще разгледаме **утвърдените практики** при използване на методите.
+In the current chapter we will learn about **methods** and we will learn what they **represent**, and which are the **base concepts** when working with them. We will also learn why it is **good practice** to use them, how to **declare** and **call** them. We will look at **parameters** and **return value of a method**, and also how to use the returned value. At the end of the chapter we will look at **the estabished practices** when using methods.

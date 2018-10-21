@@ -1,6 +1,6 @@
-### Problem: повтаряне на низ
+### Problem: String Repeater
 
-Да се напише метод **`RepeatString(str, count)`**, който получава като параметри променлива от тип **`string`** и цяло число **`n`** и връща низа, повторен **`n`** пъти. След това резултатът да се отпечата на конзолата.
+Create a method **`RepeatString(str, count)`**, which takes parameters of type **`string`** and an integer **`n`** and returns the string, repeated **`n`** times. After this print the result on the console.
 
 #### Sample Input and Output
 
@@ -10,12 +10,12 @@
 
 #### Hints and Guidelines
 
-Допишете метода по-долу като добавите съединяването входния низ към резултата в цикъла:
+Add to the method below the input string to the result that you will print:
 
 ![](/assets/chapter-10-images/21.Repeated-string-01.png)
 
-Имайте предвид, че в езика C# съединяването на низове в цикъл води до лоша производителност и не се препоръчва. Потърсете и пробвайте по-ефективни решения тук: https://stackoverflow.com/questions/411752.
+Keep in mind that in C# concatenating strings in loops leads to bad productivity and is not recommended. Look for more effective solutions here: https://stackoverflow.com/questions/411752.
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/594#9](https://judge.softuni.bg/Contests/Practice/Index/594#9).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/594#9](https://judge.softuni.bg/Contests/Practice/Index/594#9).

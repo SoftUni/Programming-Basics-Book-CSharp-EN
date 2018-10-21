@@ -1,6 +1,6 @@
-### Example: пресмятане на лицето на триъгълник
+### Example: Calculating Triangle Area
 
-Да се напише метод, който изчислява лицето на триъгълник по дадени основа и височина и връща стойността му.
+Create a method that calculates the area of a triangle using the given base and heigth and returns it as a result.
 
 #### Sample Input and Output
 
@@ -10,14 +10,14 @@
 
 #### Hints and Guidelines
 
-Първата ни стъпка е да прочетем входа. След това **създаваме** метод, но този път внимаваме при **декларацията** да подадем коректния **тип** данни, които искаме метода да върне, а именно **`double`**.
+The first step is to read the input. After this **create** a method, but this time be careful when **declaring** to give it the correct **type** of data, we want the method to return, which is **`double`**.
 
 ![](/assets/chapter-10-images/13.Calculate-triangle-area-01.png)
 
-Следващата ни стъпка е да **извикаме новия** метод от нашия **`Main()`** метод и да **запишем върнатата стойност в подходяща променлива**.
+The next step is to **invoke the new** method from the **`Main()`** method and to **write down the return value in a suitable variable**.
 
 ![](/assets/chapter-10-images/13.Calculate-triangle-area-02.png)
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/594#4](https://judge.softuni.bg/Contests/Practice/Index/594#4).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/594#4](https://judge.softuni.bg/Contests/Practice/Index/594#4).

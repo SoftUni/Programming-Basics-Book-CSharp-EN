@@ -1,3 +1,3 @@
-## Методи с параметри
+## Methods With Parameters
 
-Много често в практиката, за да бъде решен даден проблем, методът, с чиято помощ постигаме това, се нуждае от **допълнителна информация**, която зависи от задачата му. Именно тази информация представляват **параметрите на метода** и неговото поведение зависи от тях. 
+Frequently in order to solve a problem, the method with wich we do this needs **additional information**, which depends on its purpose. This is precisely the information that **the method parameters** are its behaviour depends on them. 

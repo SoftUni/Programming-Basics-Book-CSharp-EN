@@ -1,13 +1,13 @@
-### Problem: известия
+### Problem: Notifications
 
-Да се напише програма, която прочита цяло число **`n`** и на следващите редове въвежда **`n`** **съобщения** (като за всяко съобщение се прочитат по няколко реда). Всяко съобщение започва с **`messageType`**: **`success`**, **`warning`** или **`error`**:
-   - Когато **`messageType`** е **`success`** да се четат **`operation`** + **`message`** (всяко на отделен ред).
-   - Когато **`messageType`** е **`warning`** да се чете само **`message`**.
-   - Когато **`messageType`** е **`error`** да се четат **`operation`** + **`message`** + **`errorCode`** (всяко на отделен ред).
+Write a program, which takes an integer **`n`** and on the next rows prints **`n`** **messages** (for each message read a few lines). Each message starts with **`messageType`**: **`success`**, **`warning`** or **`error`**:
+   - When **`messageType`** is **`success`** read **`operation`** + **`message`** (each on a new line).
+   - When **`messageType`** is **`warning`** read only **`message`**.
+   - When **`messageType`** is **`error`** read **`operation`** + **`message`** + **`errorCode`** (each on a new line).
 
-На конзолата да се отпечата **всяко прочетено съобщение**, форматирано в зависимост от неговия **`messageType`**. Като след заглавния ред за всяко съобщение да се отпечатат толкова на брой символа **`=`**, **колкото е дълъг** съответният **заглавен ред** и да се сложи по един **празен ред** след всяко съобщение (за по-детайлно разбиране погледнете примерите). 
+Print in the console **each read message**, formatted depending on its **`messageType`**. After the headline of the message print as much **`=`**, **as the length** of the said **headline** and print **an empty line** after each message (to understand in detail look at the examples). 
 
-Задачата да се реши с дефиниране на четири метода: **`ShowSuccessMessage()`**, **`ShowWarningMessage()`**, **`ShowErrorMessage()`** и **`ReadAndProcessMessage()`**, като само последният метод да се извиква от главния **`Main()`** метод:
+The problem should be solved by defining four methods: **`ShowSuccessMessage()`**, **`ShowWarningMessage()`**, **`ShowErrorMessage()`** and **`ReadAndProcessMessage()`**, so that only the last method is invoked by the **`Main()`** method:
 
 ![](/assets/chapter-10-images/23.Notifications-01.png)
 
@@ -19,10 +19,10 @@
 
 #### Hints and Guidelines
 
-Дефинирайте и имплементирайте посочените четири метода.
+Define and implement the four shown methods.
 
-В **`ReadAndProcessMessage()`** прочетете типа съобщение от конзолата и според прочетения тип прочетете останалите данни (още един два или три реда). След това извикайте съответния метод за печатане на съответния тип съобщение.
+In **`ReadAndProcessMessage()`** read the type of message from the console and according the read type read the rest of the data (one, two or three more lines). After that invoke the method for printing the given type of message.
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/594#12](https://judge.softuni.bg/Contests/Practice/Index/594#12).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/594#12](https://judge.softuni.bg/Contests/Practice/Index/594#12).

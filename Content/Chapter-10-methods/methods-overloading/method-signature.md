@@ -1,9 +1,9 @@
-### Сигнатура на метода
+### Method Signature
 
-В програмирането **начинът**, по който се **идентифицира** един метод, е чрез **двойката елементи** от декларацията му – **име** на метода и **списък** от неговите параметри. Тези два елемента определят неговата **спецификация**, т. нар. **сигнатура** на метода. 
+In programming **the way** you can **identify** a method is through **the couple of elements** of its declaring – **name** of the method and **a list** containing its parameters. These two elements determine its **specification**, the so invoked **signature** of the method. 
 
 ![](/assets/chapter-10-images/16.Method-signature-01.png)
 
-В този пример сигнатурата на метода е неговото име (**`Print`**), както и неговият параметър (**`string text`**).
+In this example the methods signature is its name (**`Print`**), and also its parameter (**`string text`**).
 
-Ако в програмата ни има **методи с еднакви имена**, но с **различни сигнатури**, то казваме, че имаме **варианти на методи (method overloading)**.
+If our program has **methods with the same names**, but with **different signatures**, we can say that we have **method overloading**.

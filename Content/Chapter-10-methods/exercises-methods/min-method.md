@@ -1,6 +1,6 @@
-### Problem: по-малко число
+### Problem: Min Method
 
-Да се създаде метод **`GetMin(int a, int b)`**, който връща по-малкото от две числа. Да се напише програма, която чете като входни данни от конзолата три числа и печата най-малкото от тях. Да се използва метода **`GetMin(…)`**, който е вече създаден.
+Create a method **`GetMin(int a, int b)`**, which returns the lesser of two numbers. Write a program, which takes as input three numbers and prints the smallest of them. Use the method **`GetMin(…)`**, which you have already created.
 
 #### Sample Input and Output
 
@@ -10,7 +10,7 @@
 
 #### Hints and Guidelines
 
-Дефинирайте метод **`GetMin(int a, int b)`** и го имплементирайте, след което го извикайте от главната програма както е показано по-долу. За да намерите минимума на три числа, намерете първо минимума на първите две от тях и след това минимума на резултата и третото число:
+Define a method **`GetMin(int a, int b)`** and implement it, after which invoke it from the main program as shown below. In order to find the minimum of three numbers, first find the minimum of the first two and thene the minimum of the result and the third number:
 
 ```csharp
 var min = GetMin(GetMin(num1, num2), num3);
@@ -18,4 +18,4 @@ var min = GetMin(GetMin(num1, num2), num3);
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/594#8](https://judge.softuni.bg/Contests/Practice/Index/594#8).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/594#8](https://judge.softuni.bg/Contests/Practice/Index/594#8).

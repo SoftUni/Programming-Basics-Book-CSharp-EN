@@ -1,3 +1,3 @@
-## Връщане на резултат от метод
+## Returning a Result from a Method
 
-До момента разгледахме методи, които извършват дадено действие, например отпечатване на даден текст, число или фигура на конзолата. Освен този тип методи, съществуват и такива, които могат да **връщат** някакъв **резултат**. Именно тези методи ще разгледаме в следващите редове.
+We already looked at methods, which do a specific task, for example printing some text, a number or a figure in the console. There are also other types of methods, which can **return** some kind of **result**. These are the methods we are going to look over in the next lines.

@@ -1,21 +1,21 @@
-### Именуване на методи
+### Naming Methods
 
-Когато именуваме даден метод е препоръчително да използваме **смислени имена**. Тъй като всеки метод **отговаря** за някаква част от нашия проблем, то при именуването му трябва да вземем предвид **действието, което той извършва**, т.е. добра практика е **името да описва неговата цел**.
+When you name a method it is good to use **meaningful names**. Because every method **answers** for a part of our problem, when naming it we should keep in mind **the action it does**, i.e. it is a good practice for **the name to describe what the method does**.
 
-Задължително е името да започва с **главна буква** и трябва да е съставено от глагол или от двойка: глагол + съществително име. Форматирането на името става, спазвайки **Upper Case Camel** конвенцията, т.е. **всяка дума, включително първата, започва с главна буква**. Кръглите скоби **`( `** и **`)`** винаги следват името му. 
+The name must start with **uppercase** and should be made of a verb or a couple: verb + noun. The name is formatted by following the **Upper Case Camel** convention, i.e. **each word, including the first, starts with uppercase**. The brackets **`( `** and **`)`** always follow the name. 
 
-Всеки метод трябва да изпълнява самостоятелна задача, а името на метода трябва да описва каква е неговата функция. 
+Each method must do one task and its name should describe what its function is. 
 
-Няколко примера за **коректно** именуване на методи:
+A few examples for **correctly** naming our methods:
 * **`FindStudent`**
 *	**`LoadReport`**
 *	**`Sine`**
 
-Няколко примера за **лошо** именуване на методи:
+A few examples for **incorrectly** naming our methods:
 *	**`Method1`**
 *	**`DoSomething`**
 *	**`HandleStuff`**
 *	**`SampleMethod`**
 *	**`DirtyHack`**
 
-Ако не можем да измислим подходящо име, то най-вероятно методът решава повече от една задача или няма ясно дефинирана цел и тогава трябва да помислим как да го разделим на няколко отделни метода.
+If you can not think of a good name then the method most probably solves more than one task or doesn't have a clearly defined purpose and in this case you have to think how to divide it in several simpler methods.

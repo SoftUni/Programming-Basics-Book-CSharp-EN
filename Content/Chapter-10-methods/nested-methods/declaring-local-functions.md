@@ -1,13 +1,13 @@
-### Деклариране на локални функции
+### Declaring Local Functions
 
-Нека отново разгледаме примера от по-горе.
+Let's look again the above example.
 
 ![](/assets/chapter-10-images/19.Local-functions-01.png)
 
-В този пример, методът **`Result()`** е локална функция, тъй като е вложен в метода **`Main()`**, т.е. **`Result()`** е локален за **`Main()`**. Това означава, че методът **`Result()`** може да бъде използван само в метода **`Main()`**, тъй като е деклариран в него. Единствената разлика между вложените методи и обикновените методи е, че вложените методи не могат да бъдат **`static`**. Тъй като дефиницията за **`static`** метод се разглежда на по-късен етап, за момента ще приемем, че при декларирането на една локална функция, изписваме единствено типa на връщаната стойност, името на метода и списъка му с параметри. В конкретния разглеждан случай, това е **`double Result(double a, double b)`**.
+In this example the **`Result()`** method is a local function, because it is nested in the **`Main()`** method, i.e. **`Result()`** is local for **`Main()`**. This means that the **`Result()`** method can only be used in the **`Main()`** method, because it's declared inside it. The only difference between nested and normal methods is that nested methods can't be **`static`**. Because the definition for **`static`** will be seen later, we will say for the moment that whendeclaring a local function we write only the return value type, the name of the method and its list of patameters. In this case this is **`double Result(double a, double b)`**.
 
-Локалните функции имат достъп до променливи, които се използват в съдържащия ги метод. Следващият пример демонстрира как се случва това.
+Local functions can access variables, which are in the method containing them. The next example demonstrates how this is happening.
 
 ![](/assets/chapter-10-images/19.Local-functions-02.png)
 
-Тази особеност на вложените методи ги прави много удобни помощници при решаването на дадена задача. Те спестяват време и код, които иначе бихме вложили, за да предаваме на вложените методи параметри и променливи, които се използват в методите, в които са вложени.
+This feature of nested methods makes them very helpful when solving a problem. They save time and code, which we would otherwise lose to give them parameters and variables, which we can already use in nested methods.

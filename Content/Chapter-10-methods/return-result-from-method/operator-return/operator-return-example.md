@@ -1,5 +1,5 @@
-#### Оператор return - пример
+#### Operator Return - Example
 
-В примера по-долу имаме метод, който сравнява две числа и връща резултат съответно **`-1`**, **`0`** или **`1`** според това дали първият аргумент е по-малък, равен или по-голям от втория аргумент, подаден на функцията. Методът използва ключо-вата дума **`return`** на три различни места, за да върне три различни стойности според логиката на сравненията на числата:
+We have a method in the example below, which compares two numbers and returns a result respectively **`-1`**, **`0`** or **`1`** depending on if the first argument is smaller, equal or larger than the second argument, given to the function. The method uses the keyword **`return`** in three different places, in order to return three different values according to the logic of comparing the numbers:
 
 ![](/assets/chapter-10-images/11.Return-operator-02.png)

@@ -1,6 +1,6 @@
-### Example: степен на число
+### Example: Math Power
 
-Да се напише метод, който изчислява и връща резултата от повдигането на число на дадена степен.
+Create a method which calculates and returns as result the power of a given number.
 
 #### Sample Input and Output
 
@@ -10,12 +10,12 @@
 
 #### Hints and Guidelines
 
-Първата ни стъпка отново ще е да прочетем входните данни от конзолата. Следващата стъпка е да създадем метод, който ще приема два параметъра (числото и степента) и ще връща като резултат число от тип **`double`**.
+Our first step is to read the input data from the console. The next step is to create a method, which will take two parameters (the number and the power) and returns as a result a number of type **`double`**.
 
 ![](/assets/chapter-10-images/14.Number-power-01.png)
 
-След като сме направили нужните изчисления, ни остава да разпечатаме резултата в главния метод **`Main()`** на програмата.
+After we have done the calculations, we have to only print the result in the **`Main()`** method of the program.
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/594#5](https://judge.softuni.bg/Contests/Practice/Index/594#5).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/594#5](https://judge.softuni.bg/Contests/Practice/Index/594#5).

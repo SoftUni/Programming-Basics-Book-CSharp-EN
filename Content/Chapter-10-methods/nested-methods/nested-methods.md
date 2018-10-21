@@ -1,3 +1,3 @@
-## Вложени методи (локални функции)
+## Nested Methods (Local Functions)
 
-Нека разгледаме следния Example:![](/assets/chapter-10-images/19.Local-functions-01.png)
+Let's look at the following Example:![](/assets/chapter-10-images/19.Local-functions-01.png)

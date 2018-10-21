@@ -1,7 +1,7 @@
-### Сигнатура и тип на връщаната стойност
+### Signature and Return Value Type
 
-Важно е да отбележим, че **връщаният тип като резултат** на метода **не е част от сигнатурата му**. Ако връщаната стойност беше част от сигнатурата на метода, то няма как компилаторът да знае кой метод точно да извика.
+It is important to say that **the return type as a result** of the method **is not a part of its signature**. If the return type was a part of the signature, then the compiler doesn't know which method exactly to invoke.
 
-Нека разгледаме следния пример - имаме два метода с различен тип на връщаната стойност. Въпреки това Visual Studio ни показва, че има грешка, защото сигнатурите и на двата са еднакви. Съответно при опит за извикване на метод с име **`Print(…)`**, компилаторът не би могъл да прецени кой от двата метода да изпълни.
+Let's look at the following example - we have two methods with different return types. Despite that Visual Studio shows that there is a mistake, because both of their signatures are the same. Therefore when trying to invoke a method named **`Print(…)`**, the compiler can't know which of the two methods to run.
 
 ![](/assets/chapter-10-images/17.Method-overloading-02.png)

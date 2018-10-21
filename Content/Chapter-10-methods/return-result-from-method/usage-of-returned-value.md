@@ -1,15 +1,15 @@
-### Употреба на връщаната от метода стойност
+### Usage of Returned Value
 
-След като даден метод е изпълнен и върне стойност, то тази стойност може да се използва по **няколко** начина.
+After a method is executed and returns a value, this value can be used in **multiple** ways.
 
-Първият е да **присвоим резултата като стойност на променлива** от съвместим тип:
+The first is to **to assign the result as a value of a variable** of a compatible type:
 
 ![](/assets/chapter-10-images/12.Return-value-01.png)
 
-Вторият е резултатът да бъде използван **в израз**:
+The second is for the result to be used **in an expression**:
 
 ![](/assets/chapter-10-images/12.Return-value-02.png)
 
-Третият е да **подадем** резултата от работата на метода към **друг метод**:
+The third is to **feed** the result of the method to **another method**:
 
 ![](/assets/chapter-10-images/12.Return-value-03.png)

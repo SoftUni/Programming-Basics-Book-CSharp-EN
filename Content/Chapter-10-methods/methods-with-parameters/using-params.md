@@ -1,17 +1,17 @@
-### Използване на параметри в методите
+### Using Parameters in Methods
 
-Както отбелязахме по-горе, **параметрите освен нула на брой, могат също така да са един или няколко**. При декларацията им ги разделяме със запетая. Те могат да бъдат от всеки един тип (**`int`**, **`string`** и т.н.), а по-долу е показан пример как точно ще бъдат използвани от метода.
+As we observed above, **the parameters can be zero, one or more**. When declaring them you should divide them with a comma. They can be of every type (**`int`**, **`string`** etc.), and there is an example below to show how they can be used by the method.
 
-**Декларираме** метода и **списъка** му с **параметри**, след което пишем кода, който той ще изпълнява.
+**Declaring** the method and its **list** of **parameters**, after which writing the code, which the method executes.
 
 ![](/assets/chapter-10-images/05.Method-parameters-01.png)
 
-След това **извикваме** метода и му **подаваме конкретни стойности**:
+After that **invoke** the method and **give it set values**:
 
 ![](/assets/chapter-10-images/05.Method-parameters-02.png)
 
-При **декларирането на параметри** можем да използваме **различни** типове променливи, като трябва да внимаване всеки един параметър да има **тип** и **име**. Важно е да отбележим, че при последващото извикване на метода, трябва да подаваме **стойности** за параметрите по **реда**, в който са **декларирани** самите те. Ако имаме подадени параметри в реда **`int`** и след това **`string`**, при извикването му не можем да подадем първо стойност за **`string`** и след това за **`int`**. Единствено можем да разменяме местата на подадените параметри, ако изрично изпишем преди това името на параметъра, както ще забележим малко по-нататък в един от примерите. Това като цяло не е добра практика!
+When **declaring parameters** we can use **different** types of variables, and we should be careful that every parameter has **type** and **name**. It is important to note that when invoking the method we must feed it **values** for the parameters in **the order**, in which they are **declared**. If the parameters are first **`int`** and after that **`string`**, when invoking the method we can't give it firs a **`string`** and then **`int`**. We can only change places of given parameters if we writh the name of the parameter beforehand, as you will see below in one of the examples. This is generally not good practice!
 
-Нека разгледаме примера за декларация на метод, който има няколко параметъра от различен тип.
+Let's look at the example for declaring a method, which has several parameters of different types.
 
 ![](/assets/chapter-10-images/05.Method-parameters-03.png)

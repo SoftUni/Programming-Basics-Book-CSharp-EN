@@ -1,3 +1,3 @@
-## Варианти на методи
+## Method Overloading
 
-В много езици за програмиране един и същ метод може да е деклариран в **няколко варианта** с еднакво име и различни параметри. Това е известно с термина “**method overloading**”. Сега нека разгледаме как се пишат тези overloaded methods.
+In many programming languages the same method can be declared in **few variants** with the same name and different parameters. This goes by the term “**method overloading**”. Now let's see how to write these overloaded methods.

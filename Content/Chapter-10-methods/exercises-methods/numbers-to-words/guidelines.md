@@ -1,13 +1,13 @@
 #### Hints and Guidelines
 
-Можем първо да отпечатаме **стотиците** като текст - (числото / 100) % 10, след тях **десетиците** - (числото / 10) % 10 и накрая **единиците** - (числото % 10).
+We can first print **the hundreds** as a text - (the number / 100) % 10, after that **the tens** - (the number / 10) % 10 and at the end **the ones** - (the number % 10).
 
-Първият специален случай е когато числото е точно **закръглено на 100** (напр. 100, 200, 300 и т.н.). В този случай отпечатваме "one-hundred", "two-hundred", "three-hundred" и т.н.
+The first special case is when the number is exactly **rounded to 100** (e.g. 100, 200, 300 etc.). In this case we print "one-hundred", "two-hundred", "three-hundred" etc.
 
-Вторият специален случай е когато числото, формирано от последните две цифри на входното число, е **по-малко от 10** (напр. 101, 305, 609 и т.н.). В този случай отпечатваме "one-hundred and one", "three-hundred and five", "six-hundred and nine" и т.н.
+The second special case is when the number formed by the last two digits of the input number is **less than 10** (e.g. 101, 305, 609 etc.). In this case we print "one-hundred and one", "three-hundred and five", "six-hundred and nine" etc.
 
-Третият специален случай е когато числото, формирано от последните две цифри на входното число, е **по-голямо от 10 и по-малко от 20** (напр. 111, 814, 919 и т.н.). В този случай отпечатваме "one-hundred and eleven", "eight-hundred and fourteen", "nine-hundred and nineteen" и т.н.
+The third special case is when the number formed by the last two digits of the input number is **larger than 10 and smaller than 20** (e.g. 111, 814, 919 etc.). In this case we print "one-hundred and eleven", "eight-hundred and fourteen", "nine-hundred and nineteen" etc.
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/594#13](https://judge.softuni.bg/Contests/Practice/Index/594#13).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/594#13](https://judge.softuni.bg/Contests/Practice/Index/594#13).

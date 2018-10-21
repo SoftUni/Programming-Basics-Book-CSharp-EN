@@ -1,15 +1,15 @@
-### Извикване на методи
+### Calling Methods
 
-Извикването на метод представлява **стартирането на изпълнението на кода**, който се намира в **тялото на метода**. Това става като изпишем **името** му, последвано от кръглите скоби **`()`** и знака **`;`** за край на реда. Ако методът ни изисква входни данни, то те се подават в скобите **`()`**, като последователността на фактическите параметри трябва да съвпада с последователността на подадените при декларирането на метода. Ето един Example:![](/assets/chapter-10-images/03.Invoking-methods-01.png)
+Calling a method means **starting to execute the code**, which is in **the body of the method**. This happens by writing its **name**, followed by parentheses **`()`** and the sign **`;`** to end the row. If the method needs input data, it is given in the parentheses **`()`**, and the succession of the parameters should be the same as the one of the given parameters when declaring the method. Here is an Example:![](/assets/chapter-10-images/03.Invoking-methods-01.png)
 
-Даден метод може да бъде извикан от **няколко места** в нашата програма. Единият начин е да бъде извикан от **главния метод**.
+A method can be invoked from **several places** in the program. One way is to call it in **the main method**.
 
 ![](/assets/chapter-10-images/03.Invoking-methods-02.png)
 
-Метод може да бъде извикан и от **тялото на друг метод**, който **не** е главния метод на програмата ни.
+A method can also be called from **the body of another method**, which is **not** the main method of the program.
 
 ![](/assets/chapter-10-images/03.Invoking-methods-03.png)
 
-Съществува вариант методът да бъде извикан от **собственото си тяло**. Това се нарича **рекурсия** и можете да намерите повече информация за нея в [Wikipedia](https://bg.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BA%D1%83%D1%80%D1%81%D0%B8%D1%8F) или да потърсите сами в Интернет.
+There is also a possibility for the method to be invoked in **its own body**. This is called **recursion** and you can find more information about it in [Wikipedia](https://bg.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BA%D1%83%D1%80%D1%81%D0%B8%D1%8F) or you can search on your own in the Internet.
 
-Важно е да знаем, че ако един метод е деклариран в даден клас, то той може да бъде извикван преди реда, на който е деклариран.
+It is important to know that if a method is declared in a class, it can be invoked before the line, on which it has been declared.

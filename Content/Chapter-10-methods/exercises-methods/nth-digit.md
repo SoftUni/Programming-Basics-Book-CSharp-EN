@@ -1,6 +1,6 @@
-### Problem: n-та цифра
+### Problem: N-th Digit
 
-Да се напише метод **`FindNthDigit(number, index)`**, който получава число и индекс N като параметри и печата N-тата цифра на числото (като се брои от дясно на ляво, започвайки от 1). След това, резултатът да се отпечата на конзолата.
+Create a method **`FindNthDigit(number, index)`**, which takes a number and index N as parameters and prints the N-th digit of the number (counting from right to left and starting from 1). After that print the result in the console.
 
 #### Sample Input and Output
 
@@ -10,8 +10,8 @@
 
 #### Hints and Guidelines
 
-За да изпълним алгоритъма, ще използваме **`while`** цикъл, докато дадено число не стане 0. На всяка итерация на **`while`** цикъла ще проверяваме дали настоящият индекс на цифрата не отговаря на индекса, който търсим. Ако отговаря, ще върнем като резултат цифрата на индекса (**`number % 10`**). Ако не отговаря, ще премахнем последната цифра на числото (**`number = number / 10`**). Трябва да следим коя цифра проверяваме по индекс (от дясно на ляво, започвайки от 1). Когато намерим цифрата, ще върнем индекса. 
+In order to do the algorithm use a **`while`** loop, until the given number equals 0. At each iteration of the **`while`** loop check if the current index of the digit is equal to the index you are looking for. If it is, return as a result the digit at this index (**`number % 10`**). If not, remove the last digit in the number (**`number = number / 10`**). You should count which digit you are checking by index (from right to left and starting from 1). When you find the number, return the index. 
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/594#10](https://judge.softuni.bg/Contests/Practice/Index/594#10).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/594#10](https://judge.softuni.bg/Contests/Practice/Index/594#10).

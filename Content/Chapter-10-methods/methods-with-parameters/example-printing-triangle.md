@@ -1,6 +1,6 @@
-### Example: принтиране на триъгълник
+### Example: Printing a Triangle
 
-Да се създаде метод, който принтира триъгълник, както е показано в примерите.
+Create a method which prints a triangle as in the examples.
 
 #### Sample Input and Output
 
@@ -10,24 +10,24 @@
 
 #### Hints and Guidelines
 
-Преди да създадем метод за принтиране на един ред с дадени начало и край, прочитаме входното число от конзолата. След това избираме смислено име за метода, което описва целта му, например **`PrintLine`**, и го имплементираме.
+Before creating a method to print a row with a given beginning and an end, we must read the input number from the console. After that we choose a meaningful name, which describes its purpose, e.g. **`PrintLine`**, and implement it.
 
 ![](/assets/chapter-10-images/08.Print-triangle-01.png)
 
-От задачите за рисуване на конзолата си спомняме, че е добра практика **да разделяме фигурата на няколко части**. За наше улеснение ще разделим триъгълника на три части - горна, средна линия и долна.
+From the drawing exercises we can remember, that it is good practice **to divide the figure into several parts**. to make it easier we will divide the triangle into three parts - upper, middle and lower.
 
-Следващата ни стъпка е с цикъл да разпечатаме **горната половина** от триъгълника:
+The next step is to print **the upper half** of the triangle using a loop:
 
 ![](/assets/chapter-10-images/08.Print-triangle-02.png)
 
-След това разпечатваме **средната линия**:
+Then we print **the middle line**:
 
 ![](/assets/chapter-10-images/08.Print-triangle-03.png)
 
-Накрая разпечатваме **долната част** от триъгълника, като този път стъпката на цикъла намалява.
+In the end we print **the lower part** of the triangle, but this time the loop step decreases.
 
 ![](/assets/chapter-10-images/08.Print-triangle-04.png)
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/594#2](https://judge.softuni.bg/Contests/Practice/Index/594#2).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/594#2](https://judge.softuni.bg/Contests/Practice/Index/594#2).
