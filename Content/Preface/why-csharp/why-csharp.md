@@ -1,5 +1,7 @@
-## Защо избрахме езика C#?
+## Why did we choose C #?
 
-За настоящата книга избрахме езика **C#**, защото е **съвременен език** за програмиране от високо ниво с отворен код и същевременно е лесен за научаване и **подходящ за начинаещи**. Като употреба C# е **широкоразпространен**, с добре развита екосистема, с многобройни библиотеки и технологични рамки и съответно дава много **перспективи** за развитие. C# комбинира парадигмите на процедурното, обектно-ориентираното и функционалното програмиране по съвременен начин с лесен за употреба синтаксис. В книгата ще използваме **езика C#** и средата за разработка **Visual Studio**, които са достъпни безплатно от Microsoft.
+For this book, we choose **C #** language because it is a **modern language** for high-level open source programming, easy to learn and **appropriate for beginners**. Using C # is **widespread**, with a well-developed ecosystem, with many libraries and technology frameworks and accordingly gives many **prospects** for development. C # combines paradigms of procedural, object-oriented and functional programming in a modern way with easy syntax. In this book, we will use **C #** and **Visual Studio** development environment, which are available for free from Microsoft.
 
-Както ще обясним по-късно, **езикът за програмиране, с който стартираме, няма съществено значение**, но все пак трябва да ползваме някакъв програмен език, и в тази книга сме избрали именно C#. Книгата може да се намери преведена огледално и на други езици за програмиране като Java и JavaScript (вж. https://csharp-book.softuni.bg).
+ 
+As we will explain later, **the programming language which we start does not matter** but we still need to use some programming language, and in this book we choose C #. The book can also be found mirrored in other programming languages such as Java and JavaScript
+(https://csharp-book.softuni.bg).
