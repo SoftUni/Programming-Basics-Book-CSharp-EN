@@ -1,18 +1,19 @@
-### Умение #4 - езици за програмиране и софтуерни технологии (25%)
+### Skill #4- programmer languages and software technologies (25%)
 
-**Езиците за програмиране и технологиите за софтуерна разработка** формират около 25% от минималните умения на програмиста. Те са най-обемни за научаване, но най-бързо се променят с времето. Ако погледнем **обявите за работа** от софтуерната индустрия, там често се споменават всякакви думички (като изброените по-долу), но всъщност в обявите мълчаливо **се подразбират първите три умения**: да кодиш, да мислиш алгоритмично и да владееш фундамента на компютърните науки и софтуерното инженерство.
+**Programming languages and software development technologies** builds around 25% of a programmer skills. They have the largest learning content, but they change very fast in the time. If we look at **job offers** from the software industry they usually mention words like the ones bellow, but in the job offers they secretly mention **the three main skills**: coding, thinking algorithmically and to know the fundamentals of computer science and software engineering.
 
-За тези чисто технологични умения вече **езикът за програмиране има значение**.
-* **Обърнете внимание**: само за тези 25% от професията има значение езикът за програмиране!
-* **За останалите 75% от уменията няма значение езикът** и тези умения са устойчиви във времето и преносими между различните езици и технологии.
+For those clearly technological skills **the programming language does matter** 
+* **Note**: only this 25% of the profession the programming language does matter!
+* **For the rest 75% of the skills the programming language doesn't matter** and these skills are resistant in the time and transportable between different languages and technologies.
 
-Ето и някои често използвани езици и технологии (software development stacks), които се търсят от софтуерните фирми (актуални към май 2017 г.):
-* **C#** + ООП + ФП + класовете от .NET + база данни SQL Server + Entity Framework (EF) + ASP.NET MVC + HTTP + HTML + CSS + JS + DOM + jQuеry
-* **Java** + Java API classes + ООП + ФП + бази данни + MySQL + HTTP + уеб програмиране + HTML + CSS + JS + DOM + jQuery + JSP/Servlets + Spring MVC или Java EE / JSF
-* **PHP** + ООП + бази данни + MySQL + HTTP + уеб програмиране + HTML + CSS + JS + DOM + jQuery + Laravel / Symfony / друг MVC framework за PHP
-* **JavaScript** (JS) + ООП + ФП + бази данни + MongoDB или MySQL + HTTP + уеб програмиране + HTML + CSS + JS + DOM + jQuery + Node.js + Express + Angular или React
-* **Python** + ООП + ФП + бази данни + MongoDB или MySQL + HTTP + уеб програмиране + HTML + CSS + JS + DOM + jQuery + Django
-* **C++** + ООП + STL + Boost + native development + бази данни + HTTP + други езици
-* **Swift** + MacOS + iOS + Cocoa + Cocoa Touch + XCode + HTTP + REST + други езици
+Here are some commonly used software development stacks which software companies are looking for (current May 2017):
+* **C #** + OOP + FP + classes from .NET + SQL Server + Entity Framework (EF) + ASP.NET MVC + HTTP + HTML + CSS + JS + DOM + jQuery
+* **Java** + Java API classes + OOP + FP + databases + MySQL + HTTP + web programming + HTML + CSS + JS + DOM + jQuery + JSP / Servlets + Spring MVC or Java EE / JSF
+* **PHP** + PLO + databases + MySQL + HTTP + web development + HTML + CSS + JS + DOM + jQuery + Laravel / Symfony / and other MVC framework for PHP
+* **JavaScript** (JS) + OOP + FP + databases + MongoDB or MySQL + HTTP + web programming + HTML + CSS + JS + DOM + jQuery + Node.js + Express + Angular or React
+* **Python** + OOP + FP + databases + MongoDB or MySQL + HTTP + web development + HTML + CSS + JS + DOM + jQuery + Django
+*  **C ++** + OOP + STL + Boost + native development + databases + HTTP + other languages
+* **Swift** + MacOS + iOS + Cocoa + Cocoa Touch + XCode + HTTP + REST + other languages
 
-Ако изброените по-горе думички ви изглеждат страшни и абсолютно непонятни, значи сте съвсем в началото на кариерата си и имате **да учите още години** докато достигнете професията "софтуерен инженер". Не се притеснявайте, всеки програмист преминава през един или няколко технологични стека и се налага да изучи **съвкупност от взаимосвързани технологии**, но в основата на всичко това стои **умението да пишеш програмна логика (да кодиш)**, което се развива в тази книга, и умението **да мислиш алгоритмично** (да решаваш задачи по програмиране). Без тях не може!
+
+If the words above looks scary and absolutely incomprehensible then you are at the very beginning of your carrier and you need **many years of learning** until you reach the profession "software engineer". Do not worry, every programmer goes through one or several technology stacks and needs to study **a set of interconnected technologies**, but the bottom line is **the ability to write programming logic (coding)**, and the skill **to think algorithmically** (to solve programming problems). It's not possible without them!
