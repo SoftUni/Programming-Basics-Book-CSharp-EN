@@ -1,10 +1,10 @@
-## Книгата в помощ на учителите
+## The book to help teachers
 
-Ако сте **учител по програмиране**, информатика или информационни технологии или искате **да преподавате програмиране**, тази книга ви дава нещо повече от добре структуриран учебен материал с много примери и задачи. **Безплатно** към книгата получаватe **качествено учебно съдържание** за преподаване в училище, на **български език**, съобразено с училищните изисквания:
+If you are a **programming teacher**, informatics or IT or you want **to teach programming**, this book gives you more than well-structured teaching material with many examples and tasks. **Free** to the book you receive quality educational content for teaching in school, in **bulgarian**, according to the school requirements:
 
-* **Учебни презентации** (PowerPoint слайдове) за всяка една учебна тема, съобразени с 45-минутните часове в училищата – безплатно.
-* Добре разработени **задачи за упражнения** в клас и за домашно, с детайлно описани условия и примерен вход и изход – безплатно.
-* **Система за автоматизирана проверка на задачите** и домашните (online judge system), която да се използва от учениците, също безплатно.
-* **Видео-уроци** с методически указания от **безплатния курс за учители по програмиране**, който се провежда регулярно от SoftUni фондацията.
+* **Presentations** (PowerPoint slides) for each school theme,compliant to 45-minute classes in schools - for free.
+* Well-developed  home and classroom **exercises** with detailed conditions and exemplary input and output - free.
+* **Automated system for exercise checks** and homeworks (online judging system) ,which is used by students also free .
+* **Video tutorials** with methodological guidance from the **free course for programming teachers**, which conducts regularly by the SoftUni Foundation.
  
-Всички тези **безплатни преподавателски ресурси** можете да намерите на сайта на SoftUni фондацията, заедно с учебно съдържание за цяла поредица от курсове по програмиране и софтуерни технологии. Изтеглете ги свободно от тук: http://softuni.foundation/projects/applied-software-developer-profession/.
+All **free teaching resources** can be found on the SoftUni Foundation website, along with training content for all programming and software courses. Download them free from here: http://softuni.foundation/projects/applied-software-developer-profession/.
