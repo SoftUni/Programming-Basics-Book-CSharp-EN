@@ -1,14 +1,17 @@
-### Умение #2 – алгоритмично мислене (30%)
+### Skill #2 algorithmically thinking (30%)
 
-Алгоритмичното (логическо, инженерно, математическо, абстрактно) мислене формира около 30% от минималните умения на програмиста за старт в професията. **Алгоритмичното мислене** е умението да разбивате една задача на логическа последователност от стъпки (алгоритъм) и да намирате решение за всяка отделна стъпка, след което да сглобявате стъпките в работещо решение на първоначалната задача. Това е най-важното умение на програмиста.
+The algorithmically (logical, engineering, mathematical, abstract) thinking is created from around 30% of the minimal skills that a programmer have to start the profession. **Algorithmically thinking** is the ability to crash any problems to logical sequence (algorithm), to find solution to every separate step  and then assemble the steps to a working solution. That is the most important skill for any programmer.
 
-Как **да си изградим алгоритмично мислене**?
-* Алгоритмичното мислене се развива се чрез решаване на **много (1000+) задачи** по програмиране, възможно най-разнообразни. Това е рецептата: решаване на хиляди практически задачи, измисляне на алгоритъм за тях и имплементиране на алгоритъма, заедно с дебъгване на грешките по пътя.
-* Помагат физика, математика и/или подобни науки, но не са задължителни! Хората с **инженерни и технически наклонности** обикновено по-лесно се научават да мислят логически, защото имат вече изградени умения за решаване на проблеми, макар и не алгоритмични.
-* Способността **да решавате задачи по програмиране** (за която е нужно алгоритмично мислене) е изключително важна за програмиста. Много фирми изпитват единствено това умение при интервюта за работа.
+How to **build an algorithmically thinking**?
+* The algorithmically thinking develops by finding the solution to **many  programming (1000+) problems**, as diverse as possible. That is the recipe: solving thousands practical problems, inventing algorithms and implementate the algorithm, also debugging errors on the way. 
+* *Sciences like physics, maths and such as them helps a lot, but they are not required. People with **engineering and technical inclinations** usually very easy learn to think logical, because they already **have the problem solving skill** even tho not algorithmically.
+* The ability of **solving programming problems** (for which is used algorithmically thinking) is extremly important for a programmer. Many companies test only this skill on their jobs interview.
 
-Настоящата книга развива **начално ниво на алгоритмично мислене**, но съвсем не е достатъчна, за да ви направи добър програмист. За да станете кадърни в професията, ще трябва да добавите **умения за логическо мислене и решаване на задачи** отвъд обхвата на тази книга, например работа със **структури от данни** (масиви, списъци, матрици, хеш-таблици, дървовидни структури) и базови **алгоритми** (търсене, сортиране, обхождане на дървовидни структури, рекурсия и други).
+This book develops the **beginner level of algorithmic thinking**, but it's not enough to make you a good programmer. To become good at this profession you have to add **logical thinking and problem solving skill**, beyond the range of this book. For example work with:
 
-**Умения за алгоритмично мислене** се развиват сериозно в началните курсове за софтуерни инженери в SoftUni (вж. [учебния план](https://softuni.bg/curriculum)), както и в специализираните курсове по [структури от данни](https://softuni.bg/opencourses/data-structures) и [алгоритми](https://softuni.bg/opencourses/algorithms).
+**data structures** (arrays, lists, matrix, hash-tables, binary trees) and based 
+**algorithms** (searching, sorting, balanced search trees, recoursion and others)
 
-Както може би се досещате, **езикът за програмиране няма значение** за развиването на алгоритмичното мислене. Да мислиш логически е универсално, дори не е свързано само с програмирането. Именно заради силно развитото логическото мислене се счита, че **програмистите са доста умни** и че прост човек не може да стане програмист.
+**Algorithmic thinking skill** can be seriously developed at the beginning courses for software engineers in SoftUni ([curriculum](https://softuni.bg/curriculum)) and in specialized algorithmic courses as well [data structures](https://softuni.bg/opencourses/data-structures) и [algorightms](https://softuni.bg/opencourses/algorithms)..
+
+As you can guess **the programming language doesn't matter** for the development of the algorithmic thinking. To think logical is universal even if it's not related only to programming. Because of the good developed logical thinking it's considered that programmers are smart and that a stupid person can't become a programmer.
