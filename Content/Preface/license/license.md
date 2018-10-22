@@ -1,9 +1,9 @@
-## Лиценз и разпространение
+## License and distribution agreement
 
-Книгата се разпространява **безплатно** в електронен формат под отворен лиценз **[CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)**.
+The book is distributed **free** in electronic format under an open license**[CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)**.
 
-Книгата се издава и разпространява **на хартия** от SoftUni и хартиено копие може да се закупи от рецепцията на SoftUni (вж. https://softuni.bg/contacts).
+The book is published and distributed **on paper** by SoftUni and you can buy a copy from SoftUni's reception. (https://softuni.bg/contacts).
 
-**Сорс кодът** на книгата може да се намери в GitHub: https://github.com/SoftUni/Programming-Basics-Book-CSharp-BG.
+The **source code** of the book can be found in GitHub: https://github.com/SoftUni/Programming-Basics-Book-CSharp-BG.
 
-Международен стандартен номер на книга ISBN: **TODO**.
+International Standard Book Number ISBN: **TODO**.
