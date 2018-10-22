@@ -1,11 +1,12 @@
-## Как се става програмист?
+## How to become a programmer?
 
-Драги читатели, сигурно много от вас имат амбицията да стават програмисти, да си изкарват прехраната с разработка на софтуер или да работят в ИТ сектора. Затова сме приготвили за вас **кратко ръководство "Как се става програмист"**, за да ви ориентираме за стъпките към тази така желана професия.
+Dear readers, probably many of you have the ambition to become a programmer and to develop softwares for living or to work at the IT sector. That's why we have prepared **short guide "How to become a programmer"** so we can help you to take the first steps to this desired profession.
 
-Програмист (на ниво започване на работа в софтуерна фирма) се става за **най-малко 1-2 години здраво учене и писане на код всеки ден**, решаване на няколко хиляди задачи по програмиране, разработка на няколко по-сериозни практически проекта и трупане на много опит с писането на код и разработката на софтуер. Не става за един месец, нито за два! Професията на софтуерния инженер изисква голям обем познания, покрити с много, много практика.
+You are able to become a programmer (working in a software company) for **at least 1-2 years of hard work, coding every day** and solving thousands of programming tasks, development of several more serious practical projects and gaining a lot of experience with code writing and software development. You can't become a programmer for a month or two! The profession of software engineer requires a lot of knowledge, covered with many, many practice.
 
-Има **4 основни групи умения**, които всички програмисти трябва да притежават. Повечето от тези умения са устойчиви във времето и не се влияят съществено от развитието на конкретните технологии (които се променят постоянно). Това са уменията, които **всеки добър програмист притежава** и към които всеки новобранец трябва да се стреми:
- * писане на код (20%)
- * алгоритмично мислене (30%)
- * фундаментални знания за професията (25%)
- * езици и технологии за разработка (25%)
+There are **4 main skills groups** where all programmers must have. Most of these skills are resistant in time and are not influenced by the development in specific technologies (that are changing constantly). These are the skill that **any good programmer** have and to which every begginner has to strive:
+
+ *  coding  (20%)
+ * algorithmically thinking (30%)
+ * fundamentals knowledge of the proffesion  (25%)
+ * languages and development technologies (25%)

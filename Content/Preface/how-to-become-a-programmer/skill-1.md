@@ -1,12 +1,12 @@
-### Умение #1 – кодене (20%)
+### Skill #1 - coding (20%)
 
-Да се научите **да пишете код** формира около 20% от минималните умения на програмиста, необходими за започване на работа в софтуерна фирма. Умението да кодиш включва следните компоненти:
-* работа с променливи, проверки, цикли
-* ползване на функции, методи, класове и обекти
-* работа с данни: масиви, списъци, хеш-таблици, стрингове
+**Writing code** creates 20% of the minimal knowledge and skills of the programmer that you need for starting a job at software company. The skills of coding includes the following components:
+* Working with variables, conditional statements, loops
+* Functions, methods, classes and objects
+* Data manipulation: arrays, lists, hash tables, strings
 
-Умението да кодиш **може да се усвои за няколко месеца** усилено учене и здраво решаване на практически задачи с писане на код всеки ден. Настоящата книга покрива само първата точка от умението да кодиш: **работа с променливи, проверки и цикли**. Останалото остава да се научи в последващи обучения, курсове и книги.
+The skill of coding **can be assimilate for a few months** of hard learning and solving practical problems with writing code every day. This book covers only the first point of coding: ** Working with variables, conditional statements, and loops **. The rest remains to be learned in follow-up trainings, courses and books.
 
-Книгата (и курсовете, базирани на нея) дават само началото от едно дълго и сериозно учене, по пътя на професионалното програмиране. Ако не усвоите до съвършенство учебния материал от настоящата книга, няма как да станете програмист. Ще ви липсват фундаментални основи и ще ви става все по-трудно напред. Затова **отделете достатъчно внимание на основите на програмирането**: решавайте здраво задачи и пишете много код месеци наред, докато се научите **да решавате с лекота всички задачи от тази книга**. Тогава продължете напред.
+The book (and courses based on this book) gives only the begginning of one long and serious learning on the way of professional programming. If you don't learn perfectly the material from this book you can't become a programmer. You are going to miss fundamentals basics and it will be harder in future. So because of that you need to **give enough time to basic programming**: solve many problems and write code every day for months until you learn to **solve every problem from the book very easily**. Then go ahead.
 
-Специално обръщаме внимание, че **езикът за програмиране няма съществено значение** за умението да кодиш. Или можеш да кодиш или не. Ако можеш да кодиш на C#, лесно ще се научиш да кодиш и на Java, и на C++, и на друг език. Затова **уменията да кодираш** се изучават доста сериозно в началните курсове за софтуерни инженери в SoftUni (вж. [учебния план](https://softuni.bg/curriculum)) и с тях стартира всяка книга за програмиране за напълно начинаещи, включително нашата.
+We especially note that **the programming language does not matter** for the ability to coding. You can code or not. If you can code with C #, you will easily learn to code with Java, C ++ or other languages. That's why **the coding skills** are being studied quite seriously at SoftUni ([curriculum](https://softuni.bg/curriculum)) and they launch in each programming book for beginners , including ours.
