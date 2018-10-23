@@ -1,11 +1,11 @@
-#### Писане на програмния код
+#### Writing the code program code
 
-Остава да се напише **действието** (Action), което **сумира числата при натискане на бутона** [**Calculate**]. Отваряме файла **`Controllers\HomeController.cs`** и добавяме следния код в тялото на **`HomeController`** класа:
+It is left to write **the action** (Action), which **sums the numbers when clicking on the button** [**Calculate**]. We open the file **`Controllers\HomeController.cs`** and we add the following code into the body of **`HomeController`** class:
 
 ![](/assets/chapter-1-images/08.Numbers-sum-web-07.png)
 
-Този код осъществява действието “**calculate**”. То приема два параметъра **`num1`** и **`num2`** и ги записва в обекта **`ViewBag`**, след което **изчислява и записва** тяхната сума. Записаните във **`ViewBag`** стойности след това **се използват от изгледа**, за да се покажат в **трите текстови полета** във формата за сумиране на числа в уеб страницата от приложението.
+This code implements the action “**calculate**”. It takes two parameters **`num1`** and **`num2`** and records them in the objects **`ViewBag`**, after which **it calculates and records** their sum. The recorded in **`ViewBag`** values after that **are used from the view**, to be shown in the **three text fields** inside the form for summing number in the web page of the application.
 
-Ето как трябва да изглежда **файлът `HomeController.cs`** след промяната:
+Here is how **the file `HomeController.cs`** should look after the change:
 
 ![](/assets/chapter-1-images/08.Numbers-sum-web-08.png)

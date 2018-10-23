@@ -1,6 +1,6 @@
-### Problem: лице на правоъгълник
+### Problem: rectangle area
 
-Да се напише C# програма, която **прочита** от конзолата **две числа a и b**, **пресмята** и **отпечатва** лицето на правоъгълник със страни **a** и **b**. 
+Write a C# program, which **reads** from the console **two numbers, a and b**, **calculates** and **prints** the are of a rectangle with sides **a** and **b**. 
 
 #### Sample Input and Output
 
@@ -12,15 +12,15 @@
 
 #### Hints and Guidelines
 
-Правим нова **конзолна C# програма**. За да **прочетем двете числа**, използваме следните две команди:
+We make a new **console C# program**. To **read both of the numbers**, we use the folloing commands:
 
 ![](/assets/chapter-1-images/05.Rectangle-area-01.png)
 
-Остава да се допише програмата по-горе, за да пресмята лицето на правоъгълника и да го отпечата. Използвайте познатата ни вече команда **`Console.WriteLine()`** и й подайте в скобите произведението на числата **a** и **b**. В програмирането умножението се извършва с оператора **`*`**.
+Its left to finish the program above, to calculate the area of the rectangle and to print it. Use the command that is already known to us **`Console.WriteLine()`** and put inside its brackets the multiplication of the numbers **a** and **b**. In programming, multiplication is done with the operator **`*`**.
 
-#### Тествайте решението си
+#### Test your solution
 
-Тествайте решението си с няколко примера. Трябва да получите резултат, подобен на този (въвеждаме 2 и 7 като вход и програмата отпечатва като резултат 14 - тяхното произведение):
+Test your solution with a few examples. You have to receive a result, similar to this one (we enter 2 and 7 as  input and the program prints result 14 - their multiplication):
 
 ```
 2
@@ -30,5 +30,5 @@
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/503#4](https://judge.softuni.bg/Contests/Practice/Index/503#4).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/503#4](https://judge.softuni.bg/Contests/Practice/Index/503#4).
 

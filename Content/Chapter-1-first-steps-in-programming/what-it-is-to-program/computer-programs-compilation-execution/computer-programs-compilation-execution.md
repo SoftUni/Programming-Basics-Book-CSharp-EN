@@ -1,7 +1,7 @@
-### Компютърни програми - компилация и изпълнение
+### Computer programs - compilation and execution
 
-Както вече споменахме, програмата е **последователност от команди**, иначе казано тя описва поредица от пресмятания, проверки, повторения и всякакви подобни операции, които целят постигане на някакъв резултат.
+As we have already mentioned, the program is **a sequence of commands**, otherwise said, it describes a sequence of calculations, evaluations, iterations and all kinds of similar operations, which aim to accomplish some kind of result.
 
-Програмата се пише в текстов формат, а самият текст на програмата се нарича **сорс код** (source code). Той се компилира до **изпълним файл** (например **`Program.cs`** се компилира до **`Program.exe`**) или се **изпълнява директно** от .NET средата.
+The program is written in a text format, and the text of the program itself is called **a source code**. It gets compiled to an **executable file** (for example **`Program.cs`** gets compiled to **`Program.exe`**) or it it is **executed directly** from the .NET environment.
 
-Процесът на **компилация** на кода преди изпълнение се използва само при компилируеми езици като C#, Java и C++. При **скриптови и интерпретеруеми езици**, като JavaScript, Python и PHP, сорс кодът се изпълнява постъпково от интерпретатор.
+The process of **compilation** of the code before  its execution is used only in compiled languages like C#, Java and C++. With **scripts and interpreted languages**, like JavaScript, Python and PHP, the source code gets executed step by step by an interpreter.

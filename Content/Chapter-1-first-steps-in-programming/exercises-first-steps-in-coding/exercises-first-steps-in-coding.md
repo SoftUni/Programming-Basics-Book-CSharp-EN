@@ -1,3 +1,3 @@
-## Exercises: първи стъпки в коденето
+## Exercises: first steps in coding
 
-Добре дошли в упражненията. Сега ще напишем няколко конзолни програми, с които ще направим още няколко първи стъпки в програмирането, след което ще покажем как можем да програмираме нещо по-сложно - програми с графичен и уеб потребителски интерфейс.
+Welcome to the exercises. Now we are going to write a couple of console applications, with which we are going to make a few more steps into programming, after which we will show how we can program something more complex - programs with graphical user interface.

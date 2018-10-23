@@ -1,15 +1,15 @@
-### Стартиране на програмата
+### Starting the program
 
-За стартиране на програмата натискаме [**Ctrl + F5**]. Ако няма грешки, програмата ще се изпълни. Резултатът ще се изпише на конзолата (в черния прозорец):
+To start the program, we press [**Ctrl + F5**]. If there aren't any errors, the program will be executed. The result will be written on the console (in the black window):
 
 ![](/assets/chapter-1-images/01.Hello-csharp-05.png)
 
-Забележете, че стартираме с **[Ctrl+F5]**, а не само с **[F5]** или с бутона за стартиране във Visual Studio. Ако ползваме **[F5]**, програмата ще се изпълни за кратко и веднага след това черният прозорец ще изчезне и няма да видим резултата.
+Notice, that we start it with **[Ctrl+F5]**, and not only **[F5]** or with the start button in Visual Studio. If we use **[F5]**, the program will run shortly and right afterwards the black window will disappear and we are not going to see the result.
 
-Всъщност, изходът от програмата е следното текстово съобщение:
+Actually, the exit from the program is the following text message:
 
 ```csharp
 Hello C#
 ```
 
-Съобщението "**Press any key to continue . . .**" се изписва допълнително на най-долния ред на конзолата от Visual Studio след като програмата завърши, за да ни подкани да видим резултата от изпълнението на програмата и да натиснем клавиш, за да затворим конзолата.
+The message "**Press any key to continue . . .**" is written additionally on the bottom row in the Visual Studio console after the program ends, in order to tell us to see the result from the execution and to press a button to close the console.

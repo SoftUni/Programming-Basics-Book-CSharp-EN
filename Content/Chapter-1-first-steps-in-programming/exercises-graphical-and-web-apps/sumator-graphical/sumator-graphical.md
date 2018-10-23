@@ -1,7 +1,7 @@
-### Problem: графично приложение „Суматор за числа“
+### Problem: graphical application „Sumator for numbers“
 
-Да се напише **графично (GUI) приложение**, което **изчислява сумата на две числа**:
+Write a **graphical (GUI) application**, which **calculates the sum of two numbers**:
 
 ![](/assets/chapter-1-images/07.Numbers-sum-01.png)
 
-При въвеждане на две числа в първите две текстови полета и натискане на бутона [**Calculate**] се изчислява тяхната сума и резултатът се показва в третото текстово поле. За нашето приложение ще използваме **технологията Windows Forms**, която позволява създаване на **графични приложения за Windows**, в среда за разработка **Visual Studio** и с **език** за програмиране **C#**.
+By entering two numbers in the first two fields and pressing the button [**Calculate**] their sum is being calculated and the result is shown in the third text field. For our application we will use **the technology Windows Forms**, which allows the creation of **graphical applications for Windows**, in the environment for development **Visual Studio** and with programming **language** **C#**.

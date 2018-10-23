@@ -1,25 +1,26 @@
-### Писане на програмен код
+### Writing the program code
 
-Сорс кодът на C# програмите се пише в секцията **`Main(string[] args)`**, между отварящата и затварящата скоба **`{ }`**. Това е главният метод (действие), което се изпълнява при стартиране на една C# програма. Този главен **`Main()`** метод може да се запише по два начина:
- - **`static void Main(string[] args)`** - с параметри от командния ред (няма да навлизаме в подробности)
- - **`static void Main()`** - без параметри от командния ред
+The source code of the C# program is written in the section **`Main(string[] args)`**, between the opening and the closing parentheses **`{ }`**. This is the main method (action), that is being executed with the start of a C# program. This **`Main()`** method can be written two ways:
 
-И двата начина са валидни, като **вторият е за предпочитане**, защото е по-кратък и по-изчистен. По подразбиране, обаче, при създаване на конзолна програма Visual Studio ползва първия начин, който можем по желание да редактираме на ръка и да изтрием частта с параметрите **`string[] args`**.
+ - **`static void Main(string[] args)`** - with parameters from the command line (we are not going into details)
+ - **`static void Main()`** - without parameters from the command line.
 
-Натискаме [**Enter**] след **отварящата скоба** **`{`** и **започваме да пишем**. Кодът на програмата се пише **отместен навътре**, като това е част от оформянето на текста, за по-голямо удобство при повторен преглед и/или дебъгване.
+Both ways are valid, as **the second one is recomended**, because it is shorter and clearer. By default, though, when creating a console application, Visual Studio uses the first way, which we can edit manually if we want and delete the part with the parameters **`string[] args`**.
+
+We press [**Enter**] after **the opening parentheses** **`{`** and **we start writing**. The code of the program is written **inward**, as this is a part of the convention for the text, for convenience during a review and/or debugging.
 
 ![](/assets/chapter-1-images/01.Hello-csharp-03.png)
 
-Пишем следната команда:
+We write the following command:
 
 ```csharp
 Console.WriteLine("Hello C#");
 ```
 
-Ето как трябва да изглежда нашата програма във Visual Studio:
+Here is how our program should look in Visual Studio:
 
 ![](/assets/chapter-1-images/01.Hello-csharp-04.png)
 
-Командата **`Console.WriteLine("Hello C#")`** на езика C# означава да изпълним отпечатване (**`WriteLine(…)`**) върху конзолата (**`Console`**) и да отпечатаме текстово съобщение **`Hello C#`**, което трябва да оградим с кавички, за да поясним, че това е текст. В края на всяка команда на езика C# се слага символът **`;`** и той указва, че командата свършва на това място (т.е. не продължава на следващия ред).
+The command **`Console.WriteLine("Hello C#")`** in the language C# means to execute a print (**`WriteLine(…)`**) on the console (**`Console`**) and to print the text message **`Hello C#`**, which we have to surround by quotation marks, in order to clear out, that this is a text. In the end of each command in the language C# the symbol **`;`** is being put and it says that the command ends in that place (it doesn't continue on the next row).
 
-Тази команда много типична за програмирането: указваме да се намери даден **обект** (в случая конзолата) и върху него да се изпълни някакво **действие** (в случая печатане на нещо, което се задава в скоби). По-техническо обяснено, извикваме метода **`WriteLine(…)`** от класа **`Console`** и му подаваме като параметър текстов литерал **`"Hello C#"`**.
+This command is very typical in programming: we say a given **object** should be found (in this case the console) and some **action** should be executed upon it (in this case it is printing something that is given inside the brackets). More technically explained, we call the method **`WriteLine(…)`** from the class **`Console`** and give as a parameter to it a text literal **`"Hello C#"`**.

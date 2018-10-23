@@ -1,14 +1,14 @@
-#### Добавяне на текстови полета и бутон
+#### Adding text fields and a button
 
-Изтегляме от лентата вляво (Toolbox) **три текстови полета** (**`TextBox`**), **два надписа** (**`Label`**) и **един бутон** (**`Button`**), след което ги подреждаме в прозореца на приложението. След това **променяме имената на всяка от контролите**. Това става от **прозорчето “Properties”** вдясно, чрез промяна на полето (**`Name`**):
+We download from the bar on the left (Toolbox) **three text boxes** (**`TextBox`**), **two labels** (**`Label`**) and **a button** (**`Button`**), afterards we arrange them in the window of the application. After that we **chagne the names of each of the controls**. This is done from **the window “Properties”** on the right, by changing the field (**`Name`**):
 
 ![](/assets/chapter-1-images/07.Numbers-sum-04.png)
 
-*	Имена на текстовите полета: **`textBox1`**, **`textBox2`**, **`textBoxSum`**
-*   Име на бутона: **`buttonCalculate`**
-*	Име на формата: **`FormCalculate`**
+*	Names of the text boxes: **`textBox1`**, **`textBox2`**, **`textBoxSum`**
+*   Name of the button: **`buttonCalculate`**
+*	Name of the form: **`FormCalculate`**
 
-**Променяме заглавията** (**`Text`** свойството) на контролите:
+**We change the headings** (the **`Text`** property) of the controls:
 
 *	buttonCalculate -> Calculate
 *	label1 -> +

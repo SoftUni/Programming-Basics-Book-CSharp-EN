@@ -1,9 +1,9 @@
-#### Example: програма, която свири музикалната нота "ла"
+#### Example: a program that plays the musical note "la"
 
-Нашата първа програма ще е единична C# команда, която свири музикалната нота "ла" (432 херца) с продължителност половин секунда (500 милисекунди):
+Our first program is going to be a single C# command, that plays the musical note "la" (432 Hz) with a duration of half a second (500 miliseconds):
 
 ```csharp
 Console.Beep(432, 500);
 ```
 
-След малко ще разберем как можем да изпълним тази команда и да чуем звука от нотата, но засега нека само разгледаме какво представляват командите в програмирането. Да се запознаем с още няколко примера.
+In a short time we will find out how we can execute this command and hear the sound of the note, but for now let's just look at what the commands in programming represent. Let's get to know a couple of more examples.

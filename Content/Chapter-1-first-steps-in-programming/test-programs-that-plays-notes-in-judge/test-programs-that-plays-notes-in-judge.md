@@ -1,3 +1,3 @@
-## Тествайте програмите за свирене на ноти
+## Test the programs that play notes
 
-Сега, след като вече **знаете как да изпълнявате програми**, можете да тествате примерните програми по-горе, които свирят музикални ноти. Позабавлявайте се, пробвайте тези програми. Пробвайте да ги промените и да си поиграете с тях. Заменете командата **`Console.WriteLine("Hello C#");`** с команда **`Console.Beep(432, 500);`** и стартирайте програмата. Проверете дали ви е включен звука на компютъра и дали е усилен. Ако работите в онлайн среда за разработка, няма да чуете звук, защото програмата не се изпълнява на вашия компютър, а накъде другаде.
+Now, after **you know how to run programs**, you can test your example programs above, which play musical notes. Have some fun, try these programs out. Try to change them and play with them. Exchange the command **`Console.WriteLine("Hello C#");`** with the command **`Console.Beep(432, 500);`** and start the program. Check if the sound of your computer is on and whether its turned up. If you work in an online environment, you will not hear a sound, because the program is not executued on your computer, but elsewhere.

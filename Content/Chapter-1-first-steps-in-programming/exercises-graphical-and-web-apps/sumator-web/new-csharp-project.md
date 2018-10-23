@@ -1,9 +1,9 @@
-#### Създаване на нов C# проект
+#### Create a new C# project
 
-Във Visual Studio създаваме **нов C# проект от тип „ASP.NET Web Application“** с име **WebApp**:
+In Visual Studio we create **a new C# project of type „ASP.NET Web Application“** with name **WebApp**:
 
 ![](/assets/chapter-1-images/08.Numbers-sum-web-02.png)
 
-Избираме **тип** на приложението - **“MVC”**:
+We choose **type** of the application - **“MVC”**:
 
 ![](/assets/chapter-1-images/08.Numbers-sum-web-03.png)

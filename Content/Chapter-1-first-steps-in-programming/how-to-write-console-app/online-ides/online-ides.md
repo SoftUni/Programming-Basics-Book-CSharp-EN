@@ -1,6 +1,7 @@
-### Онлайн среди за разработка
+### Online environments for develepomnet
 
-Съществуват и **алтернативни среди за разработка онлайн**, директно във вашия уеб браузър. Тези среди не са много удобни, но ако нямате друга възможност, може да стартирате обучението си с тях и да си качите Visual Studio по-късно. Ето някои линкове:
-* За езика C# сайтът **.NET Fiddle** позволява писане на код и изпълнението му онлайн: [https://dotnetfiddle.net](https://dotnetfiddle.net).
-* За Java можем да използваме следното онлайн Java IDE: [https://www.compilejava.net](https://www.compilejava.net).
-* За JavaScript можем да пишем JS код директно в конзолата на даден браузър с натискане на **[F12]**.
+There are **alternative environments for development  online** dircetly into your web browser. These environments are not very convinient, but if you don't have other opportunity, you can start your training with them and to install Visual Studio later. Here are some useful links:
+
+* For the language C# the site **.NET Fiddle** allows code writing and its execution online: [https://dotnetfiddle.net](https://dotnetfiddle.net).
+* For Java we can use the following online Java IDE: [https://www.compilejava.net](https://www.compilejava.net).
+* For JavaScript we can write a JS code directly in the console of a given browser when you press **[F12]**.

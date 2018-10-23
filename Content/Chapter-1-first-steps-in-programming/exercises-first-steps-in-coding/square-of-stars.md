@@ -1,23 +1,23 @@
-### \* Problem: квадрат от звездички
+### \* Problem: a square of stars
 
-Да се напише C# конзолна програма, която **прочита** от конзолата **цяло положително число N** и **отпечатва** на конзолата **квадрат от N звездички**, като в примерите по-долу.
+Write a C# console program, which **reads** from the console **a whole positive number N** and **prints** on the console **a square of N stars**, like in the examples below.
 
 #### Sample Input and Output
 
-| Input  |    Изход   	| Input  |    Изход   	| Input  |    Изход   	| 
+| Input  |    Outup   	| Input  |    Output   	| Input  |    Output   	| 
 |-----|-----------|-----|-----------|-----|----------|
 |  3  	|<code>\*\*\*</code><br><code>\*&nbsp;\*</code><br><code>\*\*\*</code>|  4  |<code>\*\*\*\*</code><br><code>\*&nbsp;&nbsp;\*</code><br><code>\*&nbsp;&nbsp;\*</code><br><code>\*\*\*\*</code>| 5  	|<code>\*\*\*\*\*</code><br><code>\*&nbsp;&nbsp;&nbsp;\*</code><br><code>\*&nbsp;&nbsp;&nbsp;\*</code><br><code>\*&nbsp;&nbsp;&nbsp;\*</code><br><code>\*\*\*\*\*</code>|
 
 #### Hints and Guidelines
 
-Правим нова **конзолна C# програма**. За да прочетем числото N (2 ≤ N ≤100), използваме следния код:
+We create a new **console C# program**. To read the number N (2 ≤ N ≤100), we use the following code:
 
 ![](/assets/chapter-1-images/06.Square-of-stars-01.png)
 
-Да се допише програмата по-горе, за да отпечатва квадрат, съставен от звездички. Може да се наложи да се използват **`for`** цикли. Потърсете информация в Интернет.
+Finish the program above, so that it prints a square, made of stars. It might be necessary to use **`for`** loops. Look for an information in the Internet.
 
-**Внимание**: тази задача е по-трудна от останалите и нарочно е дадена сега и е обозначена със звездичка, за да ви провокира да потърсите информация в Интернет. Това е едно от най-важните умения, което трябва да развивате докато учите програмирането: **да търсите информация в Интернет**. Това ще правите всеки ден, ако работите като програмисти, така че не се плашете, а се опитайте. Ако имате трудности, можете да потърсите помощ и в SoftUni форума: https://softuni.bg/forum.
+**Attention**: this task is harder than the rest and is given now on puprose and it's marked with a star, in order to provoke you to look for information in the Internet. This is one of the most important skills, which you have to develop while you're learning programing: **looking for information in the Internet**. This is what you're going to do every day, if you work as developers, so don't be scared, try it out. If you have any difficulties you can also ask for help in the SoftUni forum: https://softuni.bg/forum.
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/503#5](https://judge.softuni.bg/Contests/Practice/Index/503#5).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/503#5](https://judge.softuni.bg/Contests/Practice/Index/503#5).

@@ -1,3 +1,3 @@
-### Компютърни програми – примери
+### Computer programs – examples
 
-Да започнем с много прост пример за кратка C# програма.
+Let's start with a very simple example of a short C# program.

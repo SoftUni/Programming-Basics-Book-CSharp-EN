@@ -1,6 +1,6 @@
-#### Example: програма, която свири поредица от музикални ноти
+#### Example: a program that plays a sequence of musical notes
 
-Можем да усложним предходната програма, като зададем за изпълнение повтарящи се в цикъл команди за свирене на поредица от ноти с нарастваща височина:
+We can complicate the previous program by giving for execution repeating commands in a loop for playing a sequence of notes with rising height:
 
 ```csharp
 for (i = 200; i <= 4000; i += 200)
@@ -9,6 +9,6 @@ for (i = 200; i <= 4000; i += 200)
 }
 ```
 
-В горния пример караме компютъра да свири една след друга за много кратко (по 100 милисекунди) всички ноти с височина 200, 400, 600 и т.н. херца до достигане на 4000 херца. Резултатът от програмата е свирене на нещо като мелодия.
+In the example above we made the computer play one after another for a very short time (100 miliseconds) all of the notes with height 200, 400, 600 etc. Hz until they reach 4000 Hz. The result of the program is playing something like a melody.
 
-Как работят повторенията (циклите) в програмирането ще научим в **главата "[Цикли](chapter-05-loops.md)"**, но засега приемете, че просто повтаряме някаква команда много пъти.
+How do iterations (cycles) work in programming, we will learn in the **chapter "[Loops](chapter-05-loops.md)"**, but for now just accept that we repeat some command many times.

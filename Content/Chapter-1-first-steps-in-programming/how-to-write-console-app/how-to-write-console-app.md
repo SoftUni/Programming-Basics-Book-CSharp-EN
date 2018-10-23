@@ -1,3 +1,3 @@
-## Как да напишем конзолна програма?
+## How to write a console application?
 
-Нека преминем през **стъпките за създаване и изпълнение на компютърна програма**, която чете и пише своите данни от и на текстова конзола (прозорец за въвеждане и извеждане на текст). Такива програми се наричат "**конзолни**". Преди това, обаче, трябва първо да си **инсталираме и подготвим средата за разработка**, в която ще пишем и изпълняваме C# програмите от тази книга и упражненията към нея.
+Let's pass through **the steps for creating and executing a computer program**, that reads and writes its data from and on the text console (a window for entering and receivng text). These programs are called "**console**". But before that, we have to **install and prepare the development environment**, in which we are going to write and run the C# programs from this book and the exercises in it.

@@ -1,18 +1,18 @@
-### Problem: числата от 1 до 20
+### Problem: numbers from 1 to 20
 
-Да се напише C# конзолна програма, която **отпечатва числата от 1 до 20** на отделни редове на конзолата.
+Write a C# console program, which **prints the numbers from 1 to 20** on separate rows on the console.
 
 #### Hints and Guidelines
 
-Създаваме **конзолно C# приложение** с име “**Nums1To20**“:
+We create **a C# console application** with name “**Nums1To20**“:
 
 ![](/assets/chapter-1-images/03.Numbers-1-to-20-01.png)
 
-В **`static void Main()`** метода пишем 20 команди **``Console.WriteLine(…)``**, всяка на отделен ред, за да отпечатаме числата от 1 до 20 едно след друго. По-досетливите от вас, сигурно се питат дали няма по-умен начин. Спокойно, има, но за него по-късно.
+Inside the **`static void Main()`** method we write 20 commands **``Console.WriteLine(…)``**, each on a separate row, in order to print the numbers from 1 to 20 one after another. Some of you must be aksing themselves if there is a smarter way. Relax, there is, but we will mention it later on.
 
 ![](/assets/chapter-1-images/03.Numbers-1-to-20-02.png)
 
-Сега **стартираме програмата** и поверяваме дали резултатът е какъвто се очаква да бъде:
+Now **we start the program** and we check if the result is what it is supposed to be:
 ```
 1
 2
@@ -22,6 +22,6 @@
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/503#2](https://judge.softuni.bg/Contests/Practice/Index/503#2).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/503#2](https://judge.softuni.bg/Contests/Practice/Index/503#2).
 
-Сега помислете дали може да напишем програмата по **по-умен начин**, така че да не повтаряме 20 пъти една и съща команда. Потърсете в Интернет информация за "**[for loop C#](https://www.google.bg/search?q=for+loop+C%23&oq=for+loop+C%23)**".
+Now think whether we can write the program **a smarter way**, so we don't repeat the same command 20 times. Seek out information on the Internet about "**[for loop C#](https://www.google.bg/search?q=for+loop+C%23&oq=for+loop+C%23)**".

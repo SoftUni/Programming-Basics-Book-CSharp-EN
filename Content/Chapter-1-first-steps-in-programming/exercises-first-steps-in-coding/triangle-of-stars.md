@@ -1,6 +1,6 @@
-### Problem: триъгълник от 55 звездички
+### Problem: a triangle of 55 stars
 
-Да се напише C# конзолна програма, която **отпечатва триъгълник от 55 звездички**, разположени на 10 реда:
+Write a C# console program, which **prints a triangle of 55 stars** on 10 rows:
 
 ```
 *
@@ -17,7 +17,7 @@
 
 #### Hints and Guidelines
 
-Създаваме **ново конзолно C# приложение** с име “**TriangleOf55Stars**”. В него трябва да напишем код, който печата триъгълника от звездички, например чрез 10 команди, като посочените по-долу:
+We create **a new console C# application** with name “**TriangleOf55Stars**”. In it we have to write code, which prints the triangle of stars, for example through 10 commands, as the ones pointed out below:
 ```csharp
 Console.WriteLine("*");
 Console.WriteLine("**");
@@ -26,6 +26,6 @@ Console.WriteLine("**");
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/503#3](https://judge.softuni.bg/Contests/Practice/Index/503#3).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/503#3](https://judge.softuni.bg/Contests/Practice/Index/503#3).
 
-Опитайте да **подобрите решението**, така че да няма много повтарящи се команди. Може ли това да стане с **`for`** цикъл? Успяхте ли да намерите умно решение (например с цикъл) на предната задача? При тази задача може да се ползва нещо подобно, но малко по-сложно (два цикъла един в друг). Ако не успеете, няма проблем, ще учим цикли след няколко глави и ще си спомните за тази задача тогава.
+Try to **better your solution**, so that it doesn't have many repeating commands. Could it be done with a **`for`** loop? Did you find a smart solution (for example with a loop) of the previous task? With this task you can also use something similar, but a bit more complex (two loops, one inside the other). If you don't succeed, there is no problem, we will be learning loops in a few chapters and you will be reminded of this task then.

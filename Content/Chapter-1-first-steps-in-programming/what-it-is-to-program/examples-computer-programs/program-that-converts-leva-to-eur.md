@@ -1,6 +1,6 @@
-#### Example: програма, която конвертира от левове в евро
+#### Example: a program that converts from leva to euro
 
-Да разгледаме още една проста програма, която прочита от потребителя някаква сума в лева (цяло число), конвертира я в евро (като я разделя на курса на еврото) и отпечатва получения резултат. Това е програма от 3 поредни команди:
+Let's take a look at another simple program that reads from the user some amount of money in leva (an integer number), converts it into euro (by dividing it by the euro's rate) and prints the received result. This is a program of 3 consecutive commands:
 
 ```csharp
 var leva = int.Parse(Console.ReadLine());
@@ -8,4 +8,4 @@ var euro = leva / 1.95583;
 Console.WriteLine(euro);
 ```
 
-Разгледахме **три примера за компютърни програми**: единична команда, серия команди в цикъл и поредица от 3 команди. Нека сега преминем към по-интересното: как можем да пишем собствени програми на **C#** и как можем да ги компилираме и изпълняваме?
+We looked at **three examples of computer programs**: a single command, series of commands in a loop and 3 consecutive commands. Now let's get to the more intersting part: how can we write our own programs in **C#** and how can we compile them and run them?

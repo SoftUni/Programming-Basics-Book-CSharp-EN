@@ -1,9 +1,9 @@
-#### Тестване на приложението
+#### Testing the application
 
-Приложението е готово. Можем да го стартираме с [**Ctrl+F5**] и да тестваме дали работи:
+The application is ready. We can start it with [**Ctrl+F5**] and test whether it works:
 
 ![](/assets/chapter-1-images/08.Numbers-sum-web-09.png)
 
-Страшно ли изглежда? **Не се плашете!** Имаме да учим още много, за да достигнем ниво на знания и умения, за да пишем свободно уеб-базирани приложения, като в примера по-горе и много по-големи и по-сложни. Ако не успеете да се справите, няма страшно, продължете спокойно напред. След време ще си спомняте с усмивка колко непонятен и вълнуващ е бил първият ви сблъсък с уеб програмирането. Ако имате проблеми с примера по-горе, **гледайте видеото** в началото на тази глава. Там приложението е направено на живо стъпка по стъпка с много обяснения. Или питайте във **форума на SoftUni**: https://softuni.bg/forum.
+Does it look scary? **Don't be afraid!** We have a lot more to learn, to reach the level of knowledge and skills to write web-based applications freely like in the example above and much bigger and much more complex ones. If you don't succeed, there is nothing to worry about, keep moving on. After some time you will remeber with a smile how incomprehensible and exsiting your first collision with web programming was. If you have problems with the example above, **watch the video** at the beginning of this chapter. The application is built live there, step by step with a lot of explanations. Or ask in **the forum of SoftUni**: https://softuni.bg/forum.
 
-Целта на горните два примера (графично desktop приложение и уеб приложение) не е да се научите, а да се докоснете по-надълбоко до програмирането, **да разпалите интереса си** към разработката на софтуер и да се вдъхновите да учите здраво. **Имате да учите още много**, но пък е интересно, нали?
+The purpose of both of the above examples (graphical desktop application and web application) is not to teach you, but to make you dive a little deeper into programming, **to enlighten your interest** towards software development and to inspire you to learn hard. **You have a lot to learn yet**, but it's interesting, isn't it?

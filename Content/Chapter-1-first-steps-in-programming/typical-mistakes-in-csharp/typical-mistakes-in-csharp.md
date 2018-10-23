@@ -1,6 +1,6 @@
-## Типични грешки в C# програмите
+## Typical mistakes in C# programs
 
-Една от често срещаните грешки при начинаещите е **писането извън тялото на ``Main()`` метода**, защото интегрираната среда или компилаторът не биха могли правилно да разчетат зададените команди в програмата. Ето пример за грешно написана програма:
+One of the common mistakes with beginners is **writing outside the body of the ``Main()`` method**, because the integrated environment or the compiler can't read the given commands in the program correctly. Here is an example for an incorrectly written program  :
 
 ```csharp
 static void Main(string[] args)
@@ -9,7 +9,7 @@ static void Main(string[] args)
 Console.WriteLine("Hello C#");
 ```
 
-Друга грешка е бъркането на **главни и малки букви**, а те имат значение при извикване на командите и тяхното правилно функциониране. Ето пример за такава грешка:
+Other mistake is switching **capital and small letters**, and it matters for calling the commands and their correct functioning. Here is an example of such mistake:
 
 ```csharp
 static void Main(string[] args)
@@ -18,9 +18,9 @@ static void Main(string[] args)
 }
 ```
 
-В горния пример **`Writeline`** е изписано грешно и трябва да се поправи на **`WriteLine`**.
+In the example above **`Writeline`** is written wrong and has to be fixed to **`WriteLine`**.
 
-Липсата на **точка и запетая** (**`;`**) в края на командите е един от вечните проблеми на начинаещия програмист. Пропускането на този знак води до **неправилно функциониране на програмата** и **често проблемът остава незабелязан**. Ето примерен грешен код:
+The absence of **a point and comma** (**`;`**) in the end of the commands is one of the eternal problems of the beginner programmer. Skipping this sign leads to **incorrect functioning of the program** and **often the problem stays unnoticed**. Here is an example of a mistaken code:
 
 ```csharp
 static void Main(string[] args)
@@ -29,7 +29,7 @@ static void Main(string[] args)
 }
 ```
 
-Липсваща **кавичка** или **липса на отваряща или затваряща скоба** също може да се окажат проблеми. Както и при точката и запетаята, така и тук проблемът води до **неправилно функциониране на програмата** или въобще до нейното неизпълнение. Този пропуск трудно се забелязва при по-обемен код. Ето пример за грешна програма:
+The missing **quotation mark** or **the absence of openning or closing parentheses** can also turn out to be problems. The same as the point and the comma, here also the problem leads to **incorrect functioning of the program** or overall to its failure. This mistake is hardly noticeble with a bigger code. Here is an example of  a program with errors:
 
 ```csharp
 static void Main(string[] args)
@@ -38,6 +38,6 @@ static void Main(string[] args)
 }
 ```
 
-Тази програма ще даде **грешка при опит за компилация** и стартиране и даже още преди това кодът ще бъде подчертан, за да се насочи вниманието на програмиста към грешката, която е допуснал (пропуснатата затваряща кавичка):
+This program will throw **a compile time error** and the build is going to fail and even before that, the code will become underlined, in order to point the programmer to the mistake that he made (the missing closing quotation mark):
 
 ![](/assets/chapter-1-images/01.Hello-csharp-08.png)

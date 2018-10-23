@@ -1,3 +1,3 @@
-## Какво означава "да програмираме"?
+## What it means "to program"?
 
-**Да програмираме** означава да даваме команди на компютъра какво да прави, например "*да изсвири някакъв звук*", "*да отпечата нещо на екрана*" или "*да умножи две числа*". Когато командите са няколко една след друга, те се наричат **компютърна програма**. Текстът на компютърните програми се нарича **програмен код** (или **сорс код** или за по-кратко **код**).
+**To program** means to give commands to the computer, for example "*to play a sound*", "*to print something on the screen*" or "*to multiply two numbers*". When the commands are one after another, they are called **a computer program**. The text of the computer programs is called **a program code** (or **a source code**, or even shorter - **code**).
