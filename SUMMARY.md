@@ -143,7 +143,7 @@
       * [Насоки и подсказки](Content/Chapter-2-2-simple-calculations-exam-problems/exam-problems/daily-earnings/guidelines-and-a-sample-idea-for-solution.md)
       * [Избор на типове данни](Content/Chapter-2-2-simple-calculations-exam-problems/exam-problems/daily-earnings/choosing-data-types.md)
       * [Прочитане на входните данни и извършване на изчисленията](Content/Chapter-2-2-simple-calculations-exam-problems/exam-problems/daily-earnings/read-input-data-and-calculations.md)
-      * [Отпечатване на резултата(Content/Chapter-2-2-simple-calculations-exam-problems/exam-problems/daily-earnings/print-output.md)
+      * [Отпечатване на резултата](Content/Chapter-2-2-simple-calculations-exam-problems/exam-problems/daily-earnings/print-output.md)
 * [3.1. Прости проверки](Content/Chapter-3-1-simple-conditions/overview.md)
   * [Сравняване на числа](Content/Chapter-3-1-simple-conditions/comparing-numbers/comparing-numbers.md)
     * [Оператори за сравнение](Content/Chapter-3-1-simple-conditions/comparing-numbers/comparison-operators.md)
