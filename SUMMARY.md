@@ -51,7 +51,7 @@
      * [Creating a New C# Project](Content/Chapter-1-first-steps-in-programming/exercises-graphical-and-web-apps/sumator-graphical/new-csharp-project.md)
      * [Adding Text Fields and a Button](Content/Chapter-1-first-steps-in-programming/exercises-graphical-and-web-apps/sumator-graphical/adding-text-fields-and-a-button.md)
      * [Resizing the Controls and Starting the Application](Content/Chapter-1-first-steps-in-programming/exercises-graphical-and-web-apps/sumator-graphical/resizing-and-start.md)
-     * [Writng the Program Code](Content/Chapter-1-first-steps-in-programming/exercises-graphical-and-web-apps/sumator-graphical/writing-the-code.md)
+     * [Writing the Program Code](Content/Chapter-1-first-steps-in-programming/exercises-graphical-and-web-apps/sumator-graphical/writing-the-code.md)
      * [Testing the Application](Content/Chapter-1-first-steps-in-programming/exercises-graphical-and-web-apps/sumator-graphical/testing-the-app.md)
      * [Solving the Problem and Retesting the Application](Content/Chapter-1-first-steps-in-programming/exercises-graphical-and-web-apps/sumator-graphical/fixing-the-problem-and-retest.md)
    * [Web Application: "Sumator" (Calculator)](Content/Chapter-1-first-steps-in-programming/exercises-graphical-and-web-apps/sumator-web/sumator-web.md)
