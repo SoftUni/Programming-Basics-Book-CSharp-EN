@@ -1,19 +1,19 @@
-## Вложени проверки
+## Nested conditions
 
-Доста често програмната логика налага използването на **`if`** или **`if-else`** конструкции, които се съдържат една в друга. Те биват наричани **вложени** **`if`** или **`if-else`** конструкции. Както се подразбира от названието **"вложени"**, това са **`if`** или **`if-else`** конструкции, които са поставени в други **`if`** или **`else`** конструкции.
+Pretty often the program logic inflicts the use of **`if`** or **`if-else`** statements, which are contained one inside the other. They are called **nested** **`if`** or **`if-else`** statements. As it implied from the title **"nested"**, these are **`if`** or **`if-else`** statements, which are placed inside other **`if`** or **`else`** statements.
 
 ```csharp
 if (condition1)
 {
     if (condition2)
     {
-        // тяло; 
+        // body; 
     }
     else
     {
-        // тяло;
+        // body;
     }
 }
 ```
 
-Влагането на повече от три условни конструкции една в друга не се счита за добра практика и трябва да се избягва, най-вече чрез оптимизиране на структурата/алгоритъма на кода и/или чрез използването на друг вид условна конструкция, който ще разгледаме по-надолу в тази глава.
+The nesting of more than three conditional statements inside each other is not considered a good practice and has to be avoided, mostly through optimization of the structure/the algorithm of the code and/or through using another type of conditional statement, which we are going to see below in this chapter.

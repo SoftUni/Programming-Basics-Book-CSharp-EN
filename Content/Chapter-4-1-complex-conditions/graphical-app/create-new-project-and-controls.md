@@ -1,16 +1,16 @@
-#### Създаване на нов C# проект и добавяне на контроли
+#### Create a new C# project and add controls
  
-Създаваме нов проект **Windows Forms Application** с подходящо име, например “Point-and-Rectangle”:
+We create a new project **Windows Forms Application** with a suitable name, for example “Point-and-Rectangle”:
 
 ![](/assets/chapter-4-images/14.Point-in-rectangle-gui-04.png)
 
-**Нареждаме контролите** във формата, както е показано на фигурата по-долу:
+**We arrange the controls** inside the form, as it is shown in the figure below:
 
- * 6 кутийки за въвеждане на число (**`NumericUpDown`**).
- * Надписи (**`Label`**) пред всяка кутийка за въвеждане на число.
- * Бутон (**`Button`**) за изчертаване на правоъгълника и точката. 
- * Текстов блок за резултата (**`Label`**).
+ * 6 boxes for entering a number (**`NumericUpDown`**).
+ * Labels (**`Label`**) before every box number box.
+ * A button (**`Button`**) for drawing the rectangle and the point. 
+ * A text block for the result (**`Label`**).
 
-Нагласяме **размерите** и **свойствата** на контролите, за да изглеждат приблизително като на картинката:
+We set the **sizes** and **properties** of the controls to look as closely as the ones in the picture:
 
 ![](/assets/chapter-4-images/14.Point-in-rectangle-gui-05.png)

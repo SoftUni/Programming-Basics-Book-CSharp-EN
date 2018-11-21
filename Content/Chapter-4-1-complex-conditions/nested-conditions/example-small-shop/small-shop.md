@@ -1,12 +1,12 @@
-### Example: квартално магазинче
+### Example: a small shop
 
-Предприемчив българин отваря по едно **квартално магазинче** в **няколко града** с различни **цени** за следните **продукти**:
+A Bulgarian enterpreneur opens a **small shop** in  **a few cities** with different **prices** for the following **products**:
 
-|продукт / град|Sofia|Plovdiv|Varna|
+|product / city|Sofia|Plovdiv|Varna|
 |:-------:|:-------:|:-------:|:-------:|
 |coffee<br>water<br>beer<br>sweets<br>peanuts|0.50<br>0.80<br>1.20<br>1.45<br>1.60<br>|0.40<br>0.70<br>1.15<br>1.30<br>1.50<br>|0.45<br>0.70<br>1.10<br>1.35<br>1.55|
 
-По даден **град** (стринг), **продукт** (стринг) и **количество** (десетично число) да се пресметне цената.
+calculate the price by the given **city** (string), **product** (string) and **quantity** (decimal number).
 
 #### Sample Input and Output
 

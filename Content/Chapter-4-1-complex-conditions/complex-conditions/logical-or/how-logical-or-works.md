@@ -1,8 +1,8 @@
-### Как работи операторът || ?
+### How does the || operator work ?
 
-Вече научихме какво **представлява** логическото **"ИЛИ"**. Но как всъщност се реализира? Както при логическото **"И"**, програмата **проверява** от ляво на дясно **аргументите**, които са зададени. За да получим **`true`** от израза, е необходимо **само един** аргумент да има стойност **`true`**, съответно проверката **продължава** докато се срещне **аргумент** с **такава** стойност или докато **не свършат** аргументите.
+We have already learned what the logical**"OR" represents**. But how is it actually being achieved? Just like with the logical **"AND"**, the program **checks** from left to right **the arguments**, which are given. In order ro receive **`true`** from the expression, it is necessary fоr **just one** argument to have a **`true`** value, respectively the evaluation **continues** until an **argument** with **such** value is met or until the arguments **are over**.
 
-Ето един **пример** за оператора **`||`** в действие:
+Here is one **example** for the operator **`||`** in action:
 
 ```csharp
 bool a = false;
@@ -10,7 +10,7 @@ bool b = true;
 bool c = false;
 bool d = true;
 bool result = a || b || c || d;
-// true (като c и d не се проверяват)
+// true (as c and d are not being checked)
 ```
 
-Програмата **проверява `а`**, отчита, че има стойност **`false`** и продължава. Стигайки до **`b`**, отчита, че има стойност **`true`** и целият **израз** получава стойност **`true`**, **без** да се проверява **`c`** и **`d`**, защото техните стойности **не биха променили** резултата на израза.
+The programs **checks `а`**, accepts, that it has a value **`false`** and continues. Reaching **`b`**, it evaluates, that it has a **`true`** value and the whole **expression** receives a value **`true`**, **without** having to check **`c`** or **`d`**, because their values **wouldn't change** the result of the expression.

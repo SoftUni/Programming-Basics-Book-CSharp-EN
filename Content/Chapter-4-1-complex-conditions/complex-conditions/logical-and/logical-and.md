@@ -1,8 +1,8 @@
-### Логическо "И"
+### Logical "AND"
 
-Както видяхме, в някои задачи се налага да правим **много проверки наведнъж**. Но какво става, когато за да изпълним някакъв код, трябва да бъдат изпълнени **повече** условия и **не искаме** да правим **отрицание** (**`else`**) за всяко едно от тях? Вариантът с вложените **`if` блокове** е валиден, но кодът би изглеждал много **неподреден** и със сигурност - **труден** за четене и поддръжка.  
+As we saw, in some tasks we have to make **many evaluations at once**. But waht happens, whenever in order to execute some code, **more** conditions have to be executed and we **don't want to** make a **negation** (**`else`**) for every one of them? The option with nested **`if` blocks** is valid, but the code would look very **unordered** and for sure - **hard** to read and maintain.  
 
-Логическо "**И**" (оператор **`&&`**) означава няколко условия да са **изпълнени едновременно**. В сила е следната таблица на истинност:
+The logical "**AND**" (opreator **`&&`**) means a few conditions have to be **fulfiled simultaneously**. The following table of thruthfulness is applicable:
 
 |a|b|a && b|
 |-----|-----|-----|

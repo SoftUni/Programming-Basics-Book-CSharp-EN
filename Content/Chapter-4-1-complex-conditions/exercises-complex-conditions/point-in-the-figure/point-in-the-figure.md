@@ -1,10 +1,10 @@
-### Problem: * точка във фигурата
+### Problem: * point in the figure
 
-Фигура се състои от **6 блокчета с размер h \* h**, разположени като на фигурата. Долният ляв ъгъл на сградата е на позиция {0, 0}. Горният десен ъгъл на фигурата е на позиция {**2\*h**, **4\*h**}. На фигурата координатите са дадени при **h = 2**:
+The figure consists of **6 blocks with size h \* h**, placed as in the figure. The lower left angle of the building is on position {0, 0}. The upper right angle of the figure is on position {**2\*h**, **4\*h**}. The coordinates given in the figure are for **h = 2**:
 
 ![](/assets/chapter-4-images/13.Point-in-the-figure-01.png)
 
-Да се напише програма, която въвежда цяло число **h** и координатите на дадена **точка {x, y}** (цели числа) и отпечатва дали точката е вътре във фигурата (**inside**), вън от фигурата (**outside**) или на някоя от стените на фигурата (**border**).
+Write a program that enters a whole number **h** and the coordinates of a given **point {x, y}** (whole numbers) and prints whether the point is inside the figure(**inside**), outside of the figure (**outside**) or on any of the borders of the figure (**border**).
 
 #### Sample Input and Output
 

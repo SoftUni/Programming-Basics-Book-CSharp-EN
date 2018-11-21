@@ -1,6 +1,6 @@
-### Example: точка в правоъгълник
+### Example: a point in a rectangle
 
-Проверка дали **точка {x, y}** се намира **вътре в правоъгълника {x1, y1} – {x2, y2}**. Входните данни се четат от конзолата и се състоят от 6 реда: десетичните числа **x1**, **y1**, **x2**, **y2**, **x** и **y** (като се гарантира, че **x1 < x2** и **y1 < y2**).
+Checks whether **point {x, y}** are placed **insie the rectangle {x1, y1} – {x2, y2}**. The input data is read from the console and consists of 6 rows: the decimal numbers **x1**, **y1**, **x2**, **y2**, **x** и **y** (as it is garanteed, that **x1 < x2** and **y1 < y2**).
 
 #### Sample Input and Output
 

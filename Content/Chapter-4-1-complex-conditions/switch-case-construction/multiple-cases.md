@@ -1,22 +1,22 @@
-### Множество етикети в switch-case
+### Multiple cases in switch-case
 
-В **C#** имаме възможността да **използваме множество `case`** етикети, когато те трябва да изпълняват **един и същи** код. При този начин на записване, когато **програмата** ни намери **съвпадение**, ще изпълни **следващия** срещнат код, тъй като **след** съответния **`case`** етикет **липсва код** за изпълнение и **`break`** оператор.
+In **C#** we have the possibility to **use multiple `case`** labels, when they have to execute **the same code**. By this way, when our **program** finds a **match**, it will execute the **next** code, because **after** the respective **`case`** label **there is no code** for execution and a **`break`** operator.
 
 ```csharp
-switch (селектор)
+switch (selector)
 {
-    case стойност1:
-    case стойност2:
-    case стойност3:
-        конструкция;
+    case value1:
+    case value2:
+    case value3:
+        construction;
         break;
-    case стойност4:
-    case стойност5:
-        конструкция;
+    case value4:
+    case value5:
+        construction;
         break;
     …
     default:
-        конструкция;
+        construction;
         break;
 }
 ```

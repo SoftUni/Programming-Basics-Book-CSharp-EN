@@ -1,9 +1,9 @@
-### Логическо отрицание
+### Logical negation
 
-**Логическо отрицание** (оператор **`!`**) означава да **не е изпълнено** дадено условие.
+**Logical negation** (operator **`!`**) means a given condition is **is not fulfilled**.
 
 |a|!a|
 |:----:|:----:|
 |true|false|
 
-Операторът **`!`** приема като **аргумент** булева променлива и **обръща** стойността ѝ.
+The operator **`!`** accepts as an **argument** a boolean variable and **returns** its value.

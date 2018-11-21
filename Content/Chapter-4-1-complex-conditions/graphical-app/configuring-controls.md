@@ -1,28 +1,28 @@
-#### Конфигуриране на контролите
+#### Configuring the controls
 
-Задаваме следните препоръчителни настройки на контролите:
+We set the following recomended settings of the controls:
 
-* За **главната форма (`Form`)**, която съдържа всички контроли:
+* For **the main form (`Form`)**, which contains all of the controls:
   *	(name) = **`FormPointAndRectangle`**
   *	**`Text`** = **`Point and Rectangle`**
   *	**`Font.Size`** = **`12`**
   *	**`Size`** = **`700`**, **`410`**
   *	**`MinimumSize`** = **`500`**, **`400`**
   *	**`FormBorderStyle`** = **`FixedSingle`**
-* За **полетата за въвеждане на число (`NumericUpDown`)**:
+* For **the fields for entering a number (`NumericUpDown`)**:
   *	(name) = **`numericUpDownX1`**; **`numericUpDownY1`**; **`numericUpDownX2`**; **`numericUpDownY2`**; **`numericUpDownX`**; **`numericUpDownY`**
   *	**`Value`** = **`2`**; **`-3`**; **`12`**; **`3`**; **`8`**; **`-1`**
   *	**`Minimum`** = **`-100000`**
   *	**`Maximum`** = **`100000`**
   *	**`DecimalPlaces`** = **`2`**
-* За **бутона (`Button`)** за **визуализация** на правоъгълника и точката:
+* For **the button (`Button`)** for **visualization** of the rectangle and the point:
   *	(name) = **`buttonDraw`**
   *	**Text** = **`Draw`**
-* За **текстовия блок за резултата (`Label`)**:
+* For **the text block for the result (`Label`)**:
   *	(name) = **`labelLocation`**
   *	**`AutoSize`** = **`false`**
   *	**`BackColor`** = **`PaleGreen`**
   *	**`TextAlign`** = **`MiddleCenter`**
-* За **полето с чертежа (`PictureBox`)**:
+* For **the field with the draft (`PictureBox`)**:
   *	(name) = **`pictureBox`**
   *	**`Anchor`** = **`Top`**, **`Bottom`**, **`Left`**, **`Right`**

@@ -1,13 +1,13 @@
-### Problem: волейбол
+### Problem: volleyball
 
-Влади е студент, живее в София и си ходи от време на време до родния град. Той е много запален по волейбола, но е зает през работните дни и играе **волейбол** само през **уикендите** и в **празничните дни**. Влади играе **в София** всяка **събота**, когато **не е на работа** и **не си пътува до родния град**, както и в **2/3 от празничните дни**. Той пътува до **родния си град h пъти** в годината, където играе волейбол със старите си приятели в **неделя**. Влади **не е на работа 3/4 от уикендите**, в които е в София. Отделно, през **високосните години** Влади играе с **15% повече** волейбол от нормалното. Приемаме, че годината има точно **48 уикенда**, подходящи за волейбол. 
-Напишете програма, която изчислява **колко пъти Влади е играл волейбол** през годината. **Закръглете резултата** надолу до най-близкото цяло число (напр. 2.15 -> 2; 9.95 -> 9).
+Vladi is a student, lives in Sofia and goes to his hometown from time to time. He is very keen on volleyball, but is busy during weekdays and plays **volleyball** only during **weekends** and on **holidays**. Vladi plays **in Sofia** every **Saturday**, when **he is not working** and **he is not travelling to his hometown** and also during **2/3 of the holidays**. He travels to his **hometown h times** a year, where he plays volleyball with his old friends on **Sunday**. Vladi **is not working 3/4 of the weekends**, during which he is in Sofia. Furhter more, during **leap years** Vladi plays **15% more** volleyball than the usual. We accept, that the year has exactly **48 weekends**, suitable for volleyball. 
+Write a program, which calculates **how many times Vladi has played volleyball** through the year. **Round the result** down to the nearest whole number (e.g. 2.15 -> 2; 9.95 -> 9).
 
-Входните данни се четат от конзолата:
+The input data is read from the console:
 
-* Първият ред съдържа думата “**leap**” (високосна година) или “**normal**” (нормална година с 365 дни).
-* Вторият ред съдържа цялото число **p** – брой празници в годината (които не са събота или неделя).
-* Третият ред съдържа цялото число **h** – брой уикенди, в които Влади си пътува до родния град.
+* The first row contains the word “**leap**” (leap year) or “**normal**” (a normal year with 365 days).
+* The second row contains the whole number **p** – the count of holidays in the year (which are not Saturday or Sunday).
+* The third row contains the whole number **h** – the count of weekends, in which Vladi travels to his hometown.
 
 #### Sample Input and Output
 

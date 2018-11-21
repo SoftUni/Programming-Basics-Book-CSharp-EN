@@ -1,3 +1,3 @@
-### Операторът скоби `()`
+### Operator parantheses `()`
 
-Както останалите оператори в програмирането, така и операторите **`&&`** и **`||`** имат приоритет, като в случая **`&&`** е с по-голям приоритет от **`||`**. Операторът **`()`** служи за **промяна на приоритета на операторите** и се изчислява пръв, също както в математиката. Използването на скоби също така придава по-добра четимост на кода и се счита за добра практика.
+Like the rest of the operators in programming, the operators **`&&`** and **`||`** have a priority, like in the case **`&&`** is with bigger priority from the **`||`**. The operator **`()`** serves for **a change of priority of the operators** and is being calculated first, just like in math. Using parentheses also gives the code better readability and is considered a good practice.

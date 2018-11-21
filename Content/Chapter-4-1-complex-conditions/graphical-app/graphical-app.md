@@ -1,3 +1,3 @@
-## Exercises: графично приложение с по-сложни проверки
+## Exercises: graphical application with complex conditions
 
-В тази глава научихме как можем да правим **проверки с нетривиални условия**. Нека сега приложим тези знания, за да създадем нещо интересно: настолно приложение, което визуализира точка и правоъгълник. Това е прекрасна визуализация за една от задачите от упражненията.
+In this chapter, we have learned how we can make **statements with nontrivial conditions**. Now let's apply this knowledge to create something interesting: a desktop app, which visualizes a point in a rectangle. This is a wonderful visualization of one of the tasks from the exercises.

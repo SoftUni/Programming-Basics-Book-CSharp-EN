@@ -1,24 +1,24 @@
-## Условна конструкция switch-case
+## Switch-case construction
 
-Конструкцията **`switch-case`** работи като поредица **`if-else`** блокове. Когато работата на програмата ни зависи от стойността на **една променлива**, вместо да правим последователни проверки с **`if-else`** блокове, можем да **използваме** условната конструкция **`switch`**. Тя се използва за **избор измежду списък с възможности**. Конструкцията сравнява дадена стойност с определени константи и в зависимост от резултата предприема действие.
+The construction **`switch-case`** works as a sequence of **`if-else`** blocks. Whenever the work of our program depends on the value of **one variable**, instead of making consecutive conditions with **`if-else`** blocks, we can **use** the conditional **`switch`** statement. It is being used for a **choice between a list of possibilities**. The statement compares a given value with defined constants and depending on the result, takes an action.
 
-**Променливата**, която искаме да **сравняваме**, поставяме в **скобите след оператора `switch`** и се нарича "**селектор**". Тук **типът трябва да е сравним** (числа, стрингове). **Последователно** започва **сравняването** с всяка една **стойност**, която **се намира** след **`case` етикетите**. При съвпадение започва изпълнението на кода от съответното място и продължава, докато стигне оператора **`break`**. В някои програмни езици (като C и C++) **`break`** може да се изпуска, за да се изпълнява код от друга **`case`** конструкция, докато не стигне до въпросния оператор. В C# обаче, наличието на **`break`** е **задължителен** за **всеки `case`**, който съдържа изпълнение на програмна логика. При **липса** на **съвпадение**, се изпълнява **`default`** конструкцията, **ако** такава **съществува**.
+We put **the variable**, which we want to **compare**, inside the **brackets after the operator `switch`** and it is called a "**selector**". Here **the type must be comparable** (numbers, strings). **Consecutively** begins the **comparing** of each **value**, which **is found** after the **`case` labels**. On a match, the execution of the code from the respective place begins and continues until it reaches the operator **`break`**. In some programming languages (like C and C++) **`break`** might be skipped, in order to execute a code from other **`case`** construction, until it reaches another operator. In C# though, the presence of **`break`** is **mandatory** for **every `case`**, which contains a program logic. When **no matches** are **found**, the **`default`** construction is being executed, **if** such **exists**.
 
 ```csharp
-switch (селектор)
+switch (selector)
 {
-    case стойност1:
-        конструкция;
+    case value1:
+        construction;
         break;
-    case стойност2:
-        конструкция;
+    case value2:
+        construction;
         break;
-    case стойност3:
-        конструкция;
+    case value3:
+        construction;
         break;
     …
     default:
-        конструкция;
+        construction;
         break;
 }
 ```

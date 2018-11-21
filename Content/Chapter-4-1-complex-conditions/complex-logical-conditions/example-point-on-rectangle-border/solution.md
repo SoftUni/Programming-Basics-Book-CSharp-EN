@@ -1,19 +1,19 @@
 #### Solution
 
-Точка лежи върху някоя от страните на правоъгълник, ако:
-* **x** съвпада с **x1** или **x2** и същевременно **y** е между **y1** и **y2** или
-* **y** съвпада с **y1** или **y2** и същевременно **x** е между **x1** и **x2**.
+The point lies on any of the sides of the rectangle if:
+* **x** coincides with **x1** or **x2** and at the same time **y** is between **y1** and **y2** or
+* **y** coincides with **y1** or **y2** and at the same time **x** is between **x1** and **x2**.
 
 ![](/assets/chapter-4-images/06.Point-on-rectangle-border-02.png)
 
-Предходната проверка може да се опрости по този начин:
+The previous evaluation might be simplified by the following way:
 
 ![](/assets/chapter-4-images/06.Point-on-rectangle-border-03.png)
 
-Вторият начин с допълнителните булеви променливи е по-дълъг, но е много по-разбираем от първия, нали? Препоръчваме ви когато пишете булеви условия, да ги правите **лесни за четене и разбиране**, а не кратки. Ако се налага, ползвайте допълнителни променливи със смислени имена. Имената на булевите променливи трябва да подсказват каква стойност се съхранява в тях.
+The second way with the additional boolean variables is longer, but much more understandable than th first one, isn't it? We recommend to you when you write boolean conditions, to make them **easy to read and uderstand**, and not short. If you need to, use additional variables with meaningful names. The names of the boolean variables have to hint what the value that is kept in them represents.
 
-Остава да допишете кода, за да отпечатва “**Inside / Outside**”, ако точката не е върху някоя от страните на правоъгълника.
+It is left to finish writing the code to print “**Inside / Outside**”, if the point is not onto any of the sides of the rectangle.
 
 #### Testing in the Judge System
 
-След като допишете решението, може да го тествате тук: [https://judge.softuni.bg/Contests/Practice/Index/508#5](https://judge.softuni.bg/Contests/Practice/Index/508#5).
+After you finish writing the solution, you can test it here: [https://judge.softuni.bg/Contests/Practice/Index/508#5](https://judge.softuni.bg/Contests/Practice/Index/508#5).

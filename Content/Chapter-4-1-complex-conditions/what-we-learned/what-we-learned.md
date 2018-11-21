@@ -1,41 +1,41 @@
 ## What We Learned in This Chapter?
 
-Да си припомним новите конструкции и програмни техники, с които се запознахме в тази глава.
+Let's remind ourselves the new constructions and program techniques, which we have learned in this chapter.
 
-### Вложени проверки
+### Nested conditions
 
 ```csharp
 if (condition1)
 {
     if (condition2)
-        // тяло; 
+        // body; 
     else
-        // тяло;
+        // body;
 }
 ```
 
-### По-сложни проверки с &&, ||, ! и ()
+### Complex conditions with &&, ||, ! and ()
 
 ```csharp
 if ((x == left || x == right) && y >= top && y <= bottom)
     Console.WriteLine(…); 
 ```
 
-#### Switch-case проверки
+#### Switch-case conditions
 
 ```csharp
-switch (селектор)
+switch (selector)
 {
-    case стойност1:
-        конструкция;
+    case value1:
+        construction;
         break;
-    case стойност2:
-    case стойност3:
-        конструкция;
+    case value2:
+    case value3:
+        construction;
         break;
     …
     default:
-        конструкция;
+        construction;
         break;
 }
 ```

@@ -1,11 +1,11 @@
 #### Hints and Guidelines 
 
-При прочитането на входа можем да обърнем типа на прожекцията в малки букви (с функцията **`.ToLower()`**). Създаваме и инициализираме променлива, която ще ни съхранява изчислените приходи. В друга променлива пресмятаме пълния капацитет на залата. Използваме **`switch-case`** условна конструкция, за да изчислим прихода в зависимост от вида на прожекцията и отпечатваме резултата на конзолата в зададения формат (потърсете нужната **C#** функционалност в интернет). 
+While reading the input, we could convert the type of the projcection into small letters (with the function **`.ToLower()`**). We create and initialize a varibale, which will store the calculated income. In another variable we calculate the full capacity of the hall. We use a **`switch-case`** conditional statement to calculate the income according to the type of the projection and we print the result on the console in the given format. (look for the needed **C#** functionality on the internet). 
 
-Примерен код (части от кода са замъглени с цел да се стимулира самостоятелно мислене и решение):
+Sample code (parts of the code are blurred with the purpose of stimulating the thinking and solving skills):
 
 ![](/assets/chapter-4-images/11.Cinema-01.png)
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/508#10](https://judge.softuni.bg/Contests/Practice/Index/508#10).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/508#10](https://judge.softuni.bg/Contests/Practice/Index/508#10).

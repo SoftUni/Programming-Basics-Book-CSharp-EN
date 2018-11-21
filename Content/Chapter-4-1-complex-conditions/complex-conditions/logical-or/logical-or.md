@@ -1,8 +1,8 @@
-## Логическо "ИЛИ"
+## Logical "OR"
 
-Логическо **"ИЛИ"** (оператор **`||`**) означава да е **изпълнено поне едно** измежду няколко условия. Подобно на оператора **`&&`**, логическото **"ИЛИ"** приема няколко аргумента от **булев** (условен) тип и връща **`true`** или **`false`**. Лесно можем да се досетим, че **получаваме** като стойност **`true`**, винаги когато поне **един** от аргументите има стойност **`true`**. Типичен пример за логиката на този оператор е следният:
+The logical **"OR"** (operator **`||`**) means that **at least one** amongst a few conditions is fulfilled. Similar to the operator **`&&`**, the logical **"OR"** accepts a few arguments of **boolean** (conditional) type and returns **`true`** or **`false`**. We can easily guess, that we **receive** a value **`true`**, everytime when at least **one** of the arguments has a **`true`** value. Typical example for the logic of this operator is the following:
 
-В училище учителят казва: "Иван или Петър да измият дъската". За да бъде изпъл¬нено това условие (дъската да бъде измита), е възможно само Иван да я измие, само Петър да я измие или и двамата да го направят.
+At school the teacher says: "John or Peter to clean the board". To fulfill this condition (to clean the board), it is possible either just for John to clean it, or just for Peter to clean it or both of them to do it.
 
 |a|b|a &#124;&#124; b|
 |:-----:|:-----:|:-----:|

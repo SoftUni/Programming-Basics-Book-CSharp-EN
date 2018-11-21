@@ -1,6 +1,6 @@
-### Example: плод или зеленчук
+### Example: a fruit or a vegetable
 
-Нека проверим дали даден **продукт** е **плод** или **зеленчук**. Плодовете "**fruit**" са **banana**, **apple**, **kiwi**, **cherry**, **lemon** и **grapes**. Зеленчуците "**vegetable**" са **tomato**, **cucumber**, **pepper** и **carrot**. Всички останали са "**unknown**".
+Let us check wheter a given **product** is **a fruit** or **a vegetable**. The "**fruit**" are **banana**, **apple**, **kiwi**, **cherry**, **lemon** and **grapes**. The "**vegetables**" are **tomato**, **cucumber**, **pepper** and **carrot**. Everything else is "**unknown**".
 
 #### Sample Input and Output
 

@@ -1,6 +1,6 @@
-### Example: вид животно
+### Example: animal type
 
-Напишете програма, която принтира вида на животно според името му: 
+Write a program, that prints the type of the animal depending on its name: 
 
 * dog -> **mammal**
 * crocodile, tortoise, snake -> **reptile**
@@ -14,10 +14,10 @@
 
 #### Solution
 
-Можем да решим задачата чрез **`switch`**-**`case`** проверки с множество етикети по следния начин:
+We can solve the task with **`switch`**-**`case`** conditions with multiple labels in the following way:
 
 ![](/assets/chapter-4-images/10.Animal-type-01.png)
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/508#9](https://judge.softuni.bg/Contests/Practice/Index/508#9).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/508#9](https://judge.softuni.bg/Contests/Practice/Index/508#9).

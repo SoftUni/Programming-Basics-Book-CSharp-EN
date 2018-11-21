@@ -1,6 +1,6 @@
-### Example: ден от седмицата
+### Example: day of week
 
-Нека напишем програма, която принтира **деня от седмицата** (на английски) според **въведеното число** (1 … 7) или "**Error!**", ако е подаден невалиден ден.
+Let's write a program that prints **the day of the week** depending on the **given number** (1 … 7) or "**Error!**", if an invalid input is given.
 
 #### Sample Input and Output
 
@@ -13,9 +13,9 @@
 ![](/assets/chapter-4-images/09.Day-of-week-01.png)
 
 <table><tr><td><img src="/assets/alert-icon.png" style="max-width:50px" /></td>
-<td><b>Добра практика</b> е на <b>първо</b> място да поставяме онези <b><code>case</code> случаи</b>, които обработват <b>най-често случилите се ситуации</b>, а <b><code>case</code> конструкциите</b>, обработващи <b>по-рядко възникващи ситуации</b>, да оставим в <b>края преди <code>default</code> конструкцията</b>. Друга <b>добра практика</b> е да <b>подреждаме <code>case</code> етикетите</b> в <b>нарастващ ред</b>, без значение дали са целочислени или символни.</td>
+<td><b>A good practice</b> is to put on <b>first</b> place  those <b><code>case</code> statements</b>, which process <b>the most common situations</b>, and the <b><code>case</code> constructions</b>, processing <b>the more rear situations</b> to leave at <b>the end, before  the <code>default</code> construction</b>. Another <b>good practice</b> is to <b>arrange the <code>case</code> labels</b> in <b>ascending order</b>, no mather is they are integral or symbolic.</td>
 </tr></table>
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/508#8](https://judge.softuni.bg/Contests/Practice/Index/508#8).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/508#8](https://judge.softuni.bg/Contests/Practice/Index/508#8).

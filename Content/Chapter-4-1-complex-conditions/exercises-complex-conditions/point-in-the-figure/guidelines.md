@@ -1,11 +1,11 @@
 #### Hints and Guidelines
 
-Примерна логика за решаване на задачата (не е единствената правилна):
+A possible logic for solving the task (not the only correct one):
 
-* Може да разделим фигурата на **два правоъгълника** с обща стена:
+* We might split the figure into **two rectangles** with a common side:
 
 <p align="center"><img src="/assets/chapter-4-images/13.Point-in-the-figure-03.png" /></p>
 
-* Една точка е **външна (outside)** за фигурата, когато е едновременно **извън** двата правоъгълника.
-* Една точка е **вътрешна (inside)** за фигурата, ако е вътре в някой от правоъгълниците (изключвайки стените им) или лежи върху общата им стена.
-* В **противен случай** точката лежи на стената на правоъгълника (**border**).
+* A point is **outer (outside)** for the figure, when it is **outside** both of the rectangles.
+* A point is **inner (inside)** for the figure, if it is inside some of the rectangles (excluding their borders) or lies on their common side.
+* In **other case** the point lies on the border of the rectangle (**border**).

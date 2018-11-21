@@ -1,10 +1,10 @@
-### Example: обръщение според възраст и пол
+### Example: title depending on age and gender
 
-Според въведени **възраст** (десетично число) и **пол** (**m** / **f**) да се отпечата обръщение:
-* “**Mr.**” – мъж (пол “**m**”) на 16 или повече години.
-* “**Master**” – момче (пол “**m**”) под 16 години.
-* “**Ms.**” – жена (пол “**f**”) на 16 или повече години.
-* “**Miss**” – момиче (пол “**f**”) под 16 години.
+Depending on **age** (decimal number and **gender** (**m** / **f**), print a personal title:
+* “**Mr.**” – a man (gender “**m**”) - 16 or more years old.
+* “**Master**” – a boy (gender “**m**”) under 16 years.
+* “**Ms.**” – a woman (gender “**f**”) - 16 or more years old.
+* “**Miss**” – a girl (gender “**f**”) under 16 years.
 
 #### Sample Input and Output
 

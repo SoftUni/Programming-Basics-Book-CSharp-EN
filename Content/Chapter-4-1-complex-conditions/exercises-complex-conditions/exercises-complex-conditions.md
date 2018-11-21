@@ -1,3 +1,3 @@
-## Exercises: по-сложни проверки
+## Exercises: complex conditions
 
-Нека сега да упражним работата с по-сложни проверки. Да решим няколко практически задачи.
+Now let's exercise the work with complex conditions. Let's solve a few practical tasks.

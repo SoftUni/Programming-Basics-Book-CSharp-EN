@@ -1,13 +1,13 @@
-### Example: невалидно число
+### Example: invalid number
 
-Дадено **число е валидно**, ако е в диапазона [**100 … 200**] или е **0**. Да се направи проверка за **невалидно** число.
+A given **number is valid**, if it is in the range [**100 … 200**] or it is **0**. Make a validation for an **invalid** number.
 
 #### Sample Input and Output
 
 | Input | Output |
 |----|----|
 |75|invalid|
-|150| (няма изход)|
+|150| (no output)|
 |220|invalid|
 
 #### Solution
@@ -16,4 +16,4 @@
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/508#4](https://judge.softuni.bg/Contests/Practice/Index/508#4).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/508#4](https://judge.softuni.bg/Contests/Practice/Index/508#4).

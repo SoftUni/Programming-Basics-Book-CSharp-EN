@@ -1,3 +1,3 @@
-## По-сложни логически условия
+## Complex logical conditions
 
-Понякога условията може да са доста сложни, така че да изискват дълъг булев израз или поредица от проверки. Да разгледаме няколко такива примера.
+Sometimes the conditions might be very complicated, so they can require a long boolean expression or a sequence of evaluations. Let's take a look at a few examples.

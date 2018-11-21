@@ -4,4 +4,4 @@
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/508#6](https://judge.softuni.bg/Contests/Practice/Index/508#6).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/508#6](https://judge.softuni.bg/Contests/Practice/Index/508#6).

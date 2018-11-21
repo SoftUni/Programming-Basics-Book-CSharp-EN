@@ -1,3 +1,3 @@
-## По-сложни проверки
+## Complex conditions
 
-Нека разгледаме как можем да правим по-сложни логически проверки. Може да използваме логическо "**И**" (**`&&`**), логическо "**ИЛИ**" (**`||`**), логическо **отрицание** (**`!`**) и **скоби** (**`()`**).
+Let's take a look at how we can make more complex logical conditions. We can use the logical "**AND**" (**`&&`**), the logical "**OR**" (**`||`**), the logical **negation** (**`!`**) and **brackets** (**`()`**).

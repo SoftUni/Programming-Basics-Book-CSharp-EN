@@ -1,6 +1,6 @@
-#### Визуализация на правоъгълника и точката
+#### Visualization of the rectangle and the point
 
-Остава да се имплементира най-сложната част: визуализация на правоъгълника и точката в контролата **`pictureBox`** с преоразмеряване. Може да си помогнем с **кода по-долу**, който прави малко изчисления и рисува син правоъгълник и тъмносиньо кръгче (точката) според зададените във формата координати. За съжаление сложността на кода надхвърля изучавания до момента материал и е сложно да се обясни в детайли как точно работи. Оставени са коментари за ориентация. Това е пълната версия на действието **`Draw()`**:
+It is left to implement the most complex part: visualization of the rectangle and the point in the control **`pictureBox`** with resizing. We can help ourselves with **the code below**, which makes little calculations and draws a blue rectangle and a dark blue circle (the point) according to the coordinates given in the form. Unfortunately, the complexity of the code exceeds the learnt material unitl this moment and it is complicated to be explained in details exactly how it works. There are comments for orientation. This is the full version of the action **`Draw()`**:
 
 ```csharp
 private void Draw()
@@ -73,4 +73,4 @@ private decimal Max(decimal val1, decimal val2, decimal val3)
 }
 ```
 
-В горния код се срещат доста **преобразувания на типове**, защото се работи с различни типове числа (десетични числа, реални числа и цели числа) и понякога се изисква да се преминава между тях.
+In the code above can be seen a lot of **conversion of types**, because different types of numbers are used (decimal numbers, real numbers and whole numbers) and sometimes it's rquired to do conversion between them.
