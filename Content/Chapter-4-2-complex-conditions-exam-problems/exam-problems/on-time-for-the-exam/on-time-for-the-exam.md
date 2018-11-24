@@ -1,32 +1,32 @@
-## Problem: навреме за изпит
+## Problem: On Time for the Exam
 
-Студент трябва да отиде **на изпит в определен час** (например в 9:30 часа). Той идва в изпитната зала в даден **час на пристигане** (например 9:40). Счита се, че студентът е дошъл **навреме**, ако е пристигнал **в часа на изпита или до половин час преди това**. Ако е пристигнал **по-рано повече от 30 минути**, той е **подранил**. Ако е дошъл **след часа на изпита**, той е **закъснял**. 
+A student has to attend **an exam at a particular time** (for example at 9:30 am). They arrive in the exam room at a particular **time of arrival** (for example 9:40 am). It is considered that the student has arrived **on time**, if they have arrived **at the time when the exam starts or up to half an hour earlier**. If the student has arrived **more than 30 minutes earlier**, the student has come **too early**. If they have arrived **after the time when the exam starts**, they are **late**. 
 
-Напишете програма, която въвежда време на изпит и време на пристигане и отпечатва дали студентът е дошъл **навреме**, дали е **подранил** или е **закъснял**, както и **с колко часа или минути** е подранил или закъснял.
+Write a program that inputs the exam starting time and the time of student's arrival, and prints if the student has arrived **on time**, if they have arrived **early** or if they are **late**, as well as **how many hours or minutes** the student is early or late.
 
 ### Input Data
 
-От конзолата се четат **четири цели числа** (по едно на ред):
+Read the following **four integers** (one on each row) from the console:
 
-- Първият ред съдържа **час на изпита** – цяло число от 0 до 23.
-- Вторият ред съдържа **минута на изпита** – цяло число от 0 до 59.
-- Третият ред съдържа **час на пристигане** – цяло число от 0 до 23.
-- Четвъртият ред съдържа **минута на пристигане** – цяло число от 0 до 59.
+- The first row contains **exam starting time (hours)** – an integer from 0 to 23.
+- The second row contains **exam starting time (minutes)** – an integer from 0 to 59.
+- The third row contains **hour of arrival** – an integer from 0 to 23.
+- The fourth row contains **monutes of arrival** – an integer from 0 to 59.
 
 ### Output Data
 
-На първия ред отпечатайте:
+Print the following on the first row:
 
-- "**Late**", ако студентът пристига **по-късно** от часа на изпита.
-- "**On time**", ако студентът пристига **точно** в часа на изпита или до 30 минути по-рано.
-- "**Early**", ако студентът пристига повече от 30 минути **преди** часа на изпита.
+- "**Late**", if the student arrives **later** compared to the exam starting time.
+- "**On time**", if the student arrives **exactly** at the exam starting time or up to 30 minutes earlier.
+- "**Early**", if the student arrives more than 30 minutes **befire** the exam starting time.
 
-Ако студентът пристига с поне минута разлика от часа на изпита, отпечатайте на следващия ред:
+If the sturent arrives with more than one minute difference compared to the exam starting time, print on the next row:
 
-- "**mm minutes before the start**" за идване по-рано с по-малко от час.
-- "**hh:mm hours before the start**" за подраняване с 1 час или повече. Минутите винаги печатайте с 2 цифри, например "1:05".
-- "**mm minutes after the start**" за закъснение под час.
-- "**hh:mm hours after the start**" за закъснение от 1 час или повече. Минутите винаги печатайте с 2 цифри, например "1:03".
+- "**mm minutes before the start**" for arriving less than an hour earlier.
+- "**hh:mm hours before the start**" for arriving 1 hour or more earlier. Always print minutes using 2 digits, for example "1:05".
+- "**mm minutes after the start**" for arriving more than an hour late.
+- "**hh:mm hours after the start**" for arriving late with 1 hour or more. Always print minutes using 2 digits, for example "1:03".
 
 ### Sample Input and Output
 
