@@ -1,3 +1,3 @@
 ## Exam Problems
 
-Сега, след като си припомнихме как се използват условни конструкции и как се влагат една в друга условни конструкции, за реализиране на по-сложни проверки и програмна логика, нека решим няколко изпитни задачи.
+Now, after we refreshed our knowledge on how to use and nest conditional statements in order to implement more complex conditions and program logic, let's solve some exam problems.
