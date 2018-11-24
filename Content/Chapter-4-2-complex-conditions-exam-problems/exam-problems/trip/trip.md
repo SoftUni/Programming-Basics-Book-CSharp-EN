@@ -1,32 +1,32 @@
-## Problem: пътешествие
+## Problem: Trip
 
-Странно, но повечето хора си плануват от рано почивката. Млад програмист разполага с **определен бюджет** и свободно време в даден **сезон**.
+It is strange, but most people start planning their vacations well in advance. A young programmer has **certain budget** and spare time in a particular **season**.
 
-Напишете програма, която да приема **на входа бюджета и сезона**, а **на изхода** да изкарва **къде ще почива** програмистът и **колко ще похарчи**.
+Write a program that accepts **as input the budget and season**, and **as output** displays programmer's **vacation place**  and **the amount of money they will spend**.
 
-**Бюджетът определя дестинацията, а сезонът определя колко от бюджета ще бъде изхарчен**. Ако е **лято**, ще почива на **къмпинг**, а **зимата - в хотел**. Ако е в **Европа**, **независимо от сезона**, ще почива в **хотел**. Всеки **къмпинг** или **хотел**, **според дестинацията**, има **собствена цена**, която отговаря на даден **процент от бюджета**:
+**The budget determines the destination, and the season determines what amount of the budget will be spent**. If the season is **summer**, the programmer will go **camping**, if it is **winter - they will stay in a hotel**. If it is in **Europe**, **regardless of the season**, the programmer will stay in a **hotel**. Each **camp** or **hotel**, **according to the destination**, has **its own price**, which corresponds to a particular **percentage of the budget**:
 
-- При **100 лв. или по-малко** – някъде в **България**.
-  - **Лято** – **30%** от бюджета.
-  - **Зима** – **70%** от бюджета.
-- При **1000 лв. или по малко** – някъде на **Балканите**.
-  - **Лято** – **40%** от бюджета.
-  - **Зима** – **80%** от бюджета.
-- При **повече от 1000 лв**. – някъде из **Европа**.
-  - При пътуване из Европа, независимо от сезона, ще похарчи **90% от бюджета**.
+- If **100 BGN or less** – somewhere in **Bulgaria**.
+  - **Summer** – **30%** of the budget.
+  - **Winter** – **70%** of the budget.
+- If **1000 BGN or less** – somewhere on the **Balkans**.
+  - **Summer** – **40%** of the budget.
+  - **Winter** – **80%** of the budget.
+- If **more than 1000 BGN** – somewhere in **Europe**.
+  - Upon travelling in Europe, regardless of the season, the programmer will spend **90% of the budget**.
 
 ### Input Data
 
-Входът се чете от конзолата и се състои от **два реда**:
+The input data will be read from the console and will consist of **two rows**:
 
-- На **първия** ред получаваме **бюджета** - **реално число** в интервал [**10.00 … 5000.00**].
-- На **втория** ред – **един** от двата възможни сезона: "**summer**" или "**winter**".
+- On the **first** row we receive **the budget** - **real number** in the range [**10.00 … 5000.00**].
+- On the **second** row – **one** of the two possible seasons: "**summer**" or "**winter**".
 
 ### Output Data
 
-На конзолата трябва да се отпечатат **два реда**.
+**Two rows** must be printed in the console.
 
-- На **първи** ред – "**Somewhere in {дестинация}**" измежду "**Bulgaria**", "**Balkans**" и "**Europe**".
+- On the **first** row – "**Somewhere in {destination}**" измежду "**Bulgaria**", "**Balkans**" и "**Europe**".
 - На **втори** ред – "{**Вид почивка**} – {**Похарчена сума**}".
   - **Почивката** може да е между "**Camp**" и "**Hotel**".
   - **Сумата** трябва да е **закръглена с точност до втория символ след десетичния знак**.
