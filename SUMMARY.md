@@ -268,7 +268,7 @@
     * [Problem: On Time for the Exam](Content/Chapter-4-2-complex-conditions-exam-problems/exam-problems/on-time-for-the-exam/on-time-for-the-exam.md)
       * [Processing the Input Data](Content/Chapter-4-2-complex-conditions-exam-problems/exam-problems/on-time-for-the-exam/process-input-data.md)
       * [Calculating Exam Start Time and Student Arrival Time](Content/Chapter-4-2-complex-conditions-exam-problems/exam-problems/on-time-for-the-exam/calc-exam-start-time-and-student-arrival-time.md)
-      * [Checking if the Student Arrived on Time or They Were Late](Content/Chapter-4-2-complex-conditions-exam-problems/exam-problems/on-time-for-the-exam/check-if-student-is-late.md)
+      * [Checking If the Student Arrived on Time or They Were Late](Content/Chapter-4-2-complex-conditions-exam-problems/exam-problems/on-time-for-the-exam/check-if-student-is-late.md)
       * [Calculating Time Difference](Content/Chapter-4-2-complex-conditions-exam-problems/exam-problems/on-time-for-the-exam/calc-time-difference.md)
       * [Printing the Result](Content/Chapter-4-2-complex-conditions-exam-problems/exam-problems/on-time-for-the-exam/print-output.md)
     * [Problem: Trip](Content/Chapter-4-2-complex-conditions-exam-problems/exam-problems/trip/trip.md)
