@@ -1,13 +1,13 @@
-#### Изчисляване началния час на изпита и времето на пристигане на студента
+#### Calculating Exam Start Time and Student Arrival Time
 
-След като прочетохме входа, можем да започнем да разписваме логиката за изчисление на резултата. Нека първо да изчислим **началния час** на изпита **в минути** за по-лесно и точно сравнение.
+After reading the input data, we can now start writing the logic for calculating the result. Let's first calculate the **start time** of the exam **in minutes** for easier and more accurate comparison.
 
 ![](/assets/chapter-4-2-images/01.On-time-for-the-exam-03.png)
 
-Нека изчислим по същата логика и **времето на пристигане** на студента.
+Let's also calculate the **student arrival time** using the same logic.
 
 ![](/assets/chapter-4-2-images/01.On-time-for-the-exam-04.png)
 
-Остава ни да пресметнем разликата в двете времена, за да можем да определим **кога** и с **какво време спрямо изпита** е пристигнал студентът.
+What remains is to calculate the difference between the two times, in order to determine **when** and **what time compared to the exam time** the student arrived at.
 
 ![](/assets/chapter-4-2-images/01.On-time-for-the-exam-05.png)
