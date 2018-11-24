@@ -1,9 +1,9 @@
-#### Изчисляване разликата между времената
+#### Calculating Time Difference
 
-За финал ни остава да разберем и покажем с **каква разлика от времето на изпита е пристигнал**, както и дали тази разлика показва време на пристигане **преди или след изпита**.
+Finally, we need to understand and print **what is the time difference between exam start time and student arrival time**, as well as whether this time difference indicates time of arrival **before or after the exam start**.
 
-Правим проверка дали разликата ни е **над** един час, за да изпишем съответно часове и минути в желания по задание **формат**, или е **под** един час, за да покажем **само минути** като формат и описание. 
+We check whether the time difference is **more than** one hour, in order to print hours and minutes in the required **format**, or **less than** one hour, in order to print **only minutes** as a format and description. 
 
-Остава да направим още една проверка - дали времето на пристигане на студента е **преди** или **след** началото на изпита.
+We also need to do one more check - whether the time of student's arival is **before** or **after** the exam start time.
 
 ![](/assets/chapter-4-2-images/01.On-time-for-the-exam-07.png)
