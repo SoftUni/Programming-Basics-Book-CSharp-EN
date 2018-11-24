@@ -1,15 +1,15 @@
-## Вложени проверки
+## Nested Conditions
 
 ```csharp
 if (condition1)
 {
     if (condition2)
-        // тяло; 
+        // body; 
     else
-        // тяло;
+        // body;
 }
 ```
 
 <table><tr><td><img src="/assets/alert-icon.png" style="max-width:50px" /></td>
-<td>Запомнете, че не е добра практика да пишете **дълбоко вложени условни конструкции** (с ниво на влагане повече от три). Избягвайте влагане на повече от три условни конструкции една в друга. Това усложнява кода и затруднява неговото четене и разбиране.</td>
+<td>Remember that it is not a good practice to write **deeply nested conditional statements** (with more than three levels of nesting). Aviod nesting of more than three conditional statements inside one another. This complicates the code and makes its reading and understanding difficult.</td>
 </tr></table>
