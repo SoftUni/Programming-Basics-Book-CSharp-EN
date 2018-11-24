@@ -1,9 +1,9 @@
 #### Processing the Input Data
 
-Съгласно заданието очакваме да ни бъдат подадени **четири** поредни реда с различни **цели числа**. Разглеждайки дадените параметри можем да се спрем на типа **`int`**, тъй като той удовлетворява очакваните ни стойности. Едновременно **четем** входа и **парсваме** стринговата стойност към избрания от нас тип данни за **цяло число**.
+According to the assignment, we expect **four** rows containing different **integers** to be passed. Examining the provided parameters, we can use the **`int`** type, as it is suitable for the expected values. We simultaneously **read** the input data and **parse** the string value to the selected data type for **integer**.
 
 ![](/assets/chapter-4-2-images/01.On-time-for-the-exam-01.png)
 
-Разглеждайки очаквания изход можем да създадем променливи, които да съдържат различните видове изходни данни, с цел да избегнем използването на т.нар. **"magic strings"** в кода.
+Examining the expected output, we can create variables that contain the different output data types, in order to avoid using the so called **"magic strings"** in the code.
 
 ![](/assets/chapter-4-2-images/01.On-time-for-the-exam-02.png)
