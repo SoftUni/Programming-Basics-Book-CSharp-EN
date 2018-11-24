@@ -1,22 +1,22 @@
-## Switch-case проверки
+## Switch-case Conditions
 
-Когато работата на програмата ни зависи от стойността на една променлива, вместо да правим последователни проверки с множество `if-else` блокове, можем да използваме условната конструкция `switch-case`.
+When the program operation does not depend on the value of a variable, instead of doing consecutive checks with multiple `if-else` blocks, we can use the `switch-case` conditional statement.
 
 ```csharp
-switch (селектор)
+switch (selector)
 {
-    case стойност1
-        конструкция;
+    case value1
+        statement;
         break;
-    case стойност2
-        конструкция;
+    case value2
+        statement;
         break;
     default
-        конструкция;
+        statement;
         break;
 }
 ```
 
-Конструкцията се състои от
- Селектор - израз, който се изчислява до някаква конкретна стойност. Типът на селектора може да бъде цяло число, string или enum.
- Множество `case` етикети с команди след тях, завършващи с `break`.
+The structure consists of
+ Selector - an expression that calculates a particular value. The selector type can be an integer, string or enum.
+ Multiple `case` labels followed by commands, ending in a `break`.
