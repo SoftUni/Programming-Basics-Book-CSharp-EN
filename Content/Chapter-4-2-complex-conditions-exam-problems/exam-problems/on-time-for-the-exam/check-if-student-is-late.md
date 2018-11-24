@@ -1,14 +1,14 @@
-#### Проверяване дали студентът е пристигнал навреме или е закъснял
+#### Checking If the Student Arrived on Time or They Were Late
 
-Следващата ни стъпка е да направим необходимите **проверки и изчисления**, като накрая ще изведем резултата от тях. Нека разделим изхода на **две** части: 
+Our next step is to do the required **checks and calculations**, and finally we will print the output. Let's separate the code into **two** parts: 
 
-- Първо да покажем кога е пристигнал студентът - дали е **подранил**, **закъснял** или е пристигнал **навреме**. За целта ще се спрем на **`if-else`** конструкция. 
-- След това ще покажем **времевата разлика**, ако студентът пристигне в **различно време** от началния **час на изпита**.
+- First, let's show when the student arrived - were they **early**, **late** or **on time**. In order to do that, we will use an **`if-else`** statement. 
+- After that, we will show the **time difference**, if the student arrives in a **different time** compared to the **exam starting time**.
 
-С цел да спестим една допълнителна проверка (**`else`**), можем по подразбиране да приемем, че студентът е закъснял. 
+In order to spare one additional check (**`else`**), we can, by default, assume that the student was late. 
 
-След което, съгласно условието, проверяваме дали разликата във времената е **повече от 30 минути**. Ако това е така, приемаме, че е **подранил**. Ако не влезем в първото условие, то следва да проверим само дали **разликата е по-малка или равна на нула (**`<= 0`**)**, с което проверяваме условието, студентът да е дошъл в рамките на от **0 до 30 минути** преди изпита. 
+After that, according to the condition, we will check whether the difference in times is **more than 30 minutes**. If this is true, we assume that the student is **early**. If we do not match the first condition, we need to check if **the difference is less than or equal to zero (**`<= 0`**)**, by which we are checking the condition whether the student arrived within the range of **0 to 30 minutes** before the exam. 
 
-При всички останали случаи приемаме, че студентът е **закъснял**, което сме направили **по подразбиране**, и не е нужна допълнителна проверка.
+In all other cases we assume that the student **was late**, which we set as **default**, and no additional check is needed.
 
 ![](/assets/chapter-4-2-images/01.On-time-for-the-exam-06.png)
