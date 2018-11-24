@@ -11,7 +11,7 @@ Read the following **four integers** (one on each row) from the console:
 - The first row contains **exam starting time (hours)** – an integer from 0 to 23.
 - The second row contains **exam starting time (minutes)** – an integer from 0 to 59.
 - The third row contains **hour of arrival** – an integer from 0 to 23.
-- The fourth row contains **monutes of arrival** – an integer from 0 to 59.
+- The fourth row contains **minutes of arrival** – an integer from 0 to 59.
 
 ### Output Data
 
@@ -19,9 +19,9 @@ Print the following on the first row:
 
 - "**Late**", if the student arrives **later** compared to the exam starting time.
 - "**On time**", if the student arrives **exactly** at the exam starting time or up to 30 minutes earlier.
-- "**Early**", if the student arrives more than 30 minutes **befire** the exam starting time.
+- "**Early**", if the student arrives more than 30 minutes **before** the exam starting time.
 
-If the sturent arrives with more than one minute difference compared to the exam starting time, print on the next row:
+If the student arrives with more than one minute difference compared to the exam starting time, print on the next row:
 
 - "**mm minutes before the start**" for arriving less than an hour earlier.
 - "**hh:mm hours before the start**" for arriving 1 hour or more earlier. Always print minutes using 2 digits, for example "1:05".
