@@ -1,26 +1,26 @@
-## Problem: операции между числа
+## Problem: Operations with Numbers
 
-Напишете програма, която чете **две цели числа (n1 и n2)** и **оператор**, с който да се извърши дадена **математическа операция** с тях. Възможните операции са: **събиране** (**`+`**), **изваждане** (**`-`**), **умножение** (**`*`**), **деление** (**`/`**) и **модулно деление** (**`%`**). При събиране, изваждане и умножение на конзолата трябва да се отпечата резултата и дали той е **четен** или **нечетен**. При обикновено деление – **единствено резултата**, а при модулно деление – **остатъка**. Трябва да се има предвид, че **делителят може да е равен на нула** (**`= 0`**), а на нула не се дели. В този случай трябва да се отпечата **специално съобщение**.
+Write a program that reads **two integers (n1 and n2)** and an **operator** that performs a particular **mathematical operation** with them. Possible operations are: **summing up** (**`+`**), **subtraction** (**`-`**), **multiplying** (**`*`**), **division** (**`/`**) and **modular division** (**`%`**). Upon summing up, subtracting and multiplying, the console must print the result and display whether it is **even** or **odd** number. Upon regular division – **just the result**, and upon modular division – **the remainder**. You need to take into consideration the fact that **the divisor can be equal to zero** (**`= 0`**), and dividing by zero is not possible. In this case, a **special notification** must be printed.
 
 ### Input Data
 
-От конзолата се прочитат **3 реда**:
+**3 rows** are read from the console:
 
-- **N1** – **цяло число** в интервала [**0 … 40 000**].
-- **N2** – **цяло число** в интервала [**0 … 40 000**].
-- **Оператор** – **един символ** измежду: "**+**", "**-**", "**\***", "**/**", "**%**".
+- **N1** – **integer** within the range [**0 … 40 000**].
+- **N2** – **integer** within the range [**0 … 40 000**].
+- **Operator** – **one character** among: "**+**", "**-**", "**\***", "**/**", "**%**".
 
 ### Output Data
 
-Да се отпечата на конзолата **един ред**:
+Print **one row** in the console:
 
-- Ако операцията е **събиране**, **изваждане** или **умножение**:
-  - **"{N1} {оператор} {N2} = {резултат} – {even/odd}"**.
-- Ако операцията е **деление**:
-  - **"{N1} / {N2} = {резултат}"** – резултатът е **форматиран** до **втория символ след десетичния знак**.
-- Ако операцията е **модулно деление**:
-  - **"{N1} % {N2} = {остатък}"**.
-- В случай на **деление на 0 (нула)**:
+- If the operation is **summing up**, **subtraction** or **multiplying**:
+  - **"{N1} {operator} {N2} = {output} – {even/odd}"**.
+- If the operation is **division**:
+  - **"{N1} / {N2} = {output}"** – the result is **formatted** up **to the second digit after the decimal point**.
+- If the operation is **modular division**:
+  - **"{N1} % {N2} = {remainder}"**.
+- In case of **dividing by 0 (zero)**:
   - **"Cannot divide {N1} by zero"**.
 
 ### Sample Input and Output
