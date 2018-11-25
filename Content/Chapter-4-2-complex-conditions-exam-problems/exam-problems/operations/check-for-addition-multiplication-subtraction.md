@@ -1,7 +1,7 @@
-#### Проверяване за събиране, изваждане и умножение
+#### Condition for Summing Up, Subtraction and Multiplying
 
-Завършваме с проверките за събиране, изваждане и умножение:
+We finish the solution by applying conditions for summing up, subtraction and multiplying:
 
 ![](/assets/chapter-4-2-images/03.Operations-05.jpg)
 
-При кратки и ясни проверки, както в горния пример за четно и нечетно число, е възможно да се използва **тернарен оператор**. Нека разгледаме възможната проверка **с** и **без** тернарен оператор.
+For short and clear conditions, such as the above example for even and odd number, you can use a **ternary operator**. Let's examine the possibility to apply a condition **with** or **without** a ternary operator.
