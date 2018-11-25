@@ -1,4 +1,4 @@
-#### Checking for 0
+#### Condition for 0
 
 Let's create and initialize the variables needed for the logic and calculations. In one variable we will store **the calculations output**, and the other one we will use for the **final output** of the program.
 
