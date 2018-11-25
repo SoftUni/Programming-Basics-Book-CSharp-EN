@@ -1,9 +1,9 @@
-#### Printing the Result
+#### Printing the Output
 
-Накрая ни остава да покажем изчисления резултат на конзолата:
+Finally, what remains is to print the calculated result in the console:
 
 ![](/assets/chapter-4-2-images/03.Operations-08.png)
 
 ### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/509#2](https://judge.softuni.bg/Contests/Practice/Index/509#2).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/509#2](https://judge.softuni.bg/Contests/Practice/Index/509#2).
