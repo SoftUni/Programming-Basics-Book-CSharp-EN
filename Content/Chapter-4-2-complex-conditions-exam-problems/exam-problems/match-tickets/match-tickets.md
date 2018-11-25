@@ -1,45 +1,45 @@
-## Problem: билети за мач
+## Problem: Game Tickets
 
-**Група запалянковци** решили да си закупят **билети за Евро 2016**. Цената на билета се определя спрямо **две** категории:
+**A group of football fans** decided to buy **tickets for Euro Cup 2016**. The ticket price is distributed into **two** categories:
 
-- **VIP** – **499.99** лева.
-- **Normal** – **249.99** лева.
+- **VIP** – **499.99** BGN.
+- **Normal** – **249.99** BGN.
 
-Запалянковците **имат определен бюджет**, a **броят на хората** в групата определя какъв процент от бюджета трябва **да се задели за транспорт**:
+The football fans **have a shared budget**, and the **number of prople** in the group determines what percentage of the budget will be **spent on transportation**:
 
-- **От 1 до 4** – 75% от бюджета.
-- **От 5 до 9** – 60% от бюджета.
-- **От 10 до 24** – 50% от бюджета.
-- **От 25 до 49** – 40% от бюджета.
-- **50 или повече** – 25% от бюджета.
+- **1 to 4** – 75% of the budget.
+- **5 to 9** – 60% of the budget.
+- **10 to 24** – 50% of the budget.
+- **25 to 49** – 40% of the budget.
+- **50 or more** – 25% of the budget.
 
-**Напишете програма**, която да **пресмята дали с останалите пари от бюджета** могат да си **купят билети за избраната категория**, както и **колко пари** ще им **останат или ще са им нужни**.
+**Write a program** that **calculates whether the money left in the budget** will be enough for the football fans to **buy tickets in the selected category**, as well as **how much money** they will **have left or be insufficient**.
 
 ### Input Data
 
-Входът се чете от **конзолата** и съдържа **точно 3 реда**:
+The input data is read from the **console** and contains **exactly 3 rows**:
 
-- На **първия** ред е **бюджетът** – реално число в интервала [**1 000.00 … 1 000 000.00**].
-- На **втория** ред е **категорията** – "**VIP**" или "**Normal**".
-- На **третия** ред е **броят на хората в групата** – цяло число в интервала [**1 … 200**].
+- On the **first** row is the **budget** – real number within the range [**1 000.00 … 1 000 000.00**].
+- On the **second** row is the **category** – "**VIP**" or "**Normal**".
+- On the **third** row is the **number of people in the group** – an integer within the range [**1 … 200**].
 
 ### Output Data
 
-Да се **отпечата** на конзолата **един ред**:
+**Print the following** in the console as **one row**:
 
-- Ако **бюджетът е достатъчен**:
-  - "**Yes! You have {N} leva left.**" – където **N са останалите пари** на групата.
-- Ако **бюджетът НЕ Е достатъчен**:
-  - "**Not enough money! You need {М} leva.**" – където **М е сумата, която не достига**.
+- If the **budget is sufficient**:
+  - "**Yes! You have {N} leva left.**" – where **N is the amount of remaining money** for the group.
+- If the **budget is NOT sufficient**:
+  - "**Not enough money! You need {М} leva.**" – where **М is the amount that is insufficient**.
 
-**Сумите** трябва да са **форматирани с точност до два символа след десетичния знак**.
+**The amounts** must be **formatted up to the second digit after the decimal point**.
 
 ### Sample Input and Output
 
 | Input | Output | Обяснения |
 | --- | --- | --- |
-|1000<br>Normal<br>1|Yes! You have 0.01 leva left.|**1 човек : 75%** от бюджета отиват за **транспорт**.<br>**Остават:** 1000 – 750 = **250**.<br>Категория **Normal**: билетът **струва 249.99 * 1 = 249.99**<br>249.99 < 250: **остават му** 250 – 249.99 = **0.01**|
+|1000<br>Normal<br>1|Yes! You have 0.01 leva left.|**1 person : 75%** of the budget are spent on **transportation**.<br>**Remaining amount:** 1000 – 750 = **250**.<br>Category **Normal**: the ticket **price is 249.99 * 1 = 249.99**<br>249.99 < 250: **the person will have** 250 – 249.99 = **0.01** money left|
 
 | Input | Output | Обяснения |
 | --- | --- | --- |
-|30000<br>VIP<br>49|Not enough money! You need 6499.51 leva.|**49 човека: 40%** от бюджета отиват за **транспорт**.<br>Остават: 30000 – 12000 = 18000.<br>Категория **VIP**: билетът **струва** 499.99 * 49.<br>**24499.510000000002** < 18000.<br>**Не стигат** 24499.51 - 18000 = **6499.51**|
+|30000<br>VIP<br>49|Not enough money! You need 6499.51 leva.|**49 persons: 40%** of the budget are spent on **transportation**.<br>Remaining amount: 30000 – 12000 = 18000.<br>Category **VIP**: the ticket **costs** 499.99 * 49.<br>**24499.510000000002** < 18000.<br>**The amount is not enough** 24499.51 - 18000 = **6499.51**|
