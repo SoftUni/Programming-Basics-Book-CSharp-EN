@@ -1,11 +1,11 @@
-### Hints and Guidelines
+### Tips and Tricks
 
-Ще прочетем входните данни и ще извършим изчисленията, описани в условието на задачата, за да проверим дали ще стигнат парите.
+We will read the input data and perform the calculations described in the task requirements, in order to check if the money will be sufficient.
 
 #### Processing the Input Data
 
-Нека прочетем внимателно условието и да разгледаме какво се очаква да получим като **входни данни**, какво се очаква да **върнем като резултат**, както и кои са **основните стъпки** при разбиването **на логическата схема**.
+Let's read carefully the requirements and examine what we expect to receive as **input data**, what is expected to **return as a result**, as well as what are the **main steps** for understanding **the logical scheme**.
 
-Като за начало, нека обработим и запазим входните данни в **подходящи** за това **променливи**:
+For a start, let's process and save the input data in **appropriate variables**:
 
 ![](/assets/chapter-4-2-images/04.Match-tickets-01.png)
