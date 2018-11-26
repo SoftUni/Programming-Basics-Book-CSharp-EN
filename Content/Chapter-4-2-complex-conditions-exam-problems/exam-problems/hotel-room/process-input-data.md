@@ -1,11 +1,11 @@
-### Hints and Guidelines
+### Tips and Tricks
 
-Ще прочетем входните данни и ще извършим изчисленията според описания ценоразпис и правилата за отстъпките и накрая ще отпечатаме резултата.
+We will read the input data and do the calculations according to the provided price list and the discount rules, and finally print the result.
 
 #### Processing the Input Data
 
-Съгласно условието на задачата очакваме да получим два реда входни данни - на първия ред **месеца, през който се планува престой**, а на втория - **броя нощувки**.
+According to the task requirements we expect to receive two rows of input data - on the first row **the month in which the stay is planned**, and on the second one - **the number of stays**.
 
-Нека обработим и запазим входните данни в подходящи за това параметри:
+Let's process and store the input data in the appropriate parameters:
 
 ![](/assets/chapter-4-2-images/05.Hotel-room-01.png)
