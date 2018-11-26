@@ -1,13 +1,13 @@
-#### Изчисляване на транспортните разходи
+#### Calculating Transportation Costs
 
-Нека създадем и инициализираме нужните за изчисленията променливи:
+Let's create and initialize the variables needed for doing the calculations:
 
 ![](/assets/chapter-4-2-images/04.Match-tickets-02.png)
 
-Нека отново прегледаме условието. Трябва да направим **две** различни блок изчисления. 
+Let's review the requirements once again. We need to perform **two** different block calculations. 
 
-От първите изчисления трябва да разберем каква част от бюджета ще трябва да заделим за **транспорт**. За логиката на тези изчисления забелязваме, че има значение единствено **броят на хората в групата**. Следователно ще направим логическата разбивка спрямо броя на запалянковците.
+By the first set of calculations we must understand what part of the budget has to be spent on **transportation**. You will notice that the logic for doing these calculations only depends on the **number of people in the group**. Therefore, we will do a logical breakdown according to the number of football fans.
 
-Ще използваме условна конструкция - поредица от **`if-else`** блокове.
+We will use conditional statement - a sequence of **`if-else`** blocks.
 
 ![](/assets/chapter-4-2-images/04.Match-tickets-03.png)
