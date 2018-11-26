@@ -1,11 +1,11 @@
 ## Problem: Game Tickets
 
-**A group of football fans** decided to buy **tickets for Euro Cup 2016**. The ticket price is distributed into **two** categories:
+**A group of football fans** decided to buy **tickets for Euro Cup 2016**. The tickets are available in **two** price categories:
 
 - **VIP** – **499.99** BGN.
 - **Normal** – **249.99** BGN.
 
-The football fans **have a shared budget**, and the **number of prople** in the group determines what percentage of the budget will be **spent on transportation**:
+The football fans **have a shared budget**, and the **number of people** in the group determines what percentage of the budget will be **spent on transportation**:
 
 - **1 to 4** – 75% of the budget.
 - **5 to 9** – 60% of the budget.
@@ -19,9 +19,9 @@ The football fans **have a shared budget**, and the **number of prople** in the 
 
 The input data is read from the **console** and contains **exactly 3 rows**:
 
-- On the **first** row is the **budget** – real number within the range [**1 000.00 … 1 000 000.00**].
-- On the **second** row is the **category** – "**VIP**" or "**Normal**".
-- On the **third** row is the **number of people in the group** – an integer within the range [**1 … 200**].
+- The **first** row contains the **budget** – real number within the range [**1 000.00 … 1 000 000.00**].
+- The **second** row contains the **category** – "**VIP**" or "**Normal**".
+- The **third** row contains the **number of people in the group** – an integer within the range [**1 … 200**].
 
 ### Output Data
 
@@ -36,10 +36,10 @@ The input data is read from the **console** and contains **exactly 3 rows**:
 
 ### Sample Input and Output
 
-| Input | Output | Обяснения |
+| Input | Output | Explanations |
 | --- | --- | --- |
 |1000<br>Normal<br>1|Yes! You have 0.01 leva left.|**1 person : 75%** of the budget are spent on **transportation**.<br>**Remaining amount:** 1000 – 750 = **250**.<br>Category **Normal**: the ticket **price is 249.99 * 1 = 249.99**<br>249.99 < 250: **the person will have** 250 – 249.99 = **0.01** money left|
 
-| Input | Output | Обяснения |
+| Input | Output | Explanations |
 | --- | --- | --- |
 |30000<br>VIP<br>49|Not enough money! You need 6499.51 leva.|**49 persons: 40%** of the budget are spent on **transportation**.<br>Remaining amount: 30000 – 12000 = 18000.<br>Category **VIP**: the ticket **costs** 499.99 * 49.<br>**24499.510000000002** < 18000.<br>**The amount is not enough** 24499.51 - 18000 = **6499.51**|
