@@ -1,15 +1,15 @@
-#### Изчисляване на общите разходи
+#### Calculating Total Costs
 
-След като сме изчислили какви са **транспортните разходи** и **разходите за билети**, ни остава да изчислим крайния резултат и да разберем **ще успее** ли групата от запалянковци да отиде на Евро 2016 или **няма да успее** при така подадените параметри. 
+Once we have calculated the **transportation costs** and **ticket costs**, what remains is to calculate the end result and understand if the group of football fans will **attend** Euro Cup 2016 or **not**, provided the available parameters. 
 
-За извеждането на резултата, за да си спестим една **`else` проверка** в конструкцията, приемаме, че групата по подразбиране ще може да отиде на Евро 2016.
+For the output, in order to spare one **`else` condition** in the construction, we will assume that the group can, by default, attend Euro Cup 2016.
 
 ![](/assets/chapter-4-2-images/04.Match-tickets-05.png)
 
 #### Printing the Result
 
-Накрая ни остава да покажем изчисления резултат на конзолата.
+Finally, we need to display the calculated result in the console.
 
 ### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/509#3](https://judge.softuni.bg/Contests/Practice/Index/509#3).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/509#3](https://judge.softuni.bg/Contests/Practice/Index/509#3).
