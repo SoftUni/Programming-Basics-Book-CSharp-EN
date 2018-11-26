@@ -1,6 +1,6 @@
 ## Problem: Game Tickets
 
-**A group of football fans** decided to buy **tickets for Euro Cup 2016**. The tickets are available in **two** price categories:
+**A group of football fans** decide to buy **tickets for Euro Cup 2016**. The tickets are available in **two** price categories:
 
 - **VIP** – **499.99** BGN.
 - **Normal** – **249.99** BGN.
