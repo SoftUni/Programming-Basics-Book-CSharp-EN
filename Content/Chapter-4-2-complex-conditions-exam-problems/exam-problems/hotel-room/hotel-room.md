@@ -1,42 +1,42 @@
-## Problem: хотелска стая
+## Problem: Hotel Room
 
-Хотел предлага **два вида стаи**: **студио и апартамент**.
+A hotel offers **two types of rooms**: **studio or apartment**.
 
-Напишете програма, която изчислява **цената за целия престой за студио и апартамент**. **Цените** зависят от **месеца** на престоя:
+Write a program that calculates **the price of the whole stay for a studio and apartment**. **Prices** depend on the **month** of the stay:
 
-| **Май и октомври** | **Юни и септември** | **Юли и август** |
+| **May and October** | **June and September** | **July and August** |
 | --- | --- | --- |
-|Студио – **50** лв./нощувка|Студио – **75.20** лв./нощувка|Студио – **76** лв./нощувка|
-|Апартамент – **65** лв./нощувка|Апартамент – **68.70** лв./нощувка|Апартамент – **77** лв./нощувка|
+|Studio – **50** BGN/per night|Studio – **75.20** BGN/per night|Studio – **76** BGN/per night|
+|Apartment – **65** BGN/per night|Apartment – **68.70** BGN/per night|Apartment – **77** BGN/per night|
 
-Предлагат се и следните **отстъпки**:
+The following **discounts** are also offered:
 
-- За **студио**, при **повече** от **7** нощувки през **май и октомври**: **5% намаление**.
-- За **студио**, при **повече** от **14** нощувки през **май и октомври**: **30% намаление**.
-- За **студио**, при **повече** от **14** нощувки през **юни и септември**: **20% намаление**.
-- За **апартамент**, при **повече** от **14** нощувки, **без значение от месеца: 10% намаление**.
+- For a **studio**, in case of **more than 7** stays in **May and October**: **5% discount**.
+- For a **studio**, in case of **more than 14** stays in **May and October**: **30% discount**.
+- For a **studio**, in case of **more than 14** stays in **June and September**: **20% discount**.
+- For an **apartment**, in case of **more than 14** stays, **no limitation regarding the month: 10% discount**.
 
 ### Input Data
 
-Входът се чете от **конзолата** и съдържа **точно два реда**:
+The input data is read from the **console** and contains **exactly two rows**:
 
-- На **първия** ред е **месецът** – **May**, **June**, **July**, **August**, **September** или **October**.
-- На **втория** ред е **броят на нощувките** – **цяло число в интервала** [**0 … 200**].
+- The **first** row contains the **month** – **May**, **June**, **July**, **August**, **September** or **October**.
+- The **second** row is the **number of stays** – **integer within the range** [**0 … 200**].
 
 ### Output Data
 
-Да се **отпечатат** на конзолата **два реда**:
+**Print** the following **two rows** in the console:
 
-- На **първия ред**: "**Apartment: { цена за целият престой } lv**".
-- На **втория ред**: "**Studio: { цена за целият престой } lv**".
+- On the **first row**: "**Apartment: { price for the whole stay } lv**".
+- On the **second row**: "**Studio: { price for the whole stay } lv**".
 
-**Цената за целия престой да е форматирана с точност до два символа след десетичния знак**.
+**The price for the whole stay must be formatted up to two symbols after the decimal point**.
 
 ### Sample Input and Output
 
 | Input | Output | Comments |
 | --- | --- | --- |
-|May<br>15|Apartment: 877.50 lv.<br>Studio: 525.00 lv.| През **май**, при повече от **14 нощувки**, намаляваме цената на **студиото с 30%** (50 – 15 = 35), а на **апартамента – с 10%** (65 – 6.5 =58.5).<br>Целият престой в **апартамент – 877.50** лв.<br>Целият престой **в студио – 525.00** лв.|
+|May<br>15|Apartment: 877.50 lv.<br>Studio: 525.00 lv.| In **May**, in case of more than **14 stays**, the discount for a **studio is 30%** (50 – 15 = 35), and the **apartment – 10%** (65 – 6.5 =58.5).<br>The whole stay in the **apartment – 877.50** lv.<br>The whole stay **in the studio  – 525.00** lv.|
 
 | Input | Output |
 | --- | --- |
