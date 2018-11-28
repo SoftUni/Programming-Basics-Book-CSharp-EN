@@ -1,6 +1,6 @@
-#### Изчисляване цените за престой през Юни, Септември, Юли и Октомври
+#### Calculating Prices for Stay in June, September, July and August
 
-За следващите месеци **логиката** и **изчисленията** ще са донякъде **идентични**. 
+To some extent, the **logic** and **calculations** will be **identical** for the following months. 
 
 ![](/assets/chapter-4-2-images/05.Hotel-room-04.png)
 
