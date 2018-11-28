@@ -1,16 +1,16 @@
-#### Форматиране на изходните данни
+#### Formatting the Output Data
 
-След като изчислихме какви са съответните цени и крайната сума за престоя - нека да си изведем във форматиран вид резултата, като преди това го запишем в изходните ни **параметри** - **`studioInfo`** и **`apartmentInfo`**.
+After calculating the relevant prices and the total amount for the stay, now let's prepare the formatted result. Before that, we should store it in our output **parameters** - **`studioInfo`** and **`apartmentInfo`**.
 
 ![](/assets/chapter-4-2-images/05.Hotel-room-06.png)
 
-За изчисленията на изходните параметри използваме **метода** **`decimal.Round(Decimal, Int32)`**.
-Този метод **закръгля десетично** число до **зададен брой цифри** след десетичния знак. За целта, подаваме на метода данни от тип **`decimal`** (**`studioRent`**, **`apartamentPrice`**) и цяло число (**`int`**). В нашия случай ще закръглим десетичното число до **две цифри** след десетичната точка.
+In order to calculate the output parameters, we will use the **`decimal.Round(Decimal, Int32)`** **method** .
+This method **rounds the decimal** number up to a **specified number of characters** after the decimal point. To do that, we pass to the method **`decimal`** (**`studioRent`**, **`apartamentPrice`**) and integer (**`int`**) data types. In our case, we will round the decimal number up to **two digits** after the decimal point.
 
 #### Printing the Result
 
-Накрая остава да покажем изчислените резултати на конзолата.
+Finally, what remains is to print the calculated results in the console.
 
 ### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/509#4](https://judge.softuni.bg/Contests/Practice/Index/509#4).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/509#4](https://judge.softuni.bg/Contests/Practice/Index/509#4).
