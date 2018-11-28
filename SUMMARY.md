@@ -292,7 +292,7 @@
     * [Processing the Input Data](Content/Chapter-4-2-complex-conditions-exam-problems/exam-problems/hotel-room/process-input-data.md)
     * [Creating Helper Variables](Content/Chapter-4-2-complex-conditions-exam-problems/exam-problems/hotel-room/create-helper-variables.md)
     * [Calculating Prices for Stay in May and October](Content/Chapter-4-2-complex-conditions-exam-problems/exam-problems/hotel-room/calc-prices-for-may-october.md)
-    * [Calculating Prices for Stay in June, September, July and October](Content/Chapter-4-2-complex-conditions-exam-problems/exam-problems/hotel-room/calc-prices-for-june-september-and-july-august.md)
+    * [Calculating Prices for Stay in June, September, July and August](Content/Chapter-4-2-complex-conditions-exam-problems/exam-problems/hotel-room/calc-prices-for-june-september-and-july-august.md)
     * [Formatting the Output Data](Content/Chapter-4-2-complex-conditions-exam-problems/exam-problems/hotel-room/format-and-print-output-data.md)
 * [5.1. Repetitions \(Loops\)](Content/Chapter-5-1-loops/overview.md)
   * [Repetitions of Code Blocks (for a Loop)](Content/Chapter-5-1-loops/for-loop/for-loop.md)
