@@ -1,9 +1,9 @@
-#### Hints and Guidelines
+#### Tips and Tricks
 
-Прочитаме входния текст **`s`**, зануляваме сумата и завъртаме цикъл от **0** до **`s.Length-1`** (дължината на текста -1). Проверяваме всяка буква **`s[i]`** дали е гласна и съответно добавяме към сумата стойността ѝ.
+We read the input text **`s`**, null the sum and run a loop from **0** to **`s.Length-1`** (text length -1). We check each letter **`s[i]`** and verify if it is a vowel, and accordingly, add its value to the sum.
 
 ![](/assets/chapter-5-images/09.Vowels-sum-01.png)
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/510#8](https://judge.softuni.bg/Contests/Practice/Index/510#8).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/510#8](https://judge.softuni.bg/Contests/Practice/Index/510#8).
