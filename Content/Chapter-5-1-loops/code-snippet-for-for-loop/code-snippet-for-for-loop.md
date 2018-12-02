@@ -1,7 +1,7 @@
-## Code Snippet за for цикъл във Visual Studio
+## Code Snippet for For Loop in Visual Studio
 
-Докато програмираме, постоянно се налага да пишем цикли, десетки пъти всеки ден. Затова в повечето среди за разработка (IDE) има **шаблони за код** (**code snippets**) за писане на цикли. Един такъв шаблон е **шаблонът за `for` цикъл във Visual Studio**. Напишете **`for`** в редактора за C# код във Visual Studio и **натиснете два пъти** [**Tab**]. Visual Studio ще разгъне за вас шаблон и ще напише цялостен **`for` цикъл**:
+In software development, we regularly need to write loops, dozens of times a day. This is why in most development environments (IDE) there are **code snippets** for writing loops. An example of such snippet is the **snippet for `for` loop in Visual Studio**. Write **`for`** in the C# code editor in Visual Studio and **hit** [**Tab**] **twice**. Visual Studio Will open a snippet for you and write a full **`for` loop**:
 
 ![](/assets/chapter-5-images/00.For-loop-code-snippet-01.png)
 
-**Опитайте сами**, за да усвоите умението да ползвате шаблона за код за **`for` цикъл** във Visual Studio.
+**Try it yourselves**, in order to master the skill of using the code snippet for **`for` loop** in Visual Studio.
