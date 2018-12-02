@@ -1,13 +1,13 @@
-### Example: всички латински букви
+### Example: All Latin Letters
 
-Да се напише програма, която отпечатва буквите от латинската азбука: **a, b, c, …, z**.
+Write a program that prints the letters of the English Alphabet: **a, b, c, …, z**.
 
-#### Hints and Guidelines
+#### Tips and Tricks
 
-Полезно е да се знае, че **`for` циклите** не работят само с числа. Може да решим задачата като завъртим **`for` цикъл**, който преминава последователно през всички букви от латинската азбука:
+It is good to know that the **`for` loops** don't only work with numbers. We can solve the task by running a **`for` loop** that passes sequentially through all letters in the English alphabet:
 
 ![](/assets/chapter-5-images/03.Latin-letters-01.png)
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/510#2](https://judge.softuni.bg/Contests/Practice/Index/510#2).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/510#2](https://judge.softuni.bg/Contests/Practice/Index/510#2).
