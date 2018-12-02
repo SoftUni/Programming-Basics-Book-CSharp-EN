@@ -1,6 +1,6 @@
-### Example: четна / нечетна сума
+### Example: Even / Odd Sum
 
-Да се напише програма, която въвежда **n цели числа** и проверява дали **сумата на числата на четни позиции** е равна на **сумата на числата на нечетни позиции**. При равенство печата **"Yes" + сумата**, иначе печата **"No" + разликата**. Разликата се изчислява по абсолютна стойност. Форматът на изхода трябва да е като в примерите по-долу.
+Write a program that inputs **n integers** and checks whether **the sum of the numbers on even positions** is equal to **the sum of the numbers on odd positions**. In case the sums are equal, print **"Yes" + the sum**, otherwise, print **"No" + the difference**. The difference is calculated by absolute value. The format of the output must be identical to the examples below.
 
 #### Sample Input and Output
 
