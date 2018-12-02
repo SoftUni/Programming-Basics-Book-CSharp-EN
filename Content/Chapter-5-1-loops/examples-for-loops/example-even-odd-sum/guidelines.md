@@ -1,9 +1,9 @@
-#### Hints and Guidelines
+#### Tips and Tricks
 
-Въвеждаме числата едно по едно и изчисляваме двете **суми** (на числата на **четни** позиции и на числата на **нечетни** позиции). Както в предходната задача, изчисляваме абсолютната стойност на разликата и отпечатваме резултата (**"Yes" + сумата** при разлика 0 или **"No" + разликата** в противен случай).
+We input the numbers one by one and calculate the two **sums** (of the numbers on **even** positions and the numbers on **odd** positions). Identically to the previous problem, we calculate the absolute value of the difference and print the result (**"Yes" + the sum** in case of difference of 0 or **"No" + the difference** in any other case).
 
 ![](/assets/chapter-5-images/08.Odd-even-sum-01.png)
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/510#7](https://judge.softuni.bg/Contests/Practice/Index/510#7).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/510#7](https://judge.softuni.bg/Contests/Practice/Index/510#7).
