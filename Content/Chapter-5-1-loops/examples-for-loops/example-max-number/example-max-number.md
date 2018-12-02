@@ -1,6 +1,6 @@
-### Example: най-голямо число
+### Example: The Max Number
 
-Да се напише програма, която въвежда **n цели числа** (**n** > 0) и намира **най-голямото** измежду тях. На първия ред на входа се въвежда броят числа **n**. След това се въвеждат самите числа, по едно на ред. Примери:
+Write a program that inputs **n integers** (**n** > 0) and finds **the max number** among them. On the first row of the input, enter the number of integers **n**. After that, enter the numbers themselves, one by one. Examples:
 
 #### Sample Input and Output
 
