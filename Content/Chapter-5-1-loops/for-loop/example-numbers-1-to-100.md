@@ -1,19 +1,19 @@
-### Example: числа от 1 до 100
+### Example: Numbers from 1 to 100
 
-Да се напише програма, която **печата числата от 1 до 100**. Програмата не приема вход и отпечатва числата от 1 до 100 едно след друго, по едно на ред.
+Write a program that **prints the numbers from 1 to 100**. The program does not accept input and prints the numbers from 1 to 100 sequentially, one on each row.
 
-#### Hints and Guidelines
+#### Tips and Tricks
 
-Можем да решим задачата с **`for` цикъл** , с който преминаваме с променливата **`i`** през числата от 1 до 100 и ги печатаме в тялото на цикъла:
+We can solve the problem using a **`for` loop** , via which we will pass through the numbers from 1 to 100 using the **`i`** variable, and print the numbers in the body of the loop:
 
 ![](/assets/chapter-5-images/01.Numbers-1-to-100-01.png)
 
-**Стартираме** програмата с [**Ctrl+F5**] и я **тестваме**:
+**Start** the program using [**Ctrl+F5**] and **test it**:
 
 ![](/assets/chapter-5-images/01.Numbers-1-to-100-02.png)
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/510#0](https://judge.softuni.bg/Contests/Practice/Index/510#0).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/510#0](https://judge.softuni.bg/Contests/Practice/Index/510#0).
 
-Трябва да получите **100 точки** (напълно коректно решение).
+You should receive **100 points** (fully accurate solution).
