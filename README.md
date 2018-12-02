@@ -3,7 +3,7 @@
 The book "**Programming Basics with C#**" introduces the readers to writing **programming code** at beginner level (variables and data, conditional statements, loops and methods) using the **C#** language.
 
 > **Warning**: the transaltion of this book from its original Bulgarian language version is **not cempleted**.
-> This is unfinished work. Once we finish it, we shall publish it in PDF / MOBI / other formats.
+> This is unfinished work. Once we finish it, we shall publish the book in PDF / MOBI / other formats.
 
 <img src = "/assets/CSharp-Programming-Basics-Book-Cover.png" alt = "Programming Basics with C# - book cover" readme-book-cover-image />
 
