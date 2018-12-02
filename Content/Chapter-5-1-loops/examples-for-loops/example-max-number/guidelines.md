@@ -1,9 +1,9 @@
-#### Hints and Guidelines
+#### Tips and Tricks
 
-Първо въвеждаме едно число **`n`** (броят числа, които предстои да бъдат въведени). Задаваме на текущия максимум **`max`** първоначална неутрална стойност, например **-10000000000000** (или **`int.MinValue`**). С помощта на **`for` цикъл**, чрез който итерираме **n-1 пъти**, прочитаме по едно цяло число **`num`**. Ако прочетеното число **`num`** е по-голямо от текущия максимум **`max`**, присвояваме стойността на **`num`** в променливата **`max`**. Накрая, в **`max`** трябва да се е запазило най-голямото число. Отпечатваме го на конзолата.
+We will first enter one number **`n`** (the number of integers that are about to be entered). We assign the current maximum **`max`** an initial neutral value, for example **-10000000000000** (or **`int.MinValue`**). Using a **`for` loop** that is iterated **n-1 times**, we read one integer **`num`** on each iteration. If the read number **`num`** is higher than the current maximum **`max`**, we assign the value of the **`num`** to the **`max`** variable. Finally, in **`max`** we must have stored the highest number. We print the number in the console.
 
 ![](/assets/chapter-5-images/05.Max-number-01.png)
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/510#4](https://judge.softuni.bg/Contests/Practice/Index/510#4).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/510#4](https://judge.softuni.bg/Contests/Practice/Index/510#4).
