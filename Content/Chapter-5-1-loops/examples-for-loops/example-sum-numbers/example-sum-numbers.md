@@ -1,10 +1,10 @@
-### Example: сумиране на числа
+### Example: Summing up Numbers
 
-Да се напише програма, която **въвежда `n` цели числа и ги сумира**.
+Write a program that **inputs `n` integers and sums them up**.
 
-* От първия ред на входа се въвежда броят числа **`n`**.
-* От следващите **`n`** реда се въвежда по едно число.
-* Числата се сумират и накрая се отпечатва резултатът.
+* On the first row of the input, enter the number of integers **`n`**.
+* Enter one number on each of the following **`n`** rows.
+* Sum up the numbers and finally print the result.
 
 #### Sample Input and Output
 
