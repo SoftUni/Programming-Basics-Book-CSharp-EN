@@ -1,13 +1,13 @@
-### Example: числа до 1000, завършващи на 7
+### Example: Numbers up to 1000, Ending in 7
 
-Да се напише програма, която намира всички числа в интервала [**1 … 1000**], които завършват на 7. 
+Write a program that finds numbers within the range [**1 … 1000**], that end in 7. 
 
-#### Hints and Guidelines
+#### Tips and Tricks
 
-Задачата можем да решим като комбинираме **`for` цикъл** за преминаваме през числата от 1 до 1000 и **проверка** за всяко число дали завършва на 7. Има и други решения, разбира се, но нека решим задачата чрез **завъртане на цикъл + проверка**:
+We can solve the problem by combining a **`for` loop** for passing through the numbers from 1 to 1000 and a **condition** to check if each of the numbers ends in 7. Of course, there are other solutions also, but let's solve the problem using a **loop + condition**:
 
 ![](/assets/chapter-5-images/02.Numbers-ending-in-7-01.png)
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/510#1](https://judge.softuni.bg/Contests/Practice/Index/510#1).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/510#1](https://judge.softuni.bg/Contests/Practice/Index/510#1).
