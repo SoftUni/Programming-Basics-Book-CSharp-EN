@@ -1,9 +1,9 @@
-#### Hints and Guidelines
+#### Tips and Tricks
 
-Първо въвеждаме числото **n**, след това първите **n** числа (**лявата** половина) и ги сумираме. Продължаваме с въвеждането на още **n** числа (**дясната** половина) и намираме и тяхната сума. Изчисляваме **разликата** между намерените суми по абсолютна стойност: **`Math.Abs(leftSum - rightSum)`**. Ако разликата е **0**, отпечатваме **"Yes" + сумата**, в противен случай - отпечатваме **"No" + разликата**.
+We will first input the number **n**, after that the first **n** numbers (**left** half) and sum them up. We will then proceed with inputting more **n** numbers (**the right** half) and sum them up. We calculate the **difference** between the sums by absolute value: **`Math.Abs(leftSum - rightSum)`**. If the difference is **0**, print **"Yes" + the sum**, otherwise - print **"No" + the difference**.
 
 ![](/assets/chapter-5-images/07.Left-and-right-sum-01.png)
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/510#6](https://judge.softuni.bg/Contests/Practice/Index/510#6).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/510#6](https://judge.softuni.bg/Contests/Practice/Index/510#6).
