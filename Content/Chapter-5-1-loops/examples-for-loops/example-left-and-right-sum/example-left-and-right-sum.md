@@ -1,6 +1,6 @@
-### Example: лява и дясна сума
+### Example: Left and Right Sum
 
-Да се напише програма, която въвежда **2 \* n цели числа** и проверява дали **сумата на първите n числа** (лява сума) е равна на **сумата на вторите n числа** (дясна сума). При равенство се печата **"Yes" + сумата**, иначе се печата **"No" + разликата**. Разликата се изчислява като положително число (по абсолютна стойност). Форматът на изхода трябва да е като в примерите по-долу.
+Write a program that converts **2 \* n integers** and checks whether **the sum of the first n integers** (left sum) equals the **sum of the second n numbers** (right sum). In case the sums are equal, print **"Yes" + the sum**, otherwise print **"No" + the difference**. The difference is calculated as a positive number (by absolute value). The format of the output must be identical to the one in the examples below.
 
 #### Sample Input and Output
 
