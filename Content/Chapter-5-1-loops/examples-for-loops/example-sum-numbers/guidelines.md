@@ -1,15 +1,15 @@
-#### Hints and Guidelines
+#### Tips and Tricks
 
-Можем да решим задачата за сумиране на числа по следния начин:
- - Четем входното число **`n`**.
- - Започваме първоначално със сума **`sum = 0`**.
- - Въртим цикъл от 1 до **`n`**. На всяка стъпка от цикъла четем число **`num`** и го добавяме към сумата **`sum`**.
- - Накрая отпечатваме получената сума **`sum`**.
+We can solve the problem with summing up numbers in the following way:
+ - We read the input number **`n`**.
+ - We initially start with a sum **`sum = 0`**.
+ - We run a loop from 1 to **`n`**. On each step of the loop, we read the a number **`num`** and add it to the sum **`sum`**.
+ - Finally, we print the calculated amount **`sum`**.
  
-Ето и сорс кода на решението:
+Below is the source code for the solution:
 
 ![](/assets/chapter-5-images/04.Sum-numbers-01.png)
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/510#3](https://judge.softuni.bg/Contests/Practice/Index/510#3).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/510#3](https://judge.softuni.bg/Contests/Practice/Index/510#3).
