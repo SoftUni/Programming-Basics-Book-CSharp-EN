@@ -1,6 +1,6 @@
-### Example: най-малко число
+### Example: The Min Number
 
-Да се напише програма, която въвежда **n цели числа** (**n** > 0) и намира **най-малкото** измежду тях. Първо се въвежда броя числа **n**, след тях още **n** числа по едно на ред. 
+Write a program that inputs **n integers** (**n** > 0) and finds **the min** number among them. First enter the number of integers **n**, then **n** numbers more, one on each row. 
 
 #### Sample Input and Output
 
