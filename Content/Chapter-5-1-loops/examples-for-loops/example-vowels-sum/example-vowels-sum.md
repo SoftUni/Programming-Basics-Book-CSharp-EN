@@ -1,6 +1,6 @@
-### Example: сумиране на гласните букви
+### Example: Summing up Vowels
 
-Да се напише програма, която въвежда **текст** (стринг), изчислява и отпечатва **сумата от стойностите на гласните букви** според таблицата по-долу:
+Write a program that inputs **text** (string), calculates and prints **the sum of the values of vowels** according to the table below:
 
 | a | e | i | o | u | 
 | :---: | :---: | :---: | :---: | :---: |
