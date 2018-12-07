@@ -314,7 +314,7 @@
   * [Code Snippet for For Loop in Visual Studio](Content/Chapter-5-1-loops/code-snippet-for-for-loop/code-snippet-for-for-loop.md)
   * [What We Learned in This Chapter?](Content/Chapter-5-1-loops/what-we-learned/what-we-learned.md)
   * [Exercises: Repetitions (Loops)](Content/Chapter-5-1-loops/exercises-loops/exercises-loops.md)
-    * [Blank Visual Studio Solution)](Content/Chapter-5-1-loops/exercises-loops/blank-visual-studio-solution.md)
+    * [Blank Visual Studio Solution](Content/Chapter-5-1-loops/exercises-loops/blank-visual-studio-solution.md)
     * [Problem: Element Equal to the Sum of the Rest](Content/Chapter-5-1-loops/exercises-loops/half-sum-element.md)
     * [Problem: Even / Odd Positions](Content/Chapter-5-1-loops/exercises-loops/even-odd-positions.md)
     * [Problem: Equal Pairs](Content/Chapter-5-1-loops/exercises-loops/equal-pairs.md)
