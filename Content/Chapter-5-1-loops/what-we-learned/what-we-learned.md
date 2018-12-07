@@ -1,9 +1,9 @@
 ## What We Learned in This Chapter?
 
-Можем да повтаряме блок код с **`for` цикъл**:
+We can repeat a code block using a **`for` loop**:
 
 ![](/assets/chapter-5-images/00.For-loop-01.png)
 
-Можем да четем поредица от **`n`** числа от конзолата:
+We can read a sequence of **`n`** numbers from the console:
 
 ![](/assets/chapter-5-images/00.For-loop-03.png)
