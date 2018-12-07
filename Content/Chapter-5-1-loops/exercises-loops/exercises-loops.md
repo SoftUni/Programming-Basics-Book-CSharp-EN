@@ -1,3 +1,3 @@
-## Exercises: повторения (цикли)
+## Exercises: Repetitions (Loops)
 
-След като се запознахме с циклите, идва време **да затвърдим знанията си на практика**, а както знаете, това става с много писане на код. Да решим няколко задачи за упражнение.
+Now that we are familiar with loops, it is time **to practice our newly acquired skills**, and as you know, this is achieved by a lot of code writing. Let's solve some problems.
