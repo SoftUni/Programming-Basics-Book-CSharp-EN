@@ -1,6 +1,6 @@
-### Problem: елемент, равен на сумата на останалите
+### Problem: Element Equal to the Sum of the Rest
 
-Да се напише програма, която въвежда **n цели числа** и проверява дали сред тях съществува число, което е равно на сумата на всички останали. Ако има такъв елемент, се отпечатва **"Yes" + неговата стойност**, в противен случай - **"No" + разликата между най-големия елемент и сумата на останалите** (по абсолютна стойност). 
+Write a program that inputs **n integers** and checks whether among them there is a number equal to the sum of all the rest. If there is such an element, print **"Yes" + its value**, otherwise - **"No" + the difference between the largest element and the sum of the rest** (by absolute value). 
 
 #### Sample Input and Output
 
@@ -12,10 +12,10 @@
 | 3<br>5<br>5<br>1 | No<br>Diff = 1 | &#124;5 - (5 + 1)&#124; = 1 |
 | 3<br>1<br>1<br>1 | No<br>Diff = 1 | - |
 
-#### Hints and Guidelines
+#### Tips and Tricks
 
-Трябва да изчислим **сумата** на всички елементи, да намерим **най-големия** от тях и да проверим търсеното условие.
+We must calculate the **sum** of all elements, find the **largest** of them and check the condition.
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/510#9](https://judge.softuni.bg/Contests/Practice/Index/510#9).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/510#9](https://judge.softuni.bg/Contests/Practice/Index/510#9).
