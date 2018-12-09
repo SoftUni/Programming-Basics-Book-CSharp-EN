@@ -1,3 +1,3 @@
-## Exercises: графични и уеб приложения
+## Exercises: Graphical and Web Applications
 
-В настоящата глава се запознахме с **циклите** като конструкция в програмирането, която ни позволява да повтаряме многократно дадено действие или група от действия. Сега нека си поиграем с тях. За целта ще начертаем няколко фигурки, които се състоят от голям брой повтарящи се графични елементи, но този път не на конзолата, а в графична среда, използвайки "**графика с костенурка**". Ще е интересно. И никак не е сложно. Опитайте!
+In the current chapter we learned about **loops** as a programming construction that allows  to repeat a particular action or a group of actions multiple times. Now let's play with them. In order to do that, we will draw some figures that will consist of a large number of repeating graphical elements, but this time we will not print it in the console, but in a graphical environment, using "**turtle graphics**". It will be interesting. And it is not hard at all. Try it!
