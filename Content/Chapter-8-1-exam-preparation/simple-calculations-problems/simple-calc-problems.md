@@ -1,3 +1,3 @@
-## Задачи с прости пресмятания
+## Simple Calculations Problems
 
-**Първата** задача на практическия изпит по “Основи на програмирането” обхваща **прости пресмятания без проверки и цикли**. Нека разгледаме няколко примера:
+**The first** task of the Practical Exam in "Programming Basics" covers **simple calculations without checks and loops**. Let's take a few examples:
