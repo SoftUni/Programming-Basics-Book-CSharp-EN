@@ -1,10 +1,10 @@
-## Практически изпит по “Основи на програмирането”
+## "Programming Basics" Practical Exam
 
-Курсът **"Programing Basics"** приключва с **практически изпит**. Включени са **6** задачи, като ще имате **4 часа**, за да ги решите. **Всяка** от задачите на изпита ще **засяга** една от изучаваните **теми** по време на курса. Темите на задачите са както следва:
+The course **"Programming Basics"** ends with **practical exam**. There are **6** problems included, and you will have **4 hours** to solve them. **Each** of the exam problems will **affect** one of the **topics** studied during the course. Problem themes are as follows:
 
-- Задача с прости сметки (без проверки)
-- Задача с единична проверка
-- Задача с по-сложни проверки
-- Задача с единичен цикъл
-- Задача с вложени цикли (чертане на фигурка на конзолата)
-- Задача с вложени цикли и по-сложна логика
+- Problem with simple calclulations (no conditions)
+- Problem with simple condition
+- Problem with more complex conditions
+- Problem with loop
+- Problem with nested loops (drawing a figure on the console)
+- Problem with nested loops and more complex logic
