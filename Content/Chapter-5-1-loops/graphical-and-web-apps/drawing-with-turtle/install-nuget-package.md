@@ -1,6 +1,6 @@
-#### Инсталиране на Turtle Graphics NuGet пакет
+#### Installing Turtle Graphics NuGet Package
 
-Инсталираме **NuGet** пакета **"Nakov.TurtleGraphics"** към нашия нов Windows Forms проект. От Visual Studio може да се добавят **външни библиотеки** (пакети) към съществуващ C# проект. Те добавят допълнителна функционалност към нашите приложения. Официалното хранилище (repository) за C# библиотеки се поддържа от Microsoft и се нарича **NuGet** ([http://www.nuget.org/](http://www.nuget.org)).
+Install the **NuGet** package **"Nakov.TurtleGraphics"** to your new Windows Forms project. From Visual Studio you can add **external libraries** (packages) to an existing C# project. Те добавят допълнителна функционалност към нашите приложения. Официалното хранилище (repository) за C# библиотеки се поддържа от Microsoft и се нарича **NuGet** ([http://www.nuget.org/](http://www.nuget.org)).
 
 Кликаме с десен бутон на мишката върху проекта в **Solution Explorer** и избираме [**Manage NuGet Packages…**]:
  
