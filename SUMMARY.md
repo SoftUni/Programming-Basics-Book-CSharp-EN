@@ -320,7 +320,7 @@
     * [Problem: Equal Pairs](Content/Chapter-5-1-loops/exercises-loops/equal-pairs.md)
   * [Exercises: Graphical and Web Applications](Content/Chapter-5-1-loops/graphical-and-web-apps/graphical-and-web-apps.md)
     * [Problem: Drawing with a Turtle - Graphical (GUI) Application](Content/Chapter-5-1-loops/graphical-and-web-apps/drawing-with-turtle/drawing-with-turtle.md)
-      * [Starting a New C# Project](Content/Chapter-5-1-loops/graphical-and-web-apps/drawing-with-turtle/create-new-project.md)
+      * [Creating a New C# Project](Content/Chapter-5-1-loops/graphical-and-web-apps/drawing-with-turtle/create-new-project.md)
       * [Installing Turtle Graphics NuGet Package](Content/Chapter-5-1-loops/graphical-and-web-apps/drawing-with-turtle/install-nuget-package.md)
       * [Adding Buttons](Content/Chapter-5-1-loops/graphical-and-web-apps/drawing-with-turtle/adding-buttons.md)
       * [Implementing the Draw Button and Testing the Application](Content/Chapter-5-1-loops/graphical-and-web-apps/drawing-with-turtle/implement-draw-button-and-test-the-app.md)
