@@ -1,13 +1,13 @@
-#### Отпечатване на долната част на диаманта
+#### Print the Bottom Part of the Diamond
 
-За да изрисуваме **долната част** на диаманта, трябва да обърнем **горната** на обратно. Ще броим от **`n - 1`**, тъй като ако започнем от **`n`**, ще изрисуваме средния ред два пъти. Не забравяйте да смените **стъпката** от **`++` на `--`**.
+To draw the **bottom part** of the diamond, we have to reverse **the upper part**. We will count from **`n - 1`**, because if we start from **`n`**, we will draw the middle row twice. Do not forget to change **the step** from **`++` to `--`**.
 
-Ето го и кода за начертаване на **долната част на диаманта**:
+Here is the code for drawing **the bottom part of the diamond**:
 
 ![](/assets/chapter-8-1-images/09.Perfect-diamond-04.png)
 
-Остава **да си сглобим цялата програма** като първо четем входа, печатаме горната част на диаманта и след него и долната част на диаманта.
+It remains **to assemble the whole program** by first reading the input, printing the top part of the diamond and then the bottom part of the diamond.
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/516#8](https://judge.softuni.bg/Contests/Practice/Index/516#8).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/516#8](https://judge.softuni.bg/Contests/Practice/Index/516#8).
