@@ -1,30 +1,30 @@
-### Problem: пренасяне на тухли
+### Problem: Bricks
 
-Строителни работници трябва да пренесат общо **x тухли**. **Работниците** са **w** на брой и работят едновременно. Те превозват тухлите в колички, всяка с **вместимост m** тухли. Напишете програма, която прочита целите числа **x**, **w** и **m** и пресмята **колко най-малко курса** трябва да направят работниците, за да превозят тухлите.
+Construction workers have to transfer a total of **x bricks**. **Workers** are **w** and work simultaneously. They transport the bricks in trolleys, each with a **capacity of m** bricks. Write a program that reads the integers **x**, **w**, and **m**, and calculates **how much less courses** the workers need to do to transport the bricks.
 
 #### Input
 
-От конзолата се четат **3 цели числа** (по едно на ред):
-- **Броят тухли x** се чете от първия ред.
-- **Броят работници w** се чете от втория ред.
-- **Вместимостта на количката m** се чете от третия ред.
+The console reads **3 integers** (one per line):
+- **The number of bricks x** is read from the first row.
+- **The number of workers w** is read from the second row
+- **The capacity of the trolley m** is read from the third row.
 
-Всички входни числа са цели и в диапазона [**1 … 1000**].
+All input numbers are integers in the range [**1 … 1000**].
 
 #### Output
 
-Да се отпечата на конзолата **минималният брой курсове**, необходими за превозване на тухлите.
+Print on the console **the minimum number of courses** needed to transport the bricks.
 
 #### Sample Input and Output
 
 | Input | Output | Comments |
 |----|----|----|
-|120<br>2<br>30|2|Имаме **2** работника, всеки вози по **30** тухли на курс. Общо работниците возят по **60** тухли на курс. За да превозят **120** тухли, са необходими точно **2** курса.|
+|120<br>2<br>30|2|We have **2** workers, each riding on **30** bricks per course. In total, workers are riding **60** bricks per course. To transport **120** bricks, exactly **2** courses are needed.|
 
 | Input | Output | Comments |
 |----|----|----|
-|355<br>3<br>10|12|Имаме **3** работника, всеки вози по **10** тухли на курс. Общо работниците возят по **30** тухли на курс. За да превозят **355** тухли, са необходими точно **12** курса: **11** пълни курса превозват **330** тухли и последният **12**-ти курс пренася последните **25** тухли.|
+|355<br>3<br>10|12|We have **3** workers, each riding on **10** bricks per course. In total, workers are riding **30** bricks per course. To transport **355** bricks, exactly **12** courses are needed: **11** complete courses carry **330** bricks and the last **12th** course carries the last **25** bricks.|
 
 | Input | Output | Comments |
 |----|----|----|
-|5<br>12<br>30|1|Имаме **5** работника, всеки вози по **30** тухли на курс. Общо работниците возят по **150** тухли на курс. За да превозят **5** тухли, е достатъчен само **1** курс (макар и непълен, само с 5 тухли).|
+|5<br>12<br>30|1|We have **5** workers, each riding on **30** bricks per course. In total, workers are riding **150** bricks per course. In order to transport **5** bricks, only **1** course is sufficient (although incomplete, with only 5 bricks).|
