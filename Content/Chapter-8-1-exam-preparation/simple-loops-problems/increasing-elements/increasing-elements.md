@@ -1,14 +1,14 @@
-### Problem: поредица от нарастващи елементи
+### Problem: Increasing Elements 
 
-Дадена е редица от **n** числа: **a1**, **a2**, **…**, **an**. Да се пресметне **дължината на най-дългата нарастваща поредица** от последователни елементи в редицата от числа.
+A number of **n** numbers are given: **a1**, **a2**, **…**, **an**. Calculate **the length of the longest increasing sequence** of consecutive elements in the row of numbers.
 
 #### Input
 
-Входните данни се четат от конзолата. На първия ред стои цяло число **n** (**0 ≤ n ≤ 1000**). На следващите **n** реда стоят **n** цели числа в интервала [**-1000 … 1000**]: **a1**, **a2**, **…**, **an**.
+The input data is read from the console. The first row is an integer **n** (**0 ≤ n ≤ 1000**). On the following **n** lines are **n** integers in the range [**-1000 … 1000**]: **a1**, **a2**, **…**, **an**.
 
 #### Output
 
-На конзолата трябва да се отпечата едно число – **дължината** на най-дългата нарастваща редица.
+On the console must be printed one number - **the length** of the longest increasing sequence.
 
 #### Sample Input and Output
 
