@@ -1,3 +1,3 @@
-## Задачи за чертане на фигурки на конзолата
+## Drawing Figures Problems
 
-**Петата** задача на практическия изпит по “Основи на програмирането” изисква **използване на един или няколко вложени цикъла за рисуване** на някаква фигурка на конзолата. Може да се изискват логически размишления, извършване на прости пресмятания и проверки. Задачата проверява способността на студентите да мислят логически и да измислят прости алгоритми за решаване на задачи, т.е. да мислят алгоритмично. Ето няколко примера за изпитни задачи:
+**The fifth** task of the "Programming Basics" Practical Exam requires **using of one or several nested loops for drawing** a figure on the console. Logical reflections, simple calculations and checks may be required. The problem examines the students' ability to think logically and to construct simple algorithms to solve problems, ie. to think algorithmically. Here are some examples of exam problems:
