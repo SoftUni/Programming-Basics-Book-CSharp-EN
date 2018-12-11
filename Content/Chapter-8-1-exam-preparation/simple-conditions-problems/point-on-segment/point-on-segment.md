@@ -1,21 +1,21 @@
-### Problem: точка върху отсечка
+### Problem: Point on Segment
 
-Върху хоризонтална права е разположена **хоризонтална отсечка**, зададена с **x** координатите на двата си края: **first** и **second**. **Точка** е разположена **върху** същата хоризонтална права и е зададена с **x координатата** си. Напишете програма, която проверява дали точката е **вътре или вън от отсечката** и изчислява **разстоянието до по-близкия край** на отсечката.
+**A horizontal segment** is set on a horizontal line, set with the **x** coordinates of both ends: **first** and **second**. **A point** is located **on** the same horizontal line and is set with its **x coordinate**. Write a program that checks whether the point is **inside or outside the segment** and calculates **the distance to the nearest end** of the segment.
 
 #### Input
 
-От конзолата се четат **3 цели числа** (по едно на ред):
-- На първия ред стои числото first – **единия край на отсечката**.
-- На втория ред стои числото second – **другия край на отсечката**.
-- На третия ред стои числото point – **местоположението на точката**.
+The console reads **3 integer numbers** (one per line):
+- On the first line stands the number first - **one end of the segment**.
+- On the second line stands the number second – **the other end of the segment**.
+- On the third line stands the number point – **the location of the point**.
 
-Всички входни числа са цели и в диапазона [**-1000 … 1000**].
+All input numbers are integers in the range [**-1000 … 1000**].
 
 #### Output
 
-Резултатът да се отпечата на конзолата:
-- На първия ред да се отпечата "**in**" или "**out**" – дали точката е върху отсечката или извън нея.
-- На втория ред да се отпечата разстоянието от точката до най-близкия край на отсечката.
+Print the result on the console:
+- On the first line print "**in**" or "**out**" - whether the point is inside or outside the segment.
+- On the second line print the distance from the point to the nearest end of the segment.
 
 #### Sample Input and Output
 
