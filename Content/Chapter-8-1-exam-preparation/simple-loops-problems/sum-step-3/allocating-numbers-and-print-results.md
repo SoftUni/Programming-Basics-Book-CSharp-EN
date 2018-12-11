@@ -1,13 +1,13 @@
-#### Разпределяне на числата и отпечатване на резултите
+#### Allocating Numbers and Print Results
 
-За да разберем в коя от **трите суми** трябва да добавим числото, ще разделим **поредния му номер на три** и ще използваме **остатъка**. Ще използваме променливата **`i`**, която следи **броя завъртания** на цикъла, за да разберем на кое поред число сме. Когато остатъкът от **`i/3`** е **нула**, това означава, че ще добавяме това число към **първата** сума, когато е **1** към **втората** и когато е **2** към **третата**.
+To find out in which of **the three sums** we need to add the number, we will divide its **sequence number into three** and we will use the remainder. We will use the variable **`i`**, which tracks **the number of spins** per loop, to find out which sequence number we are. When the remainder of **`i/3`** is **zero**, it means we will add this number to **the first** sum when it is **1** to the **second** and when it is **2** to **the third**.
 
 ![](/assets/chapter-8-1-images/07.Sums-Step-3-03.png)
 
-Накрая, ще отпечатаме резултата на конзолата в изисквания **формат**.
+Finally, we will print the result on the console in the required **format**.
 
 ![](/assets/chapter-8-1-images/07.Sums-Step-3-04.png)
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/516#6](https://judge.softuni.bg/Contests/Practice/Index/516#6).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/516#6](https://judge.softuni.bg/Contests/Practice/Index/516#6).
