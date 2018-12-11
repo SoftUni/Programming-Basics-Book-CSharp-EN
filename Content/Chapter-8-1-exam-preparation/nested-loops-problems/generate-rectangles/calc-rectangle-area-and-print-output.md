@@ -1,13 +1,13 @@
-#### Изчисляване на лицето на правоъгълниците и отпечатване на резултата
+#### Calculate the Rectangle Area and Print the Output
 
-Важното тук е да знаем кои координати кои са, за да можем да изчислим правилно страните на правоъгълника. Сега трябва да намерим **лицето на правоъгълника** и да направим проверка дали то е **по-голямо** или **равно** на **`m`**. Едната **страна** ще е **разликата между `left` и `right`**, а **другата -  между `top` и `bottom`**. Тъй като координатите може да са отрицателни, ще ползваме **абсолютни стойности**. Отново добавяме и **брояча** в цикъла, като броим **само четириъгълниците**, които изписваме. Важно е да забележим, че поредността на изписване е **`left`**, **`top`**, **`right`**, **`bottom`**, тъй като така е зададено в условието.
+The important thing here is knowing which coordinates they are so we can correctly calculate the sides of the rectangle. Now we have to find **the area of the rectangle** and check if it is **greater than** or **equal** to **`m`**. The one **side** will be **the difference between `left` and `right`** and **the other one - between `top` and `bottom`**. Since coordinates may be negative, we will use **absolute values**. Again, we add **the counter** in the loop, counting **only the rectangles** we write. It is important to note that the writing order is **`left`**, **`top`**, **`right`**, **`bottom`**, as it is set in the problem's description.
 
 ![](/assets/chapter-8-1-images/12.Generating-rectangles-03.png)
 
-Накрая принтираме “**No**”, ако не съществуват такива правоъгълници.
+Finally, we print "**No**" if there are no such rectangles.
 
 ![](/assets/chapter-8-1-images/12.Generating-rectangles-04.png)
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/516#11](https://judge.softuni.bg/Contests/Practice/Index/516#11).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/516#11](https://judge.softuni.bg/Contests/Practice/Index/516#11).
