@@ -1,13 +1,13 @@
-#### Определяне дали точката е на линията или извън нея и отпечатване на резултатите
+#### Determining if Point is In or Out the Segment and Print Result
 
-Остава да намерим дали **точката** е на линията или извън нея. Точката ще се намира **на линията** винаги, когато тя **съвпада** с някоя от другите две точки или х координатата ѝ се намира **между тях**. В противен случай, точката се намира **извън линията**. След проверката изкарваме едното от двете съобщения, спрямо това коя проверка е удовлетворена.
+It remains to be found whether **the point** is on or out of the line. The point will be **on the line** whenever it **matches** one of the other two points or its x coordinate lies **between them**. Otherwise, the point is **outside the line**. After checking, we get one of the two messages, which one is satisfied.
 
 ![](/assets/chapter-8-1-images/03.Point-on-segment-07.png)
 
-Накрая принтираме **разстоянието**, намерено преди това.
+inally, we print **the distance** previously found.
 
 ![](/assets/chapter-8-1-images/03.Point-on-segment-08.png)
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/516#2](https://judge.softuni.bg/Contests/Practice/Index/516#2).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/516#2](https://judge.softuni.bg/Contests/Practice/Index/516#2).
