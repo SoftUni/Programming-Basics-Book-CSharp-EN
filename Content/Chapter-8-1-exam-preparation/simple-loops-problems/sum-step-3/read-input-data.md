@@ -1,9 +1,9 @@
 #### Reading the Input Data
 
-Ще вземем **броя на числата** от конзолата и ще декларираме **начални стойности** на трите суми.
+We will take **the count of numbers** from the console and declare **starting values** of the three sums.
 
 ![](/assets/chapter-8-1-images/07.Sums-Step-3-01.png)
 
-Тъй като не знаем предварително колко числа ще обработваме, ще си ги взимаме едно по едно в **цикъл**, който ще се повтори **n на брой пъти** и ще ги обработваме в тялото на цикъла.
+Since we do not know in advance how many numbers we will process, we will take them one at a time in **a loop** which will be repeated **n times** and we will process them in the body of the loop.
 
 ![](/assets/chapter-8-1-images/07.Sums-Step-3-02.png)
