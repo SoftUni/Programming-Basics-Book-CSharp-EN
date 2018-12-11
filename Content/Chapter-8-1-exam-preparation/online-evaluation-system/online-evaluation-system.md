@@ -1,5 +1,5 @@
-## Система за онлайн оценяване (Judge)
+## Online Evaluation System (Judge)
 
-**Всички изпити и домашни** се **тестват** автоматизирано през онлайн **Judge система**: [https://judge.softuni.bg](https://judge.softuni.bg). За **всяка** от задачите има **открити** (нулеви) тестове, които ще ви помогнат да разберете какво се очаква от задачата и да поправите грешките си, както и **състезателни** тестове, които са **скрити** и проверяват дали задачата ви работи правилно. В **Judge** системата се влиза с вашия **softuni.bg акаунт**.
+**All exams and homeworks** are automatically **tested** through the online Judge system: [https://judge.softuni.bg](https://judge.softuni.bg). **For each** of the problems there are **visible** (zero) tests to help you understand what is expected of the problem and fix your mistakes, as well as **racing** tests that are **hidden** and check if your solution is working properly. In **Judge** system you can log in with your **softuni.bg account**.
 
-**Как** работи тестването в **Judge** системата? **Качвате** сорс кода и от менюто под него избирате да се компилира като **C#** програма. Програмата бива **тествана** с поредица от тестове, като за всеки **успешен** тест получавате **точки**.
+**How** does the testing in **Judge** work? **You upload** the source code and from the menu below you choose to compile as **C#** program. The program is being **tested** with a series of tests, giving **points** for each **successful** test.
