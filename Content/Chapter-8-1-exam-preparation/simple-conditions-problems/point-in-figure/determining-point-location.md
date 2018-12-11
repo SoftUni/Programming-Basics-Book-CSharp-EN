@@ -1,17 +1,17 @@
-#### Определяне местоположението на точката
+#### Determining Point Location
 
-Четем от конзолата входните данни:
+We read the input data from the console:
 
 ![](/assets/chapter-8-1-images/04.Point-in-figure-04.png)
 
-Ще създадем две променливи, които ще отбелязват дали **точката** се намира в някой от правоъгълниците.
+We will initialize two variables that will mark whether **the point** is in one of the rectangles.
 
 ![](/assets/chapter-8-1-images/04.Point-in-figure-05.png)
 
-При отпечатването на съобщението ще проверим дали някоя от променливите е приела стойност **`true`**. Достатъчно е **само една** от тях да е **`true`**, за да се намира точката във фигурата.
+When printing the message, we will check whether any of the variables has accepted a value of **`true`**. It is enough **only one** of them to be **`true`** to find the point in the figure.
 
 ![](/assets/chapter-8-1-images/04.Point-in-figure-06.png)
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/516#3](https://judge.softuni.bg/Contests/Practice/Index/516#3).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/516#3](https://judge.softuni.bg/Contests/Practice/Index/516#3).
