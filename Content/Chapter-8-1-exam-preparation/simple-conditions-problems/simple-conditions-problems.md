@@ -1,3 +1,3 @@
-## Задачи с единична проверка
+## Simple Conditions Problems
 
-**Втората** задача на практическия изпит по “Основи на програмирането” обхваща **условна конструкция и прости премятания**. Нека разгледаме няколко примера.
+**The second** task of the Practical Exam in "Programming Basics" covers **conditional statement and simple calculations**. Let's take a few examples.
