@@ -1,3 +1,3 @@
-## Задачи с по-сложни проверки
+## Complex Conditions Problems
 
-**Третата** задача на практическия изпит по “Основи на програмирането” включва **няколко вложени проверки съчетани с прости пресмятания**. Нека разгледаме няколко примера.
+**The third** task of the "Programming Basics" Practical Exam includes **several nested checks combined with simple calculations**. Let's take a few examples.
