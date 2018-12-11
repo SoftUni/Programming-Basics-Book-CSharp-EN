@@ -1,3 +1,3 @@
-## Задачи с единичен цикъл
+## Simple Loops Problems
 
-**Четвъртата** задача на практическия изпит по “Основи на програмирането” включва **единичен цикъл с проста логика** в него. Нека разгледаме няколко примера.
+The fourth task of the of the "Programming Basics" Practical Exam includes a **single loop with simple logic** in it. Let's take a few examples.
