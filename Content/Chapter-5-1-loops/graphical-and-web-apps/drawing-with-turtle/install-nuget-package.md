@@ -1,15 +1,15 @@
 #### Installing Turtle Graphics NuGet Package
 
-Install the **NuGet** package **"Nakov.TurtleGraphics"** to your new Windows Forms project. From Visual Studio you can add **external libraries** (packages) to an existing C# project. Те добавят допълнителна функционалност към нашите приложения. Официалното хранилище (repository) за C# библиотеки се поддържа от Microsoft и се нарича **NuGet** ([http://www.nuget.org/](http://www.nuget.org)).
+Install the **NuGet** package **"Nakov.TurtleGraphics"** to your new Windows Forms project. From Visual Studio you can add **external libraries** (packages) to an existing C# project. They add up additional functionality to our applications. The official repository for C# libraries is maintained by Microsoft and is called **NuGet** ([http://www.nuget.org/](http://www.nuget.org)).
 
-Кликаме с десен бутон на мишката върху проекта в **Solution Explorer** и избираме [**Manage NuGet Packages…**]:
+Right-click the **Solution Explorer** project and select [**Manage NuGet Packages…**]:
  
 ![](/assets/chapter-5-images/13.Turtle-graphics-03.png)
 
-Ще се отвори прозорец за търсене и инсталиране на **NuGet** пакети. Нека потърсим пакети по ключова дума **`nakov`**. Ще излязат няколко пакета. От тях избираме пакет **`Nakov.TurtleGraphics`**. Натискаме [**Install**], за да го инсталираме към нашия C# проект:
+A **NuGet** package search and installation window will open. Let's search for packages by keyword **`nakov`**. A few packages will be found. Select **`Nakov.TurtleGraphics`**. Click [**Install**] to install it to your C# project:
  
 ![](/assets/chapter-5-images/13.Turtle-graphics-04.png)
 
-Към нашия C# проект вече е включена външната библиотека **`Nakov.TurtleGraphics`**. Тя дефинира клас **`Turtle`**, който представлява **костенурка за рисуване**. За да го използваме, трябва да добавим в C# кода за нашата форма (**`Form1.cs`**). Добавяме следния код, най-отгоре в началото на файла:
+The external library **`Nakov.TurtleGraphics`** is already included in our C# project. It defines **`Turtle`** class that represents **a drawing turtle**. In order to use it, add (**`Form1.cs`**) in the C# code for our form. Add the following code at the top of the file:
   
 ![](assets/chapter-5-images/13.Turtle-graphics-05.png)
