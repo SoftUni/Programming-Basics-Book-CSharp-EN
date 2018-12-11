@@ -1,13 +1,13 @@
-#### Намиране на най-дългата редица и отпечатване на резултата
+#### Find and Print the Longest Sequence
 
-Остава да разберем коя от всички редици е **най-дълга**. Това ще направим с проверка в цикъла дали **редицата**, в която се намираме **в момента**, е станала по-дълга от дължината на **най-дългата намерена до сега**. Целият цикъл ще изглежда така:
+It remains to be seen which of all sequences is **the longest**. We will do this by checking in the loop if **the sequence** we are **currently** has become longer than the **longest by now**. The whole loop will look like this:
 
 ![](/assets/chapter-8-1-images/08.Increasing-numbers-03.png)
 
-Накрая принтираме дължината на **най-дългата** намерена редица.
+Finally, we print the length of **the longest** sequence found.
 
 ![](/assets/chapter-8-1-images/08.Increasing-numbers-04.png)
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/516#7](https://judge.softuni.bg/Contests/Practice/Index/516#7).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/516#7](https://judge.softuni.bg/Contests/Practice/Index/516#7).
