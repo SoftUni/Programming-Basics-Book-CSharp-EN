@@ -1,13 +1,13 @@
-#### Reading the Input Data и изчисляване на разстоянието до най-близкич край на отсечката
+#### Reading the Input Data and Calculate the Minimal Distance to the Closest End of the Segment
 
-Четем входа от конзолата.
+We read the input from the console.
 
 ![](/assets/chapter-8-1-images/03.Point-on-segment-04.png)
 
-Тъй като не знаем коя **точка** е от ляво и коя е от дясно, ще си направим две променливи, които да ни отбелязват това. Тъй като **лявата точка** е винаги тази с по-малката **х координата**, ще ползваме **`Math.Min(…)`**, за да я намерим. Съответно, **дясната** е винаги тази с по-голяма **х координата** и ползваме **`Math.Max(…)`**. Ще намерим и разстоянието от **точката x** до **двете точки**. Понеже не знаем положението им една спрямо друга, ще използваме **`Math.Abs(…)`**, за да получим положителен резултат.
+Since we do not know which **point** is on the left and which is on the right, we will make two variables to note this. Since the **left point** is always the one with the smaller **x coordinate**, we will use **`Math.Min(…)`** to find it. Accordingly, **the right one** is always the one with a larger **x coordinate** and we will use **`Math.Max(…)`**. We will also find the distance from **point x** to **the two points**. Because we do not know their position relative to each other, we will use **`Math.Abs(…)`** to get a positive result.
 
 ![](/assets/chapter-8-1-images/03.Point-on-segment-05.png)
 
-По-малкото от двете **разстояния** ще намерим ползвайки **`Math.Min(…)`**.
+The shorter of the two **distances** we can found using **`Math.Min(…)`**.
 
 ![](/assets/chapter-8-1-images/03.Point-on-segment-06.png)
