@@ -1,14 +1,14 @@
-### Problem: правоъгълник със звездички в центъра
+### Problem: Rectangle with Stars
 
-Да се напише програма, която прочита от конзолата цяло число **n** и чертае **правоъгълник** с размер **n с две звездички в центъра**, като в примерите по-долу.
+Write a program that reads from the console an integer **n** and draws a **rectangle** with size **n with two asterisks centered** as in the examples below.
 
 #### Input
 
-Входът е цяло число **n** в интервала [**2 … 1000**].
+The input is an integer **n** in the range [**2 … 1000**].
 
 #### Output
 
-На конзолата трябва да се отпечата правоъгълникът като в примерите.
+The rectangle should be printed on the console as in the examples.
 
 #### Sample Input and Output
 
