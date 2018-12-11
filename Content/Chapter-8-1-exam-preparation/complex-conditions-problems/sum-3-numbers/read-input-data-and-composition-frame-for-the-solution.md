@@ -1,14 +1,14 @@
-#### Reading the Input Data и съставяне на рамка за решението
+#### Reading the Input Data and Composition a Frame for the Solution
 
-Приемаме си входа от конзолата.
+We take the input from the console.
 
 ![](/assets/chapter-8-1-images/06.Sums-3-numbers-01.png)
 
-Трябва да проверим дали **сумата** на някоя двойка числа е равна на третото. Имаме три възможни случая:
+We have to check if the **sum** of a pair of numbers is equal to the third. We have three possible cases:
 * a + b = c
 * a + c = b 
 * b + c = a
 
-Ще си напишем **рамка**, която после ще допълним с нужния код. Ако никое от горните три условия не е изпълнено, ще зададем на програмата да принтира "**No**".
+We will write a **frame**, which will later be complemented by the required code. If none of the above three conditions is met, we will make our program to print "**No**".
 
 ![](/assets/chapter-8-1-images/06.Sums-3-numbers-02.png)
