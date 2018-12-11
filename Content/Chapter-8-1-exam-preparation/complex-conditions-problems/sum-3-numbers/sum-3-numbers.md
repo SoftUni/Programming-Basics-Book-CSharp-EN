@@ -1,15 +1,15 @@
-### Problem: суми от 3 числа
+### Problem: Sum of 3 Numbers
 
-Дадени са **3 цели числа**. Да се напише програма, която проверява дали **сумата на две от числата е равна на третото**. Например, ако числата са **3**, **5** и **2**, сумата на две от числата е равна на третото: **2 + 3 = 5**.
+There are **3 integers** given. Write a program that checks if **the sum of two of the numbers is equal to the third**. For example, if the numbers are **3**, **5** and **2**, the sum of two of the numbers is equal to the third: **2 + 3 = 5**.
 
 #### Input
 
-От конзолата се четат **три цели числа**, по едно на ред. Числата са в диапазона [**1 … 1000**].
+The console reads **three integers**, one per line. The numbers are in range [**1 … 1000**].
 
 #### Output
 
--	Да се отпечата на конзолата един ред, съдържащ решението на задачата във формат "**a + b = c**", където **a**, **b** и **c** са измежду входните три числа и  **a ≤ b**.
--	Ако задачата няма решение, да се отпечата “**No**” на конзолата.
+- Print a row containing the solution of the problem in the format "**a + b = c**", where **a**, **b** and **c** are among the three input numbers and **a ≤ b**.
+- If the problem has no solution, print "**No**" on the console.
 
 #### Sample Input and Output
 
