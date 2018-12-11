@@ -1,14 +1,14 @@
-### Problem: четворки нарастващи числа
+### Problem: Increasing 4 Numbers
 
-По дадена двойка числа **a** и **b** да се генерират всички четворки **n1, n2, n3, n4,** за които **a ≤ n1 < n2 < n3 < n4 ≤ b**.
+For a pair of numbers **a** and **b** generate all fours **n1, n2, n3, n4,** for which **a ≤ n1 <n2 <n3 <n4 ≤ b**.
 
 #### Input
 
-Входът съдържа две цели числа **a** и **b** в интервала [**0 … 1000**], по едно на ред.
+The input contains two integers **a** and **b** in the range  [**0 … 1000**], one per line.
 
 #### Output
 
-Изходът съдържа всички търсени **четворки числа**, в нарастващ ред, по една на ред.
+The output contains all **quadruple** searches, in ascending order, one per line.
 
 #### Sample Input and Output
 
