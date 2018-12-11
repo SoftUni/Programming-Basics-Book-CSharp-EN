@@ -1,3 +1,3 @@
-## Задачи с вложени цикли с по-сложна логика
+## Nested Loops Problems
 
-**Последната** (шеста) задача от практическия изпит по “Основи на програмирането” изисква използване на **няколко вложени цикъла и по-сложна логика в тях**. Задачата проверява способността на студентите да мислят алгоритмично и да решават нетривиални задачи, изискващи съставянето на цикли. Следват няколко примера за изпитни задачи.
+**The last** (sixth) problem of the "Programming Basics" Practical Exam requires the using of **several nested loops and more complex logic in them**. The task examines students' ability to think algorithmically and to solve non-trivial problems that require loops. Here are some examples of exam problems:
