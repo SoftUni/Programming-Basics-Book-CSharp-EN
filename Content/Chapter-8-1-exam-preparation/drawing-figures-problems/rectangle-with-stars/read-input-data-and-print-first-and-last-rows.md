@@ -1,9 +1,9 @@
-#### Reading the Input Data и отпечатване на първия и последния ред
+#### Reading the Input Data and Print the First and the Last Rows
 
-Прочитаме входните данни от задачата.
+We read the input data.
 
 ![](/assets/chapter-8-1-images/10.Rectangle-with-stars-01.png)
 
-Първото нещо, което лесно забелязваме, е че **първият и последният ред** съдържат **`2 * n`** символа **`%`**. Ще започнем с това и после ще нарисуваме средата на четириъгълника.
+The first thing we can easily notice is that **the first and last rows** contain **`2 * n`** symbols **`%`**. We will start with this and then draw the middle of the rectangle.
 
 ![](/assets/chapter-8-1-images/10.Rectangle-with-stars-02.png)
