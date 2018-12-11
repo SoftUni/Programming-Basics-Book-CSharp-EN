@@ -1,9 +1,9 @@
-#### Добавяне на звездичките в центъра на правоъгълника
+#### Adding Stars in the Center of the Rectangle
 
-Сега остава **в тялото** на цикъла да добавим и **звездичките**. Ще направим проверка дали сме на **средния ред**. Ако сме на средния, ще рисуваме **реда** заедно **със звездичките**, ако не - ще рисуваме **нормален ред**. Редът със звездичките има **`n - 2`** **празни места** (**`n`** е половината дължина и махаме звездичката и процента), **две звезди** и отново **`n - 2` празни места**. Двата процента в началото и в края на реда си ги оставяме извън проверката.
+Now, **in the body** of the loop let's add the **asterisks**. We'll check if we're on the **middle row**. If we are in the middle, we will draw **the row** together **with the asterisks**, if not - we will draw **a normal row**. The line with the asterisks has **`n - 2` empty spaces** (**`n`** is half the length and we remove the asterisk and the percentage), **two stars** and again **`n - 2` empty spaces**. We leave from the check the two percent at the beginning and at the end of the row.
 
 ![](/assets/chapter-8-1-images/10.Rectangle-with-stars-04.png)
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/516#9](https://judge.softuni.bg/Contests/Practice/Index/516#9).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/516#9](https://judge.softuni.bg/Contests/Practice/Index/516#9).
