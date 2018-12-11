@@ -1,9 +1,9 @@
-### Problem: лице на триъгълник в равнината
+### Problem: Triangle Area
 
 <table>
    <tr>
       <td width="60%">
-        <b>Триъгълник в равнината</b> е зададен чрез координатите на трите си върха. Първо е зададен <b>върхът (x1, y1)</b>. След това са зададени останалите два върха: <b>(x2, y2)</b> и <b>(x3, y3)</b>, които <b>лежат на обща хоризонтална права</b> (т.е. имат еднакви Y координати). Напишете програма, която пресмята <b>лицето на триъгълника</b> по координатите на трите му върха.
+        <b>Triangle in the plane</b> is set by the coordinates of its three vertices. First is set the vertice <b>(x1, y1)</b>. Then the other two vertices are set: <b>(x2, y2)</b> and <b>(x3, y3)</b>, which <b>lie on a common horizontal line</b> (ie have the same Y coordinates). Write a program that calculates <b>the area of the triangle</b> by the coordinates of its three vertices.
       </td>
       <td>
          <img src="/assets/chapter-8-1-images/01.Triangle-area-01.png"/>
@@ -12,20 +12,20 @@
 </table>
 
 #### Input
-От конзолата се четат **6 цели числа** (по едно на ред):
+The console reads **6 integers** (one per line):
 **x1, y1, x2, y2, x3, y3.**
--	Всички входни числа са в диапазона [**-1000 … 1000**].
--	Гарантирано е, че **y2 = y3**.
+-	All input numbers are in range [**-1000 … 1000**].
+-	It is guaranteed that **y2 = y3**.
 
 #### Output
-Да се отпечата на конзолата **лицето на триъгълника**.
+Print on the console **the area of the triangle**.
 
 #### Sample Input and Output
 
 | Input | Output | Visualization | Comments |
 |----|----|----|----|
-|5<br>-2<br>6<br>1<br>1<br>1|7.5|![](/assets/chapter-8-1-images/01.Triangle-area-01.png)|Страната на триъгълника **а** = 6 - 1 = **5**<br>Височината на триъгълника **h** = 1 - (-2) = **3**<br>Лицето на триъгълника **S** = a \* h / 2 = 5 \* 3 / 2 = **7.5**|
+|5<br>-2<br>6<br>1<br>1<br>1|7.5|![](/assets/chapter-8-1-images/01.Triangle-area-01.png)|The side of the triangle **а** = 6 - 1 = **5**<br>The height of the triangle **h** = 1 - (-2) = **3**<br>Triangle area **S** = a \* h / 2 = 5 \* 3 / 2 = **7.5**|
 
 | Input | Output | Visualization | Comments |
 |----|----|----|----|
-|4<br>1<br>-1<br>-3<br>3<br>-3|8|![](/assets/chapter-8-1-images/01.Triangle-area-02.png)|Страната на триъгълника **а** = 3 - (-1) = **4**<br>Височината на триъгълника **h** = 1 - (-3) = **4**<br>Лицето на триъгълника **S** = a \* h / 2 = 4 \* 4 / 2 = **8**|
+|4<br>1<br>-1<br>-3<br>3<br>-3|8|![](/assets/chapter-8-1-images/01.Triangle-area-02.png)|The side of the triangle **а** = 3 - (-1) = **4**<br>The height of the triangle **h** = 1 - (-3) = **4**<br>Triangle area **S** = a \* h / 2 = 4 \* 4 / 2 = **8**|
