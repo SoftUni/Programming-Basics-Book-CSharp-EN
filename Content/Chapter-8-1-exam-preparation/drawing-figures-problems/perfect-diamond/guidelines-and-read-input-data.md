@@ -1,7 +1,7 @@
-#### Насоки и прочитане на входните данни
+#### Guidelines and Read Input Data
 
-В задачите с чертане на фигурки най-важното, което трябва да преценим е **последователността**, в която ще рисуваме. Кои елементи се **повтарят** и с какви **стъпки**. Ясно може да забележим, че **горната и долната** част на диаманта са **еднакви**. Най-лесно ще решим задачата, като направим **един цикъл**, който чертае **горната част**, и след това още **един**, който чертае **долната** (обратно на горната).
+In the task of drawing figures the most important thing to consider is **the sequence** in which we will draw. Which items are **repeated** and with what **steps**. We can clearly see that **the top and bottom** parts of the diamond are **same**. The easiest way to solve the problem is by doing **a loop** that draws the **upper part**, and then another **one loop** that draws the **bottom part** (opposite to the top).
 
-Ще си прочетем числото **`n`** от конзолата.
+We will read the number **n** from the console.
 
 ![](/assets/chapter-8-1-images/09.Perfect-diamond-01.png)
