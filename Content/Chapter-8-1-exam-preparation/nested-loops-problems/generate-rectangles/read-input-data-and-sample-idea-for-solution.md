@@ -1,11 +1,11 @@
-#### Reading the Input Data и излагане на примерна идея за решение
+#### Reading the Input Data and Sample Idea for the Solution
 
-Да прочетем входните данни от конзолата. Ще създадем и един **брояч**, в който ще пазим броя на намерените правоъгълници.
+Read the input data from the console. We will also create a **counter**, which will keep the number of rectangles found.
 
 ![](/assets/chapter-8-1-images/12.Generating-rectangles-01.png)
 
-Изключително важно е да успеем да си представим задачата, преди да започнем да я решаваме. В нашия случай се изисква да търсим правоъгълници в координатна система. Нещото, което знаем е, че **лявата точка** винаги ще има координата **`х`, по-малка** от **дясната**. Съответно **горната** винаги ще има **по-малка** координата **`у`** от **долната**. За да намерим всички правоъгълници, ще трябва да направим **цикъл**, подобен на този от предходната задача, но този път **не всеки следващ цикъл** ще започва от **следващото число**, защото някои от **координатите** може да са **равни** (например **`left`** и **`top`**).
+It is very important to be able to imagine the problem before we begin to solve it. In our case it is required to search for rectangles in a coordinate system. The thing we know is that the **left point** will always have the coordinate **`x`, smaller** than **the right**. Accordingly, **the upper one** will always have a smaller **`у`** coordinate than **the lower one**. To find all the rectangles, we'll have to make **a loop** similar to the previous problem, but this time, **not every next loop** will start from **the next number** because some of **the coordinates** can be equal (for example **`left`** and **`top`**).
 
 ![](/assets/chapter-8-1-images/12.Generating-rectangles-02.png)
 
-С променливите **`left`** и **`right`** ще следим координатите по **хоризонталата**, а с **`top`** и **`bottom`** - по **вертикалата**. 
+With the variables **`left`** and **`right`** we will follow the coordinates **horizontally** and with **`top`** and **`bottom`** - **vertically**.
