@@ -1,13 +1,13 @@
-#### Изчисляване и отпечатване на общия брой курсове
+#### Calculate and Print needed Courses
 
-Като разделим общия брой на **тухлите, пренесени за 1 курс**, ще получим броя **курсове**, необходими за пренасянето им. Трябва да съобразим, че при деление на цели числа се пренебрегва остатъка и се закръгля винаги надолу. За да избегнем това ще конвертираме дясната страна на уравнението към **`double`** и ще използваме функцията **`Math.Ceiling(…)`**, за да закръглим получения резултат винаги нагоре. Когато тухлите могат да се пренесат с **точен брой курсове**, делението ще връща точно число и няма да има нищо за закръгляне. Съответно, когато не е така, резултатът от делението ще е **броя на точните курсове**, но с десетична част. Десетичната част ще се закръгли нагоре и така ще се получи нужният **1 курс** за оставащите тухли.
+By dividing the total number of **bricks transferred for 1 course**, we will receive the number of **courses** required to carry them. We have to consider that when dividing whole numbers the remainder is neglected and rounded down always. To avoid this, we will convert the right side of the equation to **`double`** and use the **`Math.Ceiling(…)`** function to round the result always up. When the bricks can be transferred with **an exact number of courses**, the division will return a whole number and there will be nothing to round. Accordingly, if not, the result of the division will be **the number of exact courses** but a decimal fraction. The decimal part will be rounded up and we will get the required **1 course** for the remaining bricks.
 
 ![](/assets/chapter-8-1-images/02.Bricks-03.png)
 
-Накрая принтираме резултата на конзолата.
+Finally, we print the result on the console.
 
 ![](/assets/chapter-8-1-images/02.Bricks-04.png)
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/516#1](https://judge.softuni.bg/Contests/Practice/Index/516#1).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/516#1](https://judge.softuni.bg/Contests/Practice/Index/516#1).
