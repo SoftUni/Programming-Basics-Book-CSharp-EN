@@ -1,18 +1,18 @@
-### Problem: точка във фигура
+### Problem: Point in Figure
 
-Да се напише програма, която проверява дали дадена точка (с координати **x** и **y**) е **вътре** или **извън** следната фигура:
+Write a program that checks whether a point (with coordinates **x** and **y**) is **inside** or **outside** the following figure:
  
 ![](/assets/chapter-8-1-images/04.Point-in-figure-01.png)
 
 #### Input
 
-От конзолата се четат **две цели числа** (по едно на ред): **x** и **y**.
+The console reads **two integers** (one per line): **x** and **y**.
 
-Всички входни числа са цели и в диапазона **[-1000 … 1000]**.
+All input numbers are integers in the range **[-1000 … 1000]**.
 
 #### Output
 
-Да се отпечата на конзолата "**in**" или "**out**" – дали точката е **вътре** или **извън** фигурата (на контура е вътре).
+Print on the console "**in**" or "**out**" - whether the point is **inside** or **outside** the figure (the outline is inside).
 
 #### Sample Input and Output
 
