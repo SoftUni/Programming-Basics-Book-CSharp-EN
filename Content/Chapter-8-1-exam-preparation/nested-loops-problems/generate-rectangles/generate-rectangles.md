@@ -1,25 +1,25 @@
-### Problem: генериране на правоъгълници
+### Problem: Generate Rectangles
 
-По дадено число **n** и **минимална площ m** да се генерират всички правоъгълници с цели координати в интервала [**-n…n**] с площ поне **m**. Генерираните правоъгълници да се отпечатат в следния формат:
+By a given number **n** and **a minimum area m**, all rectangles with whole coordinates in the range [**-n…n**] with an area of at least **m** are generated. Generated rectangles must be print in the following format:
 
 **(left, top) (right, bottom) -> area**
 
-Правоъгълниците се задават чрез горния си ляв и долния си десен ъгъл. В сила са следните неравенства:
+Rectangles are set using the top left and bottom right corner. The following inequalities are in effect:
 -	**-n ≤ left < right ≤ n**
 -	**-n ≤ top < bottom ≤ n**
 
 #### Input
 
-От конзолата се въвеждат две числа, по едно на ред:
+Two numbers, one per line, are entered from the console:
 
--	Цяло число **n** в интервала [**1 … 100**] – задава минималната и максималната координата на връх.
--	Цяло число **m** в интервала [**0 … 50 000**] – задава минималната площ на генерираните правоъгълници.
+- An integer **n** in the range [**1 … 100**] - sets the minimum and maximum coordinates of a peak.
+- An integer **m** in the range [**0 … 50 000**] - sets the minimum area of the generated rectangles.
 
 #### Output
 
--	На конзолата трябва да се отпечатат описаните правоъгълници във формат като в примерите по-долу.
--	Ако за числата **n** и **m** няма нито един правоъгълник, да се изведе **“No”**.
--	Редът на извеждане на правоъгълниците е без значение.
+- The described rectangles should be printed on the console in a format such as in the examples below.
+- If there are no rectangles for the **n** and **m**, then "**No**" is displayed.
+- The order of rectangles is irrelevant.
 
 #### Sample Input and Output
 
