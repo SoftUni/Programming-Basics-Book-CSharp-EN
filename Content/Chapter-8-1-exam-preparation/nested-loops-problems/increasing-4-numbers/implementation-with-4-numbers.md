@@ -1,13 +1,13 @@
-#### Реализация за редица от четири числа
+#### Implementation with 4 Numbers
 
-**Аналогично**, остава да реализираме по същия начин **вложените цикли** и за **четири числа**. Ще добавим и **увеличаване на брояча**, който инициализирахме в началото, за да знаем дали **съществува** такава **редица**.
+**Similarly**, it remains to implement **the nested loops** for **four numbers**. We will add an **increase of the counter** that we initialized in order to know if **there is such a sequence**.
 
 ![](/assets/chapter-8-1-images/11.Increasing-4-numbers-03.png)
 
-Накрая ще проверим дали **броячът** е равен на **0** и съответно ще принтираме “**No**” на конзолата, ако е така.
+Finally, we will check if **the counter** is equal to **0** and we will print "**No**" on the console accordingly, if so.
 
 ![](/assets/chapter-8-1-images/11.Increasing-4-numbers-04.png)
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/516#10](https://judge.softuni.bg/Contests/Practice/Index/516#10).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/516#10](https://judge.softuni.bg/Contests/Practice/Index/516#10).
