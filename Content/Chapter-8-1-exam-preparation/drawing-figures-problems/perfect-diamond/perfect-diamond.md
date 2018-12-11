@@ -1,14 +1,14 @@
-### Problem: перфектен диамант
+### Problem: Perfect Diamond
 
-Да се напише програма, която прочита от конзолата цяло число **n** и чертае **перфектен диамант** с размер **n** като в примерите по-долу.
+Write a program that reads an integer **n** from the console and draws **a perfect diamond** of size **n** as in the examples below.
 
 #### Input
 
-Входът е цяло число **n** в интервала [**1 … 1000**].
+The input is an integer **n** in the range [**1 … 1000**].
 
 #### Output
 
-На конзолата трябва да се отпечата диамантът като в примерите.
+The diamond should be printed on the console as in the examples.
 
 #### Sample Input and Output
 
