@@ -1,10 +1,9 @@
-### Какво представлява стъпката?
+### Loop Step Explanation
 
-**Стъпката** е тази **част** от конструкцията на **`for`** цикъла, която указва с **колко** да се **увеличи** или **намали** стойността на **водещата** му променлива. Тя се декларира последна в скелета на **`for`** цикъла.
+**The step** is that **part** of the **`for`** loop construct that tells **how** much to **increase** or **decrease** the value of its **leading** variable. It is declared the last in the skeleton of the **`for`** loop.
 
-Най-често е с **размер `1`** и в такъв случай, вместо да пишем **`i += 1`** или **`i -= 1`**, можем да използваме операторите 
-**`i++`** или **`i--`**. Ако искаме стъпката ни да е **различна от 1**, при увеличение използваме оператора **`i +=` + `размера на стъпката`**, а при намаляване **`i -=` + `размера на стъпката`**. При стъпка 10, цикълът би изглеждал по следния начин: 
+Most often, we have **a size of `1`**, and in this case, instead of writing **`i += 1`** or **`i -= 1`**, we can use the **`i++`** or **`i--`** operators. If we want our step to be **different than 1**, when increasing, we use the **`i +=` + `step size`**, and when decreasing, the **`i -=` + `step size`**. In step 10, the loop would look like this: 
 
 ![](/assets/chapter-7-images/00.Step-explanation-01.png)
 
-Следва поредица от примерни задачи, решението на които ще ни помогне да разберем по-добре употребата на **стъпката** във **`for`** цикъл.
+Here is a series of sample problems, the solution of which will help us better understand the use of **the step** in **`for`** loop.
