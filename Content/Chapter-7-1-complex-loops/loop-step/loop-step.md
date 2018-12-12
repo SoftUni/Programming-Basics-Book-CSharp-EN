@@ -1,3 +1,3 @@
-## Цикли със стъпка
+## Loop Step
 
-В главата **"Повторения (цикли)"** научихме как работи **`for`** цикълът и вече знаем кога и с каква цел да го използваме. В тази тема ще обърнем **внимание** на една определена и много важна **част от конструкцията** му, а именно **стъпката**.  
+In the **"Repetitions (Loops)"** chapter, we learned how the **`for`** loop works and we already know when and for what purpose to use it. In this chapter we will pay **attention** to a definite and very important part of its construction, namely the **step**.
