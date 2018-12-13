@@ -1,7 +1,7 @@
-### Какво представлява while цикълът?
+### While Loop Explanation
 
-В програмирането **`while` цикълът** се използва, когато искаме да **повтаряме** извършването на определена логика, докато **е в сила дадено условие**. Под "**условие**", разбираме всеки **израз**, който връща **`true`** или **`false`**. Когато **условието** стане **грешно**, **`while`** цикълът **прекъсва** изпълнението си и програмата **продължава** с изпълнението на останалия код след цикъла. Конструкцията за **`while` цикъл** изглежда по този начин:
+In programming **the `while` loop** is used when we want to **repeat** the execution of a certain logic while **a condition is in effect**. By "**condition**," we understand every **expression** that returns **`true`** or **`false`**. When **the condition** is **wrong**, **the `while` loop** is **interrupted**, the program **continues** to execute the remaining code after the loop. **The `while` loop** construction looks like this:
 
 ![](/assets/chapter-7-images/00.While-loop-01.png)
 
-Следва поредица от примерни задачи, решението на които ще ни помогне да разберем по-добре употребата на **`while`** цикъла.
+Here is a series of sample problems, the solution of which will help us to better understand the use of the **`while`** loop.
