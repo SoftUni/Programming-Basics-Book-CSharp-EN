@@ -2,7 +2,7 @@
 
 Print **the even** powers of **2** to **2^n**: **2^0, 2^2, 2^4, 2^8, …, 2^n**. For example, if **n = 10**, the result will be: **1, 4, 16, 64, 256, 1024**.
 
-Here's how we can solve the problem:
+Here is how we can solve the problem:
 
   * We create a **`num`** variable for the current number to which we assign an initial **value of 1**.
   * For **a step** of the loop, we set a value of **2**.
