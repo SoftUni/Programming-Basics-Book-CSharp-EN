@@ -2,7 +2,7 @@
 
 Write a program that prints all **numbers ≤ n** of the row: **1, 3, 7, 15, 31, …**, assuming that every next number = **previous number \* 2 + 1**.
 
-Here's how we can solve the problem:
+Here is how we can solve the problem:
 
    * We create a **`num`** variable for the current number to which we assign an initial **value of 1**.
    * For a loop condition, we put **the current number <= n**.
