@@ -1,19 +1,19 @@
-### Example: най-голям общ делител (НОД)
+### Example: Greatest Common Divisor (GCD)
 
-Да се въведат **цели** числа **a** и **b** и да се намери **НОД(a, b)**.
+Enter **integers** **a** and **b** and find **GCD(a, b)**.
 
-Ще решим задачата чрез **алгоритъма на Евклид**:
+We will solve the problem through **Euclid's algorithm**:
 
-* Създаваме променливи **`a`** и **`b`**, на които присвояваме **целочислени** стойности, взети от входа на конзолата.
-* За условие на цикъла слагаме израз, който е **`true`**, ако числото **`b`** **е различно** от **0**.
-* В **тялото на цикъла** следваме указанията от псевдо кода:
-   * Създаваме временна променлива, на която присвояваме **текущата** стойност на **`b`**.
-   * Присвояваме нова стойност на **`b`**, която е остатъка от делението на **`a`** и **`b`**.
-   * На променливата **`a`** присвояваме **предишната** стойност на променливата **`b`**.
-* След като цикълът приключи и сме установили НОД, го отпечатваме на екрана.
+   * We create variables **`a`** and **`b`** to which we assign **integer** values taken from the console input.
+   * For a loop condition, we put an expression that is **`true`** if the number **`b`** **is different** from **0**.
+   * In **the body of the loop** we follow the instructions from the pseudo code:
+      * We create a temporary variable to which we assign **the current** value of **`b`**.
+      * We assign a new value to **`b`**, which is the remainder of the division of **`a`** and **`b`**.
+      * On the variable **`a`** we assign **the previous** value of the variable **`b`**.
+   * Once the loop is complete and we have established the GCD, we print it on the screen.
 
 ![](/assets/chapter-7-images/07.GCD-01.png)
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/514#6](https://judge.softuni.bg/Contests/Practice/Index/514#6).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/514#6](https://judge.softuni.bg/Contests/Practice/Index/514#6).
