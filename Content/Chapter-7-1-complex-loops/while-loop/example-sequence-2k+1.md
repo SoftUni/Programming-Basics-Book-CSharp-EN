@@ -1,17 +1,17 @@
-### Example: редица числа 2k+1
+### Example: Sequence 2k+1
 
-Да се напише програма, която отпечатва всички **числа ≤ n** от редицата: **1, 3, 7, 15, 31, …**, като приемем, че всяко следващо число = **предишно число \* 2 + 1**.
+Write a program that prints all **numbers ≤ n** of the row: **1, 3, 7, 15, 31, …**, assuming that every next number = **previous number \* 2 + 1**.
 
-Ето как можем да решим задачата:
+Here's how we can solve the problem:
 
-* Създаваме променлива **`num`** за текущото число, на която присвояваме начална **стойност 1**.
-* За условие на цикъла слагаме **текущото число <= n**.
-* В **тялото на цикъла**: отпечатваме стойността на текущото число и увеличаваме текущото число, използвайки формулата от условието на задачата.
+   * We create a **`num`** variable for the current number to which we assign an initial **value of 1**.
+   * For a loop condition, we put **the current number <= n**.
+   * In **the body of the loop**: we print the value of the current number and increase the current number by using the formula from the problem's description.
 
-Ето и примерна реализация на описаната идея:
+Here is a sample implementation of this idea:
 
 ![](/assets/chapter-7-images/05.Numbers-2k+1-01.png)
  
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/514#4](https://judge.softuni.bg/Contests/Practice/Index/514#4).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/514#4](https://judge.softuni.bg/Contests/Practice/Index/514#4).
