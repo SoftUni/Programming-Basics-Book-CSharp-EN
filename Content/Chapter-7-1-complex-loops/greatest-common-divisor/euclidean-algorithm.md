@@ -1,13 +1,13 @@
-### Алгоритъм на Евклид
+### Euclidean Algorithm
 
-В следващата задача ще използваме един от първите публикувани алгоритми за намиране на НОД - **алгоритъм на Евклид**:
+In the next problem we will use one of the first published algorithms for finding the GCD - **Euclid's algorithm**.
 
-**Докато** не достигнем остатък 0:
+**Until** we reach remainder 0:
 
-* Делим по-голямото число на по-малкото.
-* Вземаме остатъка от делението.
+   * We divide the greater number by the smaller one.
+   * We take the remainder of the division.
 
-**Псевдо-код** за алгоритъма на Евклид:
+Euclid's algorithm **pseudo-code**:
 
 ```csharp
 while b ≠ 0
