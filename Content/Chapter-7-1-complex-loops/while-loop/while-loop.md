@@ -1,3 +1,3 @@
-## While цикъл
+## While loop
 
-Следващият вид цикли, с които ще се запознаем, се наричат **`while` цикли**. Специфичното при тях е, че повтарят блок от команди, **докато дадено условие е истина**. Като структура се различават от тази на **`for`** циклите, даже имат опростен синтаксис.
+The next type of loops that we'll meet are called **`while` loops**. The specific thing about them is that they repeat a block of commands **until a condition is true**. As a structure, they differ from **`for`** loops, even have a simple syntax.
