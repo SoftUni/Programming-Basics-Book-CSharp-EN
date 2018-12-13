@@ -1,19 +1,19 @@
-### Example: изчисляване на факториел
+### Example: Calculate Factorial
 
-За естествено число **n** да се изчисли **n! = 1 \* 2 \* 3 \* … \* n**. Например, ако **n = 5**, то резултатът ще бъде: **5!** = 1 \* 2 \* 3 \* 4 \* 5 = **120**.
+For natural **n** calculate **n! = 1 \* 2 \* 3 \* … \* n**. For example, if **n = 5**, the result will be: **5!** = 1 \* 2 \* 3 \* 4 \* 5 = **120**.
 
-Ето как по-конкретно можем да пресметнем факториел:
+Here's how we can specifically calculate factorial:
 
-* Създаваме променливата **`n`**, на която присвояваме целочислена стойност взета от входа на конзолата.
-* Създаваме още една променлива - **`fact`**, чиято начална стойност е 1. Нея ще използваме за изчислението и съхранението на факториела.
-* За условие на цикъла ще използваме **`n > 1`**, тъй като всеки път, когато извършим изчисленията в тялото на цикъла, ще намаляваме стойността на **`n`** с 1.
-* В тялото на цикъла:
-   * Присвояваме нова стойност на **`fact`**, която е резултат от умножението на текущата стойност на **`fact`** с текущата стойност на **`n`**.
-   * Намаляваме стойността на **`n`** с **-1**.
-* Извън тялото на цикъла отпечатваме крайната стойност на факториела.
-
+   * We create the variable **`n`** to which we assign an integer value taken from the console input.
+   * We create another variable - a **`fact`** which initial value is 1. We will use it for the calculation and storage of the factorial.
+   * For a loop condition, we will use **`n > 1`**, because each time we perform the calculations in the body of the loop, we will decrease the value of **`n`** by 1.
+   * In the body of the loop:
+      * We assign a new value to a **`fact`** that is the result of multiplying the current **`fact`** value to the current value of **`n`**.
+      * We decrease the value of **`n`** by **-1**.
+   * Outside the body of the loop, we print the final factorial value.
+   
 ![](/assets/chapter-7-images/08.Factorial-01.png)
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/514#7](https://judge.softuni.bg/Contests/Practice/Index/514#7).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/514#7](https://judge.softuni.bg/Contests/Practice/Index/514#7).
