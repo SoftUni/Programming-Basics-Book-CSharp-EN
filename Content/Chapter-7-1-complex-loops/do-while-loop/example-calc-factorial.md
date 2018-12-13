@@ -2,7 +2,7 @@
 
 For natural **n** calculate **n! = 1 \* 2 \* 3 \* … \* n**. For example, if **n = 5**, the result will be: **5!** = 1 \* 2 \* 3 \* 4 \* 5 = **120**.
 
-Here's how we can specifically calculate factorial:
+Here is how we can specifically calculate factorial:
 
    * We create the variable **`n`** to which we assign an integer value taken from the console input.
    * We create another variable - a **`fact`** which initial value is 1. We will use it for the calculation and storage of the factorial.
