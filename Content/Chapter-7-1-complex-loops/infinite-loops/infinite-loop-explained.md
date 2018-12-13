@@ -1,11 +1,11 @@
-### Безкраен цикъл. Що е то?
+### Infinite Loop Explanation
 
-Безкраен цикъл наричаме този цикъл, който **повтаря безкрайно** изпълнението на тялото си. При **`while`** и **`do-while`** циклите проверката за край е условен израз, който **винаги** връща **`true`**. Безкраен **`for`** възниква, когато **липсва условие за край**. 
+An infinite loop we call this loop, which **repeats infinitely** the performance of its body. In **`while`** and **`do-while`** loops, the end check is a conditional expression that **always** returns **`true`**. Infinite **`for`** occurs when there is **no condition to end**.
 
-Ето как изглежда **безкраен `while`** цикъл:
+Here is how it looks an **infinite `while`** loop:
 
 ![](/assets/chapter-7-images/00.Infinite-while-loop-01.png)
 
-А така изглежда **безкраен `for`** цикъл:
+And here is how it looks an **infinite `for`** loop:
 
 ![](/assets/chapter-7-images/00.Infinite-for-loop-01.png)
