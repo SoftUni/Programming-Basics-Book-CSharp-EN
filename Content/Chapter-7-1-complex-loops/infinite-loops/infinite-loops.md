@@ -1,3 +1,3 @@
-## Безкрайни цикли и операторът break
+## Infinite Loops and the Break Operator
 
-До момента се запознахме с различни видове цикли, като научихме какви конструкции имат те и как се прилагат. Следва да разберем какво е **безкраен цикъл**, кога възниква и как можем да **прекъснем** изпълнението му чрез оператора **`break`**.
+So far, we have learned about different types of loops, learning what structures they have and how they are applied. We need to understand what an **infinite loop** is, when it arises, and how we can **break** it through the **`break`** operator.
