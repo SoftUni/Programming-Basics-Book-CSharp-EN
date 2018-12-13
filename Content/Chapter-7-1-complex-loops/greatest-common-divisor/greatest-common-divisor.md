@@ -1,9 +1,10 @@
-## Най-голям общ делител (НОД)
+## Greatest Common Divisor (GCD)
 
-Преди да продължим към следващата задача, е необходимо да се запознаем с определението за **най-голям общ делител** (**НОД**).
+Before proceeding to the next problem, we need to get acquainted with the definition of **the greatest common divisor** (**GCD**).
 
-**Определение за НОД**: най-голям общ делител на две **естествени** числа **a** и **b** е най-голямото число, което дели **едновременно** и **a**, и **b** без остатък. For Example:
-|a|b|НОД| 
+**Definition of GCD**: the greatest common divisor of two **natural** numbers **a** and **b** is the largest number that divides **both** **a** and **b** without reminder.
+
+|a|b|GCD| 
 |:---:|:---:|:---:| 
 |24|16|8|
 |67|18|1|
