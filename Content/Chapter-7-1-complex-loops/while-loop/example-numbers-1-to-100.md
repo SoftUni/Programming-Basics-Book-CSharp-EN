@@ -1,18 +1,18 @@
-### Example: число в диапазона [1 … 100]
+### Example: Number in Range [1 … 100]
 
-Да се въведе цяло число в диапазона [**1 … 100**]. Ако въведеното число е невалидно, да се въведе отново. В случая, за невалидно число ще считаме всяко такова, което **не е** в зададения диапазон.
+Enter an integer in the range [**1 … 100**]. If the entered number is invalid, enter it again. In this case, an invalid number will be any one that **is not** within the specified range.
 
-За да решим задачата, можем да използваме следния алгоритъм:
+To solve the problem, we can use the following algorithm:
 
-* Създаваме променлива **`num`**, на която присвояваме целочислената стойност, получена от входа на конзолата.
-* За условие на цикъла слагаме израз, който е **`true`**, ако числото от входа **не е** в диапазона посочен в условието.
-* В **тялото на цикъла**: отпечатваме съобщение със съдържание "**Invalid number!**" на конзолата, след което присвояваме нова стойност за **`num`** от входа на конзолата.
-* След като вече сме валидирали въведеното число, извън тялото на цикъла отпечатваме стойността на числото.
+   * We create a **`num`** variable to which we assign the integer value obtained from the console input.
+   * For a loop condition, we put an expression that is **`true`** if the number of the input **is not** in the range specified in the problem's description.
+   * In **the body of the loop**: we print a message with "**Invalid number!**" on the console, then assign a new value to **`num`** from the console input.
+   * Once we have validated the entered number, we print the value of the number outside the body of the loop.
 
-Ето и примерна реализация на алгоритъма чрез **`while` цикъл**:
+Here's a sample implementation of the algorithm using **`while` loop**:
 
 ![](/assets/chapter-7-images/06.Numbers-in-range-1..100-01.png)
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/514#5](https://judge.softuni.bg/Contests/Practice/Index/514#5).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/514#5](https://judge.softuni.bg/Contests/Practice/Index/514#5).
