@@ -2,7 +2,7 @@
 
 Write a program that prints the numbers **from 1 to n** with **step 3**. For example, **if n = 100**, the result will be: **1, 4, 7, 10, …, 94, 97, 100**.
 
-We can solve the task through the following sequence of actions (algorithm):
+We can solve the problem through the following sequence of actions (algorithm):
 
   * We read the number **`n`** from the console input.
   * We run a **`for` loop** from **1** to **`n`** with step size **3**.
