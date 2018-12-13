@@ -1,15 +1,15 @@
-### Example: четни степени на 2
+### Example: Even Powers of 2
 
-Да се отпечатат **четните** степени на **2** до **2^n**: **2^0, 2^2, 2^4, 2^8, …, 2^n**. Например, ако **n = 10**, то резултатът ще е **1, 4, 16, 64, 256, 1024**.
+Print **the even** powers of **2** to **2^n**: **2^0, 2^2, 2^4, 2^8, …, 2^n**. For example, if **n = 10**, the result will be: **1, 4, 16, 64, 256, 1024**.
 
-Ето как можем да решим задачата:
+Here's how we can solve the problem:
 
-  * Създаваме променлива **`num`** за текущото число, на която присвояваме начална **стойност 1**.
-  * За **стъпка** на цикъла задаваме стойност **2**.
-  * В **тялото на цикъла**: oтпечатваме стойността на текущото число и **увеличаваме текущото число `num` 4 пъти** (според условието на задачата).
+  * We create a **`num`** variable for the current number to which we assign an initial **value of 1**.
+  * For **a step** of the loop, we set a value of **2**.
+  * In **the body of the loop**: we print the value of the current number and **increase the current number `num` 4 times** (according to the problem's description).
 
 ![](/assets/chapter-7-images/04.Even^2-01.png)
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/514#3](https://judge.softuni.bg/Contests/Practice/Index/514#3).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/514#3](https://judge.softuni.bg/Contests/Practice/Index/514#3).
