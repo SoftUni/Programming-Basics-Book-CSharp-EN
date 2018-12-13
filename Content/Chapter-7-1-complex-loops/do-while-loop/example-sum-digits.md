@@ -1,24 +1,24 @@
-### Example: сумиране на цифрите на число
+### Example: Sum Digits
 
-Да се сумират цифрите на цяло **положително** число **n**. Например, ако **n = 5634**, то резултатът ще бъде: 5 + 6 + 3 + 4 = **18**.
+Sum up the digits of a **positive** integer **n**. For example, if **n = 5634**, the result will be: 5 + 6 + 3 + 4 = **18**.
 
-Можем да използваме следната идея, за да решим задачата:
+We can use the following idea to solve the problem:
 
-* Създаваме променливата **`n`**, на която присвояваме стойност, равна на въведеното от потребителя число.
-* Създаваме втора променлива - **`sum`**, чиято начална стойност е 0. Нея ще използваме за изчислението и съхранението на резултата.
-* За условие на цикъла ще използваме **`n > 0`**, тъй като след всяко изчисление на резултата в тялото на цикъла, ще премахваме последната цифра от **`n`**.
-* В тялото на цикъла:
-   * Присвояваме нова стойност на **`sum`**, която е резултат от събирането на текущата стойност на **`sum`** с последната цифра на **`n`**.
-   * Присвояваме нова стойност на **`n`**, която е резултат от премахването на последната цифра от **`n`**.
-* Извън тялото на цикъла отпечатваме крайната стойност на сумата.
+   * We create the variable **`n`**, to which we assign a value equal to the number entered by the user.
+   * We create a second variable - **`sum`**, which initial value is 0. We will use it for the calculation and storage of the result.
+   * For a loop condition, we will use **`n > 0`** because after each calculation of the result in the body of the loop, we will remove the last digit of **`n`**.
+   * In the body of the loop:
+       * We assign a new value of **`sum`** that is the result of the sum of the current value of **`sum`** with the last digit of **`n`**.
+       * We assign a new value to **`n`**, which is the result of removing the last digit of **`n`**.
+   * Outside the body of the loop, we print the final value of the sum.
 
 ![](/assets/chapter-7-images/09.Sum-digits-01.png)
 
 <table><tr><td><img src="/assets/alert-icon.png" style="max-width:50px;" /></td>
-<td><code><strong>n % 10</strong></code>: <b>връща</b> последната цифра на числото <code><strong>n</strong></code>.<br>
-<code><strong>n / 10</strong></code>: <b>изтрива</b> последната цифра на <code><strong>n</strong></code>.</td>
+<td><code><strong>n % 10</strong></code>: <b>returns</b> the last digit of the number <code><strong>n</strong></code>.<br>
+<code><strong>n / 10</strong></code>: <b>deletes</b> the last digit of <code><strong>n</strong></code>.</td>
 </tr></table>
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/514#8](https://judge.softuni.bg/Contests/Practice/Index/514#8).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/514#8](https://judge.softuni.bg/Contests/Practice/Index/514#8).
