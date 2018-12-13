@@ -4,7 +4,7 @@ It remains to be found whether **the point** is on or out of the line. The point
 
 ![](/assets/chapter-8-1-images/03.Point-on-segment-07.png)
 
-inally, we print **the distance** previously found.
+Finally, we print **the distance** previously found.
 
 ![](/assets/chapter-8-1-images/03.Point-on-segment-08.png)
 
