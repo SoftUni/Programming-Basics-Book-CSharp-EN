@@ -8,6 +8,6 @@ Here is a snippet of the **top of the diamond**:
 
 It remains to **complete each line** with the required number **`-*`** elements. On each row we have to add **`i - 1`** such **items** (on the first 1-1 -> 0, the second -> 1, etc.)
 
-Here's the complete code for drawing **the top of the diamond**:
+Here is the complete code for drawing **the top of the diamond**:
 
 ![](/assets/chapter-8-1-images/09.Perfect-diamond-03.png)
