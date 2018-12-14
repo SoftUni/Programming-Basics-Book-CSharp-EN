@@ -1,11 +1,11 @@
-### Example: проверка за просто число. Оператор break
+### Example: Check Prime
 
-Да се провери дали едно число **n** е просто. Това ще направим като проверим дали **n** се дели на числата между 2 и √n.
+Check if a number **n** is prime. We will do this by checking if **n** is divided by the numbers between 2 and √n.
 
-Ето го алгоритъмът за проверка за просто число, разписан постъпково:
+Here is an algorithm for checking a prime number, step by step:
 
-* Създаваме променливата **`n`**, на която присвояваме цяло число въведено от входа на конзолата.
-* Създаваме булева променлива **`isPrime`** с начална стойност **`true`**. Приемаме, че едно число е просто до доказване на противното.
-* Създаваме **`for`** цикъл, на който като начална стойност за променливата на цикъла задаваме 2, за условие **текущата ѝ стойност `<= √n`**. Стъпката на цикъла е 1.
-* В **тялото на цикъла** проверяваме дали **`n`**, разделено на **текущата стойност** има остатък. Ако от делението **няма остатък**, то променяме **`isPrime`** на **`false`** и излизаме принудително от цикъла чрез оператор **`break`**.
-* В зависимост от стойността на **`isPrime`** отпечатваме дали числото е просто (**`true`**) или съответно съставно (**`false`**).
+   * We create the variable **`n`** to which we assign an integer taken from the console input.
+   * We create an **`isPrime`** boolean variable with an initial value **`true`**. We assume that a number is prime until proven otherwise.
+   * We create a **`for`** loop in which we set an initial value 2 for the loop variable, for condition **the current value `<= √n`**. The loop step is 1.
+   * In **the body of the loop**, we check if **`n`**, divided by **the current value**, has a remainder. If there is **no reminder** from the division, then we change **`isPrime`** to **`false`** and we exit the loop through the **`break`** operator.
+   * Depending on the value of **`isPrime`**, we print whether the number is prime (**`true`**) or composite (**`false`**).
