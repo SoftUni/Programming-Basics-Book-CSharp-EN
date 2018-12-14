@@ -1,11 +1,11 @@
-#### Правилна имплементация
+#### Correct Implementation
 
-Какво е **правилното решение**? Един начин за решаването на този проблем е чрез деклариране на **`bool` променлива**, която следи за това, дали трябва да продължава въртенето на цикъла. При нужда от изход (излизане от всички вложени цикли), се прави **`true`** променливата и се излиза от вътрешния цикъл с **`break`**, а при последваща проверка се напуска и външния цикъл. Ето и примерна имплементация на тази идея:
+What is **the right solution**? One way to solve this problem is by declaring a **`bool` variable** to keep track if the loop rotation has to continue. If you need to exit (exit from all nested loops), we set the variable to **`true`** and exit the inner loop with a **`break`**, and in the next check we exit the outer loop. Here is an example implementation of this idea:
 
 ![](/assets/chapter-7-images/00.Nested-and-break-undesired-result-02.png)
 
-По този начин, когато **`i + j = 2`**, програмата ще направи променливата **`hasToEnd = true`** и ще излезе от вътрешния цикъл. При следващото завъртане на външния цикъл, чрез **`if`** проверката, програмата няма да може да стигне до вътрешния цикъл и ще прекъсне изпълнението си.
+Thus, when **`i + j = 2`**, the program will set the **`hasToEnd = true`** and exit the inner loop. Upon the next rotation of the outer loop, through the check, the program will not be able to reach the inner loop and will interrupt its execution.
 
 ### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/514#11](https://judge.softuni.bg/Contests/Practice/Index/514#11).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/514#11](https://judge.softuni.bg/Contests/Practice/Index/514#11).
