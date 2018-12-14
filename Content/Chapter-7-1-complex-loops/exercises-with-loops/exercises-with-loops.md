@@ -1,3 +1,3 @@
-## Задачи с цикли
+## Exercises with Loops
 
-В тази глава се запознахме с няколко нови вида цикли, с които могат да се правят повторения с по-сложна програмна логика. Да решим няколко задачи, използвайки новите знания.
+In this chapter, we got familiar with some new types of loops that can make repetitions with more complex programming logic. Let's solve a few tasks using the new knowledge.
