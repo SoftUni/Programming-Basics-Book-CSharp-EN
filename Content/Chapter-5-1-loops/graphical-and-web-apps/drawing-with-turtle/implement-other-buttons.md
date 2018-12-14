@@ -1,11 +1,11 @@
-#### Имплементиране на бутоните [**Reset**] и [**Show / Hide Turtle**] 
+#### Implementing the [**Reset**] and [**Show / Hide Turtle**] Buttons 
 
-Нека напишем кода и за останалите два бутона. Целта на бутона [**Reset**] е да изтрие графиката и да започне да чертае на чисто:
+Now let's write the code for the other two buttons. The purpose of the [**Reset**] button is to delete the graphics and to start drawing from the beginning:
 
 ![](/assets/chapter-5-images/13.Turtle-graphics-11.png)
 
-Целта на бутона [**Show / Hide Turtle**] е да показва или скрива костенурката: 
+The purpose of the [**Show / Hide Turtle**] button is to show or hide the turtle: 
 
 ![](/assets/chapter-5-images/13.Turtle-graphics-12.png)
 
-Отново **стартираме** приложението с [**Ctrl+F5**] и го тестваме, дали работи коректно.
+Once again, **start** the application by [**Ctrl+F5**] and test whether it works correctly.
