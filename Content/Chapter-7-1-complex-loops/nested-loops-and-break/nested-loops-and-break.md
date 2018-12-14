@@ -1,7 +1,7 @@
-## Вложени цикли и операторът break
+## Nested Loops and Break Operator
 
-След като вече научихме какво са **вложените цикли** и как работи операторът **`break`**, е време да разберем как работят двете заедно. За по-добро разбиране, нека стъпка по стъпка да напишем **програма**, която трябва да направи всички възможни комбинации от **двойки числа**. Първото число от комбинацията е нарастващо от 1 до 3, а второто е намаляващо от 3 до 1. Задачата трябва да продължи изпълнението си, докато **`i + j`** **не** е равно на 2 (т.е. **`i = 1`** и **`j = 1`**).
+Once we have learned what **the nested loops** are and how the **`break`** operator works, it is time to figure out how they work together. For a better understanding, let's step by step write **a program** that should make all possible combinations of **pairs of numbers**. The first number of the combination is rising from 1 to 3 and the second one is decreasing from 3 to 1. The problem must continue to run until **`i + j`** is not equal to 2 (**`i = 1`** and **`j = 1`**).
 
-Желаният резултат е:
+The desired result is:
 
 ![](/assets/chapter-7-images/00.Nested-and-break-desired-result-01.png)
