@@ -1,4 +1,4 @@
-#### Break in Infitine Loop Implementation
+#### Break in Infinite Loop Implementation
 
 Here is an example implementation of the idea:
 
