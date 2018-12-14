@@ -1,13 +1,13 @@
-### Problem: * чертане на звезда с костенурката
+### Problem: * Drawing a Star with the Turtle
 
-Добавете бутон [**Star**], който чертае звезда с 5 върха (**петолъчка**), като на фигурата по-долу:
+Add a [**Star**] button that draws a star with 5 beams (**pentagram**), as on the figure below:
 
 ![](/assets/chapter-5-images/13.Turtle-graphics-14.png)
 
 **Hint:**
 
-Сменете цвета: **`Turtle.PenColor` = `Color.Green`**. 
+Change the color: **`Turtle.PenColor` = `Color.Green`**. 
 
-В цикъл повторете 5 пъти следното:
-* Движение напред 200.
-* Ротация на 144 градуса.
+Repeat 5 times the following in a loop:
+* Forward step of 200.
+* 144 degrees rotation.
