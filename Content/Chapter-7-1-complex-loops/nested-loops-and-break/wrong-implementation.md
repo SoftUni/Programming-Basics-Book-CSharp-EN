@@ -1,15 +1,15 @@
-#### Грешна имплементация
+#### Wrong Implementation
 
-Ето едно **грешно решение**, което изглежда правилно на пръв поглед:
+Here is **a wrong solution** that looks right at first look:
 
 ![](/assets/chapter-7-images/00.Nested-and-break-desired-result-02.png)
 
-Ако оставим програмата ни по този начин, резултатът ни ще е следният:
+If we leave our program that way, our result will be as follows:
 
 ![](/assets/chapter-7-images/00.Nested-and-break-undesired-result-01.png)
 
-Защо се получава така? Както виждаме, в резултата **липсва "1 1"**. Когато програмата стига до там, че **`i = 1`** и **`j = 1`**, тя влиза в **`if`** проверката и изпълнява **`break`** операцията. По този начин се **излиза от вътрешния цикъл**, но след това продължава изпълнението на външния. **`i`** нараства, програмата влиза във вътрешния цикъл и принтира резултата.
+Why is it so? As we can see, the result is **missing "1 1"**. When the program reaches that point that **`i = 1`** and **`j = 1`**, it enters the **`if`** check and executes the **`break`** operation. In this way, it **goes out of the inner loop**, but then continues the performance of the outer one. **`i`** grows, the program enters the internal loop and prints the result.
 
 <table><tr><td><img src="/assets/alert-icon.png" style="max-width:50px" /></td>
-<td>Когато във <b>вложен цикъл</b> използваме оператора <b><code>break</code></b>, той прекъсва изпълнението <b>само</b> на вътрешния цикъл.</td>
+<td>When we use the <b><code>break</code></b> in <b>nested loop</b> , it interrupts the execution of the inner loop <b>only</b>.</td>
 </tr></table>
