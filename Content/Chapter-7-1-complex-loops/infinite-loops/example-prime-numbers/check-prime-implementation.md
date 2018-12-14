@@ -1,11 +1,11 @@
-#### Имплементация на алгоритъма
+#### Implementation of the Algorithm
 
-Ето и примерна имплементация на описания алгоритъм:
+Here is a sample implementation of the algorithm described:
 
 ![](/assets/chapter-7-images/10.Check-if-prime-01.png)
 
-Оставаме да добавите **проверка дали входното число е по-голямо от 1**, защото по дефиниция числа като 0, 1, -1 и -2 не са прости.
+It remains to add **check if the input number is greater than 1**, because by definition numbers such as 0, 1, -1 and -2 are not prime.
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/514#9](https://judge.softuni.bg/Contests/Practice/Index/514#9).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/514#9](https://judge.softuni.bg/Contests/Practice/Index/514#9).
