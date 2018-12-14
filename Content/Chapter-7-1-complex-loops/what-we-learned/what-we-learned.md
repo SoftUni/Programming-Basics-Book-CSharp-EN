@@ -1,6 +1,6 @@
 ## What We Learned in This Chapter?
 
-Можем да използваме **`for`** цикли със **стъпка**:
+We can use **`for`** with **a step**:
 
 ```csharp
 for (var i = 1; i <= n; i+=3)
@@ -9,7 +9,7 @@ for (var i = 1; i <= n; i+=3)
 }
 ```
 
-Циклите **`while`** / **`do-while`** се повтарят докато е в сила дадено **условие**:
+The loops **`while`** / **`do-while`** are repeated while a **condition** is in effect:
 
 ```csharp
 int num = 1;
@@ -19,7 +19,7 @@ while (num <= n)
 }
 ```
 
-Ако се наложи да **прекъснем** изпълнението на цикъл, го правим с оператора **`break`**:
+If we have to **interrupt** the loop execution, we do it with the operator **`break`**:
 
 ```csharp
 var n = 0;
@@ -35,7 +35,7 @@ while (true)
 Console.WriteLine("Even number entered: {0}", n);
 ```
 
-Вече знаем как да прихващаме **грешки** по време на изпълнението на програмата ни:
+We already know how to catch **errors** during our program execution:
 
 ```csharp
 try
