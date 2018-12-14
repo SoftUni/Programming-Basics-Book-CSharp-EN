@@ -1,7 +1,7 @@
-### Конструкция на try-catch
+### Try-catch Construction
 
-Конструкцията **`try-catch`** има различни варианти, но за сега ще се запознаем само с най-основния от тях: 
+The **`try-catch`** construction has different variations, but for now we will only get acquainted with the most basic of them:
 
  ![](/assets/chapter-7-images/00.Try...catch-01.png)
 
-В следващата задача ще видим нагледно, как да се справим в ситуация, в която потребителят въвежда вход, различен от число (например **`string`** вместо **`int`**), чрез **`try-catch`**.
+In the next task, we will see how to handle a situation where a user enters a non-numeric input (for example, a **`string`** instead of an **`int`**) by **`try-catch`**.
