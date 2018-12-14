@@ -1,13 +1,13 @@
-### Example: оператор break в безкраен цикъл
+### Example: Break in Infinite Loop
 
-Да се напише програма, която проверява дали едно число **n** е четно, и ако е - да се отпечатва на екрана. За четно считаме число, което се дели на 2 без остатък. При невалидно число да се връща към повторно въвеждане и да се изписва съобщение, което известява, че въведеното число не е четно.
+Write a program that checks if one number **n** is even, and if it is - print it on the screen. For even we consider a number that is divisible by 2 without a remainder. For an invalid number return re-entering and display a message that notifies you that the entered number is not even.
 
-Ето една идея как можем да решим задачата:
+Here is an idea how we can solve the problem:
 
-* Създаваме променлива **`n`**, на която присвояваме начална стойност **0**.
-* Създаваме безкраен **`while`** цикъл, като за условие ще зададем **`true`**.
-* В **тялото на цикъла**:
-   * Вземаме целочислена стойност от входа на конзолата и я присвояваме на **`n`**.
-   * Ако **числото е четно**, излизаме от цикъла чрез **`break`**. 
-   * В **противен случай** извеждаме съобщение, което гласи, че **числото не е четно**. Итерациите продължават, докато не се въведе четно число.
-* Отпечатваме четното число на екрана.
+   * We create a variable **`n`** to which we assign an initial value of **0**.
+   * We create an infinite **`while`** loop and for condition we will set **`true`**.
+   * In **the body of the loop**:
+      * We take an integer value from the console input and assign it to **`n`**.
+      * If **the number is even**, we exit the loop by **`break`**.
+      * **Otherwise**, we display a message stating that **the number is not even**. The iterations continue until an even number is entered.
+   * Print the even number on the screen.
