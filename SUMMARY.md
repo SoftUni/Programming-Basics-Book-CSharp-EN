@@ -325,7 +325,7 @@
       * [Adding Buttons](Content/Chapter-5-1-loops/graphical-and-web-apps/drawing-with-turtle/adding-buttons.md)
       * [Implementing the Draw Button and Testing the Application](Content/Chapter-5-1-loops/graphical-and-web-apps/drawing-with-turtle/implement-draw-button-and-test-the-app.md)
       * [Adding Complexity to the Turtle Code](Content/Chapter-5-1-loops/graphical-and-web-apps/drawing-with-turtle/adding-complexity-to-turtle.md)
-      * [Implementing the Buttons [Reset] and [Show / Hide Turtle]](Content/Chapter-5-1-loops/graphical-and-web-apps/drawing-with-turtle/implement-other-buttons.md)
+      * [Implementing the [Reset] and [Show / Hide Turtle] Buttons](Content/Chapter-5-1-loops/graphical-and-web-apps/drawing-with-turtle/implement-other-buttons.md)
     * [Problem: * Drawing а Hexagon with the Turtle](Content/Chapter-5-1-loops/graphical-and-web-apps/drawing-hexagon.md)
     * [Problem: * Drawing a Star with the Turtle](Content/Chapter-5-1-loops/graphical-and-web-apps/drawing-star.md)
     * [Problem: * Drawing a Spiral with the Turtle](Content/Chapter-5-1-loops/graphical-and-web-apps/drawing-spiral.md)
