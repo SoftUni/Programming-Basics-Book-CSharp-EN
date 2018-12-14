@@ -1,6 +1,6 @@
 ## What We Learned in This Chapter?
 
-We can use **`for`** with **a step**:
+We can use **`for`** loop with **a step**:
 
 ```csharp
 for (var i = 1; i <= n; i+=3)
