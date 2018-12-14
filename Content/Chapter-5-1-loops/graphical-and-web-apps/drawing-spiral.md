@@ -1,9 +1,9 @@
-### Problem: * чертане на спирала с костенурката
+### Problem: * Drawing a Spiral with the Turtle
 
-Добавете бутон [**Spiral**], който чертае спирала с 20 върха като на фигурата по-долу:
+Add a [**Spiral**] button that draws a spiral with 20 beams, as on the figure below:
 
 ![](/assets/chapter-5-images/13.Turtle-graphics-15.png)
 
 **Hint:**
 
-Чертайте в цикъл, като движите напред и завъртате. С всяка стъпка увеличавайте постепенно дължината на движението напред и завъртайте на 60 градуса.
+Draw in a loop by moving ahead and rotating. In each step, decrease gradually the length of the forward step and rotate 60 degrees.
