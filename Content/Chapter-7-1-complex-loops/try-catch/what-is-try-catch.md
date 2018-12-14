@@ -1,7 +1,7 @@
-### Какво е try-catch?
+### What is try-catch?
 
-Програмната конструкция **`try-catch`** служи за **прихващане и обработка на изключения (грешки)** по време на изпълнението на програмата.
+The **`try-catch`** construction is used to **capture and handle exceptions (errors)** during program execution.
 
-В програмирането **изключенията** представляват уведомление за дадено събитие, което нарушава нормалната работа на една програма. Такива изключителни събития **прекъсват изпълнението** на програмата ни и тя търси кой да обработи настъпилата ситуация. Ако не намери, изключението се отпечатва на конзолата (програмата “гърми”). Ако намери, **изключението се обработва** и програмата продължава нормалното си изпълнение без да “гърми”. След малко ще видим как точно става това.
+In programming, **exceptions** are a notification of an event that violates the normal operation of a program. Such exceptional events **interrupt the execution** of our program, and it is looking for something to process the situation. If it does not find it, the exception is printed on the console. If found, **the exception is processed** and the program continues its normal execution. After a while, we'll see how this happens.
 
-Когато настъпи изключение, се казва, че изключението е било **"хвърлено" (throw exception)**. От там идва и изразът **"улавям изключение" (catch exception)**.
+When an exception occurs, it is said that the exception was **"thrown" (throw exception)**. That is where the expression **"catch exception"** comes from.
