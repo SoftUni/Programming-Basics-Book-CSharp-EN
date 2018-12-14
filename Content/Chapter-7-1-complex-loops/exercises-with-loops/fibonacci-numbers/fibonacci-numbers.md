@@ -1,8 +1,8 @@
-### Problem: числа на Фибоначи
+### Problem: Fibonacci Numbers
 
-Числата на Фибоначи в математиката образуват редица, която изглежда по следния начин: **1, 1, 2, 3, 5, 8, 13, 21, 34, …**.
+Fibonacci's numbers in mathematics form a sequence that looks like this:  **1, 1, 2, 3, 5, 8, 13, 21, 34, …**.
 
-**Формулата** за образуване на редицата е:
+**The formula** to form the sequence is:
 
 ```csharp
 F0 = 1
@@ -20,4 +20,4 @@ Fn = Fn-1 + Fn-2
 |0|1| |
 |1|1| |
 
-Да се въведе **цяло** число **n** и да се пресметне **n-тото число на Фибоначи**.
+Enter **an integer** number **n** and calculate **n-number of Fibonacci**.
