@@ -1,24 +1,26 @@
-### Example: прости числа
+### Example: Prime Numbers Explanation
 
-В следващата задача се изисква да направим **проверка за просто число**. Преди да продължим към нея, нека си припомним какво са простите числа.
+The next problem is to **check for a prime number**. Before proceeding to it, let's recall what the prime numbers are.
 
-**Определение**: едно цяло число е **просто**, ако се дели без остатък единствено на себе си и на 1. По дефиниция простите числа са положителни и по-големи от 1. Най-малкото просто число е **2**.
+**Definition**: An integer is prime if it is divisible only to itself and by 1. By definition, the prime numbers are positive and greater than 1. The smallest prime number is 2.
 
-Можем да приемем, че цяло число **n** е просто, ако **n > 1** и **n** не се дели на число между **2** и **n-1**.
+We can assume that an integer **n** is prime if **n > 1** and **n** is not divisible by a number between **2** and **n-1**.
 
-Първите няколко прости числа са: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, …
+The first few prime numbers are: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, …
 
-За разлика от тях, **непростите (композитни) числа** са такива числа, чиято композиция е съставена от произведение на прости числа.
+Unlike these, **composite numbers** are such numbers, the composition of which is the result of the multiplication of prime numbers.
 
-Ето няколко примерни непрости числа: 
+Here are some examples of composite numbers:
+
 * **10** = 2 * 5
 * **42** = 2 * 3 * 7
 * **143** = 13 * 11
 
-**Алгоритъм за проверка** дали дадено цяло число е **просто**: проверяваме дали **n > 1** и **n** се дели на **2**, **3**, …, **n-1** без остатък.
-* Ако се раздели на някое от числата, значи е **композитно**.
-* Ако не се раздели на никое от числата, значи е **просто**.
+**Algorithm to check** if an integer is **prime**: check that **n > 1** and **n** is divisible by **2**, **3**,  …, **n-1** without reminder.
+
+   * If it is divsible by any of the numbers, it is **composite**.
+   * If it is not dividible by any of the numbers, then it is **prime**.
 
 <table><tr><td><img src="/assets/alert-icon.png" style="max-width:50px" /></td>
-<td>Можем да оптимизираме алгоритъма, като вместо проверката да е до <code><strong>n-1</strong></code>, да се проверяват делителите до <code><strong>√n</strong></code>. Помислете защо.</td>
+<td>We can optimize the algorithm instead of checking it to <code><strong>n-1</strong></code>, to check divisors to <code><strong>√n</strong></code>. Think about why.</td>
 </tr></table>
