@@ -1,11 +1,11 @@
-#### Имплементация на алгоритъма
+#### Break in Infitine Loop Implementation
 
-Ето и примерна имплементация на идеята:
+Here is an example implementation of the idea:
 
 ![](/assets/chapter-7-images/00.Break-in-infinite-loop-01.png)
 
-Забележка: макар кодът по-горе да е коректен, той няма да работи, ако вместо числа потребителят въведе текст, например “**Invalid number**”. Тогава парсването на текста към число ще се счупи и програмата ще покаже **съобщение за грешка (изключение)**. Как да се справим с този проблем и как да прихващаме и обработваме изключения чрез **`try-catch` конструкцията** ще научим след малко.
+Note: Although the code above is correct, it will not work if the user enters text instead of numbers, such as "**Invalid number**". Then parsing the text to a number will break and the program will display **an error message (exception)**. How to deal with this problem and how to capture and process exceptions through **the `try-catch` construction** will be learned later.
 
 #### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/514#10](https://judge.softuni.bg/Contests/Practice/Index/514#10).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/514#10](https://judge.softuni.bg/Contests/Practice/Index/514#10).
