@@ -1,11 +1,11 @@
-#### Усложняване кода на костенурката
+#### Adding Complexity to the Turtle Code
 
-Сега може да променим и усложним кода на **костенурката**: 
+Now you can modify the **turtle** code and make it more complex: 
 
 ![](/assets/chapter-5-images/13.Turtle-graphics-09.png)
 
-Отново **стартираме** приложението с [**Ctrl+F5**]. Тестваме дали работи новата програма за костенурката:
+**Start** the application again by pressing [**Ctrl+F5**]. Test whether the new turtle program works:
 
 ![](/assets/chapter-5-images/13.Turtle-graphics-10.png)
 
-Вече нашата костенурката чертае по-сложни фигури чрез приятно анимирано движение.
+Now our turtle draws more complex figures via a nice animated motion.
