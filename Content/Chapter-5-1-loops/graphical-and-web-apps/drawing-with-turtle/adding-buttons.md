@@ -1,5 +1,5 @@
-#### Добавяне на бутони
+#### Adding Buttons
 
-Сега трябва да сложим **три бутона** във формата и да променим **имената** и **свойствата** им, както е посочено по-долу:
+Now we need to add **three buttons** into the form and change their **names** and **properties** as stated below:
  
 ![](/assets/chapter-5-images/13.Turtle-graphics-06.png)
