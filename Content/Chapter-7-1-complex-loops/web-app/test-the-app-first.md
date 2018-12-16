@@ -1,7 +1,7 @@
-#### Тестване на приложението
+#### Test the Application - I
 
-Стартираме проекта с [**Ctrl+F5**] и му се порадвайте. Очаква се да бъде генерирано случайно игрово поле с плодове с размери 9 на 3 и да се визуализира в уеб страницата чрез поредица картинки:
+Start the project with [**Ctrl + F5**] and enjoy it. It is expected to generate a random 9-to-3 playing field with fruits and visualize it on the web page through a series of pictures:
 
 ![](/assets/chapter-7-images/15.Fruits-11.png) 
 
-Сега играта е донякъде направена: игралното поле се генерира случайно и се визуализира успешно (ако не сте допуснали грешка някъде). Остава да се реализира същината на играта: **стрелянето по плодовете**.
+Now the game is sort of done: the playing field is randomly generated and rendered successfully (if you have not made a mistake somewhere). It remains to realize the essence of the game: **shooting the fruits**.
