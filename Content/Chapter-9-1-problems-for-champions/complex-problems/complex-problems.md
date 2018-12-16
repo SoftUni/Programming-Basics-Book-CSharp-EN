@@ -1,4 +1,3 @@
-## По-сложни задачи върху изучавания материал
+## Complex problems on the material studied
 
-Ще решим заедно няколко задачи по програмиране, които обхващат изучавания в книгата учебен материал, но по трудност надвишават обичайните задачи от приемните изпити в SoftUni. Ако искате да **станете шампиони по основи на програмирането**, ви препоръчваме да тренирате решаване на подобни по-сложни задачи, за да ви е лесно на изпитите.
-
+We will solve together several programming problems that cover the study material in the book, but more difficult than the usual problems of the entrance exams at SoftUni. If you want to become a **champions on the basics of programming**, we recommend training you to solve such complex tasks to make it easy for you to take exams.
