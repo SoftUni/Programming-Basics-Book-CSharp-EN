@@ -1,11 +1,11 @@
 ## Exam Problems
 
-Традиционно приемният изпит в SoftUni се състои от **6 практически задачи по програмиране**:
- - Задача с прости сметки (без проверки).
- - Задача с единична проверка.
- - Задача с по-сложни проверки.
- - Задача с единичен цикъл.
- - Задача с вложени цикли (чертане на фигурка на конзолата).
- - Задача с вложени цикли и по-сложна логика.
+Traditionally, the admission exam at SoftUni consists of **6 practical problems in programming**:
+ - Simple problems (no conditions).
+ - A problem with a single condition.
+ - A problem with more complex conditions.
+ - A problem with a single loop.
+ - A problem with nested loops (drawing a figure in the console).
+ - A problem with nested loops and more complex logic.
  
-Да разгледаме една **реална изпитна тема**, задачите в нея и решенията им.
+Let's examine a **real exam topic**, the problems it contains and their solutions.
