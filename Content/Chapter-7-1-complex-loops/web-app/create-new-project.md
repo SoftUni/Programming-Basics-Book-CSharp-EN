@@ -1,9 +1,9 @@
-#### Създаване на нов C# проект
+#### Create New C# Project
 
-Във Visual Studio създаваме ново **ASP.NET MVC уеб приложение** с език C#. Добавяме нов проект от [**File**] &rarr; [**New**] &rarr; [**Project…**]. Задаваме смислено име, например “**Fruits-Web-Game**”:
+In Visual Studio, we create a new **ASP.NET MVC web application** with C# language. Add a new project from [**File**] &rarr; [**New**] &rarr; [**Project…**]. We give a meaningful name, for example "**Fruits-Web-Game**":
 
 ![](/assets/chapter-7-images/15.Fruits-03.png) 
 
-След това избираме тип на уеб приложението "MVC":
+Then we choose the type of web app "MVC":
 
 ![](/assets/chapter-7-images/15.Fruits-04.png) 
