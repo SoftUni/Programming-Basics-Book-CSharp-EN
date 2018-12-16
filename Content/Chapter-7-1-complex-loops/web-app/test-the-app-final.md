@@ -1,9 +1,9 @@
-#### Финално тестване на приложението
+#### Testing the Application - Final
 
-След промяната в кода на изгледа стартираме с [**Ctrl+F5**] и **тестваме** играта отново:
+After changing the code in the view, let's start with [**Ctrl + F5**] and **test** the game again:
 
 ![](/assets/chapter-7-images/15.Fruits-16.png)
 
-Този път при уцелване на динамит, трябва да се появи дясната картинка и да се позволява единствено действието "нова игра" (бутонът [**New Game**]).
+This time, when you hit a dynamite, the right picture should appear and allow only the "new game" action (the [**New Game**] button).
 
-Сложно ли беше? Успяхте ли да направите играта? Ако не сте успели, спокойно, това е сравнително сложен проект, който включва голяма доза не изучавана материя. Ако искате уеб игричката да ви тръгне в ръцете, **гледайте видеото** в началото на тази глава и следвайте стъпките от него. Там приложението е направено на живо с много обяснения. Или питайте за конкретни проблеми във **форума на SoftUni**: https://softuni.bg/forum.
+Was it complicated? Did you manage to make the game? If you have not succeeded, relax, this is a relatively complex project that includes a great deal of non-studied matter. If you want the web game to pass through your hands, **watch the video** at the beginning of this chapter and follow the steps. There the app is made live with a lot of explanations. Or ask for specific issues in the **forum of SoftUni**: https://softuni.bg/forum.
