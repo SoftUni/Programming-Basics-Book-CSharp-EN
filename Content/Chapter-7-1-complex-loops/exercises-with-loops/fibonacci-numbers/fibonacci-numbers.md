@@ -12,7 +12,7 @@ Fn = Fn-1 + Fn-2
 
 #### Sample Input and Output
 
-| Input (n)| Output |Коментар|
+| Input (n)| Output |Comment|
 |----|-----|---------|
 |10|89|F(11) = F(9) + F(8)|
 |5|8|F(5) = F(4) + F(3)|
