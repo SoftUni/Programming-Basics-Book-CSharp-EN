@@ -1,3 +1,3 @@
-## Exercises: уеб приложения с по-сложни цикли
+## Exercises: Web Applications with Complex Loops
 
-Сега вече знаем как да повтаряме група действия, използвайки **цикли**. Нека направим нещо интересно: да си направим **уеб базирана игра**. Да, истинска игра, с графика, с гейм логика. Да се позабавляваме. Ще бъде сложно, но ако не разберете нещо как точно работи, няма проблем. Сега още навлизаме в програмирането. Има време, ще напреднете с технологиите. Засега следвайте стъпките.
+Now we know how to repeat a group of actions using **loops**. Let's do something interesting: **a web-based game**. Yes, a real game, with graphics and game logic. Let's have fun. It will be complicated, but if you do not understand how it works, there is no problem. We are now getting into programming. You will advance with technology by the time. For now just follow the steps.
