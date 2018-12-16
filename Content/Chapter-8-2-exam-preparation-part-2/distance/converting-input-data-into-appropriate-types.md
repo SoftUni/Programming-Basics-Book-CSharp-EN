@@ -1,5 +1,5 @@
-#### Преобразуване на входните данни в подходящи типове
+#### Converting the Input Data into Appropriate Types
 
-**Следващата** стъпка е да **преобразуваме входните данни** в подходящи **типове**, за да можем да извършим необходимите пресмятания. Избираме да използваме тип **`Int32`** или **`int`**, тъй като в условието на задачата e упоменато, че входните данни ще бъдат в **определен интервал**, за който този тип данни е напълно достатъчен. **Преобразуването** извършваме по следния начин:
+**The next** steps is to **convert the input data** into appropriate **types**, in order to be able to perform the needed calculations. We select **`Int32`** or **`int`** as an appropriate type, becase the condition of the problem says that the input data must be within a **particular range**, for which this data type is completely sufficient. We will do the **conversion** in the following way:
 
 ![](/assets/chapter-8-2-images/01.Distance-03.png)
