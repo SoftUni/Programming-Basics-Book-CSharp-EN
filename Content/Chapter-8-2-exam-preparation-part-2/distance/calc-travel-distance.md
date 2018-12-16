@@ -1,10 +1,10 @@
-#### Изчисляване на изминатото разстояние
+#### Calculating Travel Distance
 
-**Изминалото време** (в часове) пресмятаме като **разделим времето на 60** (минутите в един час). **Изминатото разстояние** намираме като **умножим началната скорост с изминалото време** (в часове). След това променяме скоростта, като я увеличаваме с **10%** по условие. Пресмятането на **процентите**, както и следващите изминати **разстояния**, извършваме по следния начин:
+We calculate the **travel time** (in hours) by **dividing the time by 60** (minutes in an hour). The **travel distance** is calculated by **multiplying the starting speed by the time passed** (in hours). After that we change the speed by increasing it by **10%**, as per the task description. Calculating the **percentage**, as well as the following **distances** passed, is done in the following way:
 
-* **Интервалът от време** (в часове) намираме като **разделим** зададения интервал в минути на минутите, които се съдържат в един час (60).
-* **Изминатото** разстояние намираме като **умножим** интервала (в часове) по скоростта, която получихме след увеличението.
-* Следващата стъпка е да **намалим скоростта** с **5%**, както е зададено по условие.
-* Намираме **оставащото разстояние** по описания начин в първите две точки.
+* **The time frame** (in hours) is calculated by **dividing** the provided time frame in minutes by the minutes that are contained in an hour (60).
+* **The distance passed** is calculated by **multiplying** the time frame (in hours) by the speed that is received after the increase.
+* The next step is to **decrease the speed** by **5%**, as per the problem description.
+* We calculate the **remaining distance** in the manner described in the first two points.
 
 ![](/assets/chapter-8-2-images/01.Distance-05.png)
