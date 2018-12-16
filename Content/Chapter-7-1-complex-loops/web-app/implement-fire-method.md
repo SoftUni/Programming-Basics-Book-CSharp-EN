@@ -1,11 +1,11 @@
-#### Имплементиране на стрелянето по плодовете
+#### Implement Fire Method
 
-Имплементираме "стрелянето" – метода **`Fire(position, startRow, step)`**:
+We implement the "firing" method **`Fire (position, startRow, step)`**:
 
 ![](/assets/chapter-7-images/15.Fruits-13.png)
 
-Стрелянето работи по следния начин: първо се изчислява номера на колоната **`col`**, към която играчът се е прицелил. Входното число от скролера (между 0 и 100) се намалява до число между 0 и 8 (за всяка от 9-те колони). Номерът на реда **row** е или 0 (ако изстрелът е отгоре) или броят редове минус едно (ако изстрелът е отдолу). Съответно посоката на стрелба (стъпката) е **1** (надолу) или **-1** (нагоре).
+Shooting works like this: first calculate the column number **`col`** to which the player has targeted. The input number from the scroll bar (between 0 and 100) is reduced to a number between 0 and 8 (for each of the 9 columns). Line number **`row`** is either 0 (if the shot is on top) or the number of lines minus one (if the shot is below). Accordingly, the shooting direction (step) is **1** (down) or **- 1** (upwards).
 
-За да се намери къде изстрелът поразява плод или динамит, се преминава в цикъл през всички клетки от игралното поле в прицелената колона и от първия до последния атакуван ред. Ако се срещне плод, той изчезва (замества се с **`empty`**) и се дават точки на играча. Ако се срещне **`dynamite`**, играта се отбелязва като свършила.
+In order to find where the shot hits fruit or dynamite, go through a loop through all the cells in the playing field in the target column and from the first to the last attack row. If a fruit is hit, it disappears (replaced by **`empty`**) and points are given to the player. If the **`dynamite`** is hit, the game is marked as finished.
 
-Оставаме на по-запалените да имплементират по-сложно поведение, например да се дават различни точки при уцелване на различен плод, да се реализира анимация с експлозия (това не е твърде лесно), да се взимат точки при излишно стреляне в празна колона и подобни.
+We left to the more enthusiastic to implement more complex behavior, for example, to give different points in the pursuit of a different fruit, to carry out animation with an explosion (this is not too easy), to take points in unnecessary firing in an empty column and so on.
