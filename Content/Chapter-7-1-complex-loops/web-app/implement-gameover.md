@@ -1,9 +1,9 @@
-#### Имплементиране края на играта
+#### Implement Game Over
 
-За момента при **"Край на играта"** нищо не се случва. Ако играчът уцели динамит, в контролера се отбелязва, че играта е свършила **(`gameOver = true`)**, но този факт не се визуализира по никакъв начин. За да заработи приключването на играта, е необходимо да добавим няколко проверки в изгледа:
+For now, at **"End of the game"** nothing happens. If a player reaches dynamite, the controller says that the game is over **(`gameOver = true`)**, but this fact is not visualized in any way. In order for the game to finish, we need to add several checks in the view:
 
 ![](/assets/chapter-7-images/15.Fruits-14.png)
 
 ![](/assets/chapter-7-images/15.Fruits-15.png)
 
-Кодът по-горе проверява дали е свършила играта и показва съответно контролите за стреляне и игралното поле (при активна игра) или картинка с експлодирали плодове при край на играта.
+The code above checks whether the game has finished and indicates accordingly the shooting controls and the playing field (active game) or exploding fruit picture at the end of the game.
