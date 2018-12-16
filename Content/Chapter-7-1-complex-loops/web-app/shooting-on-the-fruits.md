@@ -1,10 +1,10 @@
-#### Стреляне по плодовете
+#### Shooting on the Fruits
 
-За стрелянето по плодовете е нужно да добавим действията [**Reset**] и [**Fire Top**] / [**Fire Bottom**] в контролера **`HomeController.cs`**:
+For the fruit shooting, we need to add the actions [**Reset**] and [**Fire Top**] / [**Fire Bottom**] to the controller **`HomeController.cs`**:
 
 ![](/assets/chapter-7-images/15.Fruits-12.png) 
 
-Горният код дефинира три действия:
-*	**`Reset()`** – стартира нова игра, като генерира ново случайно игрално поле с плодове и експлозиви, нулира точките на играча и прави играта валидна **(`gameOver = false`)**. Това действие е доста просто и може да се тества веднага с [**Ctrl+F5**], преди да се напишат другите.
-*	**`FireTop(position)`** – стреля по ред **0** на позиция **`position`** (число от 0 до 100). Извиква се стреляне в посока **надолу** (+1) от ред **`0`** (най-горния). Самото стреляне е по-сложно като логика и ще бъде разгледано след малко.
-*	**`FireBottom(position)`** – стреля по ред **2** на позиция **`position`** (число от 0 до 100). Извиква се стреляне в посока **нагоре** (-1) от ред **2** (най-долния).
+The above code defines three actions:
+   * **`Reset()`** - starts a new game by generating a new random playing field with fruits and explosives, resetting the player's points and making the game valid **(`gameOver = false`)**. This action is pretty simple and can be immediately tested with [**Ctrl + F5**] before writing the other ones.
+   * **`FireTop (position)`** - shoots on row **0** at position **`position`** (number 0 to 100). The shooting is in direction **down** (+1) from row **`0`** (top). Shooting itself is more complicated as a logic and will be considered after a while.
+   * **`FireBottom (position)`** - shoots on row **2** at position **`position`** (number 0 to 100). The shooting is in direction **up** (-1) from row **2** (bottom).
