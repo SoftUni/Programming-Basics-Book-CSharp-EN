@@ -1,9 +1,9 @@
-#### Добавяне на картинките за играта
+#### Add Game Images
 
-Следва да **добавим картинките** за играта. 
+The next thing is to **add the images** for the game.
 
-От [**Solution Explorer**] създаваме папка **"images"** в коренната директория на проекта. Използваме менюто [**Add**] &rarr; [**New Folder**]. 
- 
-Сега добавяме **картинките** за играта (те са част от файловете със заданието за този проект и могат да бъдат свалени от [тук](https://github.com/SoftUni/Programming-Basics-Book-CSharp-BG/tree/master/assets/chapter-7-assets)). Копираме ги от Windows Explorer и ги поставяме в папката **"images"** в [**Solution Explorer**] във Visual Studio с **copy/paste**.
+From [**Solution Explorer**] create folder **images** in the root directory of the project. We use the menu [**Add**] &rarr; [**New Folder**].
+
+Now we add the **game images** (they are part of the project files for this project and can be downloaded from [here](https://github.com/SoftUni/Programming-Basics-Book-CSharp-BG/tree/master/assets/chapter-7-assets)). We copy them from Windows Explorer and put them in the **images** folder in [**Solution Explorer**] in Visual Studio with **copy/paste**.
 
 ![](/assets/chapter-7-images/15.Fruits-08.png) 
