@@ -1,9 +1,9 @@
-#### Визуализация на плодовете
+#### Visualize Fruits
 
-Чертане на плодовете в **`Index.cshtml`**:
+Drawing Fruits in **`Index.cshtml`**:
 
-За да **начертаем игралното поле** с подовете, трябва да завъртим **два вложени цикъла** (за редовете и за колоните). Всеки ред се състои от 9 на брой картинки, всяка от които съдържа **`apple`, `banana`** или друг плод, или празно **`empty`**, или динамит **`dynamite`**. Картинките се чертаят като се отпечата HTML таг за вмъкване на картинка от вида на **`<img src="/images/apple.png" />`**. Девет картинки се подреждат една след друга на всеки от редовете, а след тях се преминава на нов ред с **`<br>`**. Това се повтаря три пъти за трите реда. Накрая се отпечатват точките на играча. Ето как изглежда **кодът** за чертане на игралното поле и точките:
+In order to **draw the playing field** with the fruits, we need to rotate **two nested loops** (for rows and columns). Each row consists of 9 images, each of which contains **`apple`**, **`banana`** or other fruit, or empty **`empty`**, or **`dynamite`**. Images are drawn by printing an HTML tag to insert a picture of the type **`<img src = "/images/apple.png" />`**. Nine pictures are stacked one after the other on each row, followed by a new line with a **`<br>`**. This is repeated three times for the three lines. Finally, the player's points are printed. Here is how **the code** for drawing the playing field and points looks:
 
 ![](/assets/chapter-7-images/15.Fruits-09.png) 
 
-Обърнете внимание на жълтите символи **`@`** – те служат за превключване между езика **C#** и езика **HTML** и идват от **Razor** синтаксиса за рисуване на динамични уеб страници.
+Take a look at the yellow characters **`@`** - they serve to switch between the **C#** and **HTML** languages and come from the **Razor** syntax for drawing dynamic web pages.
