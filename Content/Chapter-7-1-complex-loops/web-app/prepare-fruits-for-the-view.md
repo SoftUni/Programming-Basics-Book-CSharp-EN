@@ -1,8 +1,8 @@
-#### Подготовяне на плодовете за визуализация
+#### Prepare Fruits for the View
 
-Сега трябва да подготвим плодовете за рисуване в изгледа (view). Добавяме следния код в контролера: **`Controllers/HomeController.cs`**:
+Now we have to prepare the fruits for drawing in the view. Add the following code to the controller: **`Controllers/HomeController.cs`**:
 
 ![](/assets/chapter-7-images/15.Fruits-06.png) 
 
-Горният код дефинира полета за **брой редове, брой колони**, за **таблицата с плодовете** (игралното поле), за натрупаните от играча **точки** и информация дали играта е активна или е **свършила** (поле **`gameOver`**). Игралното поле е с размери 9 колони на 3 реда и съдържа за всяко поле текст какво има в него: **`apple`, `banana`, `orange`, `kiwi`, `empty` или `dynamite`**.
-Главното действие **`Index()`** подготвя игралното поле за чертане като записва във **`ViewBag`** структурата елементите на играта и извиква изгледа, който ги чертае в страницата на играта в уеб браузъра като HTML.
+The above code defines the fields for **number of rows, number of columns**, **fruit table** (playing field), **points** accumulated by the player and information whether the game is active or **ended** (field **`gameOver`**). The playing field has 9 columns in 3 rows and contains for each field text what is in it: **`apple`, `banana`, `orange`, `kiwi`, `empty` or `dynamite`**.
+The main action **`Index ()`** prepares the game field by recording in the **`ViewBag`** the structure of the game elements and invoking the view that draws them into the game page of the web browser as HTML.
