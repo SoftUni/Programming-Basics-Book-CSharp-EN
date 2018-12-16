@@ -1,6 +1,6 @@
-### Problem: таблица с числа
+### Problem: Number Table
 
-Да се отпечатат числата 1 … n в таблица като в примерите по-долу.
+Print the numbers 1 … n in a table as in the examples below.
 
 #### Sample Input and Output
 
