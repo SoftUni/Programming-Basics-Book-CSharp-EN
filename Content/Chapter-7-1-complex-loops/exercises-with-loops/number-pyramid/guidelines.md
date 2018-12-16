@@ -1,14 +1,14 @@
 #### Hints and Guidelines
 
-Можем да решим задачата с **два вложени цикъла** (по редове и колони) с печатане в тях и излизане при достигане на последното число. Ето идеята, разписана по-подробно:
+We can solve the problem with **two nested loops** (by rows and columns) with printing in them and leaving when the last number is reached. Here is the idea, written in more detail:
 
-* Създаваме променлива **`n`**, на която присвояваме целочислена стойност от входа на конзолата.
-* Създаваме променлива **`num`** с начална стойност 1. Тя ще пази броя на отпечатаните числа. При всяка итерация ще я **увеличаваме** с **1** и ще я принтираме.
-* Създаваме **външен** **`for`** цикъл, който ще отговаря за **редовете** в таблицата. Наименуваме променливата на цикъла **`row`** и ѝ задаваме начална стойност 0. За условие слагаме **`row < n`**. Размерът на стъпката е 1.
-* В тялото на цикъла създаваме **вътрешен** **`for`** цикъл, който ще отговаря за **колоните** в таблицата. Наименуваме променливата на цикъла **`col`** и ѝ задаваме начална стойност 0. За условие слагаме **`col < row`** (**`row`** = брой цифри на ред). Размерът на стъпката е 1.
-* В тялото на вложения цикъл:
-   * Проверяваме дали **`col > 1`**, ако да – принтираме разстояние. Ако не направим тази проверка, а директно принтираме разстоянието, ще имаме ненужно такова в началото на всеки ред.
-   * **Отпечатваме** числото **`num`** в текущата клетка на таблицата и го **увеличаваме с 1**.
-   * Правим проверка за **`num > n`**. Ако **`num`** е по-голямо от **`n`**, **прекъсваме** въртенето на **вътрешния цикъл**.
-* Отпечатваме **празен ред**, за да преминем на следващия.
-* Отново проверяваме дали **`num > n`**. Ако е по-голямо, **прекъсваме** изпълнението на **програмата ни** чрез `break`. 
+   * We create a variable **`n`**, to which we assign an integer value from the console input.
+   * We create a variable **`num`** with an initial value of 1. It will keep the number of printed numbers. At each iteration we will **increase** it with **1** and print it.
+   * We create an **outer** **`for`** loop that will be responsible for the **rows** in the table. We name the variable of the loop **`row`** and set an initial value of 0. For condition, we set **`row < n`**. The size of the step is 1.
+   * In the body of the loop we create an **inner** **`for`** loop that will be responsible for the **columns** in the table. We name the variable of the loop **`col`** and set an initial value of 0. For condition, we set **`col < row`** (**`row`** = number of digits per line). The size of the step is 1.
+   * In the body of the nested loop:
+      * We check if **`col > 1`**, if yes - we print space. If we do not do this, but directly print the space, we will have an unnecessary one at the beginning of each line.
+      * **We print** the number **`num`** in the current cell of the table and **increase it by 1**.
+      * We are checking for **`num > n`**. If **`num`** is greater than **`n`**, **we interrupt** the rotation of **the inner loop**.
+   * We print **a blank line** to move to the next.
+   * Again we check if **`num > n`**. If it is greater, **we interrupt our program** by **`break`**.
