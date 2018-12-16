@@ -544,7 +544,7 @@
     * [Reading the Input Data](Content/Chapter-8-2-exam-preparation-part-2/distance/read-input-data.md)
     * [Converting the Input Data into Appropriate Types](Content/Chapter-8-2-exam-preparation-part-2/distance/converting-input-data-into-appropriate-types.md)
     * [Helper Variable](Content/Chapter-8-2-exam-preparation-part-2/distance/additional-variable.md)
-    * [Selecting Variable Type for Calculations](Content/Chapter-8-2-exam-preparation-part-2/distance/type-for-calculations.md)
+    * [Selecting Data Type for Calculations](Content/Chapter-8-2-exam-preparation-part-2/distance/type-for-calculations.md)
     * [Calculating Travel Distance](Content/Chapter-8-2-exam-preparation-part-2/distance/calc-travel-distance.md)
     * [Calculating and Printing the Output](Content/Chapter-8-2-exam-preparation-part-2/distance/calc-and-print-final-result.md)
   * [Problem: Changing Tiles](Content/Chapter-8-2-exam-preparation-part-2/change-tiles/change-tiles.md)
