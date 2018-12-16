@@ -1,11 +1,11 @@
-#### Съставяне на програмната логика
+#### Preparing the Program Logic
 
-Нека помислим кой е най-подходящият начин да **структурираме** нашата програмна логика. От условието става ясно, че пътят на програмата се разделя основно на две части: **пролет / лято** и **есен / зима**. Разделението правим с условна конструкция, като преди това заделяме променливи за **цените** на отделните цветя, както и за **крайния резултат**.
+Let's think of the most approprate way to **structure** or programming logic. By the requirements it becomes clear that the path of the program is divided mainly into two parts: **spring / summer** and **autumn / winter**. We can do the separation by conditional statement, by storing variables in advance for the **prices** of the individual flowers, as well as for the **end result**.
 
 ![](/assets/chapter-8-2-images/03.Flowers-04.png)
 
-Остава ни да извършим **няколко проверки** относно **намаленията** на различните видове цветя, в зависимост от сезона, и да модифицираме крайния резултат. 
+What remains is to perform **a few checks** regarding **the discounts** of the different types of flowers, depending on the season, and to modify the end result. 
 
 ### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/517#2](https://judge.softuni.bg/Contests/Practice/Index/517#2).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/517#2](https://judge.softuni.bg/Contests/Practice/Index/517#2).
