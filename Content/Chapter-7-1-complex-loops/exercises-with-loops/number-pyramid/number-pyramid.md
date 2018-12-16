@@ -1,6 +1,6 @@
-### Problem: пирамида от числа
+### Problem: Number Pyramid
 
-Да се отпечатат **числата 1 … n в пирамида** като в примерите по долу. На първия ред печатаме едно число, на втория ред печатаме две числа, на третия ред печатаме три числа и т.н. докато числата свършат. На последния ред печатаме толкова числа, колкото останат докато стигнем до **n**.
+Print **the numbers 1 … n in pyramid** as in the examples below. On the first line we print a number, on the second line we print two numbers, on the third line we print three numbers, and so on, until the numbers are over. On the last line we print as many numbers as we get until we get to **n**.
 
 #### Sample Input and Output
 
