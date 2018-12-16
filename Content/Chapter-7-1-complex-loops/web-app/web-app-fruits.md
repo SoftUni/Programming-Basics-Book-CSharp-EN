@@ -1,9 +1,9 @@
-### Problem: уеб игра „Обстреляй плодовете!“
+### Problem: Web Application "Fruits"
 
-**Условие**: Да се разработи **ASP.NET MVC уеб приложение** – игра, в която играчът **стреля по плодове**, подредени в таблица. Успешно уцелените плодове изчезват, а играчът получава точки за всеки уцелен плод. При уцелване на **динамит**, плодовете се взривяват и играта свършва (както във Fruit Ninja).
-Стрелбата се извършва по колони, отгоре надолу или отдолу нагоре, а местоположението на удара (колоната под обстрел) се задава чрез скролер (scroll bar). Заради неточността на скролера, играчът не е съвсем сигурен по коя колона ще стреля. Така при всеки изстрел има шанс да не улучи и това прави играта по-интересна (подобно на прашката в Angry Birds).
+**Description**: Develop an **ASP.NET MVC Web Application** - a game in which the player **shoots fruits**, arranged in a table. Successfully hit fruits disappear and the player gets points for each target fruit. When you hit a **dynamite**, the fruits explode and the game ends (as in Fruit Ninja).
+Shooting is done by columns, top to bottom or bottom to top, and the location of impact (the column under fire) is set by scroll bar. Because of the scroller's inaccuracy, the player is not quite sure which column he is going to shoot. So every shot has a chance not to hit and this makes the game more interesting (like the sling in Angry Birds).
 
-Играта ни трябва да изглежда по този начин:
+Our game should look like this:
 
 ![](/assets/chapter-7-images/15.Fruits-01.png) 
 
