@@ -1,14 +1,14 @@
-### Hints and Guidelines
+### Tips and Tricks
 
-Вероятно е подобно условие да изглежда на пръв поглед **объркващо** и непълно, което **придава** допълнителна **сложност** на една лесна задача. Нека **разделим** заданието на няколко **подзадачи** и да се опитаме да **решим** всяка една от тях, което ще ни отведе и до крайния резултат:
+It is possible that such a description may look **misleading** and incomplete at first glance, which **adds** to the **complexity** of a relatively easy task. Let's **separate** the problem into a few **sub-problems** and try to **solve** each of them one by one, which will lead us to the final result:
 
-* Нека **първата** подзадача бъде да **прочетем входните данни**, които потребителя въвежда, и да ги **запазим в подходящи променливи**.
-* **Изпълнение** на основната програмна **логика**, което в нашия случай се свежда до прости пресмятания на данните, които вече имаме.
-* **Пресмятане** и оформяне на крайния **резултат**.
+* Our **initial** sub-problem will be to **read the input data** entered by the user, and **store them in appropriate variables**.
+* **Execution** of the main programming **logic**, which in our case is a batch of simple calculations of the properties that we already have.
+* **Calculation** and shaping up the end **result**.
 
-**Съществената** част от програмната логика **се изразява** в това да **пресметнем** какво ще бъде **изминатото разстояние след всички промени** в скоростта. Тъй като по време на **изпълнението** на програмата, част от **данните**, с които разполагаме, **се променят**, то бихме могли да **разделим** програмния **код** на няколко **логически** обособени **части**:
+**The main** part of the programming logic **is** to **calculate** what will be the **distance passed after all changes** in speed. As during **execution** of the program, part of the **data** that we have **is modified**, we could **separate** the program **code** into a few **logically** separated **parts**:
 
-* **Пресмятане** на изминатото **разстояние** с първоначална скорост.
-* Промяна на **скоростта** и пресмятане на изминатото **разстояние**.
-* Последна промяна на **скоростта** и **пресмятане**.
-* **Сумиране**.
+* **Calculation** of the **distance** passed with initial speed.
+* Change of **speed** and calculation of the **distance** passed.
+* Last change of **speed** and **calculation**.
+* **Summing up**.
