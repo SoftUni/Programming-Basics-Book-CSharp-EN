@@ -1,7 +1,7 @@
-#### Създаване на контролите за игра
+#### Create Controls
 
-Сега създаваме контролите за играта. Целта е да добавим **скролиращи ленти** (scroll bars), с които играчът се прицелва, и бутон за старт на **нова игра**. Затова трябва да редактираме файла **`Views/Home/Index.cshtml`**. Изтриваме всичко в него и въвеждаме кода от картинката:
+Now we will create the controls for the game. The goal is to add **scrolling bars** with which the player is targeting, and a button for starting a **new game**. So we need to edit the file **`Views/Home/Index.cshtml`**. We delete everything in it and write the code from the picture:
   
 ![](/assets/chapter-7-images/15.Fruits-05.png) 
 
-Този код създава уеб форма **`<form>`** със скролер (поле) **`position`** за задаване на число в интервала [**0 … 100**] и бутон [**Fire Top**] за изпращане на данните от формата към сървъра. Действието, което ще обработи данните, се казва **`Home/FireTop`**, което означава метод **`FireTop`** в контролер **`Home`**, който се намира във файла **`HomeController.cs`**. Следват още две подобни форми с бутони [**Fire Bottom**] и [**New Game**].
+This code creates a webform **`<form>`** with a scroller **`position`** for setting a number in the range [**0 … 100**] and a button [**Fire Top**] for sending the form data to the server. The action that will process the data is called **`Home/FireTop`**, which means method **`FireTop`** in the **`Home`** controller, which is located in the file **`HomeController.cs`**. There are two similar forms with the [**Fire Bottom**] and [**New Game**] buttons.
