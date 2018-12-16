@@ -1,9 +1,9 @@
-#### Отделяне на константните стойности в променливи
+#### Separating the Constant Values in Variables
 
-След като прочитаме внимателно условието разбираме, че отново се налага да извършваме **прости пресмятания**, но с разликата, че този път ще са необходими и **повече** логически **проверки**. Следва да обърнем повече **внимание** на това в какъв момент се **извършват промените** по крайната цена, за да можем правилно да изградим логиката на нашата програма. Отново, удебеленият текст ни дава достатъчно **насоки** как да подходим. Като за начало, отделяме вече **дефинираните** стойности в **променливи**, както направихме и в предишните задачи:
+After carefully reading the requirements, we understand that once again we need to do **simple calculations**, however this time we will need **additional** logical **conditions**. We need to pay more **attention** to the moment of **making changes** in the final price, in order to be able to properly build the logic of our program. Again, the bold text gives us sufficient **guidelines** on how to proceed. For a start, we will separate the already **defined** values in **variables**, like we did in the previous tasks:
 
 ![](/assets/chapter-8-2-images/03.Flowers-01.png)
 
-Правим същото и за останалите вече дефинирани стойности:
+We will also do the same for the rest of the defined values:
 
 ![](/assets/chapter-8-2-images/03.Flowers-02.png)
