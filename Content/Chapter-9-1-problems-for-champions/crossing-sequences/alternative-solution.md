@@ -1,9 +1,9 @@
 #### Alternative Solution
 
-Предходното решение на задачата използва масиви за запазване на стойностите. Масивите не са необходими за решаването на задачата. Съществува **алтернативно решение**, което генерира числата и работи директно с тях, вместо да ги записва в масив. Можем на **всяка стъпка** да проверяваме дали **числата от двете редици съвпадат**. Ако това е така, ще принтираме на конзолата числото и ще прекратим изпълнението на нашата програма. В противен случай, ще видим текущото число на **коя редица е по-малко и ще генерираме следващото, там където "изоставаме"**. Идеята е, че **ще генерираме числа от редицата, която е "по-назад"**, докато не прескочим текущото число на другата редица и след това обратното, а ако междувременно намерим съвпадение, ще прекратим изпълнението.
+The previous solution to the problem uses arrays to keep the values. Arrays are not needed to solve the problem. There is an **alternative solution** that generates the numbers and works directly with them instead of keep them in an array. On **every step** we can check that **the numbers in the two sequences match**. If this is the case, we will print the number on the console and terminate the execution of our program. Otherwise, we will see the current number of **which sequence is less and we will generate the next where we are "lagging"**. The idea is that **we will generate numbers from the sequence that is "backwards"** until we skip the current number of the other sequence and then vice versa, and if we find a match in the meantime, we will terminate the execution.
 
 ![](/assets/chapter-9-images/01.Crossing-sequences-07.png)
 
 ### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/518#0](https://judge.softuni.bg/Contests/Practice/Index/518#0).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/518#0](https://judge.softuni.bg/Contests/Practice/Index/518#0).
