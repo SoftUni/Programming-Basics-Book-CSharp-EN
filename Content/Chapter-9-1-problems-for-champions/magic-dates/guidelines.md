@@ -1,5 +1,5 @@
 ### Hints and Guidelines
 
-Започваме от входните данни. В случая имаме **3 цели числа**, които трябва да се прочетат от конзолата, като с това се изчерпва въвеждането и обработването на входа за задачата.
+We start with the input data. In this case, we have **3 integers** that should be read from the console, as this is the only entry and processing of input for the problem.
 
-Разполагайки с началната и крайната година, е хубаво да разберем как ще минем през всяка дата, без да се объркваме от това колко дена има в месеца и дали е високосна година и т.н.
+Having the start and the end year, it is nice to know how we will go through every date, not to worry about how many days there are in the month and whether it is a leap year, and so on.
