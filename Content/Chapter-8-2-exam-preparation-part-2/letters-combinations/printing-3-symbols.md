@@ -1,11 +1,11 @@
-#### Отпечатване на комбинации от три символа
+#### Printing Combination of Three Symbols
 
-Използваме **цикъл**, който минава през **всички символи** от началната до крайната буква включително. На **всяка итерация** на **първия** цикъл пускаме **втори** със същите параметри (но **само ако** буквата на първия цикъл е валидна, т.е. не съвпада с тази, която трябва да изключим по условие). На всяка итерация на **втория** цикъл пускаме още **един** със **същите параметри** и същата **проверка**. По този начин ще имаме три вложени цикъла, като в тялото на **последния** ще принтираме символите.
+We use a **loop** that runs through **all symbols** from the starting to the end letter (included). In **each iteration** of the **first** loop, we run a **second** one with the same parameters (but **only if** the letter of the first loop is valid, i.e. does not match the one that we must exclude, by requirements). In each iteration of the **second** loop, we run **one** more with the **same parameters** and the same **condition**. This way we have three nested loops, as we will print the symbols in the body of the **latter**.
 
 ![](/assets/chapter-8-2-images/06.Letters-03.png)
 
-Нека не забравяме, че се изисква от нас да принтираме и **общия брой валидни комбинации**, които сме намерили, както и че те трябва да се принтират на **същия ред**, разделени с интервал.
+Let's not forget that we also need to print the **total number of valid combinations** that we have found, and they must be printed on the **same row**, separated by an interval.
 
 ### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/517#5](https://judge.softuni.bg/Contests/Practice/Index/517#5).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/517#5](https://judge.softuni.bg/Contests/Practice/Index/517#5).
