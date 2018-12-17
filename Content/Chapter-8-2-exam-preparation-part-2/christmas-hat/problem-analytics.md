@@ -1,11 +1,11 @@
-#### Analysis of the Problem
+#### Problem Analysis
 
-При задачите за **чертане** с конзолата, най-често потребителят въвежда **едно цяло число**, което е свързано с **общата големина на фигурката**, която трябва да начертаем. Тъй като в условието е упоменато как се изчисляват общата дължина и широчина на фигурката, можем да ги използваме за **отправни точки**. От примерите ясно се вижда, че без значение какви са входните данни, винаги имаме **първи два реда**, които са с почти идентично съдържание.
+In tasks requiring **drawing** in the console, most often the user inputs **an integer** that is related to the **total size of the figure** that we need to draw. As the task requirements mention how the total length and width of the figure are calculated, we can use them as **starting points**. In the examples it is clear that regardless of the input data, we always have **first two rows** that are almost identical.
 
 <code>......./\|\\.......</code><br><code>.......\\\|/.......</code>
 
-Забелязваме също така, че **последните три реда** винаги присъстват, **два** от които са напълно **еднакви**.
+We also notice that the **last three rows** are always present, as **two** of them are completely **the same**.
 
 <code>\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*</code><br><code>\*.\*.\*.\*.\*.\*.\*.\*.\*</code><br><code>\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*</code>
 
-От тези наши наблюдения можем да изведем **формулата** за **височина на променливата част** на коледната шапка. Използваме зададената по условие формула за общата височина, като изваждаме големината на непроменливата част. Получаваме **`(2 * n + 5) – 5`** или **`2 * n`**.
+By these observations we can come up with the **formula** for the **height of the variable part** of the Christmas hat. We use the formula specified in the task to calculate the total height, by subtracting the size of the unchangeable part. We receive **`(2 * n + 5) – 5`** or **`2 * n`**.
