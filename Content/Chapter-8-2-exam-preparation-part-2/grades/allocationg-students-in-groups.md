@@ -1,21 +1,21 @@
-#### Разпределяне студентите по групи
+#### Allocating Students into Groups
 
-Завъртаме **цикъла** и в него **декларираме още една** променлива, в която ще запазваме **текущата** въведена оценка. Променливата ще е от тип **`double`** и на всяка итерация проверяваме **каква е стойността ѝ**. Според тази стойност, **увеличаваме** броя на студентите в съответната група с **1**, като не забравяме да увеличим и **общата** сума на оценките, която също следим.
+We run the **loop** and inside it we **declare one more** variable, in which we will store the **currently** entered grade. The variable will be **`double`** type and upon each iteration we will check **what is its value**. According to this value, **we increase** the number of students in the relevant group by **1**, as we should not forget to also increase the **total** amount of the grades, which we also track.
 
 ![](/assets/chapter-8-2-images/05.Grades-03.png)
 
-Какъв **процент** заема дадена **група студенти** от общия брой, можем да пресметнем като **умножим броя на студентите** от съответната група по **100** и след това разделим на **общия брой студенти**. 
+We can calculate what **percentage** is taken by a particular **group of students** from the total number by **multiplying the number of students** in the relevant group by **100** and then dividing this by the **total number of students**. 
 
 <table>
 <tr>
 <td width="10%"><img src="/assets/alert-icon.png" style="max-width:50px" /></td>
-<td>Обърнете внимание с какъв числен тип данни работите при извършване на тези пресмятания.
+<td>Pay attention to the numeric data type that you work with upon doing these calculations.
 </td>
 </tr>
 </table>
 
-**Крайният** резултат оформяме по добре познатия ни начин **до втория символ** след десетичния знак.
+The **end result** is formed in the well know fashion - **up to the second symbol** after the decimal point.
 
 ### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/517#3](https://judge.softuni.bg/Contests/Practice/Index/517#3).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/517#3](https://judge.softuni.bg/Contests/Practice/Index/517#3).
