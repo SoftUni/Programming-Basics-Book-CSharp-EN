@@ -1,7 +1,7 @@
-#### Намиране на общо число за двете редици
+#### Finding Common Number for the Sequences
 
-След като сме генерирали числата и в двете редици, можем да пристъпим към обединението им и изграждането на крайното решение. Как ще изглежда то? За **всяко от числата** в едната редица (започвайки от по-малкото) ще проверяваме дали то съществува в другата. Първото число, което отговаря на този критерий ще бъде **отговорът** на задачата.
+Once we have generated the numbers in both sequences, we can proceed to unite them and build the final solution. How will it look? For **each of the numbers** in the first sequence (starting from the less) we will check if it exists in the other. The first number that meets this criterion will be **the answer** to the problem.
 
-Търсенето във втория масив ще направим **линейно**, а за по-любопитните ще оставим да си го оптимизират, използвайки техниката наречена **двоично търсене**, тъй като вторият масив се генерира сортиран, т.е. отговаря на изискването за прилагането на този тип търсене. Кодът за намиране на нашето решение ще изглежда така: 
+The searching in the second array we will do it **linear**, and for the more curious we will let it optimize it using the technique called **binary search** because the second array is generated sorted, i.e. it meets the requirement to apply this type of search. The code for finding our solution will look like this:
 
 ![](/assets/chapter-9-images/01.Crossing-sequences-06.png)
