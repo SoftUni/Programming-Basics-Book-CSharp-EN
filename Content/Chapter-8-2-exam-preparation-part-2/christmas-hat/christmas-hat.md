@@ -1,14 +1,14 @@
-## Problem: коледна шапка
+## Problem: Christmas Hat
 
-Да се напише програма, която прочита от конзолата **цяло число `n`** и чертае **коледна шапка** с ширина **4 \* `n` + 1 колони** и височина **2 \* `n` + 5 реда** като в примерите по-долу.
+Write a program that reads from the console an **integer `n`** and draws a **Christmas hat** with width of **4 \* `n` + 1 columns** and height of **2 \* `n` + 5 rows**, as in the examples below.
 
 ### Input Data
 
-Входът се чете от конзолата – едно **цяло число `n`** в интервала [**3 … 100**].
+The input is read from the console – an **integer `n`** within the range [**3 … 100**].
 
 ### Output Data
 
-Да се отпечата на конзолата **коледна шапка**, точно както в примерите.
+Print in the console a **Christmas hat**, exactly like in the examples.
 
 ### Sample Input and Output
 
