@@ -1,22 +1,22 @@
-#### Насоки за начертаване на динамичната част от фигурката
+#### Guidelines for Drawing the Dynamic Part of the Figure
 
-За **начертаването** на **динамичната** или променлива част от фигурката ще използваме **цикъл**. Размерът на цикъла ще бъде от **0** до **широчината**, която имаме по условие, а именно **`4 * n + 1`**. Тъй като тази формула ще използваме на **няколко места** в кода, е добра практика да я изнесем в **отделна променлива**. Преди изпълнението на цикъла би следвало да **заделим променливи** за **броя** на отделните символи, които участват в динамичната част: **точки** и **тирета**. Чрез изучаване на примерите можем да изведем формули и за **стартовите стойности** на тези променливи. Първоначално **тиретата** са **0**, но броя на **точките** ясно се вижда, че можем да получим като от **общата широчина** извадим **3** (броя символи, които изграждат върха на коледната шапка) и след това **разделим на 2**, тъй като броя точки от двете страни на шапката е еднакъв.
+To **draw** the **dynamic** or the variable part of the figure, we will use a **loop**. The size of the loop will be from **0** to the **width** that we have by requirements, namely **`4 * n + 1`**. Since we will use this formula in **a few places** in the code, it is a good practice to declare it in a **separate variable**. Before running the loop, we should **declare variables** for the **number** of individual symbols that participate in the dynamic part: **dots** and **dashes**. By analyzing examples we can also prepare formulas for the **starting values** of these variables. Initially, the **dashes** are **0**, but it is clear that we can calculate the number of **dots** by subtracting **3** from the **total width** (the number of symbols that are building the top of the Christmas hat) and then **dividing by 2**, as the number of dots on both sides of the hat is the same.
 
 <code>.......\*\*\*.......</code><br><code>......\*-\*-\*......</code><br><code>.....\*--\*--\*.....</code><br><code>....\*---\*---\*....</code><br><code>...\*----\*----\*...</code><br><code>..\*-----\*-----\*..</code><br><code>.\*------\*------\*.</code><br><code>\*-------\*-------\*</code>
 
-Остава да изпълним тялото на цикъла, като **след всяко** начертаване **намалим** броя на точки с **1**, а **тиретата увеличим** с **1**. Нека не забравяме да начертаем и по една **звездичка** между тях.
-Последователността на чертане в тялото на цикъла е следната:
+What remains is to execute the body of the loop, as **after each** drawing we **decrease** the number of dots by **1**, and **increase the number of dashes** by **1**. Let's not forget to draw one **star** between each of them.
+The sequence of drawing in the body of the loop is the following:
 
-* Символен низ от точки
-* Звезда
-* Символен низ от тирета
-* Звезда
-* Символен низ от тирета
-* Звезда
-* Символен низ от точки
+* Symbol string of dots
+* Star
+* Symbol string of dashes
+* Star
+* Symbol string of dashes
+* Star
+* Symbol string of dots
 
-В случай че сме работили правилно получаваме фигурки, идентични на тези от примерите.
+In case we have worked properly, we will receive figures identical to those in the examples.
 
 ### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/517#4](https://judge.softuni.bg/Contests/Practice/Index/517#4).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/517#4](https://judge.softuni.bg/Contests/Practice/Index/517#4).
