@@ -1,25 +1,25 @@
 ### Printing the Output
 
-След като имаме пресметнато теглото на дадена дата, трябва **да проверим дали съвпада с търсеното от нас магическо тегло**, за да знаем, дали трябва да се принтира или не. Проверката може да се направи със стандартен **`if`** блок, като трябва да се внимава при принтирането датата да е в правилния формат.
+Once we have the weight calculated of a given date, we need **to check to see if it matches the magical weight we want** to know if it should be printed or not. Checking can be done with a standard **`if`** block, taking care to print the date in the correct format.
 
 ![](/assets/chapter-9-images/02.Magic-dates-06.png)
 
-За отпечатването на датите имаме два варианта:
+To print the dates, we have two options:
 
-* Първият начин е да използваме метода **`.ToString(…)`**, на който можем да **подадем формат на датата**, т.е. дали дните да се изписват с водеща нула или не, дали месеците да се изписват с водещи нули или не, с думи или с цифри, с кратък запис или с пълно име и т.н.
+   * The first way is to use the **`.ToString(…)`** method, where we can **submit the date format**, i.e. whether the days to be printed with a leading zero or not, whether the months to be printed with leading zeros or not, with words or digits, with a short or full name, etc.
 
 ![](/assets/chapter-9-images/02.Magic-dates-07.png)
 
-* Вторият вариант е да вземем отделните компоненти на датата **`Day`**, **`Month`** и **`Year`**, както направихме при пресмятането, и да си оформим изхода чрез **форматиращ стринг**.
+   * The second option is to take the individual components of the date **`Day`**, **`Month`** и **`Year`** as we did when calculating and to form the output by **formatting string**.
 
 ![](/assets/chapter-9-images/02.Magic-dates-08.png)
 
-***Внимание***: тъй като обхождаме датите от началната година към крайната, те винаги ще бъдат подредени във възходящ ред, както е по условие.
+***Caution***: as we go through the dates from the start year to the end, they will always be arranged in ascending order as per description.
 
-И накрая, ако не сме намерили нито една дата, отговаряща на условията, ще имаме **`false`** стойност във **`found`** променливата и ще можем да отпечатаме **`No`**.
+Finally, if we have not found a date that is eligible, we will have a **`false`** value in the **`found`** variable and we will be able to print **`No`**.
 
 ![](/assets/chapter-9-images/02.Magic-dates-09.png)
 
 ### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/518#1](https://judge.softuni.bg/Contests/Practice/Index/518#1).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/518#1](https://judge.softuni.bg/Contests/Practice/Index/518#1).
