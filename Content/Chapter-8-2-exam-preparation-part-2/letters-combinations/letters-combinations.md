@@ -1,23 +1,23 @@
-## Problem: комбинации от букви
+## Problem: Letters Combination
 
-Напишете програма, която да принтира на конзолата **всички комбинации от 3 букви** в зададен интервал, като се пропускат комбинациите, **съдържащи зададена от конзолата буква**. Накрая трябва да се принтира броят отпечатани комбинации.
+Write a program that prints in the console **all combinations of 3 letters** within a specified range, by skipping the combinations **containing a letter set from the console**. Finally, print the number of printed combinations.
 
 ### Input Data
 
-Входът се чете от **конзолата** и съдържа **точно 3 реда**:
-* Малка буква от английската азбука за начало на интервала – от **'a'** до **'z'**.
-* Малка буква от английската азбука за край на интервала – от **първата буква** до **'z'**.
-* Малка буква от английската азбука – от **'a'** до **'z'** – като комбинациите, съдържащи тази буква се пропускат.
+The input is read from the **console** and contains **exactly 3 rows**:
+* A small letter from the English alphabet for a beginning of the range – between **'a'** and **'z'**.
+* A small letter from the English alphabet for the end of the range – between the **first letter** and **'z'**.
+* A small letter from the English alphabet – from **'a'** to **'z'** – as the combinations containing this letter are skipped.
 
 ### Output Data
 
-Да се отпечатат на един ред **всички комбинации**, отговарящи на условието, следвани от **броя им**, разделени с интервал.
+Print on one row **all combinations** corresponding to the requirements, followed by **their number**, separated by an interval.
 
 ### Sample Input and Output
 
 | Input | Output | Comments |
 | --- | --- | --- |
-|a<br>c<br>b|aaa aac aca acc caa cac cca ccc 8|Всички възможни комбинации с буквите '**а**', '**b**' и '**c**' са:<br>aaa aab aac aba abb abc aca acb acc baa bab bac bba bbb bbc bca bcb bcc caa cab cac cba cbb cbc cca ccb ccc<br>Комбинациите, **съдържащи 'b', не са валидни**.<br>Остават **8** валидни комбинации.|
+|a<br>c<br>b|aaa aac aca acc caa cac cca ccc 8|All possible combinations with letters '**а**', '**b**' and '**c**' are:<br>aaa aab aac aba abb abc aca acb acc baa bab bac bba bbb bbc bca bcb bcc caa cab cac cba cbb cbc cca ccb ccc<br>The combinations **containing 'b' are not valid**.<br>**8** valid combinations remain.|
 
 | Input | Output |
 | --- | --- |
