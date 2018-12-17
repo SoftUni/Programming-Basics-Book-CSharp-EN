@@ -1,13 +1,11 @@
-#### Генериране на числова спирала
+#### Generate Numerical Spiral
 
-Трябва да измислим **зависимост** между числата в числовата спирала, за да можем лесно да генерираме всяко следващо число, без да се налага да разглеждаме матрици и тяхното обхождане. Ако разгледаме внимателно картинката от условието, можем да забележим, че **на всеки 2 "завоя" в спиралата числата, които прескачаме, се увеличават с 1**, т.е. от *5 до 7* и от *7 до 9* не се прескача нито 1 число, а директно **събираме със стъпката** на редицата. От *9 до 13* и от *13 до 17* прескачаме едно число, т.е. събираме два пъти стъпката. От *17 до 23* и от *23 до 29* прескачаме две числа, т.е. събираме три пъти стъпката и т.н.
+We need to think of **a relation** between numbers in the numerical spiral so we can easily generate every next number without having to look at matrices and crawl them. If we carefully look at the picture from the description, we can notice that **every 2 "turns" in the spiral, the numbers we skip are increased by 1**, i.e. from *5 to 7* and from *7 to 9*, neither 1 number is skipped, but we directly **add with the step** of the sequence. From *9 to 13* and from *13 to 17* we skip a number, i.e. we add the step twice. From *17 to 23* and from *23 to 29* we skip two numbers, i.e. we add the step three times and so on.
 
-Така виждаме, че при първите две имаме **`последното числото + 1 * стъпката`**, при следващите две събираме с **`2 * стъпката`** и т.н.
-Всеки път, когато искаме да стигнем до следващото число от спиралата, ще трябва да извършваме такива изчисления.
-
+Thus, we see that for the first two we have **`the last number + 1 * the step`**, the next two we add with the **`2 * the step`** and so on. Every time we want to get to the next number of the spiral we will have to make such calculations.
 
 ![](/assets/chapter-9-images/01.Crossing-sequences-04.png)
 
-Това, за което трябва да се погрижим, е **на всеки две числа нашият множител** (нека го наречем "коефициент") **да се увеличава с 1** (**`spiralStepMul++`**), което може да се постигне с проста проверка (**`spiralCount % 2 == 0`**). Целият код от генерирането на спиралата в **масив** е даден по-долу.
+What we have to take care of is **for every two numbers, our multiplier** (let's call it "coefficient") **increases with 1** (**` spiralStepMul++`**), which can be achieved with a simple check (**`spiralCount % 2 == 0`**). The whole code from the generation of the spiral in **an array** is given below.
 
 ![](/assets/chapter-9-images/01.Crossing-sequences-05.png)
