@@ -1,29 +1,29 @@
-## Problem: магически дати
+## Problem: Magic Dates
 
-Дадена е **дата** във формат "**дд-мм-гггг**", напр. 17-04-2018. Изчисляваме **теглото на тази дата**, като вземем всичките ѝ цифри, умножим всяка цифра с останалите след нея и накрая съберем всички получени резултати. В нашия случай имаме 8 цифри: **17032007**, така че теглото е  **`1*7 + 1*0 + 1*3 + 1*2 + 1*0 + 1*0 + 1*7`** **+** **`7*0 + 7*3 + 7*2 + 7*0 + 7*0 + 7*7`** **+** **`0*3 + 0*2 + 0*0 + 0*0 + 0*7`** **+** **`3*2 + 3*0 + 3*0 + 3*7`** **+** **`2*0 + 2*0 + 2*7`** **+** **`0*0 + 0*7`** **+** **`0*7`** = **144**.
+**Date** is given in "**dd-mm-yyyy**" format, e.g. 17-04-2018. We calculate **the weight of that date** by taking all its digits, multiplying each digit with the others after it, and finally adding all the results obtained. In our case, we have 8 digits: **17032007**, so the weight is **`1*7 + 1*0 + 1*3 + 1*2 + 1*0 + 1*0 + 1*7`** **+** **`7*0 + 7*3 + 7*2 + 7*0 + 7*0 + 7*7`** **+** **`0*3 + 0*2 + 0*0 + 0*0 + 0*7`** **+** **`3*2 + 3*0 + 3*0 + 3*7`** **+** **`2*0 + 2*0 + 2*7`** **+** **`0*0 + 0*7`** **+** **`0*7`** = **144**.
 
-Нашата задача е да напишем програма, която намира всички **магически дати - дати между две определени години (включително), отговарящи на дадено във входните данни тегло**. Датите трябва да бъдат принтирани в нарастващ ред (по дата) във формат "**дд-мм-гггг**". Ще използваме само валидните дати в традиционния календар (високосните години имат 29 дни през февруари).
+Our task is to write a program that finds all **the magical dates - dates between two specific years (inclusive) corresponding to the weight given in the input data**. Dates must be printed in ascending order (by date) in the format "**dd-mm-yyyy**". We will only use the valid dates in the traditional calendar (the leap years have 29 days in February).
 
 ### Input Data
 
-Входните данни трябва да бъдат прочетени от конзолата. Състоят се от 3 реда:
+Input data should be read from the console. It consist of 3 lines:
 
-*	Първият ред съдържа цяло число: **начална година**.
-*	Вторият ред съдържа цяло число: **крайна година**.
-*	Третият ред съдържа цяло число: **търсеното тегло** за датите.
+   * The first line contains an integer: **start year**.
+   * The second line contains an integer: **end year**.
+   * The third line contains an integer: **the search weight** for the dates.
 
-Входните данни винаги ще бъдат валидни и винаги ще са в описания формат. Няма нужда да се проверяват.
+Input data will always be valid and will always be in the format described. No need to check.
 
 ### Output Data
 
-Резултатът трябва да бъде принтиран на конзолата, като последователни дати във **формат "дд-мм-гггг"**, подредени по дата в нарастващ ред. Всеки низ трябва да е на отделен ред. В случай, че няма съществуващи магически дати, да се принтира "**No**".
+The result should be printed on the console as consecutive dates in **"dd-mm-yyyy" format**, sorted by date in ascending order. Each string must be in a separate line. If there are no existing magic dates, print "**No**".
 
 ### Constraints
 
-* Началната и крайната година са цели числа в периода [**1900 - 2100**].
-* Магическото тегло е цяло число в диапазона [**1 … 1000**].
-* Позволено работно време за програмата: 0.25 секунди.
-* Позволена памет: 16 MB.
+   * The start and final year are integer numbers in the range [**1900 - 2100**].
+   * Magic weight is an integer in the range [**1 … 1000**].
+   * Allowed program time: 0.25 seconds.
+   * Allowed memory: 16 MB.
 
 ### Sample Input and Output
 
