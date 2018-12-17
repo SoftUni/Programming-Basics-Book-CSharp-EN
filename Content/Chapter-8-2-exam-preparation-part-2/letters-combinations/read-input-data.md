@@ -1,5 +1,5 @@
 #### Reading the Input Data
 
-За последната задача имаме по условие входни данни на **3 реда**, които са представени от по един символ от **ASCII таблицата** ([http://www.asciitable.com/](http://www.asciitable.com/)). Бихме могли да използваме вече **дефинирана функция** в езика C#, като преобразуваме входните данни в тип данни **`char`** по следния начин:
+By requirements, for the last task we have input data on **3 rows**, which are represented by one symbol of the **ASCII table** ([http://www.asciitable.com/](http://www.asciitable.com/)). We could use an already **defined function** in C#, by converting the input data into **`char`** data type, as follows:
 
 ![](/assets/chapter-8-2-images/06.Letters-01.png)
