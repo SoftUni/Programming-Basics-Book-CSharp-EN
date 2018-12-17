@@ -1,11 +1,11 @@
 ### Hints and Guidelines
 
-Задачата изглежда доста сложна и затова ще я разбием на по-прости подзадачи.
+The problem seems quite complicated, so we will break it into simpler subproblems.
 
 #### Processing the Input
 
-Първата стъпка от решаването на задачата е да прочетем и обработим входа. Входните данни се състоят от **5 цели числа**: **3** за редицата на Трибоначи и **2** за числовата спирала.
+The first step in solving the problem is to read and process the input. Input data consists of **5 integers**: **3** for the Tribonacci sequence and **2** for the numeral spiral.
 
 ![](/assets/chapter-9-images/01.Crossing-sequences-02.png)
 
-След като имаме входните данни, трябва да помислим как ще генерираме числата в двете редици.
+Once we have the input data, we need to think about how we will generate the numbers in the two sequences.
