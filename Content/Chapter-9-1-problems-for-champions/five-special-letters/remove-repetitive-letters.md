@@ -1,11 +1,11 @@
-#### Премахването на повтарящи се букви
+#### Remove Repetitive Letters
 
-След като имаме вече готовия низ, трябва да премахнем всички повтарящи се символи. Ще направим тази операция, като **добавяме буквите от ляво надясно в нов низ и всеки път преди да добавим буква ще проверяваме дали вече я има** - ако я има ще я пропускаме, а ако я няма ще я добавяме. За начало ще добавим първата буква към началния стринг.
+Once we have the finished string, we have to remove all the repeating symbols. We will do this by adding **the letters from left to right in a new string and each time before adding a letter, we will check if it already exists** - if it is, we will skip it and if it is not, we will add it. To begin with, we will add the first letter to the starting string.
 
 ![](/assets/chapter-9-images/03.Five-special-letters-05.png)
 
-След това ще направим същото и с останалите 4, проверявайки всеки път дали ги има със следното условие и метода **`.IndexOf(…)`**. Това може да стане с цикъл по **`fullWord`** (оставяме това на читателя за упражнение), а може да стане и по мързеливия начин с copy-paste.
+Then we will do the same with the other 4, checking each time with the following condition and the **`.IndexOf(…)`** method. This can be done with a loop by **`fullWord`** (leaving it to the reader for exercise), and it can be done in the lazy way with copy-paste.
 
 ![](/assets/chapter-9-images/03.Five-special-letters-06.png)
 
-Методът **`.IndexOf(…)`** връща **индекса на конкретния елемент, ако бъде намерен или **`-1`**, ако елементът не бъде намерен**. Следователно всеки път, когато получим **`-1`**, ще означава, че все още нямаме тази буква в новия низ с уникални букви и можем да я добавим, а ако получим стойност различна от **`-1`**, ще означава, че вече имаме буквата и няма да я добавяме.
+The **`.IndexOf(…)`** method returns **the index of the particular element if it is found or `-1` if the item is not found**. Therefore, every time we receive **`-1`**, it means that we still do not have this letter in the new string with unique letters and we can add it, and if we get a value other than **`-1`** , will mean we already have the letter and will not add it.
