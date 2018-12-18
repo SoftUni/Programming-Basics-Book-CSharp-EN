@@ -1,8 +1,8 @@
-## Problem: пет специални букви
+## Problem: Five Special Letters
 
-Дадени са две числа: **начало** и **край**. Напишете програма, която **генерира всички комбинации от 5 букви**, всяка измежду множеството **`{'a', 'b', 'c', 'd', 'e'}`**, така че теглото на тези 5 букви да е число в интервала **`[начало … край]`**, включително. Принтирайте ги по азбучен ред, на един ред, разделени с интервал.
+Two numbers are given: **start** and **end**. Write a program that **generates all combinations of 5 letters**, each of the sets **`{'a', 'b', 'c', 'd', 'e'}`** so that the weight of these 5 letters is a number in the range **`[start … end]`**, inclusive. Print them in alphabetical order, in a row, separated by a space.
 
-**Теглото на една буква** се изчислява по следния начин:
+**The weight of one letter** is calculated as follows:
 
 ```csharp 
 weight('а') = 5;
@@ -12,35 +12,35 @@ weight('d') = 7;
 weight('e') = -32;
 ```
 
-**Теглото на редицата** от букви **`c1, c2, …, cn`** е изчислено, като се премахват всички букви, които се повтарят (от дясно наляво), и след това се пресметне формулата:
+**The weight of the sequence** from the letters **`c1, c2, …, cn`** is calculated by removing all the letters that are repeated (from right to left) and then calculating the formula:
 
 ```csharp 
 weight(c1c2…cn) = 1 * weight(c1) + 2 * weight(c2) + … + n * weight(cn)
 ```
 
-**Например**, теглото на **`bcddc`** се изчислява по следния начин: 
+**For example**, the weight of **`bcddc`** is calculated as follows:
 
-Първо **премахваме повтарящите се букви** и получаваме **`bcd`**. След това прилагаме формулата: **`1 * weight('b') + 2 * weight('c') + 3 * weight('d') = 1 * (-12) + 2 * 47 + 3 * 7 = 103`**.
+First **we remove the repeating letters** and get **`bcd`**. Then we apply the formula: **`1 * weight('b') + 2 * weight('c') + 3 * weight('d') = 1 * (-12) + 2 * 47 + 3 * 7 = 103`**.
 
-**Друг пример**: **`weight("cadae") = weight("cade") = 1 * 47 + 2 * 5 + 3 * 7 + 4 * (-32) = -50`**.
+**Another example**: ** **`weight("cadae") = weight("cade") = 1 * 47 + 2 * 5 + 3 * 7 + 4 * (-32) = -50`**.
 
 ### Input Data
 
-Входните данни се четат от конзолата. Състоят се от две числа:
-* Числото за **начало**.
-* Числото за **край**.
+The input data is read from the console. They consist of two numbers:
+   * The number for **start**.
+   * The number for **end**.
 
-Входните данни винаги ще бъдат валидни и винаги ще са в описания формат. Няма нужда да се проверяват.
+Input data will always be valid and will always be in the format described. No need to check.
 
 ### Output Data
 
-Резултатът трябва да бъде принтиран на конзолата като поредица от низове, **подредени по азбучен ред**. Всеки низ трябва да бъде отделен от следващия с едно разстояние. Ако теглото на нито един от 5 буквените низове не съществува в зададения интервал, принтирайте "**No**".
+The result should be printed on the console as a sequence of strings, **arranged in alphabetical order**. Each string must be separated from the next by a single space. If the weight of any of the 5 letter strings does not exist within the specified interval, print "**No**".
 
 ### Constraints
 
-* Числата за **начало** и **край** да бъдат цели числа в диапазона [**-10000 … 10000**].
-* Позволено работно време за програмата: 0.25 секунди.
-* Позволена памет: 16 MB.
+   * Numbers for **start** and **end** are integers in the range [**-10000 … 10000**].
+   * Allowed program time: 0.25 seconds.
+   * Allowed memory: 16 MB.
 
 ### Sample Input and Output
 
