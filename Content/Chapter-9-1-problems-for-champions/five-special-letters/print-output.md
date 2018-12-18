@@ -1,9 +1,9 @@
-#### Финални щрихи
+#### Final Touches
 
-Условието е изпълнено **с изключение случаите, в които нямаме нито една дума в подадения интервал**. За да разберем дали сме намерили такава дума, можем просто да проверим дали низът **`result`** има началната си стойност (а именно празен низ), ако е така - отпечатваме **`No`**, иначе печатаме целия низ без последния интервал (използвайки метода **`.Trim()`**).
+The condition is met **unless we do not have a single word in the entered interval**. In order to find out if we have found a word, we can simply check whether the string **`result`** has its initial value (i.e., an empty string), if it does, we print **`No`**, otherwise we print the whole string without the last interval (using the **`.Trim ()`**) method.
 
 ![](/assets/chapter-9-images/03.Five-special-letters-10.png)
 
 ### Testing in the Judge System
 
-Тествайте решението си тук: [https://judge.softuni.bg/Contests/Practice/Index/518#2](https://judge.softuni.bg/Contests/Practice/Index/518#2).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/518#2](https://judge.softuni.bg/Contests/Practice/Index/518#2).
