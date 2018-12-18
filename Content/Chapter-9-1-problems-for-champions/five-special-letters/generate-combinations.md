@@ -1,8 +1,5 @@
-#### Генериране на всички комбинации
+#### Generate Combinations
 
-За да генерираме **всички комбинации с дължина 1** използвайки 5 символа, бихме използвали **цикъл от 0..4**, като всяко число от цикъла ще искаме да отговаря на един символ. За да генерираме **всички комбинации с дължина 2** използвайки 5 символа (т.е. "aa", "ab", "ac", …, "ba", …), бихме направили **два вложени цикъла, всеки обхождащ цифрите от 0 до 4**, като отново ще направим, така че всяка цифра да отговаря на конкретен символ. Тази стъпка ще повторим 5 пъти, така че накрая да имаме 5 вложени цикъла с индекси **`i1`**, **`i2`**, **`i3`**, **`i4`** и **`i5`**.
+In order to generate **all combinations of length 1** using 5 symbols, we would use a **loop from 0..4**, as each number of the loop we want to match one character. In order to generate **any combinations of length 2** using 5 characters (i.e. "aa", "ab", "ac", …, "ba", …), we would do **two nested loops each scrolling through the digits 0 to 4**, again, so that each digit matches a specific character. We will repeat this step 5 times, so we finally have 5 nested loops with indexes **`i1`**, **`i2`**, **`i3`**, **`i4`** and **`i5`**.
 
 ![](/assets/chapter-9-images/03.Five-special-letters-02.png)
-
-
- 
