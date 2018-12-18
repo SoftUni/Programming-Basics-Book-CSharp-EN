@@ -1,7 +1,7 @@
 #### Reading the Input Data
 
-Като всяка задача, започваме решението с **прочитане и обработване на входните данни**. В случая имаме **две цели числа**, които можем да обработим с комбинация от методите **`int.Parse(…)`** и **`Console.ReadLine()`**.
+As every problem, we start the solution with **reading and processing the input data**. In this case, we have **two integers** which can be processed with a combination of the **`int.Parse(…)`** and **`Console.ReadLine()`** methods.
 
 ![](/assets/chapter-9-images/03.Five-special-letters-01.png)
 
-В задачата имаме няколко основни момента - **генерирането на всички комбинации** с дължина 5 включващи 5-те дадени букви, **премахването на повтарящите се букви** и **пресмятането на теглото** за дадена вече опростена дума. Отговорът ще се състои от всяка дума, чието тегло е в дадения интервал **`[firstNumber, secondNumber]`**
+We have several main points in the problem - **generating all combinations** with a length of 5 including the 5 letters, **removing repeating letters** and **calculating weight** for a simplified word. The answer will consist of every word whose weight is within the given interval **`[firstNumber, secondNumber]`**.
