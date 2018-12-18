@@ -1,11 +1,11 @@
-#### Пресмятане на теглото
+#### Calculate Weight
 
-Пресмятането на теглото е просто **обхождане на уникалната дума** (**`word`**), получена в миналата стъпка, като за всяка буква трябва да вземем теглото ѝ и да я умножим по позицията. За всяка буква в обхождането трябва да пресметнем с каква стойност ще умножим позицията ѝ, например чрез използването на **`switch`** конструкция.
+Calculating the weight is simply **going through the unique word** (**`word`**) obtained in the last step, and for each letter we need to take its weight and multiply it by the position. For each letter, we need to calculate how much we will multiply its position, for example by using the **`switch`** construction.
 
 ![](/assets/chapter-9-images/03.Five-special-letters-07.png)
 
-След като имаме стойността на дадената буква, следва да я **умножим по позицията ѝ**. Тъй като индексите в стринга се различават с 1 от реалните позиции, т.е. индекс 0 е позиция 1, индекс 1 е позиция 2 и т.н., ще добавим 1 към индексите.
+Once we have the value of that letter, we should **multiply it by its position**. Because the indexes in the string differ by 1 from the actual positions, i.e. index 0 is position 1, index 1 is position 2, etc., we will add 1 to the indexes.
 
 ![](/assets/chapter-9-images/03.Five-special-letters-08.png)
 
-Всички получени междинни резултати трябва да бъдат добавени към **обща сума за всяка една буква от 5-буквената комбинация**.
+All intermediate results obtained must be added to the **total amount for each letter of the 5-letter combination**.
