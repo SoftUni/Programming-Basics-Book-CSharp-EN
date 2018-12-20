@@ -1,19 +1,19 @@
 #### Processing the Input
 
-Входът за нашата задача се състои от няколко компонента:
-- На **първия ред имаме всички пари**, с които Лина ще разполага за пазаруването.
-- На **всеки следващ ред** ще имаме някакъв вид **команда**.
+The input of our task consists of a few components:
+- On the **first row we have all the money** that Lina has for shopping.
+- On **each of the following rows** we will have some kind of **command**.
 
-Първата част от прочитането е тривиална:
+The first part of reading the input is trivial:
 
 ![](/assets/chapter-9-2-images/01.Passion-days-01.png)
 
-Но във втората има детайл, с който трябва да се съобразим. Условието гласи следното:
+But the second one contains a detail that we need to take into consideration. The requirements says the following:
 
-> Всеки следващ ред ще има определена команда. Когато получите командата **"mall.Enter"**, на всеки следващ ред ще получите стрингове, съдържащи информация относно покупките/действията, които Лина иска да направи.
+> On each of the following rows there will be a particular command. After you receive the command **"mall.Enter"**, on each of the following rows you will receive strings containing information regarding the purchases / actions that Lina wants to perform.
 
-Тук е моментът, в който трябва да се съобразим, че от **втория ред нататък трябва да започнем да четем команди**, но **едва след като получим** командата **"mall.Enter"**, трябва да започнем да ги обработваме. Как можем да направим това? Използването на **`while`** или **`do-while`** цикъл e добър избор. Ето примерно решение как можем **да пропуснем** всички команди преди получаване на командата **"mall.Enter"**:
+This is where we need to take into consideration the fact that from the **second row on, we need to start reading commands**, but **only after we receive** the command **"mall.Enter"**, we must start processing them. How can we do this? Using a **`while`** or a **`do-while`** loop is a good option. Here is an exemplary solution of how **to skip** all commands before receiving the command **"mall.Enter"**:
 
 ![](/assets/chapter-9-2-images/01.Passion-days-02.png)
 
-Тук е мястото да отбележим, че извикването на **`Console.ReadLine()`** след края на цикъла се използва за **преминаване към първата команда** за обработване.
+Here is the place to point out that calling **`Console.ReadLine()`** after the end of the loop is used for **moving to the first command** for processing.
