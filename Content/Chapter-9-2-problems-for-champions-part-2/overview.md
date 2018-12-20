@@ -1,3 +1,3 @@
-# Chapter 9.2. Задачи за шампиони – част II
+# Chapter 9.2. Problems for Champions – Part II
 
-В тази глава ще разгледаме още три задачи, които причисляваме към категорията "**за шампиони**", т.е. по-трудни от стандартните задачи в тази книга.
+In this chapter we will review three more problems that belong to to the category "**For Champions**", i.e. they are more complex than the rest of the problems in this book.
