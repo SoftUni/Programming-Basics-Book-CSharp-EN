@@ -1,47 +1,47 @@
-## Problem: Passion Purchase Days
+## Problem: Passion Shopping Days
 
 Lina has a real shopping passion. When she has some money, she immediately goes to the closest shopping center (mall) and tries to spend as much as she can on clothes, bags and shoes. But her favorite thing are winter sales. Our task is to analyze her strange behavior and  **calculate the purchases** that Lina does when she enters the mall, as well as the **money she has left** when the shopping is over.
 
-The **first row** of the input will pass the **amount** that Lina has **before** she starts shopping. After that, upon receiving the "**`mall.Enter`**" command, Lina enters the mall and starts shopping until the "**`mall.Exit`**" is received. Когато Лина започне да пазарува, **на всяка линия** от входа ще получите стрингове, които представляват **действия, които Лина изпълнява**. Всеки **символ** в стринга представлява **покупка или друго действие**. Стринговите команди могат да съдържат само символи от **ASCII таблицата**. ASCII кода на всеки знак има **връзка с това колко Лина трябва да плати** за всяка стока. Интерпретирайте символите по следния начин:
+The **first row** of the input will pass the **amount** that Lina has **before** she starts shopping. After that, upon receiving the "**`mall.Enter`**" command, Lina enters the mall and starts shopping until the "**`mall.Exit`**" is received. When Lina starts shopping, **on each row** of the input you will receive strings that are **actions performed by Lina**. Each **symbol** in the string is a **purchase or another action**. String commands contain only symbols of the **ASCII table**. The ASCII code of each sign is **related to what Lina must pay** for each of the goods. You need to interpret the symbols in the following way:
 
-- Ако символът е **главна буква**, Лина получава **50% намаление**, което означава, че трябва да намалите парите, които тя има, с 50% от цифровата репрезентация на символа от ASCII таблицата.
-- Ако символът е **малка буква**, Лина получава **70% намаление**, което означава, че трябва да намалите парите, които тя има, с 30% от цифровата репрезентация на символа от ASCII таблицата.
-- Ако символът е **"`%`"**, Лина прави **покупка**, която намалява парите ѝ на половина.
-- Ако символът е **"`*`"**, Лина **изтегля пари от дебитната си карта** и добавя към наличните си средства 10 лева.
-- Ако символът е **различен от упоменатите горе**, Лина просто прави покупка без намаления и в такъв случай просто извадете стойността на символа от ASCII таблицата от наличните ѝ средства.
+- If the symbol is a **capital letter**, Lina gets a **50% discount**, which means that you must decrease the money she has by 50% of the numeric representation of the symbol from the ASCII table.
+- If the symbol is a **small letter**, Lina gets a **70% discount**, which means that you must decrease the money she has by 30% of the numeric representation of the symbol from  the ASCII table.
+- If the symbol is **"`%`"**, Lina makes a **purchase** that decreases her money in half.
+- If the symbol is **"`*`"**, Lina **withdraws money from her debit card** and adds 10 lv to her available funds.
+- If the symbol is **different from all of the aforementioned**, Lina just makes a purchase without discount, and in this case you should simply subtract the value of the symbol from the ASCII table from her available funds.
 
-Ако някоя от стойностите на покупките е **по-голяма** от текущите налични средства, Лина **НЕ** прави покупката. Парите на Лина **не могат да бъдат по-малко от 0**.
+If some of the values of her purchases is **higher** than her current available funds, Lina **DOES NOT** make the purchase. Lina's funds **can not be less than 0**.
 
-Пазаруването завършва, когато се получи командата "**`mall.Exit`**". Когато това стане, трябва да **принтирате броя на извършени покупки и парите**, които са останали на Лина.
+The shopping ends when the "**`mall.Exit`**" command is received. When this happens, you need to **print the number of purchases made and the money** that Lina has left.
 
 ### Input Data
 
-Входните данни трябва да се четат от конзолата. На **първия ред** от входа ще бъде подадена **сумата, която Лина има преди да започне да пазарува**. На всеки следващ ред ще има определена команда. Когато получите командата **"mall.Enter"**, на всеки следващ ред ще получавате стрингове, съдържащи **информация относно покупките / действията**, които Лина иска да направи. Тези стрингове ще продължат да бъдат подавани, докато не се получи командата "**`mall.Exit`**".
+The input data must be read from the console. The **first row** of the input will indicate the **amount that Lina has before starting to purchase**. On each of the following rows there will be a particular command. After you receive the command **"mall.Enter"**, on each of the following rows you will receive strings containing **information regarding the purchases / actions** that Lina wants to perform. These strings will keep being passed, until the "**`mall.Exit`**" command is received.
 
-Винаги ще се подава само една команда "**`mall.Enter`**" и само една команда "**`mall.Exit`**".
+Always only one "**`mall.Enter`**" command will be received, as well as only one "**`mall.Exit`**" command.
 
 ### Output Data
 
-Изходните данни трябва да се **принтират на конзолата**.
-Когато пазаруването приключи, на конзолата трябва да се принтира определен изход в зависимост от това какви покупки са били направени.
-- Ако **не са били направени някакви покупки** – "**No purchases. Money left: {останали пари} lv.**"
-- Ако е направена **поне една покупка** - "**{брой покупки} purchases. Money left: {останали пари} lv.**"
+The output data must be **printed in the console**.
+When shopping is over, the console must print individual output depending on what purchases have been made.
+- If **no purchases have been made** – "**No purchases. Money left: {remaining funds} lv.**"
+- If **at least one purchase** is made - "**{number of purchases} purchases. Money left: {remaining funds} lv.**"
 
-**Парите** трябва да се принтират с **точност от 2 символа след десетичния знак**.
+**The funds** must be printed with **accuracy of up to 2 symbols after the decimal point**.
 
 ### Constraints
 
-- Парите са число с **плаваща запетая** в интервала: [**0 - 7.9 x 10<sup>28</sup>**].
-- Броят стрингове между "**`mall.Enter`**" и "**`mall.Exit`**" ще в интервала: [**1-20**].
-- Броят символи във всеки стринг, който представлява команда, ще е в интервала: [**1-20**].
-- Позволено време за изпълнение: **0.1 секунди**.
-- Позволена памет: **16 MB**.
+- Money is a **float** number within: [**0 - 7.9 x 10<sup>28</sup>**].
+- The number of strings between "**`mall.Enter`**" and "**`mall.Exit`**" will be within the range: [**1-20**].
+- The number of symbols in each string that represents a command will be within the range: [**1-20**].
+- Allowed execution time: **0.1 секунди**.
+- Allowed memory: **16 MB**.
 
 ### Sample Input and Output
 
 | Input                       | Output                              | Comments |
 |----------------------------|------------------------------------|-----------|
-| 110<br>mall.Enter<br>d<br>mall.Exit | 1 purchases. Money left: 80.00 lv. | ‘d’ има ASCII код 100. ‘d’ e малка буква и за това Лина получава 70% отстъпка. 100% – 70% = 30.110 – 30 = 80 лв. |
+| 110<br>mall.Enter<br>d<br>mall.Exit | 1 purchases. Money left: 80.00 lv. | ‘d’ has an ASCII code of 100. ‘d’ is a small letter, this is why Lina receives a 70% discount. 100% – 70% = 30.110 – 30 = 80 lv. |
 
 | Input | Output | Input | Output |
 |------|-------|------|-------|
