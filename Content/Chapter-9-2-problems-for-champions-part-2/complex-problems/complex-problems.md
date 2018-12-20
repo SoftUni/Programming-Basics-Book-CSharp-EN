@@ -1,3 +1,3 @@
-## По-сложни задачи върху изучавания материал
+## More Complex Problems on the Studied Material
 
-Преди да преминем към конкретните задачи, трябва да поясним, че те могат да се решат по-лесно с **допълнителни знания за програмирането и езика C#** (методи, масиви, колекции, рекурсия и т.н.), но всяко едно решение, което ще дадем сега, ще използва единствено материал, покрит в тази книга. Целта е да се научите да съставяте **по-сложни алгоритми** на базата на сегашните си знания.
+Before we move on to particular tasks, we must clarify that these can be solved in an easier way with **additional knowledge in programming with C#** (methods, arrays, collections, recursion, etc.), but each solution that will be provided now only uses the material covered in this book. The goal is to learn how to construct **more complex algorithms** based on your knowledge collected up to the present moment.
