@@ -1,8 +1,8 @@
-### Hints and Guidelines
+### Tips and Tricks
 
-Ще разделим решението на задачата на три основни части:
- * **Обработка** на входа.
- * **Алгоритъм** на решаване. 
- * **Форматиране** на изхода.
+We will separate the solution of the problem into three main parts:
+ * **Processing** of the input.
+ * **Algorithm** for solving the problem. 
+ * **Formatting** the output.
 
-Нека разгледаме всяка една част в детайли.
+Let's examine each of the parts in details.
