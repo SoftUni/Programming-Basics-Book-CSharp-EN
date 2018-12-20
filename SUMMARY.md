@@ -586,7 +586,7 @@
     * [Final Touches](Content/Chapter-9-1-problems-for-champions/five-special-letters/print-output.md)
 * [9.2. Problems for Champions – Part II](Content/Chapter-9-2-problems-for-champions-part-2/overview.md)
   * [More Complex Problems on the Studied Material](Content/Chapter-9-2-problems-for-champions-part-2/complex-problems/complex-problems.md)
-  * [Problem: Passion Purchase Days](Content/Chapter-9-2-problems-for-champions-part-2/passion-days/passion-days.md)
+  * [Problem: Passion Shopping Days](Content/Chapter-9-2-problems-for-champions-part-2/passion-days/passion-days.md)
     * [Tips and Tricks](Content/Chapter-9-2-problems-for-champions-part-2/passion-days/guidelines.md)
     * [Processing the Input Data](Content/Chapter-9-2-problems-for-champions-part-2/passion-days/process-input-data.md)
     * [Reading the Commands](Content/Chapter-9-2-problems-for-champions-part-2/passion-days/read-commands.md)
