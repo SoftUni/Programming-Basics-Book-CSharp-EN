@@ -1,9 +1,9 @@
-#### Създаване на помощни променливи
+#### Creating Helper Variables
 
-За целите на нашата задача ще имаме нужда от две променливи:
-* Една променлива, в която ще пазим **текущия резултат**.
-* Още една променлива, в която ще пазим **текущия оператор** от нашия израз.
+For the goals of our task we need two variables:
+* One variable where we will store the **current output**.
+* One variable where we will store the **current operator** of our expression.
 
 ![](/assets/chapter-9-2-images/02.X-expression-04.png)
 
-Относно кода по-горе трябва да поясним два детайла. Първият е използването на тип **`decimal`** за **съхранение на резултата на нашето уравнение** с цел избягване на всякакви проблем с точността, които съпътстват типовете **`float`** и **`double`**. Вторият е стойността по подразбиране на оператора - тя е **`+`**, за да може още първото срещнато число да бъде събрано с резултата ни.
+We will clarify two details regarding the aforementioned code. The first one is the use of **`decimal`** type for **storing the output of our expression** in order to avoid any problems with the accuracy pertaining to the **`float`** and **`double`** type. The second one is the default value of the operator - it is **`+`**, so that the very first number can be added to our output.
