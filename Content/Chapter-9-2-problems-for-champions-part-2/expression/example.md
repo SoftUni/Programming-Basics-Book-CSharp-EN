@@ -1,11 +1,11 @@
 ### Example
 
-Изразът
+The expression
 
 ![](/assets/chapter-9-2-images/02.X-expression-01.png)
 
-бива решен по следния начин:
+is solved in the following way:
 
 ![](/assets/chapter-9-2-images/02.X-expression-02.png)
 
-Бони е много красива, но не чак толкова съобразителна, затова тя има нужда от нашата помощ, за да усвои силата на Изразите.
+Bonny is very pretty, but not as wise, so she will need our help to master the power of Expressions.
