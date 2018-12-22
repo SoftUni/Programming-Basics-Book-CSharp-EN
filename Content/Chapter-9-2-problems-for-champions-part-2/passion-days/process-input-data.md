@@ -1,4 +1,4 @@
-#### Processing the Input
+#### Processing the Input Data
 
 The input of our task consists of a few components:
 - On the **first row we have all the money** that Lina has for shopping.
