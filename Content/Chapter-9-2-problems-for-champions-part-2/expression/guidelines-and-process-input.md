@@ -1,11 +1,11 @@
-### Hints and Guidelines
+### Tips and Tricks
 
-Както обикновено, първо ще прочетем и обработим входа, след това ще решим задачата и накрая ще отпечатаме резултата, форматиран, както се изисква.
+As usual, we will first read and process the input, after that we will solve the problem, and finally, we will print the result, formatted as required.
 
 #### Reading the Input Data
 
-Входните данни се състоят от точно един ред от конзолата. Тук имаме **два начина**, по които можем да обработим входа. Първият е чрез **прочитането на целия ред с командата `Console.ReadLine()`** и достъпването на всеки един символ (**`char`**) от реда чрез **`foreach` цикъл**. Вторият е чрез **прочитане на входа символ по символ чрез командата `Console.Read()`** и обработване на всеки символ.
+The input data will consist of exactly one row read from the console. Here we have **two ways** to process the input. The first way is by **reading the entire row using the `Console.ReadLine()` command** and accessing each symbol (**`char`**) of the row via a **`foreach` loop**. The second one is by **reading the input symbol by symbol using the `Console.Read()` command** and processing each symbol.
 
-За решаване на задачата ще използваме втория вариант.
+We will use the second option to solve the problem.
 
 ![](/assets/chapter-9-2-images/02.X-expression-03.png)
