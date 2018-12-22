@@ -1,23 +1,23 @@
-#### Обработване на символите от командите
+#### Processing Command Symbols
 
-Следващата част от алгоритъма ни е да **обработим символите от командите**, спрямо следните правила от условието:
+The next part of the algorithm is to **process the symbols from the commands**, according to the following rules in the requirements:
 
-> - Ако символът е **главна буква**, Лина получава 50% намаление, което означава, че трябва да намалите парите, които тя има, с 50% от цифровата репрезентация ASCII символа.
-> - Ако символът е **малка буква**, Лина получава 70% намаление, което означава, че трябва да намалите парите, които тя има, с 30% от цифровата репрезентация ASCII символа.
-> - Ако символът е **"%"**, Лина прави покупка, която намалява парите ѝ на половина.
-> - Ако символът е **"\*"**, Лина изтегля пари от дебитната си карта и добавя към наличните си средства 10 лева.
-> - Ако символът е **различен от упоменатите горе**, Лина просто прави покупка без намаления и в такъв случай просто извадете стойността на ASCII символа от наличните ѝ средства.
+> - If the symbol is a **capital letter**, Lina gets a 50% discount, which means that you must decrease the money she has by 50% of the numeric representation of the symbol from the ASCII table.
+> - If the symbol is a **small letter**, Lina gets a 70% discount, which means that you must decrease the money she has by 30% of the numeric representation of the symbol from the ASCII table.
+> - If the symbol is **"%"**,  Lina makes a purchase that decreases her money in half.
+> - If the symbol is **"\*"**, Lina withdraws money from her debit card and adds 10 lv to her available funds.
+> - If the symbol is **different from all of the aforementioned**, Lina just makes a purchase without discount, and in this case you should simply subtract the value of the symbol from the ASCII table from her available funds.
 
-Нека разгледаме проблемите от първото условие, които стоят пред нас. Единият е как можем да разберем дали даден **символ представлява главна буква**. Можем да използваме един от двата начина:
-* Имайки предвид, факта, че буквите в азбуката имат ред, можем да използваме следната проверка **`action >= 'A' && action <= 'Z'`**, за да проверим дали нашият символ се намира в интервала от големи букви.
-* Можем да използваме функцията **`char.IsUpper(..)`**.
+Let's examine the problems that we will be facing in the first condition. The first one is how to distinguish if a particular **symbol is a capital letter**. We can use one of the following ways:
+* Keeping in mind the fact that the letters in the alphabet have a particular order, we can use the following condition **`action >= 'A' && action <= 'Z'`**, in order to check if our symbol is within the capital letters range.
+* We can use the **`char.IsUpper(..)`** function.
 
-Другият проблем е как можем **да пропуснем даден символ**, ако той представлява операция, която изисква повече пари, отколкото Лина има? Това е възможно да бъде направено с използване на **`continue`** конструкцията.
+The other problem is how **to skip a particular symbol**, if it is not an operation that requires more money that Lina has. This is doable using the **`continue`** construction.
 
-Примерната проверка за първата част от условието изглежда по следния начин:
+An exemplary condition for the first part of the requirements looks like this:
 
 ![](/assets/chapter-9-2-images/01.Passion-days-04.png)
 
-**Note**: **`purchases`** е променлива от тип **`int`** , в която държим броя на всички покупки.
+**Note**: **`purchases`** is a variable of **`int`** type, in which we store the number of all purchases.
 
-Смятаме, че читателят не би трябвало да изпита проблем при имплементацията на всички други проверки, защото са много сходни с първата.
+We believe the reader should not have difficulties implementing all the other conditions because they are very similar to the first one.
