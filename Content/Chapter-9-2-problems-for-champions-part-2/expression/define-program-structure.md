@@ -1,12 +1,12 @@
-#### Дефиниране структурата на програмата
+#### Defining the Program Structure
 
-След като вече имаме началните си променливи, трябва да помислим върху това **каква ще е основната структура** на нашата програма. От условието разбираме, че **всеки израз завършва с `=`**, т.е. ще трябва да четем и обработваме символи, докато не срещнем **`=`**. Следва точното изписване на **`while` цикъл**.
+Now that we already have our starting variables, we must decide **what will be the main structure** of our program. By the requirements we understand that **each expression ends with `=`**, i.e. we must read and process symbols until we reach a **`=`**. This is followed by an accurately written **`while` loop**.
 
 ![](/assets/chapter-9-2-images/02.X-expression-05.png)
 
-Следващата стъпка е обработването на нашата **`symbol`** променлива. За нея имаме 3 възможни случая:
-* Ако символът е **начало на подизраз, заграден в скоби**, т.е. срещнатият символ е **`(`**.
-* Ако символът е **цифра между 0 и 9**. Но как можем да проверим това? Как можем да проверим дали символът ни е цифра? Тук идва на помощ **ASCII кодът** на символа, чрез който можем да използваме следната формула: **`[ASCII кода на нашия символ] - [ASCII кода на символа 0] = [цифрата, която репрезентира символа]`**. Ако **резултатът от тази проверка е между 0 и 9**, то тогава нашият символ наистина е **число**.
-* Ако символът е **оператор**, т.е. е **`+`**, **`-`**, **`*`** или **`/`**.
+The next step is the processing of our **`symbol`** variable. We have 3 possible cases for it:
+* If the symbol is a **start of a subexpression placed in brackets** i.e. the found symbol is a **`(`**.
+* If the symbol is a **digit between 0 and 9**. But how can we check this? How can we check if our symbol is a digit? We can use for assistance the **ASCII code** of the symbol, via which we can use the following formula: **`[ASCII code of our symbol] - [ASCII code of the symbol 0] = [the digit that represents the symbol]`**. If **the result of this condition is between 0 and 9**, then our symbol is really a **number**.
+* If the symbol is an **operator**, i.e. it is **`+`**, **`-`**, **`*`** or **`/`**.
 
 ![](/assets/chapter-9-2-images/02.X-expression-06.png)
