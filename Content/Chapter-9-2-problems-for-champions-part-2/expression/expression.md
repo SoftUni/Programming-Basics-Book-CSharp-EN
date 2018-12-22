@@ -1,6 +1,6 @@
 ## Problem: Numerical Expression
 
-Bonny is an exceptionally powerful witch. As her natural power is not sufficient to successfully fight vampires and wеrewolves, she has started to master the power of Expressions. An expression is very hard to master, because the spell relies on the ability to **quickly solve mathematical expressions**.
+Bonny is an exceptionally powerful witch. As her natural power is not sufficient to successfully fight vampires and werewolves, she has started to master the power of Expressions. An expression is very hard to master, because the spell relies on the ability to **quickly solve mathematical expressions**.
 
 In order to use an "Expression spell", the witch must know the result of a mathematical expression in advance. An **Expression spell** consists of a few simple mathematical expressions. Each mathematical expression can contain operators for **summing up**, **subtraction**, **multiplying** and/or **division**.
 
