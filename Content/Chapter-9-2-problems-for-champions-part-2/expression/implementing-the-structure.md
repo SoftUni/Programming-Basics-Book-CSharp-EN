@@ -1,11 +1,11 @@
 #### Implementing the Proposed Idea
 
-Нека разгледаме действията, които трябва да извършим при съответните случаи, които дефинирахме:
-* Ако нашият символ е **оператор**, то тогава единственото, което трябва да направим, е да **зададем нова стойност на променливата `expressionOperator`**.
-*  Ако нашият символ е **цифра**, тогава трябва да **променим текущия резултат от израза в зависимост от текущия оператор**, т.е. ако **`expressionOperator`** е **`-`**, тогава трябва да **намалим резултата с цифровата репрезентация на текущия символ**. Можем да вземем цифровата репрезентация на текущия символ, чрез формулата, която използвахме при проверката на този случай (**`[ASCII кода на нашия символ] - [ASCII кода на символа `0`] = [цифрата, която репрезентира символа]`**)
+Let's examine the actions that we need to undertake in the relevant cases that we defined:
+* If our symbol is an **operator**, then the only thing we need to do is to **set a new value for the `expressionOperator` variable**.
+* If our symbol is a **digit**, then we need to **change the current result of the expression depending on the current operator**, i.e. if  **`expressionOperator`** is a **`-`**, then we must **decrease the result by the numerical representation of the current symbol**. We can get the numerical representation of the current symbol via the formula that we used upon checking the condition for this case (the **`[ASCII code of our symbol] - [the ASCII code of the symbol `0`] = [the digit that represents the symbol]`**)
 
 ![](/assets/chapter-9-2-images/02.X-expression-07.png)
 
-* Ако нашият символ е **`(`**, това индикира **началото на подизраз** (израз в скоби). По дефиниция **подизразът трябва да се калкулира преди да се модифицира резултата от целия израз** (действията в скобите се извършват първи). Това означава, че ще имаме локален резултат за подизраза ни и локален оператор.
+* If our symbol is a **`(`**, this indicates the **beginning of a sub-expression** (an expression in brackets). By definition, **the sub-expression must be calculated before modifying the result of the whole expression** (the actions in brackets are performed first). This means that we will have a local result for the sub-expression and a local operator.
 
 ![](/assets/chapter-9-2-images/02.X-expression-08.png)
