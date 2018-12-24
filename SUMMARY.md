@@ -252,7 +252,7 @@
       * [Tips and Tricks](Content/Chapter-4-1-complex-conditions/exercises-complex-conditions/volleyball/guidelines.md)
     * [Problem: * Point in the Figure](Content/Chapter-4-1-complex-conditions/exercises-complex-conditions/point-in-the-figure/point-in-the-figure.md)
       * [Tips and Tricks](Content/Chapter-4-1-complex-conditions/exercises-complex-conditions/point-in-the-figure/guidelines.md)
-      * [Implementation of the Described Idea](Content/Chapter-4-1-complex-conditions/exercises-complex-conditions/point-in-the-figure/implementation-of-the-idea.md)
+      * [Implementation of the Proposed Idea](Content/Chapter-4-1-complex-conditions/exercises-complex-conditions/point-in-the-figure/implementation-of-the-idea.md)
   * [Exercises: Graphical Application with More Complex Conditions](Content/Chapter-4-1-complex-conditions/graphical-app/graphical-app.md)
     * [Problem: * Point and Triangle – Graphical (GUI) Application](Content/Chapter-4-1-complex-conditions/graphical-app/point-and-rectangle.md)
       * [Creating a New C# Project and Adding Controls](Content/Chapter-4-1-complex-conditions/graphical-app/create-new-project-and-controls.md)
