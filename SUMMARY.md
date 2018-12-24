@@ -597,7 +597,7 @@
     * [Tips and Tricks, and Reading the Input Data](Content/Chapter-9-2-problems-for-champions-part-2/expression/guidelines-and-process-input.md)
     * [Creating Helper Variables](Content/Chapter-9-2-problems-for-champions-part-2/expression/helper-variables.md)
     * [Defining the Program Structure](Content/Chapter-9-2-problems-for-champions-part-2/expression/define-program-structure.md)
-    * [Implementing the Described Idea](Content/Chapter-9-2-problems-for-champions-part-2/expression/implementing-the-structure.md)
+    * [Implementing the Proposed Idea](Content/Chapter-9-2-problems-for-champions-part-2/expression/implementing-the-structure.md)
     * [Calculating the Sub-expression Value](Content/Chapter-9-2-problems-for-champions-part-2/expression/calc-subexpression.md)
     * [Formatting the Output](Content/Chapter-9-2-problems-for-champions-part-2/expression/format-output.md)
   * [Problem: Bulls and Cows](Content/Chapter-9-2-problems-for-champions-part-2/bulls-and-cows/bulls-and-cows.md)
