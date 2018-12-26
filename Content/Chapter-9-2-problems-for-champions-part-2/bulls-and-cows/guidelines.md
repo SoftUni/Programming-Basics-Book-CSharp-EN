@@ -1,6 +1,6 @@
-### Hints and Guidelines
+### Tips and Tricks
 
-Ще решим задачата на няколко стъпки:
- - Ще прочетем **входните данни**.
- - Ще генерираме всички възможни **четирицифрени комбинации** (кандидати за проверка).
- - За всяка генерирана комбинация ще изчислим **колко бика** и **колко крави** има в нея спрямо секретното число. При съвпадение с търсените бикове и крави, ще **отпечатаме комбинацията**.
+We will solve the problem in a few steps:
+ - We will read the **input data**.
+ - We will generate all possible **four-digit combinations** (candidates for verification).
+ - For each generated combination we will calculate **how many bulls** and **how many cows** it has according to the secret number. Upon matching the needed bulls and cows, we will **print the combination**.
