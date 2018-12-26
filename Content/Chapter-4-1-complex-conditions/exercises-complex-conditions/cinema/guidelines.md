@@ -1,4 +1,4 @@
-#### Hints and Guidelines 
+#### Tips and Tricks
 
 While reading the input, we could convert the type of the projcection into small letters (with the function **`.ToLower()`**). We create and initialize a varibale, which will store the calculated income. In another variable we calculate the full capacity of the hall. We use a **`switch-case`** conditional statement to calculate the income according to the type of the projection and we print the result on the console in the given format. (look for the needed **C#** functionality on the internet). 
 
