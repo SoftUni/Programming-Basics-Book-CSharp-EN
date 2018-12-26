@@ -1,4 +1,4 @@
-#### Hints and Guideliness
+#### Tips and Tricks
 
 We create a **new project** in the existing Visual Studio solution. In the **Solution Explorer** click the right button of the mouse on **Solution 'Simple-Calculations'**. Choose [**Add**] -> [**New Project…**]:
 
