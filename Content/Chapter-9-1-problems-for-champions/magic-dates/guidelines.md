@@ -1,4 +1,4 @@
-### Hints and Guidelines
+### Tips and Tricks
 
 We start with the input data. In this case, we have **3 integers** that should be read from the console, as this is the only entry and processing of input for the problem.
 
