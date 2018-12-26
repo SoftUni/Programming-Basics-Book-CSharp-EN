@@ -1,4 +1,4 @@
-#### Hints and Guidelines
+#### Tips and Tricks
 
 We take from the problem explanation that the house is with size of **`n` x `n`**. What we see from the example input and output is that:
 
