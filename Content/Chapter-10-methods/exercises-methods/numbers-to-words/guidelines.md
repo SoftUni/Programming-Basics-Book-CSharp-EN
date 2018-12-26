@@ -1,4 +1,4 @@
-#### Hints and Guidelines
+#### Tips and Tricks
 
 We can first print **the hundreds** as a text - (the number / 100) % 10, after that **the tens** - (the number / 10) % 10 and at the end **the ones** - (the number % 10).
 
