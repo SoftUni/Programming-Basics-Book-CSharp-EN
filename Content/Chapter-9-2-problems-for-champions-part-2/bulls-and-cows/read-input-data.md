@@ -1,10 +1,10 @@
 #### Reading the Input Data
 
-За входа на нашата задача имаме 3 реда:
-* **Секретното число**.
-* **Броят** желани **бикове**.
-* **Броят** желани **крави**.
+We have 3 rows for the input of our task:
+* **Secret number**.
+* **Number of** desired **bulls**.
+* **Number of** desired **cows**.
 
-Прочитането на тези входни данни е тривиално:
+Reading these input data is trivial:
 
 ![](/assets/chapter-9-2-images/03.Bulls-and-cows-03.png)
