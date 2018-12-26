@@ -1,4 +1,4 @@
-### Hints and Guidelines
+### Tips and Tricks
 
 The problem seems quite complicated, so we will break it into simpler subproblems.
 
