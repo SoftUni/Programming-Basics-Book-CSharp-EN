@@ -604,7 +604,7 @@
     * [Tips and Tricks](Content/Chapter-9-2-problems-for-champions-part-2/bulls-and-cows/guidelines.md)
     * [Reading the Input Data](Content/Chapter-9-2-problems-for-champions-part-2/bulls-and-cows/read-input-data.md)
     * [Declaring a Flag](Content/Chapter-9-2-problems-for-champions-part-2/bulls-and-cows/declare-flag.md)
-    * [Generating Four Digit Numbers](Content/Chapter-9-2-problems-for-champions-part-2/bulls-and-cows/generate-four-digit-numbers.md)
+    * [Generating Four-Digit Numbers](Content/Chapter-9-2-problems-for-champions-part-2/bulls-and-cows/generate-four-digit-numbers.md)
     * [Creating Additional Variables](Content/Chapter-9-2-problems-for-champions-part-2/bulls-and-cows/additional-variables.md)
     * [Calculating the Bulls](Content/Chapter-9-2-problems-for-champions-part-2/bulls-and-cows/count-bulls.md)
     * [Calculating the Cows](Content/Chapter-9-2-problems-for-champions-part-2/bulls-and-cows/count-cows.md)
