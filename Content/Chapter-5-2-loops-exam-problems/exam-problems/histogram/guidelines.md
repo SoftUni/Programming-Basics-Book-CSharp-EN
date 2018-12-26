@@ -1,4 +1,4 @@
-### Hints and Guidelines
+### Tips and Tricks
 
 The program that solves this problem, we can split in three parts:
 
