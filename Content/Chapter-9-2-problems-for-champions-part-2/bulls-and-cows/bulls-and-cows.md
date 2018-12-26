@@ -1,42 +1,42 @@
-## Problem: бикове и крави
+## Problem: Bulls and Cows
 
-Всички знаем играта „Бикове и крави“ ([http://en.wikipedia.org/wiki/Bulls_and_cows](http://en.wikipedia.org/wiki/Bulls_and_cows)). При дадено 4-цифрено **тайно число** и 4-цифрено **предполагаемо число**, използваме следните правила:
-* Ако имаме цифра от предполагаемото число, която съвпада с цифра от тайното число и е на **същата позиция**, имаме ***бик***.
-* Ако имаме цифра от предполагаемото число, която съвпада с цифра от тайното число, но е **на различна позиция**, имаме ***крава***.
+We all know the game called "Bulls and Cows" ([http://en.wikipedia.org/wiki/Bulls_and_cows](http://en.wikipedia.org/wiki/Bulls_and_cows)). Upon having a particular 4-digit **secret number** and a 4-digit **suggested number**, the following rules are applied:
+* If a digit in the suggested number matches a digit in the secret number and is located at the **same position**, we have a ***bull***.
+* If a digit in the suggested number matches a digit in the secret number, but is located at a **different position**, we have a ***cow***.
 
-| Тайно число         | 1 | 4 | 8 | 1 |Коментар|
+| Secret number         | 1 | 4 | 8 | 1 |Comment|
 |:-------------------:|:---:|:---:|:---:|:---:|:--------------------------:|
-| Предполагаемо число | 8 | 8 | 1 | 1 | Бикове = 1<br>Крави = 2  |
+| Suggested number | 8 | 8 | 1 | 1 | Bulls = 1<br>Cows = 2  |
 
-| Тайно число         | 2 | 2 | 4 | 1 |Коментар|
+| Secret number         | 2 | 2 | 4 | 1 |Comment|
 |:-------------------:|:---:|:---:|:---:|:---:|:-------------------------:|
-| Предполагаемо число | 9 | 9 | 2 | 4 | Бикове = 0<br>Крави = 2 |
+| Suggested number | 9 | 9 | 2 | 4 | Bulls = 0<br>Cows = 2 |
 
-При дадено тайно число и брой на бикове и крави, нашата задача е **да намерим всички възможни предполагаеми числа** в нарастващ ред.
+Upon having a particular secret number and the bulls and cows pertaining to it, our task is **to find all possible suggested numbers** in ascending order.
 
-Ако **не съществуват предполагаеми числа**, които да отговарят на зададените критерии на конзолата, трябва да се отпечата "**No**".
+If there are **no suggested numbers** that match the criteria provided from the console, we must print "**No**".
 
 ### Input Data
 
-Входните данни се четат от конзолата. Входът се състои от 3 реда:
-* Първият ред съдържа **секретното число**.
-* Вторият ред съдържа **броя бикове**.
-* Третият ред съдържа **броя крави**.
+The input data is read from the console. The input consists of 3 rows:
+* The first row contains **the secret number**.
+* The second row contains **the number of bulls**.
+* The third row contains **the number of cows**.
 
-Входните данни ще бъдат винаги валидни. Няма нужда да бъдат проверявани.
+The input data will always be valid. There is no need to verify them.
 
 ### Output Data
 
-Изходните данни трябва да се принтират на конзолата.
-Изходът трябва да се състои от **един единствен ред** – **всички предполагаеми числа**, разделени с единично празно място.
-Ако **не съществуват предполагаеми числа**, които да отговарят на зададените критерии на конзолата, трябва **да се изпише “No”**.
+The output data must be printed on the console.
+The output must consist of **a single row** – **all suggested numbers**, space separated.
+If there are **no suggested numbers** that match the criteria provided from the console, we must **print “No”**.
 
 ### Constraints
 
-- Тайното число винаги ще се състои от **4 цифри в интервала** [**1..9**].
-- Броят на **кравите и биковете** винаги ще е в интервала [**0..9**].
-- Позволено време за изпълнение: **0.15 секунди**.
-- Позволена памет: **16 MB**.
+- The secret number will always consist of **4 digits in the range** [**1..9**].
+- The number of **cows and bulls** will always be in the range [**0..9**].
+- Allowed execution time: **0.15 seconds**.
+- Allowed memory: **16 MB**.
 
 ### Sample Input and Output
 
