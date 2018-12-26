@@ -1,4 +1,4 @@
-### Hints and Guidelines
+### Tips and Tricks
 Solve the problem ** by yourself**, using the learned from the previous ones. Remember, that you will need to define **different** variables for each digit of the input number.
 
 
