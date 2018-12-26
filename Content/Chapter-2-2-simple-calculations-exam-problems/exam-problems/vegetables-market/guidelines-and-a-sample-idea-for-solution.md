@@ -1,4 +1,4 @@
-### Hints and Guidelines
+### Tips and Tricks
 
 First, we will give a few ideas and particular hints for solving the problem, followed by the essential part of the code.  
 
