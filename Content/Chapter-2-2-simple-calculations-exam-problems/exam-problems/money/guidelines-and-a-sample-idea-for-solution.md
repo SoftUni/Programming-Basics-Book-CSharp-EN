@@ -1,4 +1,4 @@
-### Hints and Guidelines
+### Tips and Tricks
 
 Let' s first think of the way we can solve the task again, before having started to write code.
 
