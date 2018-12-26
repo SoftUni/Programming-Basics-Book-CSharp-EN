@@ -1,4 +1,4 @@
-#### Hints and Guidelines
+#### Tips and Tricks
 
 We can solve the problem with **two nested loops** and little calculations in them:
 
