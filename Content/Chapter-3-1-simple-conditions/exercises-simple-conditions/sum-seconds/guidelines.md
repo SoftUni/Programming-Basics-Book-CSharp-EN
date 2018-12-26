@@ -1,4 +1,4 @@
-#### Hints and Guidelines
+#### Tips and Tricks
 
 First we sum the three numbers to get the total result in seconds. Since **1 minute = 60** seconds, we will have to calculate the number of minutes and seconds in the range 0 to 59:- Ако резултатът е между 0 и 59, отпечатваме 0 минути + изчислените секунди.
 - If the result is between 0 and 59, we print 0 minutes + calculated seconds.
