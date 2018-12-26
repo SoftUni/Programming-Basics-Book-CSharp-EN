@@ -1,4 +1,4 @@
-#### Hints and Guidelines
+#### Tips and Tricks
 
 What we know from the problem explanation is that the diamond is with size **`n` x `n`**.
 
