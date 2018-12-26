@@ -1,11 +1,11 @@
-#### Преброяване на биковете 
+#### Counting the Bulls
 
-Каква логика можем да използваме? Най-елементарният начин да проверим колко крави и бикове има в едно число е чрез **поредица от `if-else` проверки**. Да, не е най-оптималния начин, но с цел да не използваме знания извън пределите на тази книга, ще изберем този подход.
+What logic can we use? The easiest way to check how many cows and bulls there are inside a number is via a **sequence of `if-else` conditions**. Yes, this is not the most optimal way, but in order to stick to what is covered in the current book, we will use this approach.
 
-От какви проверки имаме нужда?
+What conditions do we need?
 
-Проверката за бикове е елементарна - проверяваме дали **първата цифра** от генерираното число е еднаква със **същата цифра** от секретното число. Премахваме проверените цифри с цел да избегнем повторения на бикове и крави.
+The bulls condition is very simple - we check whether the **first digit** of the generated number matches the **same digit** in the secret number. We remove the digits that are already checked in order to avoid repetitions of bulls and cows.
 
 ![](/assets/chapter-9-2-images/03.Bulls-and-cows-09.png)
 
-Повтаряме действието за втората, третата и четвърта цифра. 
+We repeat the action for the second, third and fourth digit. 
