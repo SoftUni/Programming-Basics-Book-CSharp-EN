@@ -1,4 +1,4 @@
-#### Hints and Guidelines
+#### Tips and Tricks
 
 As usual, first we need to add a **new C # console project** to the existing solution. For the code of the program we need a single **`if-else`** construction. You can partially help with the code from the picture that is deliberately blurred to think about how to write it yourself:
 
