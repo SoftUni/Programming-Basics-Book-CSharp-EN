@@ -1,4 +1,4 @@
-#### Hints and Guidelines
+#### Tips and Tricks
 
 To find out if the **point** is in the figure, we will divide **the figure** into 2 quadrangles:
 
