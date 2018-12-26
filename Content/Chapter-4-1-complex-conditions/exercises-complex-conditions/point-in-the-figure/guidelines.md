@@ -1,4 +1,4 @@
-#### Hints and Guidelines
+#### Tips and Tricks
 
 A possible logic for solving the task (not the only correct one):
 
