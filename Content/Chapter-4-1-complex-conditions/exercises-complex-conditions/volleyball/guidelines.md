@@ -1,4 +1,4 @@
-#### Hints and Guidelines
+#### Tips and Tricks
 
 As usual we read the input data from the console and to avoid making errors, we convert the text into small letters with the function **`.ToLower()`**. Consequently, we calculate **the weekends spent in Sofia**, **the time for playing in Sofia** and **the common playtime**. At last, we check whether the year is **leap**, we make additional calculation when necessary and we print the result on the console **rounded down** to the nearest **whole number** (look for a **C#** class with such functionality).
 
