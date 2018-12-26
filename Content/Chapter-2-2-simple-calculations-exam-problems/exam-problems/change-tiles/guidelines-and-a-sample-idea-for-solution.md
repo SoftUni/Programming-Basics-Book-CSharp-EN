@@ -1,4 +1,4 @@
-### Hints and Guidelines
+### Tips and Tricks
 
 Let's make a draft to clear the task requirements. It can look the following way: 
 
