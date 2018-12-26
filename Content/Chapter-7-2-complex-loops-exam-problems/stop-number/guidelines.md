@@ -1,4 +1,4 @@
-### Hints and Guidelines
+### Tips and Tricks
 
 The problem can be divided by **four** logical parts:
 * **Reading** the input.
