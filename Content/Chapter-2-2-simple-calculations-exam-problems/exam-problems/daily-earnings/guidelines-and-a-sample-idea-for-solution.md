@@ -1,4 +1,4 @@
-### Hints and Guidelines
+### Tips and Tricks
 
 Firstly, we have to analyze the task and think of a way to solve it. Then, we will choose data types and, finally, we will write the code.
 
