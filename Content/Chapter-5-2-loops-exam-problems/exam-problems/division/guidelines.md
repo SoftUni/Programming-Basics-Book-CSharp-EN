@@ -1,4 +1,4 @@
-### Hints and Guidelines
+### Tips and Tricks
 
 For current and next task you will need to write by yourself the program code, following the given guidelines.
 
