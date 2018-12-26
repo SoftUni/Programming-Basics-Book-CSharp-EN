@@ -1,4 +1,4 @@
-### Hints and Guidelines
+### Tips and Tricks
 
 First **we will read the weigth of every cargo** and **sum** how much tonnes are being transported by **minibus**, **truck** and **train** and we will calculate **total tonnes** of the transported cargos. We will calculate **prices for every type of transport** according to the  transported tonnes and the **total price**. Finally we will calculate and print **the total average price per tonne** and **how much of the cargo is being transported by different types of transport in percents**.
 
