@@ -1,4 +1,4 @@
-#### Hints and Guidelines
+#### Tips and Tricks
 
 We can solve the problem with **two nested loops** (by rows and columns) with printing in them and leaving when the last number is reached. Here is the idea, written in more detail:
 
