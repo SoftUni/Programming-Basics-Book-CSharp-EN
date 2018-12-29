@@ -609,7 +609,7 @@
     * [Counting the Bulls](Content/Chapter-9-2-problems-for-champions-part-2/bulls-and-cows/count-bulls.md)
     * [Counting the Cows](Content/Chapter-9-2-problems-for-champions-part-2/bulls-and-cows/count-cows.md)
     * [Printing the Output](Content/Chapter-9-2-problems-for-champions-part-2/bulls-and-cows/print-output.md)
-* [10. Method](Content/Chapter-10-methods/overview.md)
+* [10. Methods](Content/Chapter-10-methods/overview.md)
   * [What Is a "Method"?](Content/Chapter-10-methods/what-method-is/what-method-is.md)
     * [Simple Methods](Content/Chapter-10-methods/what-method-is/simple-methods.md)
     * [Why Use Methods?](Content/Chapter-10-methods/what-method-is/why-to-use-methods.md)
