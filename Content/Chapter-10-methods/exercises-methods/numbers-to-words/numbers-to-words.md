@@ -11,9 +11,8 @@ Write a method **`Letterize(number)`**, which reads an integer and prints it in 
 
 | Input | Output | Input | Output |
 | --- | --- | --- | --- |
-|3<br>999<br>-420<br>1020|nine-hundred and ninety nine<br>minus four-hundred and twenty<br>too large|2<br>15<br>350|three-hundred and fifty|
+|3<br>999<br>-420<br>1020|nine-hundred and ninety nine<br>minus four-hundred and twenty<br>too large|2<br>15<br>350|fifteen<br>three-hundred and fifty|
 
 | Input | Output | Input | Output |
 | --- | --- | --- | --- |
-|4<br>311<br>418<br>509<br>-9945|three-hundred and eleven<br>four-hundred and eighteen<br>five-hundred and nine<br>too small|2<br>500<br>123|five-hundred<br>one-hundred and twenty three|
-
+|4<br>311<br>418<br>509<br>-9945|three-hundred and eleven<br>four-hundred and eighteen<br>five-hundred and nine<br>too small|3<br>500<br>123<br>9|five-hundred<br>one-hundred and twenty three<br>nine|
