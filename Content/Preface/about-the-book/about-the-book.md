@@ -1,14 +1,14 @@
 ## The Story of This Book
 
-The general head of the project for creating the **free programming book for begginers** with an open-source code is **[Dr. Svetlin Nakov](http://www.nakov.com)**. He is the main ideologist and founder of the learning content of the **[course "Programming Basics" in SoftUni](https://softuni.bg/courses/programming-basics)**, which was used as the basis of the book. 
+The general head of the project for creating the **free programming book for beginners** with an open-source code is **[Dr. Svetlin Nakov](http://www.nakov.com)**. He is the main ideologist and founder of the learning content of the **[course "Programming Basics" in SoftUni](https://softuni.bg/courses/programming-basics)**, which was used as the basis of the book. 
 
-Everything started with the mass **free basic programming courses** that have been conducted in the whole country since 2014, when the "SoftUni" initiative was launched. At the beggining these courses had larger range and covered more theory, but in 2016 Dr. Svetlin Nakov completely revised, updated and simplified the whole method of teaching, strongly emphasizing on practice. This is how the core of the **learning content of this book was created**.
+Everything started with the mass **free basic programming courses** that have been conducted in the whole country since 2014, when the "SoftUni" initiative was launched. At the beginning these courses had larger range and covered more theory, but in 2016 Dr. Svetlin Nakov completely revised, updated and simplified the whole method of teaching, strongly emphasizing on practice. This is how the core of the **learning content of this book was created**.
 
 The free courses at SoftUni for a start at programming, are probably the most extensive ones ever conducted in Bulgaria. Until 2017 the course in programming basics **was held over 150 times, in around 40 Bulgarian towns and cities** in person and multiple times online with over 50 000 participants. It was completely natural to write a **book** for the tens of thousands participants at the SoftUni basic programming course. On the principle of free software and free knowledge, Svetlin Nakov led a team of volunteers and started this open-source project. At first the idea was to create a book with the basics of C# programming language and then other books with other programming languages.
 
 The book was initially written in **Bulgarian language** and later translated into **English**.
 
-The project is part of the hard work of the **[Software University Fondation](http://softuni.foundation)** to create and distribute an open learning content to teach software engineers and IT profesionals.
+The project is part of the hard work of the **[Software University Fondation](http://softuni.foundation)** to create and distribute an open learning content to teach software engineers and IT professionals.
 
 ### Author's Team
 
@@ -28,7 +28,7 @@ The book **Programming Basics with C#** is available for free at the following w
 
 <p align="center"><strong><a href="https://csharp-book.softuni.org">https://csharp-book.softuni.org</a></strong></p>
 
-This is the **official book site** and any new version will be upoloaded there. The book is mirrored in the other programming languages mentioned on the website.
+This is the **official book site** and any new version will be uploaded there. The book is mirrored in the other programming languages mentioned on the website.
 
 ## Discussion Forum for Your Questions
 
