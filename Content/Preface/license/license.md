@@ -1,6 +1,6 @@
-## License and distribution agreement
+## License and Distribution
 
-The book is distributed **free** in electronic format under an open license**[CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)**.
+The book is distributed **free** in electronic format under an open license **[CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)**.
 
 The book is published and distributed **on paper** by SoftUni and you can buy a copy from SoftUni's reception. (https://softuni.bg/contacts).
 
