@@ -1,6 +1,6 @@
-## The book in other programming languages: Java, JavaScript, C++, Python, PHP, Ruby
+## The Book in Other Programming Languages: Java, JavaScript, C++, Python, PHP, Ruby
 
-This programming book is available in several programming languages (or is in the process of being adapted for them):
+This book on programming for beginners is available in several programming languages (or is in the process of being adapted for them):
 * [Programming Basics with C# (Bulgarian)](https://csharp-book.softuni.bg)
 * [Programming Basics with C# (English)](https://csharp-book.softuni.bg)
 * [Programming Basics with Java (Bulgarian)](https://java-book.softuni.bg)
