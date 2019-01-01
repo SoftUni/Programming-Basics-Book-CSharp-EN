@@ -26,7 +26,7 @@
     * [Computer Programs – Examples](Content/Chapter-1-first-steps-in-programming/what-it-is-to-program/examples-computer-programs/exercises-computer-programs.md)
       * [Example: A Program That Plays the Musical Note "A"](Content/Chapter-1-first-steps-in-programming/what-it-is-to-program/examples-computer-programs/program-that-plays-note-la.md)
       * [Example: A Program That Plays a Sequence of Musical Notes](Content/Chapter-1-first-steps-in-programming/what-it-is-to-program/examples-computer-programs/program-that-plays-sequence-of-notes.md)
-      * [Example: A Program That Converts BGN to EUR](Content/Chapter-1-first-steps-in-programming/what-it-is-to-program/examples-computer-programs/program-that-converts-leva-to-eur.md)
+      * [Example: A Program That Converts Leva to Euro](Content/Chapter-1-first-steps-in-programming/what-it-is-to-program/examples-computer-programs/program-that-converts-leva-to-eur.md)
   * [How to Write a Console Application?](Content/Chapter-1-first-steps-in-programming/how-to-write-console-app/how-to-write-console-app.md)
     * [Development Environment (IDE)](Content/Chapter-1-first-steps-in-programming/how-to-write-console-app/ides/ides.md)    
     * [How to Install Visual Studio Community](Content/Chapter-1-first-steps-in-programming/how-to-write-console-app/visual-studio-installation/visual-studio-installation.md)    
