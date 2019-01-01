@@ -1,6 +1,6 @@
-## Example: creating a console application "Hello C#"
+## Example: Creating a Console Application "Hello C#"
 
-Let's get back to our console program. We already have Visual Studio and we can start it. Afterwards we create a new console project: [**File**] &rarr; [**New**] &rarr; [**Project**] &rarr; [**Visual C#**] &rarr; [**Windows**] &rarr; [**Console Application**].
+Let's get back to our console program. We already have Visual Studio and we can start it. Then, we create a new console project: [**File**] &rarr; [**New**] &rarr; [**Project**] &rarr; [**Visual C#**] &rarr; [**Windows**] &rarr; [**Console Application**].
 
 ![](/assets/chapter-1-images/01.Hello-csharp-01.png)
 
