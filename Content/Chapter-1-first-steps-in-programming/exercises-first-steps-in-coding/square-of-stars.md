@@ -1,6 +1,6 @@
-### \* Problem: a square of stars
+### \* Problem: A Square Made Out of Stars
 
-Write a C# console program, which **reads** from the console **a whole positive number N** and **prints** on the console **a square of N stars**, like in the examples below.
+Write a C# console program that **reads** from the console **an integer N** and **prints** on the console **a square made out of N stars**, like in the examples below.
 
 #### Sample Input and Output
 
@@ -8,15 +8,15 @@ Write a C# console program, which **reads** from the console **a whole positive 
 |-----|-----------|-----|-----------|-----|----------|
 |  3  	|<code>\*\*\*</code><br><code>\*&nbsp;\*</code><br><code>\*\*\*</code>|  4  |<code>\*\*\*\*</code><br><code>\*&nbsp;&nbsp;\*</code><br><code>\*&nbsp;&nbsp;\*</code><br><code>\*\*\*\*</code>| 5  	|<code>\*\*\*\*\*</code><br><code>\*&nbsp;&nbsp;&nbsp;\*</code><br><code>\*&nbsp;&nbsp;&nbsp;\*</code><br><code>\*&nbsp;&nbsp;&nbsp;\*</code><br><code>\*\*\*\*\*</code>|
 
-#### Hints and Guidelines
+#### Tips and Tricks
 
-We create a new **console C# program**. To read the number N (2 ≤ N ≤100), we use the following code:
+Create a new **console C# program**. To read the number N (2 ≤ N ≤100), use the following code:
 
 ![](/assets/chapter-1-images/06.Square-of-stars-01.png)
 
-Finish the program above, so that it prints a square, made of stars. It might be necessary to use **`for`** loops. Look for an information in the Internet.
+Finish the program above, so that it prints a square, made out of stars. It might be necessary to use **`for`** loops. Look for information on the Internet.
 
-**Attention**: this task is harder than the rest and is given now on puprose and it's marked with a star, in order to provoke you to look for information in the Internet. This is one of the most important skills, which you have to develop while you're learning programing: **looking for information in the Internet**. This is what you're going to do every day, if you work as developers, so don't be scared, try it out. If you have any difficulties you can also ask for help in the SoftUni forum: https://softuni.bg/forum.
+**Attention**: this task is harder than the rest and is given now on purpose, and it's marked with a star, in order to provoke you to look for information on the Internet. This is one of the most important skills that you have to develop while you're learning programming: **looking for information on the Internet**. This is what you're going to do every day, if you work as a developer, so don't be scared, try it out. If you have any difficulties you can also ask for help in the SoftUni forum: https://softuni.bg/forum.
 
 #### Testing in the Judge System
 
