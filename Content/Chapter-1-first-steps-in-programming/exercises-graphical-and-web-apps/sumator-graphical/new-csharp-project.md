@@ -1,4 +1,4 @@
-#### Creating a new C# project
+#### Creating a New C# Project
 
 In Visual Studio we create **a new C# project of type „Windows Forms Application“**:
 
