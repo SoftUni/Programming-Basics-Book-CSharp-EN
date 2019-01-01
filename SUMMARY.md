@@ -36,7 +36,7 @@
       * [Writing the Program Code](Content/Chapter-1-first-steps-in-programming/how-to-write-console-app/example-hello-csharp/write-the-code.md)    
       * [Starting the Program](Content/Chapter-1-first-steps-in-programming/how-to-write-console-app/example-hello-csharp/start-the-program.md)
       * [Testing the Program in the Judge System](Content/Chapter-1-first-steps-in-programming/how-to-write-console-app/example-hello-csharp/test-in-judge.md)      
-   * [Test the Programs That Play Notes](Content/Chapter-1-first-steps-in-programming/test-programs-that-plays-notes-in-judge/test-programs-that-plays-notes-in-judge.md)
+   * [Testing the Programs That Play Notes](Content/Chapter-1-first-steps-in-programming/test-programs-that-plays-notes-in-judge/test-programs-that-plays-notes-in-judge.md)
    * [Typical Mistakes in C# Programs](Content/Chapter-1-first-steps-in-programming/typical-mistakes-in-csharp/typical-mistakes-in-csharp.md)
  * [What We Learned in This Chapter?](Content/Chapter-1-first-steps-in-programming/what-we-learned/what-we-learned.md)
  * [Exercises: First Steps in Coding](Content/Chapter-1-first-steps-in-programming/exercises-first-steps-in-coding/exercises-first-steps-in-coding.md)
