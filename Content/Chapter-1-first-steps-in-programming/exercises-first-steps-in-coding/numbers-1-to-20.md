@@ -1,14 +1,14 @@
-### Problem: numbers from 1 to 20
+### Problem: Numbers from 1 to 20
 
-Write a C# console program, which **prints the numbers from 1 to 20** on separate rows on the console.
+Write a C# console program that **prints the numbers from 1 to 20** on separate rows on the console.
 
-#### Hints and Guidelines
+#### Tips and Tricks
 
-We create **a C# console application** with name “**Nums1To20**“:
+Create **a C# console application** with name “**Nums1To20**“:
 
 ![](/assets/chapter-1-images/03.Numbers-1-to-20-01.png)
 
-Inside the **`static void Main()`** method we write 20 commands **``Console.WriteLine(…)``**, each on a separate row, in order to print the numbers from 1 to 20 one after another. Some of you must be aksing themselves if there is a smarter way. Relax, there is, but we will mention it later on.
+Inside the **`static void Main()`** method write 20 commands **``Console.WriteLine(…)``**, each on a separate row, in order to print the numbers from 1 to 20 one after another. Some of you may be wondering if there is a smarter way. Relax, there is, but we will mention it later on.
 
 ![](/assets/chapter-1-images/03.Numbers-1-to-20-02.png)
 
