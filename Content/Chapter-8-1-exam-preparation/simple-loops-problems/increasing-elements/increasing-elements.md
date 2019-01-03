@@ -14,4 +14,4 @@ On the console must be printed one number - **the length** of the longest increa
 
 | Input | Output | Input | Output | Input | Output | Input | Output |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-|3<br>5<br>2<br>4|2|4<br>2<br>8<br>7<br>6|2|4<br>1<br>2<br>4<br>4|3|4<br>5<br>6<br>7<br>8|2|
+|3<br>5<br>2<br>4|2|4<br>2<br>8<br>7<br>6|2|4<br>1<br>2<br>4<br>4|3|4<br>5<br>6<br>7<br>8|4|
