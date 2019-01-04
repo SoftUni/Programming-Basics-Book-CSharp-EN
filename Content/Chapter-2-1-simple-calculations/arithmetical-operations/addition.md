@@ -1,6 +1,6 @@
-### Addition of Numbers (operator **`+`**)
+### Summing up Numbers (Operator +)
 
-We can add a number with the operator **`+`**:
+We can sum up numbers using the **`+`** operator:
 
 ```csharp
 var a = 5;
