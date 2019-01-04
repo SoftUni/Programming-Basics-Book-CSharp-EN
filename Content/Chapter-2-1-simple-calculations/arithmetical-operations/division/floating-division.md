@@ -1,10 +1,12 @@
-Let us look at a few examples for **floating division**. When we divide floating-point numbers, the result is always a **real number** and the division never fails and works correct with the special values **+&#8734;** and **-&#8734;**:
+#### Dividing Floating Numbers
+
+Let's look at a few examples for **floating division**. When we divide floating point numbers, the result is always a **float number** and the division never fails, and works correctly with the special values **+&#8734;** and **-&#8734;**:
 
 ```csharp
 var a = 15;
 Console.WriteLine(a / 2.0);   // Float result: 7.5
 Console.WriteLine(a / 0.0);   // Result: Infinity
-Console.WriteLine(-a / 0.0);   // Result: -Infinity
+Console.WriteLine(-a / 0.0);  // Result: -Infinity
 Console.WriteLine(0.0 / 0.0); // Result: NaN (Not a Number), e.g. the result
                               // from the operation is not a valid numeric value
 ```
