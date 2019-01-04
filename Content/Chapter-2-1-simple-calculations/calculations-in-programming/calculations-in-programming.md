@@ -4,4 +4,4 @@ We know that computers are machines that process data. All **data** is stored in
 
 ![](/assets/chapter-2-images/00.Declaring-variables-01.png)
 
-After being processed, data is again stored  in variables (in somе place in the memory saved for our program).
+After being processed, data is again stored in variables (in somе place in the memory saved for our program).
