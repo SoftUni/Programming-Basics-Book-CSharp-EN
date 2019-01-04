@@ -1,3 +1,3 @@
 ## Arithmetic Operations
 
-Let us look at the basic arithmetic operations in programming.
+Let's examine the basic arithmetic operations in programming.
