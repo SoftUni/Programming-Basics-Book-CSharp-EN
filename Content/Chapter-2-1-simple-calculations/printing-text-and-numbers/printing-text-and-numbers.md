@@ -1,6 +1,6 @@
 ## Printing Text and Numbers
 
-When printing a text, numbers and other data on the console,  **we can join them** by using templates **`{0}`**, **`{1}`**, **`{2}`** etc. In programming, these templates are called **placeholders**.
+When printing a text, numbers and other data in the console, **we can join them** by using templates **`{0}`**, **`{1}`**, **`{2}`** etc. In programming, these templates are called **placeholders**.
 
 ```csharp
 var firstName = Console.ReadLine();
@@ -15,7 +15,7 @@ Here is the result we are going to receive after the execution of this example:
 
 ![](/assets/chapter-2-images/00.Placeholders-01.jpg)
 
-Notice how every variable should be given in the **order, in which we want it to be printed**. Practically, the template (**placeholder**) **accepts variables from every type**.
+Notice how every variable should be passed in the **order, in which we want it to be printed**. Practically, the template (**placeholder**) **accepts variables of each type**.
 
 It is possible for a template to be used multiple times and it is not necessary for the templates to be numbered sequentially. Here is an example:
 
