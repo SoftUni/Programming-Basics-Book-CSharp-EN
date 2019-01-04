@@ -1,6 +1,6 @@
-### Multiplication of Numbers (operator **`*`**)
+### Multiplying Numbers (Operator *)
 
-For multiplication of numbers we use the operator **`*`**:
+For multiplication of numbers we use the **`*`** operator:
 
 ```csharp
 var a = 5;
