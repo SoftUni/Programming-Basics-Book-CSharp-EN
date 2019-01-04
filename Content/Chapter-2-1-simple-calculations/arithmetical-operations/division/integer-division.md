@@ -1,4 +1,6 @@
-Let us look at a few examples for **integer division** (remember that when we **divide integers** in C# the result is a **whole number**):
+#### Dividing Integers
+
+Let's examine a few examples for **integer division** (remember that when we **divide integers** in C# the result is an **integer**):
 
 ```csharp
 var a = 25;
