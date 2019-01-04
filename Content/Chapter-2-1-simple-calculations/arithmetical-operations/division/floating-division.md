@@ -11,7 +11,7 @@ Console.WriteLine(0.0 / 0.0); // Result: NaN (Not a Number), e.g. the result
                               // from the operation is not a valid numeric value
 ```
 
-When printing the values  **&#8734;** and **-&#8734;**, the console output may be `?`, because the console in Windows does not work correctly with Unicode and breaks most of the non-standart symbols, letters and special signs. The example above would most probably give the following result:
+When printing the values  **&#8734;** and **-&#8734;**, the console output may be `?`, because the console in Windows does not work correctly with Unicode and breaks most of the non-standard symbols, letters and special signs. The example above would most probably give the following result:
 ```
 7.5
 ?
