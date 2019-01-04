@@ -1,6 +1,6 @@
-### Example: converting inches to centimeters
+### Example: Converting Inches into Centimeters
 
-Let us write a program, which reads a floating-point number in inches and converts it to centimeters:
+Let's write a program that reads a floating point number in inches and converts it to centimeters:
 
 ```csharp
 Console.Write("Inches = ");              
@@ -10,7 +10,7 @@ Console.Write("Centimeters = ");
 Console.WriteLine(centimeters);
 ```
 
-Let us start the program and make sure that when a value in inches is entered, we receive a correct answer in centimeters:
+Let's start the program and make sure that when a value in inches is entered, we receive a correct output in centimeters:
 
 ![](assets/chapter-2-images/00.Inches-to-centimeters-01.jpg)
 
