@@ -1,6 +1,6 @@
-### Example: calculating a trapezoid area
+### Example: Calculating Trapezoid Area
 
-Let us write a program that takes the lengths of the two bases of a trapezoid and its height (one floating-point number per row) and calculates the **area of the trapezoid** by the standart math formula: 
+Let's write a program that inputs the lengths of the two bases of a trapezoid and its height (one floating point number per row) and calculates the **area of the trapezoid** by the standard math formula: 
 
 ```csharp
 var b1 = double.Parse(Console.ReadLine());
@@ -10,7 +10,7 @@ var area = (b1 + b2) * h / 2.0;
 Console.WriteLine("Trapezoid area = " + area);
 ```
 
-If we start the program and enter values for the sides 3, 4 and 5, we will receive the following result:
+If we start the program and enter values for the sides: 3, 4 and 5, we will receive the following result:
 ```
 3
 4
