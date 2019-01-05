@@ -12,7 +12,7 @@ We choose from the dialogue window [**Templates**] -> [**Other Project Types**] 
 
 ![](/assets/chapter-2-images/00.Blank-solution-02.png)
 
-Now we have created and **emply Visual Studio Solution** (with 0 projects in it):
+Now we have created an **empty Visual Studio Solution** (with 0 projects in it):
 
 ![](/assets/chapter-2-images/00.Blank-solution-03.png)
 
