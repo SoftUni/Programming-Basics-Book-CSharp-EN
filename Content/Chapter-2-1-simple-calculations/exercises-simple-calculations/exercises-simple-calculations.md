@@ -1,3 +1,3 @@
-## Exercises: simple calculations
+## Exercises: Simple Calculations
 
-Let us confirm the knowledge gained througout this chapter with a few more exercises.
+Let's strengthen the knowledge gained throughout this chapter with a few more exercises.
