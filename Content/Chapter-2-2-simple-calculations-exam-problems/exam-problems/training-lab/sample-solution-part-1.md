@@ -1,4 +1,4 @@
-#### Solution - part I
+#### Solution - Part I
 
 It is time to go to the solution. We can divide it into three smaller tasks: 
 * **Reading input from the console**.
@@ -9,7 +9,7 @@ The first thing we have to do is read the input from the console. With **`Consol
 
 ![](/assets/chapter-2-2-images/01.Training-lab-03.png)
 
-Let' s go to the calculations. The special part here is that after having divided the numbers, we have to store only the whole part of the reslt in a variable. 
+Let's move to the calculations. The special part here is that after having divided the numbers, we have to store only the whole part of the result in a variable. 
 
 <table><tr><td><img src="/assets/alert-icon.png" style="max-width:50px" /></td>
 <td><b>Search in Google!</b> Whenever we have an idea how to solve a particular problem but we do not know how to write it in C# or we are dealing with one that many other people have had before us, the easiest way to solve it is by looking for information on the Internet.</td>
