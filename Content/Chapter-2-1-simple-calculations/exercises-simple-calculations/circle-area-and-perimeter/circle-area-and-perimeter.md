@@ -1,6 +1,6 @@
-### Problem:	circle area and perimeter
+### Problem: Circle Area and Perimeter
 
-Write a program that reads from the console a **number r** and calculates and prints **the circle's area and perimeter** with **radius r**.
+Write a program that reads from the console a **number r** and calculates and prints **the area and perimeter of a circle** with **radius r**.
 
 #### Input and output 
 
@@ -9,7 +9,7 @@ Write a program that reads from the console a **number r** and calculates and pr
 | 3     | Area = 28.2743338823081 <br> Perimeter = 18.8495559215388|
 | 4.5   | Area = 63.6172512351933 <br> Perimeter = 28.2743338823081|
 
-#### Hints and Guideliness 
+#### Tips and Tricks 
 
 For the calculations you may use the following formulas: 
 -	**`Area = Math.PI * r * r`**.
