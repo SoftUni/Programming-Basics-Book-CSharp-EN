@@ -1,4 +1,4 @@
-### Example: excellent grade or not
+### Example: Excellent Grade or Not
 
 Like the example above, we read the grade from the console and check if it's excellent, but this time we should **output the result in both cases**.
 
