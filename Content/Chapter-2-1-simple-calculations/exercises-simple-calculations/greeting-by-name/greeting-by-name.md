@@ -1,14 +1,14 @@
-### Problem: greeting by name
+### Problem: Greeting by Name
 
-Write a program that  **reads a person's  name** and prints **`Hello, <name>!`**, where **`<name>`** is the name entered earlier.
+Write a program that **reads a person's name** and prints **`Hello, <name>!`**, where **`<name>`** is the name entered earlier.
 
-#### Hints and Guideliness
+#### Tips and Tricks
 
 First, we create a **new C# console project** with name “Greeting” in the solution “Simple-Calculations”:
 
 ![](/assets/chapter-2-images/03.Greeting-by-name-01.png)
 
-**Next we have to write the code** of the program. If you feel any difficulties, you can use the code from the example below:
+**Next we have to write the code** of the program. If you have any difficulties, you can use the code from the example below:
 
 ![](/assets/chapter-2-images/03.Greeting-by-name-02.png)
 
