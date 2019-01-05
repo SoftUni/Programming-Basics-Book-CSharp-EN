@@ -1,6 +1,6 @@
-### Problem:	** calcutations with dates - 1000 days on Earth
+### Problem: ** Dates Calculations - 1000 Days on Earth
 
-Write a program that enters Напишете програма, която въвежда **a birthdate** in format **`dd-MM-yyyy`** and calculates the date on which are turned и пресмята датата, на която се навършват **1000 days** from this birthdate and prints it in the same format.
+Write a program that enters **a birth date** in format **`dd-MM-yyyy`** and calculates the date on which **1000 days** are turned since this birth date, and prints it in the same format.
 
 #### Sample Input and Output
 
@@ -12,9 +12,9 @@ Write a program that enters Напишете програма, която във
 |01-01-2012|26-09-2014|
 |14-06-1980|10-03-1983|
 
-#### Hints and Guidelines 
+#### Tips and Tricks
 * Look for information about the data type **``DateTime``** in C# and in particular look at the methods **``ParseExact(str, format)``**, **``AddDays(count)``** and **``ToString(format)``**. With their help you can solve the problem without the need to calculate days, months and leap years.
-* **Don't print** anything additional on the console except for the wanted data!
+* **Don't print** anything additional on the console except for the wanted date!
 
 #### Testing in the Judge System
 
