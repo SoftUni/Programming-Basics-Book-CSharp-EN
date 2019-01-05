@@ -1,4 +1,4 @@
-## Comparing numbers
+## Comparing Numbers
 
 In programming, we can compare values using the following **operators**:
 
@@ -7,11 +7,11 @@ In programming, we can compare values using the following **operators**:
 * Operator **`<=`** (less than or equals)
 * Operator **`>=`** (greater than or equals)
 * Operator **`==`** (equals)
-* Operator **`!=`** (inequals)
+* Operator **`!=`** (different from)
 
-When compared the result is boolean value **true** or **false**, depending on whether the result of the comparison is true or false.
+When compared, the result is a boolean value **true** or **false**, depending on whether the result of the comparison is true or false.
 
-### Examples of comparing numbers
+### Examples for comparing numbers
 
 ![](/assets/chapter-3-images/00.Comparing-numbers-01.png)
 
