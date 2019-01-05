@@ -1,6 +1,6 @@
 ## Concatenation
 
-By using the operator **`+`** between string variables (or between a string and a number), concatenation is being made (combining strings).
+By using the operator **`+`** between string variables (or between a string and a number), concatenation is being made (combining strings). 
 
 ```csharp
 var firstName = "Ivan";
