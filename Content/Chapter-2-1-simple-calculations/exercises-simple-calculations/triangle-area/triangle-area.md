@@ -1,6 +1,6 @@
-### Problem:	triangle area
+### Problem: Triangle Area
 
-Write a program that reads from the console **a side and a height of a triangle** and calculates its area. Use the **formula** for triangle area: **area = a * h / 2**. Round the result to **2 digits after the decimal separator using `Math.Round(area, 2)`**.
+Write a program that reads from the console **a side and height of a triangle** and calculates its area. Use the **formula** for triangle area: **area = a * h / 2**. Round the result to **2 digits after the decimal point using `Math.Round(area, 2)`**.
 
 #### Sample Input and Output
 
