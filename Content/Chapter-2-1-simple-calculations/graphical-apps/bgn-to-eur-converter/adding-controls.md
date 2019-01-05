@@ -1,4 +1,4 @@
-#### Adding controls
+#### Adding Controls
 
 We arrange the following UI controls in the format: 
 
@@ -10,7 +10,7 @@ The graphical editor for user interface might look similar to this:
 
 ![](/assets/chapter-2-images/13.Currency-converter-03.png)
 
-We set the following settings of the format and the separate controls:
+We do the following settings of the format and the separate controls:
 
 |                                             Setting                                                 | Picture|
 |:-----------------------------------------------------------------------------------------------------:|:-----:|
