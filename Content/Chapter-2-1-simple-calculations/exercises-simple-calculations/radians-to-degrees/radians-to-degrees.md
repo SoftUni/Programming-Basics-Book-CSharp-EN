@@ -1,6 +1,6 @@
-### Problem:	console converter - from radians to degrees
+### Problem: Console Converter - from Radians to Degrees
 
-Write a program, that reads **an angle in [radians](https://bg.wikipedia.org/wiki/Радиан)** (**`rad`**) and converts it to **[degrees](https://bg.wikipedia.org/wiki/Градус_(ъгъл))** (`deg`). Look for a proper formula on the Internet. The number **π** in C# programs is available through **``Math.PI``**. Round the result to the nearest whole number using the **``Math.Round(…)``** method.
+Write a program, that reads **an angle in [radians](https://bg.wikipedia.org/wiki/Радиан)** (**`rad`**) and converts it to **[degrees](https://bg.wikipedia.org/wiki/Градус_(ъгъл))** (`deg`). Look for a proper formula on the Internet. The number **π** in C# programs is available through **``Math.PI``**. Round the result to the nearest integer using the **``Math.Round(…)``** method.
 
 #### Sample Input and Output
 
