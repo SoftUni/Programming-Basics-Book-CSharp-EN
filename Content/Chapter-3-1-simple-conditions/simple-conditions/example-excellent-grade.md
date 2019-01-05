@@ -1,4 +1,4 @@
-### Example: excellent grade
+### Example: Excellent Grade
 
 We read the grade from the console and check if it's excellent (**`≥ 5.50`**).
 
