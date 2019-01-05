@@ -1,4 +1,4 @@
-#### Writing the program code and testing the application
+#### Writing the Program Code and Testing the Application
 
 
 We will use the following **C# code** for handling events:
@@ -20,9 +20,9 @@ private void numericUpDownAmount_KeyUp(object sender, KeyEventArgs e)
 }
 ```
 
-All of the caught events call out the method **`ConvertCurrency()`**, which converts the given sum from levs to euro and shows the result int the green box.
+All of the caught events call the method **`ConvertCurrency()`**, which converts the given sum from leva to Euro and shows the result in the green box.
 
-We have to wrtite the **code** (program logic) for converting from levs to euro: 
+We have to write the **code** (program logic) for converting from leva to Euro: 
 
 ```csharp
 private void ConvertCurrency()
@@ -35,6 +35,6 @@ private void ConvertCurrency()
 }
 ```
 
-In the end **we start the project** with [**Ctrl+F5**] and test if it works correctly.
+Finally, **we start the project** with [**Ctrl+F5**] and test if it works correctly.
 
-If you have any problems with the example above, **watch the video** in the begging of this chapter. There, the application is being built live, step by step, with a lot of explanations. Or ask a question in the **forum of SoftUni**: https://softuni.bg/forum.
+If you have any problems with the example above, **watch the video** in the beginning of this chapter. There, the application is being built live, step by step, with a lot of explanations. Or ask a question in the **SoftUni forum**: https://softuni.bg/forum.
