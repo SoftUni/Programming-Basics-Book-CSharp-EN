@@ -1,3 +1,3 @@
 #### Choosing Data Types
 
-From the example, we see that a real number with whole and fractional part can be received as an input, therefore, it is not appropriate to choose data type **`int`**. This is why we use **`double`**. Choosing data type for the next variables depends on the method we choose to solve the problem. As with any programming task, this one has **more than one way to be solved**. Two methods will be shown here. 
+From the example, we see that a real number with whole and fractional part can be received as an input, therefore, it is not appropriate to choose data type **`int`**. This is why we use **`double`**. Choosing data type for the next variables depends on the method we choose to solve the problem. As with any programming task, this one has **more than one way to be solved**. Two methods will be shown here.
