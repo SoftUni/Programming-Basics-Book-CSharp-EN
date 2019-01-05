@@ -1,6 +1,6 @@
-## Simple conditions
+## Simple Conditions
 
-In programming we often **check the conditions** and perform different actions, depending on the result of the check. This is done by **if** verification, which has the following construction:
+In programming we often **check particular conditions** and perform various actions depending on the result of the check. This is done by **if** condition, which has the following structure:
 
 ```csharp
 if (condition)
