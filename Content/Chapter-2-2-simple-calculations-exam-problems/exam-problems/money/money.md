@@ -1,23 +1,23 @@
 ## Problem: Money
 
-Some time ago, **Pesho bought himself bitcoins**. Now, he is going on a tour in Europe and **he needs euro**. Apart from bitcoins, he has **Chinese yuan** as well. Pesho wants to **exchange his money in euro** for the tour. Write a program that calculates **how much euro he can buy, depending on the following exchange rates**:  
-* **1 bitcoin = 1168 levs.**
+Some time ago, **Pesho bought bitcoins**. Now, he is going on vacation in Europe and **he needs Euro**. Apart from bitcoins, he has **Chinese yuans** as well. Pesho wants to **exchange his money for Euro** for the tour. Write a program that calculates **how much Euro he can buy, depending on the following exchange rates**:  
+* **1 bitcoin = 1168 leva.**
 * **1 Chinese yuan = 0.15 dollars.**
-* **1 dollar = 1.76 levs.**
-* **1 euro = 1.95 levs.**
+* **1 dollar = 1.76 leva.**
+* **1 Euro = 1.95 leva.**
 
-The exchange office has **commission from 0 to 5 percent from the final sum in euro**. 
+The exchange office has **commission fee within 0 to 5 percent from the final sum in Euro**. 
 
 ### Input Data
 
 Three numbers are read from the console: 
-* On the first line – **number of bitcoins**. Integer in the range of [**0 … 20**].
-* On the second line – **number of Chinese yuan**. Floating-point number of [**0.00 … 50 000.00**].
-* On the third line – **commission**. Floating-point number of [**0.00 … 5.00**].
+* On the first line – **number of bitcoins**. Integer within the range of [**0 … 20**].
+* On the second line – **number of Chinese yuans**. Floating-point number within the range of [**0.00 … 50 000.00**].
+* On the third line – **commission fee**. Floating-point number within the range of [**0.00 … 5.00**].
 * 
 ### Output Data
 
-Print one number on the console - **the result of the exchange of the currencies**. Rounding is not necessary. 
+Print one number on the console - **the result of the exchange of currencies**. Rounding is not necessary. 
 
 ### Sample Input and Output
 
@@ -26,12 +26,12 @@ Print one number on the console - **the result of the exchange of the currencies
 |1<br>5<br>5|569.668717948718| 
 
 **Explanation**: 
-* 1 bitcoin = 1168 levs
+* 1 bitcoin = 1168 leva
 * 5 Chinese yuan = 0.75 dollars 
-* 0.75 dollars = 1.32 levs 
-* **1168 + 1.32 = 1169.32 levs = 599.651282051282 euro**
-* **Commission:** 5% от 599.651282051282 = **29.9825641025641** 
-* **Result**: 599.651282051282 - 29.9825641025641 = **569.668717948718 euro**
+* 0.75 dollars = 1.32 leva
+* **1168 + 1.32 = 1169.32 leva = 599.651282051282 Euro**
+* **Commission fee:** 5% от 599.651282051282 = **29.9825641025641** 
+* **Result**: 599.651282051282 - 29.9825641025641 = **569.668717948718 Euro**
 
 | Input        | Output            | Input         | Output            |
 |------------|------------------|--------------|------------------|
