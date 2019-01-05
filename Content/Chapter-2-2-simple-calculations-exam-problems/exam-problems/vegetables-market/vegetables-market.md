@@ -1,6 +1,6 @@
-## Problem: Vegetable Market
+## Problem: Vegetables Market
 
-A gardener is selling his harvest on the vegetable market. He is selling **vegetables for N levs per kilogram** and **fruits for M levs per kilogram**. Write a program that **calculates the earnings of the harvest in euro** (if **one euro** equals **1.94 lv.**)
+A gardener is selling his harvest on the vegetables market. He is selling **vegetables for N leva per kilogram** and **fruits for M leva per kilogram**. Write a program that **calculates the earnings of the harvest in Euro** (if **one Euro** equals **1.94 lv.**)
 
 ### Input Data
 
@@ -10,11 +10,11 @@ A gardener is selling his harvest on the vegetable market. He is selling **veget
 * Third line - Total kilograms of vegetables - an integer.
 * Fourth line - Total kilograms of fruits - an integer. 
 
-**Constraints: All numbers will be in the interval between 0.00 and 1000.00**
+**Constraints: All numbers will be within the range from 0.00 to 1000.00**
 
 ### Output Data
 
-Print on the console **one floating-point number: the earnings of all fruits and vegetables in euro**.
+Print on the console **one floating-point number: the earnings of all fruits and vegetables in Euro**.
 
 ### Sample Input and Output
 
