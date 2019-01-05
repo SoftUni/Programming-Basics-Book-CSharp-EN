@@ -1,6 +1,6 @@
-## Concatenating a Text and a Number
+## Concatenating Text and Number
 
-Except for addition of numbers, the operator **`+`** is used for joining a text (concatenation of two strings one after another). In programming, joining a text with a text is called "**concatenation**". Here is how we can concatenate a text with a number by the **`+`** operator:
+Besides for summing up numbers, the operator **`+`** is also used for joining pieces of text (concatenation of two strings one after another). In programming, joining two pieces of text is called "**concatenation**". Here is how we can concatenate a text with a number by the **`+`** operator:
 
 ```csharp
 var firstName = "Maria";
@@ -19,7 +19,7 @@ var sum = "The sum is: " + a + b;
 Console.WriteLine(sum);  // The sum is: 1.52.5
 ```
 
-Did you notice something strange? May be you expecteded the numbers **`a`** and  **`b`** to be summed? Actually the concatenation works from rigth to left and the result above is absolutely correct. If we want to sum the numbers, we have to use **brackets**, in order to change the order of execution of the operations:
+Did you notice something strange? Maybe you expected the numbers **`a`** and  **`b`** to be summed? Actually the concatenation works from right to left and the result above is absolutely correct. If we want to sum the numbers, we have to use **brackets**, in order to change the order of execution of the operations:
 
 ```csharp
 var a = 1.5;
