@@ -1,4 +1,4 @@
-## Arithmetical operators
+## Arithmetical Operators
 
 Let' s revise the main arithmetical operators for simple calculations.
 
