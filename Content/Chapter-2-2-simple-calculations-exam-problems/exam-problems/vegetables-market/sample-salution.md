@@ -17,6 +17,6 @@ The task does not specify special output format, therefore, we just have to calc
 
 ![](/assets/chapter-2-2-images/02.Vegetable-market-03.png)
 
-### Test in the Judge system
+### Testing in the Judge system
 
 Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/505#1](https://judge.softuni.bg/Contests/Practice/Index/505#1).
