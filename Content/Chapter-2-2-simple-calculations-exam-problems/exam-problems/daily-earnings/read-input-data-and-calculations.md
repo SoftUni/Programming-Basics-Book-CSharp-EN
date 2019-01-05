@@ -13,4 +13,4 @@ We do the calculations:
 
 ![](assets/chapter-2-2-images/05.Daily-earnings-02.png)
 
-We could write an expression that calculates the annual income without brackets as well. As multiplication is an operation that has a higher priority over addition, it will be performed first. Despite that, **writing brackets is recommended** when using more operators, as this way, the code is **easily readable** and chances of making a mistake are smaller. 
+We could write an expression that calculates the annual income without brackets as well. As multiplication is an operation that has a higher priority over addition, it will be performed first. Despite that, **writing brackets is recommended** when using more operators, as this way the code is **easily readable** and chances of making a mistake are smaller.
