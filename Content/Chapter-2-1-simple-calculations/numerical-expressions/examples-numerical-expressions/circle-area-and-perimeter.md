@@ -1,6 +1,6 @@
-### Example: perimeter and area of a circle
+### Example: Circle Area and Perimeter
 
-Let us write a program that calculates  **a circle area and a perimeter** by reading its **radius r** .
+Let's write a program that calculates **a circle area and perimeter** by reading its **radius r** .
 
 Formulas:
 - Area = π \* r \* r
@@ -14,7 +14,7 @@ Console.WriteLine("Area = " + Math.PI * r * r);
   // Math.PI - built in constant for π in C#
 Console.WriteLine("Perimeter = " + 2 * Math.PI * r);
 ```
-Let us test the program with **radius `r = 10`**:
+Let's test the program with **radius `r = 10`**:
 
 ![](/assets/chapter-2-images/00.Circle-area-01.jpg)
 
