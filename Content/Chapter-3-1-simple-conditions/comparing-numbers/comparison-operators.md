@@ -1,4 +1,4 @@
-### Comparison operators
+### Comparison Operators
 
 In C #, we can use the following comparison operators:
 
@@ -10,7 +10,7 @@ In C #, we can use the following comparison operators:
 <td>Equals</td><td align="center"> == </td><td rowspan="2"> numbers, strings, dates</td>
 </tr>
 <tr>
-<td>Not equals</td><td align="center"> != </td>
+<td>Not equal</td><td align="center"> != </td>
 </tr>
 <tr>
 <td>Greater than</td><td align="center"> > </td><td rowspan="4">numbers, dates, other comparable objects</td>
