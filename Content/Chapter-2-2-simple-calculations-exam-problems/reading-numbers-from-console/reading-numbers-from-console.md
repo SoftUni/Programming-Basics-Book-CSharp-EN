@@ -1,6 +1,6 @@
 ## Reading Numbers from the Console
 
-Before going to the tasks, we are going to revise the most important aspects of what we have studied in the previous chapter. We will start with reading numbers from the console.
+Before going to the tasks, we are going to revise the most important aspects of what we have studied in the previous chapter. We will start by reading numbers from the console.
 
 ### Reading an integer
 
