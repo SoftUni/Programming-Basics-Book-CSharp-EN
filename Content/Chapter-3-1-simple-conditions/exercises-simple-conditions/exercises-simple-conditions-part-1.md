@@ -1,3 +1,3 @@
 ## Exercises: Simple Conditions
 
-To verified our knowledge of conditional constructions **`if`** and **`if-else`**, we will solve a few practical exercises.
+To verify our knowledge of conditional statements **`if`** and **`if-else`**, we will solve a few practical exercises.
