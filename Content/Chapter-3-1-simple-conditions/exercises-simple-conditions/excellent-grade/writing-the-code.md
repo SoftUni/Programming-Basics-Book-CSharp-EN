@@ -1,4 +1,4 @@
-#### Writing the code
+#### Writing the Program Code
 
 For this purpose we go into the body of the **`Main (string [] args)`** method and write the following code:
 
