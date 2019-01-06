@@ -1,4 +1,4 @@
-### Problem: Greater number
+### Problem: Finding the Greater Number
 
 Write a program that inputs **two integers** and prints the larger one.
 
