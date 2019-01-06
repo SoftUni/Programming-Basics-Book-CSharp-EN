@@ -1,4 +1,4 @@
-### Problem: even or odd
+### Problem: Even or Odd
 
 Write a program that checks whether an **integer** is **even** or **odd**.
 
