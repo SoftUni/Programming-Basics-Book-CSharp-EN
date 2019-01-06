@@ -1,4 +1,4 @@
-#### Create a new C # project and add controls
+#### Creating a New C# Project and Adding Controls
 
 This time we create a new **Windows Forms Application** with name “Currency-Converter”:
 
