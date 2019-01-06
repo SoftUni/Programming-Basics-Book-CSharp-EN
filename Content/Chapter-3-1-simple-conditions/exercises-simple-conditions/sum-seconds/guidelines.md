@@ -1,4 +1,4 @@
-#### Tips and Tricks and Testing in the Judge System
+#### Tips and Tricks
 
 First we sum up the three numbers to get the total result in seconds. Since **1 minute = 60** seconds, we will have to calculate the number of minutes and seconds in the range 0 to 59:
 
