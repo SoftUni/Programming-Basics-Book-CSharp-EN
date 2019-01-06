@@ -1,8 +1,8 @@
-#### Configuring the controls
+#### Configuring the Controls
 
-We set the **configuring controls**:
+We apply the following **settings for the controls**:
 
-* **For the main form** (**`Form`**), that contains all the controls:
+* **For the main form** (**`Form`**) that contains all the controls:
   * **`(name)`** = **`FormConverter`**
   * **`Text`** = "**`Currency Converter`**"
   * **`Font.Size`** = **`12`**
@@ -20,7 +20,7 @@ We set the **configuring controls**:
   * **`DecimalPlaces`** = **`2`**
 <br>  
 
-* For the **drop-down list with currencies** (**`ComboBox`**):
+* For the **drop-down list of currencies** (**`ComboBox`**):
   * **`(name)`** = **`comboBoxCurrency`**
   * **`DropDownStyle`** = **`DropDownList`**
   * **`Items`** =
