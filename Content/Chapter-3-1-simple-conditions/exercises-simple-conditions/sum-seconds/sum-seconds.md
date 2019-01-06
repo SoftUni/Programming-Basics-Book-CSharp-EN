@@ -1,6 +1,6 @@
-### Problem: sum seconds
+### Problem: Summing Up Seconds
 
-Three athletes finish for a few **seconds** (between **1** and **50**). Write a program that introduces the times of the contestants and calculates their **total time** in "minutes:seconds". Seconds need to be **zeroed at the front** (2 -> "02", 7 -> "07", 35 -> "35").
+Three athletes finish in a particular number of **seconds** (between **1** and **50**). Write a program that introduces the times of the contestants and calculates their **total time** in "minutes:seconds" format. Seconds need to be **zeroed at the front** (2 -> "02", 7 -> "07", 35 -> "35").
 
 #### Sample Input and Output
 
