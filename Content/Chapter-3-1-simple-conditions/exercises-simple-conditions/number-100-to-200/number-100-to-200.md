@@ -1,4 +1,4 @@
-### Problem: number from 100 to 200
+### Problem: Numbers from 100 to 200
 
 Write a program that **inputs an integer** and checks if it is **below 100**, **between 100 and 200** or **over 200**. Print the appropriate message as in the examples below.
 
@@ -12,4 +12,4 @@ Write a program that **inputs an integer** and checks if it is **below 100**, **
 
 #### Testing in the Judge System
 
-Test your solution from the example here: [https://judge.softuni.bg/Contests/Practice/Index/506#9](https://judge.softuni.bg/Contests/Practice/Index/506#9).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/506#9](https://judge.softuni.bg/Contests/Practice/Index/506#9).
