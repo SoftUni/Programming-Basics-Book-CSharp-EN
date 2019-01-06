@@ -1,6 +1,6 @@
-### Problem: excellent grade
+### Problem: Excellent Grade
 
-The first exercise for this topic is to write a **console program** that **inputs the grade** (decimal number) and prints **Excellent!** if the grade is **5.50** or high.
+The first exercise for this topic is to write a **console program** that **inputs the grade** (decimal number) and prints **Excellent!** if the grade is **5.50** or higher.
 
 #### Sample Input and Output
 
