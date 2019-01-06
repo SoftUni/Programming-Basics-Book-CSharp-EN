@@ -1,4 +1,4 @@
-## Graphical (desktop) application: currency converter
+## Graphical (Desktop) Application: Currency Converter
 
 After we've done some exercises on **conditional statements (checks)**, now let's do something more interesting: an application with a graphical user interface for converting currencies. We will use the knowledge from this chapter to choose from several available currencies and make calculations at different rate to the selected currency.
 
