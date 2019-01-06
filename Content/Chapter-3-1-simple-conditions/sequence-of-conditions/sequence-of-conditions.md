@@ -1,6 +1,6 @@
-## Sequence of conditions
+## Sequence of Conditions
 
-Sometimes we need to do a sequnce of conditions before we decide what actions our program will execute. In such cases, we can apply the construct **`if-else if ... -else`** **in serie**. For this purpose we use the following format:
+Sometimes we need to do a sequence of conditions before we decide what actions our program will execute. In such cases, we can apply the construction **`if-else if ... -else`** **in series**. For this purpose we use the following format:
 
 ```csharp
 if (condition)
