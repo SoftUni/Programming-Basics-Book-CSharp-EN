@@ -1,4 +1,4 @@
-### Problem: equal numbers
+### Problem: Equal 3 Numbers
 
 Write a program that inputs **3 numbers** and prints whether they are the same (**yes** / **no**).
 
@@ -12,5 +12,5 @@ Write a program that inputs **3 numbers** and prints whether they are the same (
 
 #### Testing in the Judge System
 
-Test your solution from the example here: [https://judge.softuni.bg/Contests/Practice/Index/506#14](https://judge.softuni.bg/Contests/Practice/Index/506#14).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/506#14](https://judge.softuni.bg/Contests/Practice/Index/506#14).
 
