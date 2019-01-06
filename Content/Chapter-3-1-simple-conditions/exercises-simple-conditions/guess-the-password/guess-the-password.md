@@ -1,6 +1,6 @@
-### Problem: guess the password
+### Problem: Guess the Password
 
-Write a program that **inputs a password** (one line with random text) and checks if the input **matches** with the phrase "**s3cr3t! P @ ssw0rd**". If it matches, print "**Welcome**", otherwise "**Wrong password!**".
+Write a program that **inputs a password** (one line with random text) and checks if the input **matches** the phrase "**s3cr3t!P@ssw0rd**". If it matches, print "**Welcome**", otherwise "**Wrong password!**".
 
 #### Sample Input and Output
 
@@ -10,10 +10,10 @@ Write a program that **inputs a password** (one line with random text) and check
 | s3cr3t!P@ssw0rd | Welcome |
 | s3cr3t!p@ss | Wrong password! |
 
-#### Hints and Guidelines
+#### Tips and Tricks
 
-Use the **`if-else`** construction.
+Use an **`if-else`** statement.
 
 #### Testing in the Judge System
 
-Test your solution from the example here:  [https://judge.softuni.bg/Contests/Practice/Index/506#8](https://judge.softuni.bg/Contests/Practice/Index/506#8).
+Test your solution here:  [https://judge.softuni.bg/Contests/Practice/Index/506#8](https://judge.softuni.bg/Contests/Practice/Index/506#8).
