@@ -1,12 +1,12 @@
-### Problem: area of figures
+### Problem: Areas of Figures
 
-Write a program that ** inputs the sizes of a geometric figure** and **calculates its face**. The figures are four types: **square**, **rectangle**, **circle** and **triangle**.
+Write a program that **inputs the sizes of a geometric figure** and **calculates its area**. The figures are four types: **square**, **rectangle**, **circle** and **triangle**.
 
-The first line of the entrance reads the type of the figure (`square`, `rectangle`, `circle`, `triangle`).
-* If the figure is **square**, the next row reads one number - the length of its side.
+The first line of the input reads the type of the figure (`square`, `rectangle`, `circle`, `triangle`).
+* If the figure is a **square**, the next row reads one number - the length of its side.
 * If the figure is a **rectangle**, on the next two rows we read two numbers - the lengths of its sides.
-* If the figure is **circle**, the next row reads one number - the radius of the circle.
-* If the figure is **triangle**, on the next two rows we read two numbers - the length of the side and the length of its height.
+* If the figure is a **circle**, the next row reads one number - the radius of the circle.
+* If the figure is a **triangle**, on the next two rows we read two numbers - the length of the side and the length of its height.
 
 Round the result up to the **third digit after the decimal point**.
 
@@ -21,4 +21,4 @@ Round the result up to the **third digit after the decimal point**.
 
 #### Testing in the Judge System
 
-Test your solution from the example here: [https://judge.softuni.bg/Contests/Practice/Index/506#12](https://judge.softuni.bg/Contests/Practice/Index/506#12).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/506#12](https://judge.softuni.bg/Contests/Practice/Index/506#12).
