@@ -1,11 +1,11 @@
-### Problem: bonus score
+### Problem: Bonus Score
 
-You have an **integer** - the number of points. **Bonus scores** are charged on it, according to the rules described below. Write a program that calculates **bonus scores** for this figure and **total points** with bonuses.- Ако числото е **до 100** включително, бонус точките са 5.
+We have an **integer** - the number of points. **Bonus score** are charged on it, according to the rules described below. Write a program that calculates **bonus score** for this figure and **total points** with bonuses.
 
-- If the number is **up to 100** including, bonus points are 5.
-- If the number is **larger than 100**, bonus points are **20%** from the number.
-- If the number is **larger than 1000**, bonus points are **10%** from the number.
-- Additional bonus points (accrues separately from the previous ones):
+- If the number is **up to 100** including, bonus score is 5.
+- If the number is **larger than 100**, bonus score is **20%** of the number.
+- If the number is **larger than 1000**, bonus score is **10%** of the number.
+- Additional bonus score (accrued separately from the previous ones):
 - for **even** number -> + 1 p.
 - for number, that **ends with 5** -> + 2 p.
  
