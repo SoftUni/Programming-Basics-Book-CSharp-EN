@@ -1,4 +1,4 @@
-### Problem: metric converter
+### Problem: Metric Converter
 
 Write a program that **convert a distance** between the following **8 units of measure**: **`m`, `mm`,` cm`, `mi`, `in`, `km`,` ft `,` yd`**. Use the below table:
 
@@ -16,7 +16,7 @@ You have three input lines:
 
 - First line: number for converting.
 - Second line: input unit.
-- Third line: output unit (the result).
+- Third line: output unit (for result).
 
 #### Sample Input and Output
 
