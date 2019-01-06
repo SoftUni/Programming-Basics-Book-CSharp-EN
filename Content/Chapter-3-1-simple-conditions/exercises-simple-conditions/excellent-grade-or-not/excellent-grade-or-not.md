@@ -1,6 +1,6 @@
-### Problem: excellent grade or not
+### Problem: Excellent Grade or Not
 
-The next exercise from this topic is to write a **console program** that **inputs the grade** (decimal number) and prints **Excellent!** if the rating is **5.50** or higher , otherwise "**Not excellent.**".
+The next exercise from this topic is to write a **console program** that **inputs the grade** (decimal number) and prints **Excellent!** if the grade is **5.50** or higher, otherwise "**Not excellent.**".
 
 #### Sample Input and Output
 
