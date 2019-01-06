@@ -1,6 +1,6 @@
-#### Auto set startup the project
+#### Automatic Switching to the Current Project
 
-We turn on mode to **automatic switching to the current project** by clicking on the main Solution with the right mouse button and choosing [**Set StartUp Projects...**]:
+We turn on the mode for **automatic switching to the current project** by right-clicking on the main Solution and choosing [**Set StartUp Projects...**]:
 
  ![](/assets/chapter-3-images/02.Excellent-or-not-02.png)
 
