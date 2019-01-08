@@ -4,7 +4,9 @@
         "meta",
         "anchors",
         "expandable-chapters-small",
-        "katex"
+        "katex",
+        "sitemap",
+        "scripts"
     ],
     "pluginsConfig": {
         "ga": {
@@ -13,6 +15,15 @@
         "meta": {
             "name": "google-site-verification",
             "content": "xSQjbYfAeT3z-ew8RE51NA5hmxlZ1qNKgCerlOBthgo"
+        },
+        "sitemap": {
+            "hostname": "https://csharp-book.softuni.org/"
+        },
+        "scripts": {
+            "files": [
+                "./assets/js/repl.it-code-runner.js",
+                "./assets/js/video.js"
+            ]
         }
     },
     "pdf": {
