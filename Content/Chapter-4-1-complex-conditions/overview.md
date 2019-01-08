@@ -8,4 +8,3 @@ In the **current** chapter, we are going to look at the **nested conditional sta
   href="https://www.youtube.com/watch?v=z8XxYIyesz0">
   https://www.youtube.com/watch?v=z8XxYIyesz0</a>.
 </div>
-<script src="/assets/js/video.js"></script>
