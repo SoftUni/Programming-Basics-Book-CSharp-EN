@@ -13,4 +13,3 @@ In this chapter we are going to get familiar with the following concepts and pro
 <div class="video-player">
   Watch a video lesson on this chapter here: <a target="_blank" href="https://www.youtube.com/watch?v=0f7c9RIZGaE">https://www.youtube.com/watch?v=0f7c9RIZGaE</a>.
 </div>
-<script src="/assets/js/video.js"></script>
