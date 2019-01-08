@@ -16,5 +16,4 @@ In the current chapter, we will also understand what the operator **`break`** is
   href="https://www.youtube.com/watch?v=IovQ8OTnYuQ">
   https://www.youtube.com/watch?v=IovQ8OTnYuQ</a>.
 </div>
-<script src="/assets/js/video.js"></script>
 
