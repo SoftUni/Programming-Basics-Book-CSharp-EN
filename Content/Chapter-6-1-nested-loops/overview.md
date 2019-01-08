@@ -10,4 +10,3 @@ In the current chapter we will be looking at **nested loops** and how to use **`
   href="https://www.youtube.com/watch?v=x7zXRCpkebo">
   https://www.youtube.com/watch?v=x7zXRCpkebo</a>.
 </div>
-<script src="/assets/js/video.js"></script>
