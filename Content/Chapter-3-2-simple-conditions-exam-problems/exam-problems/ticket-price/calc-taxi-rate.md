@@ -1,4 +1,4 @@
-#### Calculating taxi rate
+#### Calculating Taxi Rate
 
 After having **declared and initialized** the input data and the variable that stores the value of the price, we have to decide which **conditions** of the task have to be **checked first**. 
 
