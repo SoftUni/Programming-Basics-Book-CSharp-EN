@@ -1,12 +1,12 @@
-### Problem: cinema
+### Problem: Cinema
 
-In a cinema hall the chairs are order in a **rectangle** shape in **r** rows and **c** columns. There are three types of projections with tickets of **different** prices:
+In a cinema hall the chairs are ordered in a **rectangle** shape in **r** rows and **c** columns. There are three types of screenings with tickets of **different** prices:
 
-* **Premiere** – a premiere projection, with price **12.00** levs.
-* **Normal** – a standart projection, with price **7.50** levs.
-* **Discount** – a projection for children and students on a reduced price - **5.00** levs.
+* **Premiere** – a premiere screening, with price **12.00** levs.
+* **Normal** – a standard screening, with price **7.50** levs.
+* **Discount** – a screening for children and students on a reduced price - **5.00** levs.
 
-Wirte a program, that enters a **type of projection** (string), count of **rows** and count of **columns** in the hall (integer numbers) and calculates **the total income** from tickets from a **full hall**. The result has to printed in the same format as in the examples below - with 2 digits after the decimal sign.
+Write a program that enters a **type of screening** (string), number of **rows** and number of **columns** in the hall (integer numbers) and calculates **the total income** from tickets from a **full hall**. The result has to be printed in the same format as in the examples below - rounded up to 2 digits after the decimal point.
 
 #### Sample Input and Output
 
