@@ -240,7 +240,7 @@
       * [Solution](Content/Chapter-4-1-complex-conditions/complex-logical-conditions/example-fruit-shop/solution.md)
     * [Example: Trade Fees](Content/Chapter-4-1-complex-conditions/complex-logical-conditions/example-trade-comissions/trade-comissions.md)
       * [Solution](Content/Chapter-4-1-complex-conditions/complex-logical-conditions/example-trade-comissions/solution.md)
-  * [Switch-case Conditional Construction](Content/Chapter-4-1-complex-conditions/switch-case-construction/switch-case-construction.md)
+  * [Switch-case Conditional Statement](Content/Chapter-4-1-complex-conditions/switch-case-construction/switch-case-construction.md)
     * [Example: Day of the Week](Content/Chapter-4-1-complex-conditions/switch-case-construction/example-day-of-week.md)
     * [Multiple Switch-cases](Content/Chapter-4-1-complex-conditions/switch-case-construction/multiple-cases.md)
     * [Example: Animal Type](Content/Chapter-4-1-complex-conditions/switch-case-construction/example-animal-type.md)
