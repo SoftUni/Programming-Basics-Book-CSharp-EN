@@ -1,10 +1,10 @@
-### Problem: * point in the figure
+### Problem: * Point in the Figure
 
-The figure consists of **6 blocks with size h \* h**, placed as in the figure. The lower left angle of the building is on position {0, 0}. The upper right angle of the figure is on position {**2\*h**, **4\*h**}. The coordinates given in the figure are for **h = 2**:
+The figure consists of **6 blocks with size h \* h**, placed as in the figure below. The lower left angle of the building is on position {0, 0}. The upper right angle of the figure is on position {**2\*h**, **4\*h**}. The coordinates given in the figure are for **h = 2**:
 
 ![](/assets/chapter-4-images/13.Point-in-the-figure-01.png)
 
-Write a program that enters a whole number **h** and the coordinates of a given **point {x, y}** (whole numbers) and prints whether the point is inside the figure(**inside**), outside of the figure (**outside**) or on any of the borders of the figure (**border**).
+Write a program that enters an integer **h** and the coordinates of a given **point {x, y}** (integers) and prints whether the point is inside the figure (**inside**), outside of the figure (**outside**) or on any of the borders of the figure (**border**).
 
 #### Sample Input and Output
 
