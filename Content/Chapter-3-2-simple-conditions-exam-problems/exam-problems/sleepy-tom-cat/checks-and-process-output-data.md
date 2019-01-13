@@ -1,6 +1,6 @@
-#### Conditional execution
+#### Checking the Conditions
 
-The time for games is already calculated, which leads us to the **next** step - **comparing** the **time for play** of Tom with the **norm** on which depends whether the cat can sleep well. For that we will use an **`if-else`** conditional statement. In the **`if` clause** we will check whether **the time for play is more than 30 000** (the norm).
+The time for games is already calculated, which leads us to the **next** step - **comparing** the **time for play** of Tom with the **norm** on which the good sleep of the cat depends. For that we will use an **`if-else`** conditional statement. In the **`if` clause** we will check whether **the time for play is more than 30 000** (the norm).
 
 #### Processing the Output Data
 
