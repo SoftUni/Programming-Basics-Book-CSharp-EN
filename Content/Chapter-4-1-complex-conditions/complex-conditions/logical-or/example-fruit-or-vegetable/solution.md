@@ -6,4 +6,4 @@ We have to use a few conditional statements with logical "**OR**" (**`||`**):
 
 #### Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/508#3](https://judge.softuni.bg/Contests/Practice/Index/508#3).
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/508#3](https://judge.softuni.bg/Contests/Practice/Index/508#3). 
