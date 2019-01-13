@@ -1,4 +1,4 @@
-#### Printing the information about the ponint's position 
+#### Printing Point Position Compared to the Rectangle
 
 Let's begin from the easier part: **printing the information about the point's position** (Inside, Outside or Border). The code must look like this:
 
@@ -41,6 +41,6 @@ private void DisplayPointLocation(
     }
 }
 ```
-The code above takes the coordinates of the rectangle and the point and checks whether the point is inside, outside or on the borders of the rectangle. By visulizing the result, the color of the background of the text block which contains it is changed.
+The code above takes the coordinates of the rectangle and the point and checks whether the point is inside, outside or on the borders of the rectangle. By visulizing the result, the color of the background of the text block that contains it is changed.
 
-Think about how to **finish** the uncompleted (on purpose) conditions in the **`if` statements**! The code above **purposely doesn't compile**, because the purpose is to make you think about how and why it works and to **finish on your own the missing parts**.
+Think about how to **finish** the uncompleted (on purpose) conditions in the **`if` statements**! The code above **purposely doesn't compile**, because the purpose is to make you think about how and why it works and **finish on your own the missing parts**.
