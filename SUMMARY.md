@@ -203,7 +203,7 @@
   * [Problem: Pipes in a Pool](Content/Chapter-3-2-simple-conditions-exam-problems/exam-problems/pipes-in-pool/pipes-in-pool.md)
     * [Processing Input Data](Content/Chapter-3-2-simple-conditions-exam-problems/exam-problems/pipes-in-pool/process-input-data.md)
     * [Checking Input Data and Processing Output Data](Content/Chapter-3-2-simple-conditions-exam-problems/exam-problems/pipes-in-pool/check-input-data-and-process-output-data.md)
-  * [Problem: Tom, the Sleep Cat](Content/Chapter-3-2-simple-conditions-exam-problems/exam-problems/sleepy-tom-cat/sleepy-tom-cat.md)
+  * [Problem: Sleepy Tom Cat](Content/Chapter-3-2-simple-conditions-exam-problems/exam-problems/sleepy-tom-cat/sleepy-tom-cat.md)
     * [Reading the Input Data](Content/Chapter-3-2-simple-conditions-exam-problems/exam-problems/sleepy-tom-cat/read-input-data.md)
     * [Calculating Working Days](Content/Chapter-3-2-simple-conditions-exam-problems/exam-problems/sleepy-tom-cat/calc-working-days.md)
     * [Calculating Playing Time](Content/Chapter-3-2-simple-conditions-exam-problems/exam-problems/sleepy-tom-cat/calc-playing-time.md)
