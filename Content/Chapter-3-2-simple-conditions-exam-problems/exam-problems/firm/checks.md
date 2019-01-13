@@ -1,6 +1,6 @@
-#### Conditional execution and Printing the Output Data
+#### Checking the Conditions and Printing Output Data
 
-After having done the calculations that are needed to find the value of **the working hours**, now we have to check whether these hours are **enough or some of them are left**.
+After having done the calculations that are needed to find the value of **the working hours**, now we have to check whether these hours are **enough or some hours are left**.
 
 If **the time is enough**, we print the result that is specified in the task requirements, which in this case is the difference between **the working hours and the hours needed** for finishing the project. 
 
