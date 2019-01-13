@@ -1,6 +1,6 @@
-### Example: invalid number
+### Example: Invalid Number
 
-A given **number is valid**, if it is in the range [**100 … 200**] or it is **0**. Make a validation for an **invalid** number.
+A given **number is valid** if it is in the range [**100 … 200**] or it is **0**. Do a validation for an **invalid** number.
 
 #### Sample Input and Output
 
