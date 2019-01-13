@@ -1,11 +1,11 @@
 #### Solution
 
-A point is internal for a given quadrangle, if **at the same time** the following four conditions are applied:
+A point is internal for a given polygon, if the following four conditions are applied **at the same time**:
 
-* The point is placed rigth from the left side of the rectangle.
-* The point is placed left from the right side of the rectangle.
-* The point is placed down from the upper side of the rectangle.
-* The point is placed up from the down side of the rectangle.
+* The point is placed to the right from the left side of the rectangle.
+* The point is placed to the left from the right side of the rectangle.
+* The point is placed downwards from the upper side of the rectangle.
+* The point is placed upwards from the down side of the rectangle.
 
 ![](/assets/chapter-4-images/03.Point-in-rectangle-03.PNG)
 
