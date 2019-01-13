@@ -1,13 +1,13 @@
 ## Problem: Pipes in Pool
 
-A pool with **volume V** fills up with **two pipes**. **Each pipe has a certain flow rate** (the liters of water, flowing through a pipe for an hour). The worker starts the pipes simultaneously and goes out for **N hours**. Write a program that finds the state of the pool **the moment the worker comes back**. 
+A pool with **volume V** fills up via **two pipes**. **Each pipe has a certain flow rate** (the liters of water, flowing through a pipe for an hour). A worker starts the pipes simultaneously and goes out for **N hours**. Write a program that finds the state of the pool **the moment the worker comes back**. 
 
 ### Input Data
 
 **Four lines** are read from the console: 
 * The first line contains a number **V – the volume of the pool in liters** – an integer in the range of [**1 … 10000**].
-* The second line contains a number **P1 – the flow rate of the first pipe for an hour** – an integer in the range of [**1 … 5000**].
-* The third line contains a number **P2 – the flow rate of the second pipe for an hour** – an integer in the range of [**1 … 5000**].
+* The second line contains a number **P1 – the flow rate of the first pipe per hour** – an integer in the range of [**1 … 5000**].
+* The third line contains a number **P2 – the flow rate of the second pipe per hour** – an integer in the range of [**1 … 5000**].
 * The fourth line contains a number **H – the hours that the worker is absent** – a floating-point number in the range of [**1.0 … 24.00**].
 
 ### Output Data
