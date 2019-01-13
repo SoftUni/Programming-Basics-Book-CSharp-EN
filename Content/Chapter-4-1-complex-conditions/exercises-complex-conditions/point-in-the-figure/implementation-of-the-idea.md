@@ -1,6 +1,6 @@
-#### Implementing the Proposed Idea
+#### Implementation of the Proposed Idea
 
-An examplary implementation of the described idea (parts of te code are blurred with the purpose of stimulating the logical thinking and solving skills):
+An exemplary implementation of the described idea (parts of the code are blurred with the purpose of stimulating logical thinking and solving skills):
 
 ![](/assets/chapter-4-images/13.Point-in-the-figure-02.png)
 
