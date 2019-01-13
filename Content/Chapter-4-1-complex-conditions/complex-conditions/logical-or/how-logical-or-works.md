@@ -1,8 +1,8 @@
-### How does the || operator work ?
+### How the || Operator Works?
 
-We have already learned what the logical**"OR" represents**. But how is it actually being achieved? Just like with the logical **"AND"**, the program **checks** from left to right **the arguments**, which are given. In order ro receive **`true`** from the expression, it is necessary fоr **just one** argument to have a **`true`** value, respectively the evaluation **continues** until an **argument** with **such** value is met or until the arguments **are over**.
+We have already learned what the logical**"OR" represents**. But how is it actually being achieved? Just like with the logical **"AND"**, the program **checks** from left to right **the arguments** that are given. In order ro receive **`true`** from the expression, it is necessary fоr **just one** argument to have a **`true`** value. Respectively, the checking **continues** until an **argument** with **such** value is met or until the arguments **are over**.
 
-Here is one **example** for the operator **`||`** in action:
+Here is one **example** of the **`||`** operator in action:
 
 ```csharp
 bool a = false;
@@ -13,4 +13,4 @@ bool result = a || b || c || d;
 // true (as c and d are not being checked)
 ```
 
-The programs **checks `а`**, accepts, that it has a value **`false`** and continues. Reaching **`b`**, it evaluates, that it has a **`true`** value and the whole **expression** receives a value **`true`**, **without** having to check **`c`** or **`d`**, because their values **wouldn't change** the result of the expression.
+The programs **checks `а`**, accepts that it has a value **`false`** and continues. Reaching **`b`**, it understands that it has a **`true`** value and the whole **expression** receives a value **`true`**, **without** having to check **`c`** or **`d`**, because their values **wouldn't change** the result of the expression.
