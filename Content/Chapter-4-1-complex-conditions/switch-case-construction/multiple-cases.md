@@ -1,6 +1,6 @@
-### Multiple cases in switch-case
+### Multiple Switch-cases
 
-In **C#** we have the possibility to **use multiple `case`** labels, when they have to execute **the same code**. By this way, when our **program** finds a **match**, it will execute the **next** code, because **after** the respective **`case`** label **there is no code** for execution and a **`break`** operator.
+In **C#** we have the possibility to **use multiple `case`** labels, when they have to execute **the same code**. This way, when our **program** finds a **match**, it will execute the **next** code, because **after** the respective **`case`** label **there is no code** for execution and a **`break`** operator.
 
 ```csharp
 switch (selector)
