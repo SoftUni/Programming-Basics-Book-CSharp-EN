@@ -1,6 +1,6 @@
 #### Solution
 
-We can see, that the **output** from the program **depends on a few things**. **First** we have to check what is the entered **gender** and **then** to check the **age**. Respectively, we are going to use **a few** **`if-else`** blocks. These blocks will be **nested**, meaning from **the result** of the first, we are going to **define** which one of the **others** to execute.
+We should notice that the **output** of the program **depends on a few things**. **First** we have to check what is the entered **gender** and **then** check the **age**. Respectively, we are going to use **a few** **`if-else`** blocks. These blocks will be **nested**, meaning from **the result** of the first, we are going to **define** which one of the **others** to execute.
 
 ![](/assets/chapter-4-images/01.Personal-titles-01.jpg)
 
