@@ -1,4 +1,4 @@
-### Example: title depending on age and gender
+### Example: Titles According to Age and Sex
 
 Depending on **age** (decimal number and **gender** (**m** / **f**), print a personal title:
 * “**Mr.**” – a man (gender “**m**”) - 16 or more years old.
