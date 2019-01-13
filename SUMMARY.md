@@ -234,7 +234,7 @@
       * [Example: Invalid Number](Content/Chapter-4-1-complex-conditions/complex-conditions/logical-negation/example-invalid-number.md)
     * [The Parenthesis () Operator](Content/Chapter-4-1-complex-conditions/complex-conditions/operator-parentheses/operator-parentheses.md)
   * [More Complex Logical Conditions](Content/Chapter-4-1-complex-conditions/complex-logical-conditions/complex-logical-conditions.md)
-    * [Example: Point on a Rectangle Border](Content/Chapter-4-1-complex-conditions/complex-logical-conditions/example-point-on-rectangle-border/point-on-rectangle-border.md)
+    * [Example: Point on a Rectangle Side](Content/Chapter-4-1-complex-conditions/complex-logical-conditions/example-point-on-rectangle-border/point-on-rectangle-border.md)
       * [Solution](Content/Chapter-4-1-complex-conditions/complex-logical-conditions/example-point-on-rectangle-border/solution.md)
     * [Example: Fruit Shop](Content/Chapter-4-1-complex-conditions/complex-logical-conditions/example-fruit-shop/fruit-shop.md)
       * [Solution](Content/Chapter-4-1-complex-conditions/complex-logical-conditions/example-fruit-shop/solution.md)
