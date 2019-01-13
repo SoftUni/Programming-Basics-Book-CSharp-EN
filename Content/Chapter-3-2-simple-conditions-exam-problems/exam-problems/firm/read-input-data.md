@@ -1,6 +1,6 @@
-### Hints and Guidelines
+### Tips and Tricks
 
-In order to solve the task, we will read the input data. Then, we will write a few conditional statements and do some calculations. Finally, we will print the result.
+In order to solve the problem, we will read the input data. Then, we will write a few conditional statements and do some calculations. Finally, we will print the result.
 
 #### Reading the Input Data
 
