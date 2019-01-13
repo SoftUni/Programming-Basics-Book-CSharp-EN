@@ -1,4 +1,4 @@
-#### Checking Input Data and Processing Output Data
+#### Checking the Conditions and Processing Output Data
 
 After we have **the value of the quantity** of water that has flown through the **pipes**, the next step is to **compare** that quantity with the volume of the pool itself.
 
