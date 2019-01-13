@@ -1,4 +1,4 @@
-### Logical negation
+### Logical Negation
 
 **Logical negation** (operator **`!`**) means a given condition is **is not fulfilled**.
 
