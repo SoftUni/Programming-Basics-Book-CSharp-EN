@@ -1,3 +1,3 @@
-## Complex conditions
+## More Complex Conditions
 
-Let's take a look at how we can make more complex logical conditions. We can use the logical "**AND**" (**`&&`**), the logical "**OR**" (**`||`**), the logical **negation** (**`!`**) and **brackets** (**`()`**).
+Let's take a look at how we can create more complex logical conditions. We can use the logical "**AND**" (**`&&`**), logical "**OR**" (**`||`**), logical **negation** (**`!`**) and **brackets** (**`()`**).
