@@ -1,6 +1,6 @@
 ## What We Learned in This Chapter?
 
-Let's remind ourselves the new constructions and program techniques, which we have learned in this chapter.
+Let's remind ourselves the new constructions and program techniques that we have learned in this chapter.
 
 ### Nested conditions
 
