@@ -1,13 +1,13 @@
 #### Events
 
-We have to catch the following **events** to write the C# code, which will be executed with their occurence:
+We have to catch the following **events** to write the C# code that will be executed upon their occurence:
 
-*	The event **`Click`** on the button **`buttonDraw`** (it is called by pushing the button).
-*	The event **`ValueChanged`** of the controls for entering numbersа **`numericUpDownX1`**, **`numericUpDownY1`**, **`numericUpDownX2`**, **`numericUpDownY2`**, **`numericUpDownX`** и **`numericUpDownY`** (it is called by changing the value in the control that enters a number).
-*	The event **`Load`** of the form **`FormPointAndRectangle`** (it is called by starting the application, before the main form is shown on the dispaly).
-*	The event **`Resize`** of the form **`FormPointAndRectangle`** (it is called by changing the size of the main form).
+*	The event **`Click`** the button **`buttonDraw`** (it is called upon pressing the button).
+*	The event **`ValueChanged`** of the controls for entering numbers **`numericUpDownX1`**, **`numericUpDownY1`**, **`numericUpDownX2`**, **`numericUpDownY2`**, **`numericUpDownX`** и **`numericUpDownY`** (it is called upon changing the value in the control that enters a number).
+*	The event **`Load`** of the form **`FormPointAndRectangle`** (it is called upon starting the application, before the main form is shown on the dispaly).
+*	The event **`Resize`** of the form **`FormPointAndRectangle`** (it is called upon changing the size of the main form).
 
-All of the mentioned above events will execute the same action - **`Draw()`**, which will visualize the rectangle and the point and show whether it's inside, outside or onto one of the sides. The code must look like this: 
+All of the above mentioned events will execute the same action - **`Draw()`**, which will visualize the rectangle and the point and show whether it's inside, outside or onto one of the sides. The code must look like this: 
 
 ```csharp
 private void buttonDraw_Click(object sender, EventArgs e)
