@@ -1,6 +1,6 @@
 ## Problem: Harvest
 
-From **vineyard with area X square meters**, **40% of the harvest goes for wine production**. From **1 sq.m. vineyard**, **Y kilograms of grapes** are extracted. **2,5 kg of grapes** are needed for **1 litre of wine**. **The wanted quantity of wine** for sale is **Z litres**. 
+In a **vineyard with area X square meters**, **40% of the harvest goes for wine production**. **Y kilograms of grapes** are extracted from **1 sq.m. vineyard**. **2,5 kg of grapes** are needed for **1 litre of wine**. **The wanted quantity of wine** for sale is **Z litres**. 
 
 Write **a program** that **calculates how much wine can be produced** and **whether** that quantity **is enough**. **If it is enough, the rest is divided between the vineyard workers equally**. 
 
@@ -15,14 +15,14 @@ The input data is read from the console and consists of **exactly 4 lines**:
 ### Output Data
 
 The following has to be printed on the console:
-* If the **produced** wine is **less than the needed**:
-  * **“It will be a tough winter! More {wine more needed} liters wine needed.**”  
+* If the **produced** wine is **less than the needed quantity**:
+  * **“It will be a tough winter! More {insufficient wine} liters wine needed.**”  
    \* **The result** has to be **rounded down to the nearest integer**.
-* If **the produced** wine is **more than the needed**:
+* If **the produced** wine is **more than the needed quantity**:
   * **“Good harvest this year! Total wine: {total wine} liters.”**  
    \* **The result** has to be **rounded down to the nearest integer**.
   * **“{Wine left} liters left -> {wine for one worker} liters per person.”**  
-   \* **Both of the results** have to be **rounded to the higher integer**.
+   \* **Both of the results** have to be **rounded up to the higher integer**.
 
 ### Sample Input and Output
 
