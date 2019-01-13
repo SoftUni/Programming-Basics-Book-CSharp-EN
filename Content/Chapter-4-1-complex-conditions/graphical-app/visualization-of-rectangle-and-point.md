@@ -1,6 +1,6 @@
-#### Visualization of the rectangle and the point
+#### Visualization of the Rectangle and the Point
 
-It is left to implement the most complex part: visualization of the rectangle and the point in the control **`pictureBox`** with resizing. We can help ourselves with **the code below**, which makes little calculations and draws a blue rectangle and a dark blue circle (the point) according to the coordinates given in the form. Unfortunately, the complexity of the code exceeds the learnt material unitl this moment and it is complicated to be explained in details exactly how it works. There are comments for orientation. This is the full version of the action **`Draw()`**:
+What remains is to implement the most complex part: visualization of the rectangle and the point in the control **`pictureBox`** with resizing. We can help ourselves with **the code below**, which makes some calculations and draws a blue rectangle and a dark blue circle (the point) according to the coordinates given in the form. Unfortunately, the complexity of the code exceeds the material learnt until the present moment and it is complicated to explain in details exactly how it works. There are comments for orientation. This is the full version of the action **`Draw()`**:
 
 ```csharp
 private void Draw()
@@ -52,11 +52,11 @@ private void Draw()
     // Draw diagram background (white area)
     g.Clear(Color.White);
 
-    // Draw the rectangle (scalled to the picture box size)
+    // Draw the rectangle (scaled to the picture box size)
     var pen = new Pen(Color.Blue, 3);
     g.DrawRectangle(pen, rect);
 
-    // Draw the point (scalled to the picture box size)
+    // Draw the point (scaled to the picture box size)
     pen = new Pen(Color.DarkBlue, 5);
     g.DrawEllipse(pen, pointRect);
   }
@@ -73,4 +73,4 @@ private decimal Max(decimal val1, decimal val2, decimal val3)
 }
 ```
 
-In the code above can be seen a lot of **conversion of types**, because different types of numbers are used (decimal numbers, real numbers and whole numbers) and sometimes it's rquired to do conversion between them.
+In the code above we can see a lot of **conversion of types**, because different types of numbers are used (decimal numbers, real numbers and integers) and sometimes it is required to do conversion between them.
