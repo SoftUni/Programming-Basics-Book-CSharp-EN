@@ -1,3 +1,3 @@
-### Operator parantheses `()`
+### The Parenthesis `()` Operator
 
-Like the rest of the operators in programming, the operators **`&&`** and **`||`** have a priority, like in the case **`&&`** is with bigger priority from the **`||`**. The operator **`()`** serves for **a change of priority of the operators** and is being calculated first, just like in math. Using parentheses also gives the code better readability and is considered a good practice.
+Like the rest of the operators in programming, the operators **`&&`** and **`||`** have a priority, as in the case **`&&`** is with higher priority than **`||`**. The operator **`()`** serves for **changing the priority of operators** and is being calculated first, just like in mathematics. Using parentheses also gives the code better readability and is considered a good practice.
