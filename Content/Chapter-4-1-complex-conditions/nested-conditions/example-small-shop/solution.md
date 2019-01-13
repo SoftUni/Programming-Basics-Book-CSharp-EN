@@ -1,6 +1,6 @@
 #### Solution
 
-We **convert** all of the letters in **lower register** with the function **`.ToLower()`**, to compare products and cities **no matter** what the letters - lower/upper are.
+We **convert** all of the letters into **lower register** using the function **`.ToLower()`**, in order to compare products and cities **no matter** what the letters are - small or capital ones.
 
 ![](/assets/chapter-4-images/02.Small-shop-01.png)
 
