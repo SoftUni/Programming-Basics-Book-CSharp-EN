@@ -6,13 +6,13 @@ The point lies on any of the sides of the rectangle if:
 
 ![](/assets/chapter-4-images/06.Point-on-rectangle-border-02.png)
 
-The previous evaluation might be simplified by the following way:
+The previous evaluation might be simplified in the following way:
 
 ![](/assets/chapter-4-images/06.Point-on-rectangle-border-03.png)
 
-The second way with the additional boolean variables is longer, but much more understandable than th first one, isn't it? We recommend to you when you write boolean conditions, to make them **easy to read and uderstand**, and not short. If you need to, use additional variables with meaningful names. The names of the boolean variables have to hint what the value that is kept in them represents.
+The second way with the additional boolean variables is longer, but much more understandable than the first one, isn't it? We recommend when you write boolean conditions to make them **easy to read and understand**, instead of making them short. Use additional variables with meaningful names, if needed. The names of the boolean variables have to hint what the value that is kept inside them represents.
 
-It is left to finish writing the code to print “**Inside / Outside**”, if the point is not onto any of the sides of the rectangle.
+What remains is to finish writing the code to print “**Inside / Outside**”, if the point is not onto any of the sides of the rectangle.
 
 #### Testing in the Judge System
 
