@@ -1,3 +1,3 @@
-## Exercises: complex conditions
+## Exercises: More Complex Conditions
 
-Now let's exercise the work with complex conditions. Let's solve a few practical tasks.
+Now let's exercise our training with complex conditions. Let's solve a few practical tasks.
