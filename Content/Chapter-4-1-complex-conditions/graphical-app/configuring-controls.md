@@ -1,8 +1,8 @@
-#### Configuring the controls
+#### Configuring the Controls
 
-We set the following recomended settings of the controls:
+We set the following recommended settings of the controls:
 
-* For **the main form (`Form`)**, which contains all of the controls:
+* For **the main form (`Form`)** that contains all of the controls:
   *	(name) = **`FormPointAndRectangle`**
   *	**`Text`** = **`Point and Rectangle`**
   *	**`Font.Size`** = **`12`**
