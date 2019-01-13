@@ -1,6 +1,6 @@
-### Example: animal type
+### Example: Animal Type
 
-Write a program, that prints the type of the animal depending on its name: 
+Write a program that prints the type of the animal depending on its name: 
 
 * dog -> **mammal**
 * crocodile, tortoise, snake -> **reptile**
