@@ -1,4 +1,4 @@
-### Problem:	* Console Currency Converter
+# Problem: * Console Currency Converter
 
 Write a program for **conversion of money from one currency into another**. It has to support the following currencies: **BGN, USD, EUR, GBP**. Use the following fixed currency rates:
 
@@ -8,7 +8,7 @@ Write a program for **conversion of money from one currency into another**. It h
 
 **The input** is **sum for conversion**, **input currency** and **output currency**. **The output** is one number – the converted value of the above currency rates, rounded **2 digits** after the decimal point. 
 
-#### Sample Input and Output
+## Sample Input and Output
 
 |        Input        |   Output  |
 |------------------|--------|
@@ -17,6 +17,6 @@ Write a program for **conversion of money from one currency into another**. It h
 | 12.35<br>EUR<br>GBP| 9.53 GBP |  
 |150.35<br>USD<br>EUR|138.02 EUR|
  
-#### Testing in the Judge System
+## Testing in the Judge System
 
 Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/504#11](https://judge.softuni.bg/Contests/Practice/Index/504#11).

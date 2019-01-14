@@ -1,10 +1,10 @@
-### Problem: Greeting by Name
+# Problem: Greeting by Name
 
-Write a program that **reads a person's name** and prints **`Hello, <name>!`**, where **`<name>`** is the name entered earlier.
+Write a program that **reads a person's name** and prints `Hello, <name>!`, where `<name>` is the name entered earlier.
 
-#### Tips and Tricks
+## Tips and Tricks
 
-First, we create a **new C# console project** with name “Greeting” in the solution “Simple-Calculations”:
+First, we create a **new C\# console project** with name “Greeting” in the solution “Simple-Calculations”:
 
 ![](/assets/chapter-2-images/03.Greeting-by-name-01.png)
 
@@ -12,10 +12,11 @@ First, we create a **new C# console project** with name “Greeting” in the so
 
 ![](/assets/chapter-2-images/03.Greeting-by-name-02.png)
 
-**Run** the program with [**Ctrl+F5**] and test if it works:
+**Run** the program with \[**Ctrl+F5**\] and test if it works:
 
 ![](/assets/chapter-2-images/03.Greeting-by-name-03.png)
 
-#### Testing in the Judge System
+## Testing in the Judge System
 
-Test your solution here:  [https://judge.softuni.bg/Contests/Practice/Index/504#2](https://judge.softuni.bg/Contests/Practice/Index/504#2).
+Test your solution here:  [https://judge.softuni.bg/Contests/Practice/Index/504\#2](https://judge.softuni.bg/Contests/Practice/Index/504#2).
+
