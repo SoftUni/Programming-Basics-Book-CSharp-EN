@@ -1,4 +1,4 @@
-## Problem: Change Tiles
+# Problem: Change Tiles
 
 **The tiles** on the ground in front of an apartment building **need changing**. The ground has a **square shape with side of N metres**. The tiles are **"W" metres wide** and **"L" metres long**. There is one bench on the ground with **width of M metres and length of O metres**. The tiles under it do not need to be replaced. Each tile is replaced for **0.2 minutes**.
 
@@ -6,7 +6,7 @@ Write a program that **reads the size of the ground, the tiles and the bench fro
 
 **Example: ground with size 20 m.** has **area of 400 sq.m.**. **A bench** that is **1 m.** wide and **2 m.** long, has area of **2 sq.m.**. **One tile** is **5 m. wide, 4 m. long** and has **area of 20 sq.m.**. The space that needs to be covered is **400 – 2 = 398 sq.m.**. **398 / 20 = 19.90 tiles** are necessary. The **time** needed is **19.90 * 0.2 = 3.98 minutes.******
 
-### Input Data
+## Input Data
 
 **5 numbers** are read from the console: 
 
@@ -16,11 +16,11 @@ Write a program that **reads the size of the ground, the tiles and the bench fro
 * **М – width** of **the bench** within the range of [**0 … 10**].
 * **О – length** of **the bench** within the range of [**0 … 10**].
 
-### Output Data
+## Output Data
 
 Print on the console **two numbers**: **number of tiles needed** for the repair and the **total time for changing them**, each on a new line.
 
-### Sample Input and Output
+## Sample Input and Output
 
 | Input        | Output    |
 |---------------|------------|

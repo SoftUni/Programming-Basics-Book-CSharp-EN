@@ -1,19 +1,19 @@
-## Problem: Daily Earnings
+# Problem: Daily Earnings
 
 Ivan is a programmer in an **American company** and he **works** at home **approximately N days per month** by earning **approximately M dollars per day**. At the end of the year, Ivan **receives a bonus**, which **equals 2.5 of his monthly salaries. 25% of his annual salary goes for taxes**. Write a program that calculates **what is the amount of Ivan's net average earnings in leva per day**, as he spends them in Bulgaria. It is accepted that **one year has exactly 365 days. The exchange rate of dollar** to lev will be **read from the console**. 
 
-### Input Data
+## Input Data
 
 **Three numbers** are read from the console.
 * On the first line – **work days per month**. An integer within the range of [**5 … 30**].
 * On the second line – **daily earnings**. A floating-point number within the range of [**10.00 … 2000.00**].
 * On the third line – **exchange rate of dollar to lev** /1 dollar = X lev/. A floating-point number within the range of [**0.99 … 1.99**].
 
-### Output Data
+## Output Data
 
 Print **one number** on the console - **the daily earnings in lev**. The result will be **rounded up to the second symbol after the decimal point**. 
 
-### Examples
+## Examples
 
 | Input        | Output          |
 |---------------|------------------|
