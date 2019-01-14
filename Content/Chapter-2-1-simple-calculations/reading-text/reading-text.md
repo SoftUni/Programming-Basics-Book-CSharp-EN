@@ -1,9 +1,30 @@
-## Reading a Text
+# Reading a Text from the Console
 
-To read a text (string) from the console, again, we have to **declare a new variable** and use the standard  **command for reading information from the console**:
+To read a **text** \(string\) from the console, again, we have to **declare a new variable** and use the standard **command for reading a text from the console**:
 
 ```csharp
 var str = Console.ReadLine();
 ```
 
-Let's pay attention to the fact that when **reading text, no declaring** of a "**`string`**" (text) type is done. The reason is that by default the **`Console.ReadLine(…)`** method returns a **text result**. Additionally, you can parse the text to an integer by **`int.Parse(…)`** or a floating point number by **`double.Parse(…)`**. If this is not done, for the program **each number** will simply be **text**, and we **cannot do** arithmetic operations with it.
+By default the `Console.ReadLine(…)` method returns a **text result** – a text line, read from the console.
+
+* After you read a text from the console, additionally, you can **parse the text** to an integer by `int.Parse(…)` or a floating-point number by `double.Parse(…)`.
+* If parsing to a number is not done, **each number** will simply be **text**, and we **cannot do** arithmetic operations with it.
+
+## Example: Greeting by Name
+
+Let's write a program that asks the user for their **name** and salutes them with the text "**Hello, &lt;**_**name&gt;**_**!**".
+
+```csharp
+var name = Console.ReadLine();
+Console.WriteLine("Hello, {0}!", name);
+```
+
+In this case the `{0}` expression is replaced with the **first** passed argument, which holds the variable `name`. If we enter "_John_", the output will be as follows:
+
+![](/assets/chapter-2-images/00.Greeting-by-name-01.jpg)
+
+### Testing in the Judge System
+
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/504\#2](https://judge.softuni.bg/Contests/Practice/Index/504#2).
+
