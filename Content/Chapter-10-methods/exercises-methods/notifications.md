@@ -1,4 +1,4 @@
-### Problem: Notifications
+# Problem: Notifications
 
 Write a program, which takes an integer **`n`** and on the next rows prints **`n`** **messages** (for each message read a few lines). Each message starts with **`messageType`**: **`success`**, **`warning`** or **`error`**:
    - When **`messageType`** is **`success`** read **`operation`** + **`message`** (each on a new line).
@@ -11,18 +11,18 @@ The problem should be solved by defining four methods: **`ShowSuccessMessage()`*
 
 ![](/assets/chapter-10-images/23.Notifications-01.png)
 
-#### Sample Input and Output
+## Sample Input and Output
 
 | Input | Output |
 | --- | --- |
 |4<br>error<br>credit card purchase<br>Invalid customer address<br>500<br>warning<br>Email not confirmed<br>success<br>user registration<br>User registered successfully<br>warning<br>Customer has not email assigned|<code>Error: Failed to execute credit card purchase.</code><br><code>==============================================</code><br><code>Reason: Invalid customer address.</code><br><code>Error code: 500.</code><br><br><code>Warning: Email not confirmed.</code><br><code>=============================</code><br><br><code>Successfully executed user registration.</code><br><code>========================================</code><br><code>User registered successfully.</code><br><br><code>Warning: Customer has not email assigned.</code><br><code>=========================================</code>|
 
-#### Hints and Guidelines
+## Hints and Guidelines
 
 Define and implement the four shown methods.
 
 In **`ReadAndProcessMessage()`** read the type of message from the console and according the read type read the rest of the data (one, two or three more lines). After that invoke the method for printing the given type of message.
 
-#### Testing in the Judge System
+## Testing in the Judge System
 
 Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/594#12](https://judge.softuni.bg/Contests/Practice/Index/594#12).

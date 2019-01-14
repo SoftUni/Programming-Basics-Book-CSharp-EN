@@ -1,3 +1,0 @@
-### What is a Local Function?
-
-We can see that in this code the **`Main()`** method has **another** declared method **`Result()`**. This **nested** method is called **local** function and is an innovation in C# 7. Local functions can be declared in every other method. When the C# compiler compiles such functionsthey are turned into private methods. Because you will learn about the difference between **`public`** and **`private`** methods later, we can now say that **`private`** can be used only in the class, in which they have been declared. The programs which we write at this level are using only one class, therefore we can say that we can use nested methods without any concerns.

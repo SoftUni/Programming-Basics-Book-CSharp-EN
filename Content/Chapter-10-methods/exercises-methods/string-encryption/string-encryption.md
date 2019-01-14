@@ -1,4 +1,4 @@
-### Problem: String Encryption
+# Problem: String Encryption
 
 Write a method **`Encrypt(char letter)`**, which encrypts a given letter in the following way:
 * It takes the first and the last digit from the ASCII code of the letter and concatenates them into a string, which will represent the result. 
@@ -24,7 +24,7 @@ Encrypt the symbols and add them to the encrypted string. In the end, as a resul
 Example:
 * S, o, f, t, U, n, i &rarr; V83Kp11nh12ez16sZ85Mn10mn15h
 
-#### Sample Input and Output
+## Sample Input and Output
 
 | Input | Output |
 | --- | --- |
@@ -33,3 +33,12 @@ Example:
 | Input | Output | 
 | --- | --- |
 |7<br>B<br>i<br>r<br>a<br>H<br>a<br>x| H66<n15hv14qh97XJ72Ah97xx10w |
+
+## Tips and Tricks
+Firstly, we will give a value of **`string.Empty`** to the **`string`**, which will keep the result. We must recur a loop **`n`** times, so that in each iteration we will add the encrypted symbol to the result string. 
+
+In order to find the first and the last digit of the ASCII code, we will use the same algorithm that we used to solve "Integer to Base".
+
+## Testing in the Judge System
+
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/594#14](https://judge.softuni.bg/Contests/Practice/Index/594#14).

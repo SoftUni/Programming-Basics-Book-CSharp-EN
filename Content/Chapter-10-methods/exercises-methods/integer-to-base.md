@@ -1,13 +1,14 @@
-### Problem: Integer to Base
+# Problem: Integer to Base
+
 Write a method **`IntegerToBase(number, toBase)`**, which takes as parameters an integer and a base of a numeral system and returns the integer converted to the given numeral system. After this the result should be printed in the console. The input number will always be in decimal numeral system, and the base parameter will be between 2 and 10.
 
-#### Sample Input and Output
+## Sample Input and Output
 
 | Input | Output | Input | Output | Input | Output |
 | --- |----| --- | --- | --- | --- |
 |3<br>2|11|4<br>4|10|9<br>7|12|
 
-#### Hints and Guidelines
+## Hints and Guidelines
 
 In order to solve the problem we will declare a string, in which we will keep the result. After this we need to do the following calculations to convert the number.
 * Calculate **the remainder** of the number, divided by the base.
@@ -27,6 +28,6 @@ static string IntegerToBase(int number, int toBase) {
 }
 ```
 
-#### Testing in the Judge System 
+## Testing in the Judge System 
 
 Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/594#11](https://judge.softuni.bg/Contests/Practice/Index/594#11).
