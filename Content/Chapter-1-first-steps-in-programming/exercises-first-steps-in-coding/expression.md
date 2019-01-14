@@ -1,14 +1,16 @@
-### Problem: Console Application “Expression”
+# Problem: Console Application “Expression”
 
 Write a C# console program that **calculates** and **prints** the value of the following numerical expression:
 
-<p align="center"> (3522 + 52353) * 23 - (2336 * 501 + 23432 - 6743) * 3 </p>
+```
+(3522 + 52353) * 23 - (2336 * 501 + 23432 - 6743) * 3
+```
 
 Note: **it is not allowed to previously calculate the value** (for example with Windows Calculator).
 
-#### Tips and Tricks
+## Tips and Tricks
 
-Create **a new  C# console project** with title "**Expression**".	Find the method **``static void Main(string[] args)``** and **go into its body** between **`{`** and **`}`**. After that, **write the code** that calculates the above numerical expression and prints its value on the console. Put the above numerical expression inside the brackets of the command **``Console.WriteLine(…)``**:
+Create **a new  C# console project** with title "**Expression**". Find the method **``static void Main(string[] args)``** and **go into its body** between **`{`** and **`}`**. After that, **write the code** that calculates the above numerical expression and prints its value on the console. Put the above numerical expression inside the brackets of the command **``Console.WriteLine(…)``**:
 
 ![](/assets/chapter-1-images/02.Expression-01.png)
 
@@ -16,7 +18,7 @@ Start the program with [**Ctrl+F5**] and check if the result is the same as the 
 
 ![](/assets/chapter-1-images/02.Expression-02.png)
 
-#### Testing in the Judge System
+## Testing in the Judge System
 
 Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/503#1](https://judge.softuni.bg/Contests/Practice/Index/503#1).
 
