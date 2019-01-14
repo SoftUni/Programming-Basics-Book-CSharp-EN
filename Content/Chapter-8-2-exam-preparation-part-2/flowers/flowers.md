@@ -1,4 +1,4 @@
-## Problem: Flowers Shop
+# Problem: Flowers Shop
 
 A flowers shop offers 3 types of flowers: **chrysanthemums**, **roses** and **tulips**. The prices depend on the season.
 
@@ -15,7 +15,7 @@ On holidays, prices of all flowers are **increased by 15%.** The following **dis
 
 The price for arranging a bouquet is always **2 lv.** Write a program that calculates the **price of a bouquet**.
 
-### Input Data
+## Input Data
 
 The input is read from the **console** and contains **exactly 5 rows**:
 * The first row contains **the number of purchased chrysanthemums** – an integer within the range [**0 … 200**].
@@ -24,11 +24,11 @@ The input is read from the **console** and contains **exactly 5 rows**:
 * The fourth row indicates **the season** – [**Spring, Summer, Autumn, Winter**].
 * The fifth row specifies **if the day is a holiday** – [**Y - yes / N - no**].
 
-### Output Data
+## Output Data
 
 Print in the console 1 number – **the price of flowers**, formatted up to the second symbol after the decimal point.
 
-### Sample Input and Output
+## Sample Input and Output
 
 | Input | Output | Comments |
 | --- | --- | --- |
@@ -41,3 +41,35 @@ Print in the console 1 number – **the price of flowers**, formatted up to the 
 | Input | Output |
 | --- | --- |
 |10<br>10<br>10<br>Autumn<br>N|101.20|
+
+## Hints and Guidelines
+
+We shall divide the problem into smaller sub-problems, as described below.
+
+### Separating the Constant Values in Variables
+
+After carefully reading the requirements, we understand that once again we need to do **simple calculations**, however this time we will need **additional** logical **conditions**. We need to pay more **attention** to the moment of **making changes** in the final price, in order to be able to properly build the logic of our program. Again, the bold text gives us sufficient **guidelines** on how to proceed. For a start, we will separate the already **defined** values in **variables**, like we did in the previous tasks:
+
+![](/assets/chapter-8-2-images/03.Flowers-01.png)
+
+We will also do the same for the rest of the defined values:
+
+![](/assets/chapter-8-2-images/03.Flowers-02.png)
+
+### Reading the Input Data
+
+Our next subtask is to **read** properly **the input** data from the console. We will do that in the familiar way, but this time we will **combine two** separate functions – one for **reading** a row from the console and another one for its **conversion** into a numeric data type:
+
+![](/assets/chapter-8-2-images/03.Flowers-03.png)
+
+### Preparing the Program Logic
+
+Let's think of the most approprate way to **structure** or programming logic. By the requirements it becomes clear that the path of the program is divided mainly into two parts: **spring / summer** and **autumn / winter**. We can do the separation by conditional statement, by storing variables in advance for the **prices** of the individual flowers, as well as for the **end result**.
+
+![](/assets/chapter-8-2-images/03.Flowers-04.png)
+
+What remains is to perform **a few checks** regarding **the discounts** of the different types of flowers, depending on the season, and to modify the end result. 
+
+## Testing in the Judge System
+
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/517#2](https://judge.softuni.bg/Contests/Practice/Index/517#2).

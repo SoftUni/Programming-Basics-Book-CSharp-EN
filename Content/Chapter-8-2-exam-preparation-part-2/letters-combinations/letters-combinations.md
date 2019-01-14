@@ -1,19 +1,19 @@
-## Problem: Letters Combination
+# Problem: Letters Combination
 
 Write a program that prints in the console **all combinations of 3 letters** within a specified range, by skipping the combinations **containing a letter set from the console**. Finally, print the number of printed combinations.
 
-### Input Data
+## Input Data
 
 The input is read from the **console** and contains **exactly 3 rows**:
 * A small letter from the English alphabet for a beginning of the range – between **'a'** and **'z'**.
 * A small letter from the English alphabet for the end of the range – between the **first letter** and **'z'**.
 * A small letter from the English alphabet – from **'a'** to **'z'** – as the combinations containing this letter are skipped.
 
-### Output Data
+## Output Data
 
 Print on one row **all combinations** corresponding to the requirements, followed by **their number**, separated by an interval.
 
-### Sample Input and Output
+## Sample Input and Output
 
 | Input | Output | Comments |
 | --- | --- | --- |
@@ -26,3 +26,31 @@ Print on one row **all combinations** corresponding to the requirements, followe
 | Input | Output |
 | --- | --- |
 |a<br>c<br>z|aaa aab aac aba abb abc aca acb acc baa bab bac bba bbb bbc bca bcb bcc caa cab cac cba cbb cbc cca ccb ccc 27|
+
+### Reading the Input Data
+
+By requirements, for the last task we have input data on **3 rows**, which are represented by one symbol of the **ASCII table** ([http://www.asciitable.com/](http://www.asciitable.com/)). We could use an already **defined function** in C#, by converting the input data into **`char`** data type, as follows:
+
+![](/assets/chapter-8-2-images/06.Letters-01.png)
+
+### Printing All Symbols from Start to End
+
+Let's think of how we can achieve the **end result**. In case the task requirement is to print all symbols, from the starting to the end one (by skipping a particular letter), what should we do? 
+
+The easiest and most efficient way is to use a **loop**, by passing through **all symbols** and printing those that are **different** from the **letter** that we need to skip. One of the advantages of C# is that we have the opportunity to use a different data type for a loop variable:
+
+![](/assets/chapter-8-2-images/06.Letters-02.png)
+
+The result of running the code is all letters from **а** to **z** included, printed on a single row and separated by intervals. Does this look like the end result of our task? We must find a **way** to print **3 symbols**, as required, instead of **1**. Running such a program very much looks like a slot machine. We often win in slots, if we arrange a few identical symbols on a row. Let's say that the machine has space for three symbols. When we **stop** on a particular **symbol** on the first place, the other two places will **continue** rolling symbols among all possible ones. In our case, **all possible symbols** are the letters from the starting to the end one, entered by the user, and the solution of our program is identical to the way a slot machine works.
+
+### Printing Combination of Three Symbols
+
+We use a **loop** that runs through **all symbols** from the starting to the end letter (included). In **each iteration** of the **first** loop, we run a **second** one with the same parameters (but **only if** the letter of the first loop is valid, i.e. does not match the one that we must exclude, by requirements). In each iteration of the **second** loop, we run **one** more with the **same parameters** and the same **condition**. This way we have three nested loops, as we will print the symbols in the body of the **latter**.
+
+![](/assets/chapter-8-2-images/06.Letters-03.png)
+
+Let's not forget that we also need to print the **total number of valid combinations** that we have found, and they must be printed on the **same row**, separated by an interval.
+
+## Testing in the Judge System
+
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/517#5](https://judge.softuni.bg/Contests/Practice/Index/517#5).
