@@ -541,4 +541,7 @@
   * [Tricks for C\# Developers](Content/Chapter-11-tricks-and-hacks/tricks/tricks.md)
   * [What We Learned in This Chapter?](Content/Chapter-11-tricks-and-hacks/what-we-learned/what-we-learned.md)
 * [Conclusion](Content/Conclusion/overview.md)
+  * [Study Software Engineering in SoftUni](Content/Conclusion/overview/study-software-engineering-in-softuni.md)
+  * [Study Software Engineering Alone](Content/Conclusion/overview/study-software-engineering-alone.md)
+  * [Recommended Resources](Content/Conclusion/overview/recommended-resources.md)
 
