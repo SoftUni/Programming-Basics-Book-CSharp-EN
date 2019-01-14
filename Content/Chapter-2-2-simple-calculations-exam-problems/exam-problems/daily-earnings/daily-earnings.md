@@ -29,3 +29,42 @@ Print **one number** on the console - **the daily earnings in lev**. The result 
 | Input        | Output            | Input         | Output    |
 |-------------|------------------|-------------|------------------|
 |15<br>105<br>1.71|80.24|22<br>199.99<br>1.50|196.63|
+
+## Tips and Tricks
+
+Firstly, we have to analyze the task and think of a way to solve it. Then, we will choose data types and, finally, we will write the code.
+
+### Idea for Solution
+
+Let's first calculate **how much the monthly salary** of Ivan is. We do that by **multiplying the working days per month by his daily earnings**. Firstly, we multiply the number by 12, so as to calculate his salary for 12 months, and then, we multiply it **by 2.5 ** in order to calculate the bonus. After having summed up the two values, we calculate his **annual income**. Then, we **divide 25% of it**. We can do that by multiplying the total income by **0.25** and divide the result by it. Depending on the exchange rate, we **exchange the dollars to leva** and after that we **divide the result by 365 (days per year)**.  
+
+### Choosing Data Types
+
+**The working days** per month are given as **an integer**, therefore, we can declare a variable of **`int` type** to store their value. For both **the earned money** and **the exchange rate of dollar to lev**, we will receive **a floating-point number**, therefore, we will use **`double`**. As **`double`** is the data type with **the higher scope**, and the output should also be **a floating-point number**, we use **`double`** for the other variables that we create as well. 
+
+### Reading the Input Data and Doing the Calculations
+
+Again: after we have an idea on how to solve the problem and we have considered the data types that we are going to use, we can start **writing the program**. As in the previous tasks, we can divide the solution into three smaller tasks: 
+* **Reading the input from the console**.
+* **Doing the calculations**.
+* **Printing the output** on the console.
+
+**We declare the variables** that we are going to use by trying to choose **meaningful names**. With **`Console.ReadLine(…)`** we read the input numbers from the console and we **convert** the input string to **`int`** or **`double`** with **`int/double.Parse(…)`**.
+
+![](/assets/chapter-2-2-images/05.Daily-earnings-01.png)
+
+We do the calculations:  
+
+![](/assets/chapter-2-2-images/05.Daily-earnings-02.png)
+
+We could write an expression that calculates the annual income without brackets as well. As multiplication is an operation that has a higher priority over addition, it will be performed first. Despite that, **writing brackets is recommended** when using more operators, as this way the code is **easily readable** and chances of making a mistake are smaller.
+
+### Printing the Result
+
+Finally, we have to print the result on the console. We notice that **the number has to be rounded up to the second symbol after the decimal point**. In order to do that, we can use a **placeholder - an item that will be replaced by a particular value when printing**. In C#, a digit surrounded by curly brackets is used for a **placeholder**. As **in programming counting starts from 0**, the expression **`{0}`** means that it will be replaced by the first given argument. We can format an integer or a floating-point number by using **F** or **f**. That is followed by a whole positive number, which specifies the number of digits after the point (you can read more about formatting here: ([Svetlin Nakov, Veselin Kolev and team: "Programming Basics with C#", page. 155-158](http://www.introprogramming.info/intro-csharp-book/read-online/glava4-vhod-i-izhod-ot-konzolata/#_Toc298863992)):  
+
+![](/assets/chapter-2-2-images/05.Daily-earnings-03.png)
+
+## Testing in the Judge system
+
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/505#4](https://judge.softuni.bg/Contests/Practice/Index/505#4).
