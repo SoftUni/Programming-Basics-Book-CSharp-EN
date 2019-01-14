@@ -1,10 +1,10 @@
-## Exercises: Simple Conditions
+# Exercises: Simple Conditions
 
-Now let's practice the lessons learned in this chapter with a few exercises.
+Now let's **practice** the lessons learned in this chapter about of conditional statements **`if`** and **`if-else`**. We will solve a few **practical exercises**.
 
-### Empty Visual Studio solution (Blank Solution)
+## Empty Visual Studio Solution (Blank Solution)
 
-We create a (**Blank Solution**) in Visual Studio to organize better the task solutions from the exercise - each task will be in a separate project and all projects will be in a common solution.
+At the start we create a **Blank Solution** in Visual Studio to organize better the task solutions from the exercise - each task will be in a separate project and all projects will be in a common solution.
 
 We run Visual Studio and create a new **Blank Solution:** [**File**] -> [**New**] -> [**Project**].
 
@@ -14,6 +14,8 @@ Choose from the dialog box [**Templates**] -> [**Other Project Types**] -> [**Vi
 
 ![](/assets/chapter-3-images/00.Visual-studio-02.png)
 
-Now we have an empty Visual Studio Solution (no projects in it):
+Now we have an **empty Visual Studio Solution** (no projects in it):
 
 ![](/assets/chapter-3-images/00.Visual-studio-03.png)
+
+We shall use this solution to create a **separate project** for each of the problems, which we will solve as exercises in this chapter.
