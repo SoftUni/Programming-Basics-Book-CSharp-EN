@@ -1,4 +1,4 @@
-## Visual Studio Shortcuts
+# Visual Studio Shortcuts
 
 In the previous section we mentioned two of the combinations, which are for formatting code. One of them [**CTRL + K + D**] was for **formatting the whole code in a file**, and the second [**CTRL + K + F**] serves if we want to **format just a piece of the code**. These combinations are called **shortcuts** and now we will give more thorough information for them.
 

@@ -1,5 +1,0 @@
-### Naming Projects and Files
-
-It is reccomended to use a descrpitive name **for naming projects and files**, which suggests **the role** of the file / project of the matter and in the same time the **`PascalCase` convention** is also reccomended. This is a **convention for naming** elements, in which every word, including the first one, starts with **an uppercase character**, for example **`ExpressionCalculator`**.
-
-Example: this course starts with a **First steps in coding** lecture, therefore an exemplary name for the solution for this lecture can be **`FirstStepsInCoding`**. The same convention applies for the files in a project. If we take for example the first problem in the **First steps in coding** lecture, it is called **Hello World**, therefore our file in the project will be called **`HelloWorld`**.
