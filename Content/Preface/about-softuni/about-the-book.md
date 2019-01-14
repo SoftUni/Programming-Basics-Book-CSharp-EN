@@ -10,7 +10,7 @@ Everything started with the mass **free basic programming courses** that have be
 
 The free courses at SoftUni for a start at programming, are probably the most extensive ones ever conducted in Bulgaria. Until 2017 the course in programming basics **was held over 150 times, in around 40 Bulgarian towns and cities** in person and multiple times online with over 50 000 participants. It was completely natural to write a **book** for the tens of thousands participants at the SoftUni basic programming course. On the principle of free software and free knowledge, Svetlin Nakov led a team of volunteers and started this open-source project. At first the idea was to create a book with the basics of C# programming language and then other books with other programming languages.
 
-The book was initially written in **Bulgarian language** and later translated into **English**.
+The book was initially written in **Bulgarian language** in 2017 and later translated into **English** in 2019.
 
 The project is part of the hard work of the **[Software University Fondation](http://softuni.foundation)** to create and distribute an open learning content to teach software engineers and IT professionals.
 
