@@ -1,4 +1,4 @@
-### Problem: Areas of Figures
+# Problem: Areas of Figures
 
 Write a program that **inputs the sizes of a geometric figure** and **calculates its area**. The figures are four types: **square**, **rectangle**, **circle** and **triangle**.
 
@@ -10,7 +10,7 @@ The first line of the input reads the type of the figure (`square`, `rectangle`,
 
 Round the result up to the **third digit after the decimal point**.
 
-#### Sample Input and Output
+## Sample Input and Output
 
 | Input | Output |
 | --- | ---- |
@@ -19,6 +19,6 @@ Round the result up to the **third digit after the decimal point**.
 | circle<br>6 | 113.097 |
 | triangle<br>4.5<br>20 | 45 |
 
-#### Testing in the Judge System
+## Testing in the Judge System
 
 Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/506#12](https://judge.softuni.bg/Contests/Practice/Index/506#12).

@@ -1,8 +1,8 @@
-### Problem: Typing a Digit in Words
+# Problem: Typing a Digit in Words
 
 Write a program that inputs **an integer in the range** [**0 ... 9**] and outputs it **in words** in English. If the number is out of range, print "**number too big**".
 
-#### Sample Input and Output
+## Sample Input and Output
 
 | Input | Output |
 | --- | ---- |
@@ -11,10 +11,10 @@ Write a program that inputs **an integer in the range** [**0 ... 9**] and output
 | 9 | nine |
 | 10 | number too big |
 
-#### Tips and Tricks
+## Tips and Tricks
 
 We can use a series of **`if-else`** statements to examine the possible **11 cases**.
 
-#### Testing in the Judge System
+## Testing in the Judge System
 
 Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/506#4](https://judge.softuni.bg/Contests/Practice/Index/506#4).
