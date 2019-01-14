@@ -1,4 +1,4 @@
-## Problem: Five Special Letters
+# Problem: Five Special Letters
 
 Two numbers are given: **start** and **end**. Write a program that **generates all combinations of 5 letters**, each of the sets **`{'a', 'b', 'c', 'd', 'e'}`** so that the weight of these 5 letters is a number in the range **`[start … end]`**, inclusive. Print them in alphabetical order, in a row, separated by a space.
 
@@ -24,7 +24,7 @@ First **we remove the repeating letters** and get **`bcd`**. Then we apply the f
 
 **Another example**: ** **`weight("cadae") = weight("cade") = 1 * 47 + 2 * 5 + 3 * 7 + 4 * (-32) = -50`**.
 
-### Input Data
+## Input Data
 
 The input data is read from the console. They consist of two numbers:
    * The number for **start**.
@@ -32,17 +32,17 @@ The input data is read from the console. They consist of two numbers:
 
 Input data will always be valid and will always be in the format described. No need to check.
 
-### Output Data
+## Output Data
 
 The result should be printed on the console as a sequence of strings, **arranged in alphabetical order**. Each string must be separated from the next by a single space. If the weight of any of the 5 letter strings does not exist within the specified interval, print "**No**".
 
-### Constraints
+## Constraints
 
    * Numbers for **start** and **end** are integers in the range [**-10000 … 10000**].
    * Allowed program time: 0.25 seconds.
    * Allowed memory: 16 MB.
 
-### Sample Input and Output
+## Sample Input and Output
 
 | Input | Output       | Comments             |
 | ------ | ------------- | ---------------------- |
@@ -59,3 +59,61 @@ The result should be printed on the console as a sequence of strings, **arranged
 | Input | Output  |
 | ------ | -------- |
 |300<br>400| No|
+
+### Reading the Input Data
+
+As every problem, we start the solution with **reading and processing the input data**. In this case, we have **two integers** which can be processed with a combination of the **`int.Parse(…)`** and **`Console.ReadLine()`** methods.
+
+![](/assets/chapter-9-images/03.Five-special-letters-01.png)
+
+We have several main points in the problem - **generating all combinations** with a length of 5 including the 5 letters, **removing repeating letters** and **calculating weight** for a simplified word. The answer will consist of every word whose weight is within the given interval **`[firstNumber, secondNumber]`**.
+
+### Generate Combinations
+
+In order to generate **all combinations of length 1** using 5 symbols, we would use a **loop from 0..4**, as each number of the loop we want to match one character. In order to generate **any combinations of length 2** using 5 characters (i.e. "aa", "ab", "ac", …, "ba", …), we would do **two nested loops each scrolling through the digits 0 to 4**, again, so that each digit matches a specific character. We will repeat this step 5 times, so we finally have 5 nested loops with indexes **`i1`**, **`i2`**, **`i3`**, **`i4`** and **`i5`**.
+
+![](/assets/chapter-9-images/03.Five-special-letters-02.png)
+
+### Remove Repetitive Letters
+
+Once we have the finished string, we have to remove all the repeating symbols. We will do this by adding **the letters from left to right in a new string and each time before adding a letter, we will check if it already exists** - if it is, we will skip it and if it is not, we will add it. To begin with, we will add the first letter to the starting string.
+
+![](/assets/chapter-9-images/03.Five-special-letters-05.png)
+
+Then we will do the same with the other 4, checking each time with the following condition and the **`.IndexOf(…)`** method. This can be done with a loop by **`fullWord`** (leaving it to the reader for exercise), and it can be done in the lazy way with copy-paste.
+
+![](/assets/chapter-9-images/03.Five-special-letters-06.png)
+
+The **`.IndexOf(…)`** method returns **the index of the particular element if it is found or `-1` if the item is not found**. Therefore, every time we receive **`-1`**, it means that we still do not have this letter in the new string with unique letters and we can add it, and if we get a value other than **`-1`**, will mean we already have the letter and will not add it.
+
+### Calculate Weight
+
+Calculating the weight is simply **going through the unique word** (**`word`**) obtained in the last step, and for each letter we need to take its weight and multiply it by the position. For each letter, we need to calculate how much we will multiply its position, for example by using the **`switch`** construction.
+
+![](/assets/chapter-9-images/03.Five-special-letters-07.png)
+
+Once we have the value of that letter, we should **multiply it by its position**. Because the indexes in the string differ by 1 from the actual positions, i.e. index 0 is position 1, index 1 is position 2, etc., we will add 1 to the indexes.
+
+![](/assets/chapter-9-images/03.Five-special-letters-08.png)
+
+All intermediate results obtained must be added to the **total amount for each letter of the 5-letter combination**.
+
+### Preparing the Output
+
+Whether a word needs to be printed is determined by its weight. We need a condition to determine if **the current weight is in the range** [**start … end**] passed to the input at the start of the program. If this is the case, we print the **full** word (**`fullWord`**).
+
+**Be careful** not to print the word with unique letters. It was only needed to calculate the weight!
+
+The words are **separated with an interval** and will accumulate them in an intermediate variable **`result`**, which is defined as an empty string at the beginning.
+
+![](/assets/chapter-9-images/03.Five-special-letters-09.png)
+
+### Final Touches
+
+The condition is met **unless we do not have a single word in the entered interval**. In order to find out if we have found a word, we can simply check whether the string **`result`** has its initial value (i.e., an empty string), if it does, we print **`No`**, otherwise we print the whole string without the last interval (using the **`.Trim ()`**) method.
+
+![](/assets/chapter-9-images/03.Five-special-letters-10.png)
+
+## Testing in the Judge System
+
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/518#2](https://judge.softuni.bg/Contests/Practice/Index/518#2).

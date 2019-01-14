@@ -1,4 +1,4 @@
-## Problem: Passion Shopping Days
+# Problem: Passion Shopping Days
 
 Lina has a real shopping passion. When she has some money, she immediately goes to the closest shopping center (mall) and tries to spend as much as she can on clothes, bags and shoes. But her favorite thing are winter sales. Our task is to analyze her strange behavior and  **calculate the purchases** that Lina does when she enters the mall, as well as the **money she has left** when the shopping is over.
 
@@ -14,13 +14,13 @@ If some of the values of her purchases is **higher** than her current available 
 
 The shopping ends when the "**`mall.Exit`**" command is received. When this happens, you need to **print the number of purchases made and the money** that Lina has left.
 
-### Input Data
+## Input Data
 
 The input data must be read from the console. The **first row** of the input will indicate the **amount that Lina has before starting to purchase**. On each of the following rows there will be a particular command. After you receive the command **"mall.Enter"**, on each of the following rows you will receive strings containing **information regarding the purchases / actions** that Lina wants to perform. These strings will keep being passed, until the "**`mall.Exit`**" command is received.
 
 Always only one "**`mall.Enter`**" command will be received, as well as only one "**`mall.Exit`**" command.
 
-### Output Data
+## Output Data
 
 The output data must be **printed in the console**.
 When shopping is over, the console must print individual output depending on what purchases have been made.
@@ -29,7 +29,7 @@ When shopping is over, the console must print individual output depending on wha
 
 **The funds** must be printed with **accuracy of up to 2 symbols after the decimal point**.
 
-### Constraints
+## Constraints
 
 - Money is a **float** number within: [**0 - 7.9 x 10<sup>28</sup>**].
 - The number of strings between "**`mall.Enter`**" and "**`mall.Exit`**" will be within the range: [**1-20**].
@@ -37,7 +37,7 @@ When shopping is over, the console must print individual output depending on wha
 - Allowed execution time: **0.1 секунди**.
 - Allowed memory: **16 MB**.
 
-### Sample Input and Output
+## Sample Input and Output
 
 | Input                       | Output                              | Comments |
 |----------------------------|------------------------------------|-----------|
@@ -46,3 +46,82 @@ When shopping is over, the console must print individual output depending on wha
 | Input | Output | Input | Output |
 |------|-------|------|-------|
 | 110<br>mall.Enter<br>%<br>mall.Exit|1 purchases. Money left: 55.00 lv.| 100<br>mall.Enter<br>Ab<br>\*\*<br>mall.Exit|2 purchases. Money left: 58.10 lv.|
+
+## Tips and Tricks
+
+We will separate the solution of the problem into three main parts:
+ - Processing of the **input**.
+ - **Algorithm** for solving the problem. 
+ - Formatting the **output**.
+
+Let's examine each of the parts in details.
+
+### Processing the Input Data
+
+The input of our task consists of a few components:
+- On the **first row we have all the money** that Lina has for shopping.
+- On **each of the following rows** we will have some kind of **command**.
+
+The first part of reading the input is trivial:
+
+![](/assets/chapter-9-2-images/01.Passion-days-01.png)
+
+But the second one contains a detail that we need to take into consideration. The requirements says the following:
+
+> On each of the following rows there will be a particular command. After you receive the command **"mall.Enter"**, on each of the following rows you will receive strings containing information regarding the purchases / actions that Lina wants to perform.
+
+This is where we need to take into consideration the fact that from the **second row on, we need to start reading commands**, but **only after we receive** the command **"mall.Enter"**, we must start processing them. How can we do this? Using a **`while`** or a **`do-while`** loop is a good option. Here is an exemplary solution of how **to skip** all commands before receiving the command **"mall.Enter"**:
+
+![](/assets/chapter-9-2-images/01.Passion-days-02.png)
+
+Here is the place to point out that calling **`Console.ReadLine()`** after the end of the loop is used for **moving to the first command** for processing.
+
+
+### Reading the Commands
+
+The algorithm for solving the problem is a direct one - we continue **reading commands** from the console, **until the command "mall.Exit" is passed**. In the meantime, we **process** each symbol (**`char`**) of each one of the commands according to the rules specified in the task requirements, and in parallel, we **modify the amount** that Lina has, and **store the number of purchases**.
+
+Let's examine the first two problems for our algorithm. The first problem concerns the way we read the commands until we reach the **"mall.Exit"** command. The solution that we previously saw uses a **`while-loop`**. The second problem for the task is to **access each symbol** of the command passed. Keeping in mind that the input data with the commands is **`string`** type, the easiest way to access each symbol inside the strings is via a **`foreach` loop**.
+
+Here is what using two loops of this kind would look like:
+
+![](/assets/chapter-9-2-images/01.Passion-days-03.png)
+
+### Processing Command Symbols
+
+The next part of the algorithm is to **process the symbols from the commands**, according to the following rules in the requirements:
+
+> - If the symbol is a **capital letter**, Lina gets a 50% discount, which means that you must decrease the money she has by 50% of the numeric representation of the symbol from the ASCII table.
+> - If the symbol is a **small letter**, Lina gets a 70% discount, which means that you must decrease the money she has by 30% of the numeric representation of the symbol from the ASCII table.
+> - If the symbol is **"%"**,  Lina makes a purchase that decreases her money in half.
+> - If the symbol is **"\*"**, Lina withdraws money from her debit card and adds 10 lv to her available funds.
+> - If the symbol is **different from all of the aforementioned**, Lina just makes a purchase without discount, and in this case you should simply subtract the value of the symbol from the ASCII table from her available funds.
+
+Let's examine the problems that we will be facing in the first condition. The first one is how to distinguish if a particular **symbol is a capital letter**. We can use one of the following ways:
+* Keeping in mind the fact that the letters in the alphabet have a particular order, we can use the following condition **`action >= 'A' && action <= 'Z'`**, in order to check if our symbol is within the capital letters range.
+* We can use the **`char.IsUpper(..)`** function.
+
+The other problem is how **to skip a particular symbol**, if it is not an operation that requires more money that Lina has. This is doable using the **`continue`** construction.
+
+An exemplary condition for the first part of the requirements looks like this:
+
+![](/assets/chapter-9-2-images/01.Passion-days-04.png)
+
+**Note**: **`purchases`** is a variable of **`int`** type, in which we store the number of all purchases.
+
+We believe the reader should not have difficulties implementing all the other conditions because they are very similar to the first one.
+
+### Formatting the Output
+
+In the end of our task we must **print** a particular **output**, depending on the following condition:
+
+> - If no purchases have been made – "**No purchases. Money left: {remaining funds} lv.**"
+> - If at least one purchase is made - "**{number of purchases} purchases. Money left: {remaining funds} lv.**"
+
+The printing operations are trivial, as the only thing we need to take into consideration is that **the amount has to be printed with accuracy of up to 2 symbols after the decimal point**.
+
+How can we do that? We will leave the answer to this question to the reader.
+
+## Testing in the Judge System
+
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/519#0](https://judge.softuni.bg/Contests/Practice/Index/519#0).
