@@ -1,3 +1,3 @@
 # Chapter 10. Methods
 
-In the current chapter we will learn about **methods** and we will learn what they **represent**, and which are the **base concepts** when working with them. We will also learn why it is **good practice** to use them, how to **declare** and **call** them. We will look at **parameters** and **return value of a method**, and also how to use the returned value. At the end of the chapter we will look at **the estabished practices** when using methods.
+In the current chapter we will learn about **methods** and we will learn what they **represent**, and which are the **base concepts** when working with them. We will also learn why it is **good practice** to use them, how to **declare** and **call** them. We will look at **parameters** and **return value of a method**, and also how to use the returned value. At the end of the chapter we will look at **the established practices** when using methods.
