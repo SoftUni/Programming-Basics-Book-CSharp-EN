@@ -29,6 +29,9 @@ The book "**Programming Basics with C#**" introduces the readers to writing **pr
  * [10. Methods](Content/Chapter-10-methods/overview.md)
  * [11. Tricks and Hacks](Content/Chapter-11-tricks-and-hacks/overview.md)
  * [Conclusion](Content/Conclusion/overview.md)
+ 
+Download the book "Programming Basics with C#" in PDF format:
+* <a href="#">Programming-Basics-CSharp-v2019.pdf</a> (still not ready)
 
 This book is available in several versions in various programming languages:
  * [Programming Basics with C# (Bulgarian)](https://csharp-book.softuni.bg)
