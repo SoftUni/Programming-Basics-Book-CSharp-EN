@@ -18,5 +18,5 @@ switch (selector)
 ```
 
 The structure consists of
- Selector - an expression that calculates a particular value. The selector type can be an integer, string or enum.
+ а Selector - an expression that calculates a particular value. The selector type can be an integer, string or enum.
  Multiple `case` labels followed by commands, ending in a `break`.
