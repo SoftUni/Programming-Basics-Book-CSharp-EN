@@ -1,12 +1,12 @@
 # Conclusion
 
-Ако сте **прочели цялата** книга и сте решили всички задачи от упражненията и сте стигнали до настоящото заключение, заслужавате **поздравления**! Вече сте направили **първата стъпка** от изучаването на **професията на програмиста**, но имате още доста **дълъг път** докато станете **истински добри** и превърнете **писането на софтуер** в своя **професия**.
+If you have **read the entire** book and you've solved all the problems from the exercises and reached the present conclusion, **congratulations**! You've already made the **first step** in learning the **profession of a programmer**, but there is a **long way** to go until you become **really good** and make **software writing** your **profession**.
 
-Спомнете си за **[четирите основни групи умения](chapter-00-preface.md#become-a-developer)**, които всеки програмист трябва да притежава, за да работи своята професия:
- - Умение #1 – **писане на програмен код** (20% от уменията на програмиста) - покриват се до голяма степен от тази книга, но трябва да изучите още базови структури от данни, класове, обекти, функции, стрингове и други елементи от писането на код.
- - Умение #2 – **алгоритмично мислене** (30% от уменията на програмиста) - покриват се частично от тази книга и се развиват най-вече с решаване на голямо количество разнообразни алгоритмични задачи.
- - Умение #3 – **фундаментални знания за професията** (25% от уменията на програмиста) - усвояват се за няколко години с комбинация от учене и практикуване (четене на книги, гледане на видео уроци, посещаване на курсове и най-вече писане на разнообразни проекти от различни технологични области).
- - Умение #4 - **езици за програмиране и софтуерни технологии** (25% от уменията на програмиста) - усвояват се продължително време, с много практика, здраво четене и писане на проекти. Тези знания и умения бързо остаряват и трябва непрестанно да се актуализират. Добрите програмисти учат всеки ден нови технологии.
+Remember the **[four main groups of skills](chapter-00-preface.md#become-a-developer)** that each programmer must have in order to work in the industry:
+ - Skill #1 – **writing the program code** (20% of programmer's skills) - covered to a large degree by this book, but you must learn additional basic data structures, classes, functions, strings and other elements of code writing.
+ - Skill #2 – **algorithmic thinking** (30% of programmer's skills) - covered partially by this book and developed mostly by solving a large amount of diverse algorithmic problems.
+ - Skill #3 – **fundamental understanding of the profession** (25% of programmer's skills) - acquired for a few years in combination with learning and practice (reading books, watching video lessons, attending courses and mostly by writing diverse project in various technological areas).
+ - Skill #4 - **programming languages and software technologies** (25% of programmer's skills) - acquired in a long period of time, by a lot of practice, consistent reading and writing projects. Such knowledge and skills бързо остаряват и трябва непрестанно да се актуализират. Добрите програмисти учат всеки ден нови технологии.
  
 ## This Book is Only the First Step!
 
