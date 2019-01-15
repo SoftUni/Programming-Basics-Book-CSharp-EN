@@ -1,6 +1,6 @@
 # Greatest Common Divisor (GCD)
 
-Before proceeding to the next problem, we need to get familiar with the definition of **the greatest common divisor** (**GCD**).
+Before proceeding to the next problem, we will get familiar with the definition of **the greatest common divisor** (**GCD**), widely used in math and number theory, and will learn how to calculate GCD.
 
 **Definition of GCD**: the greatest common divisor of two **natural** numbers **a** and **b** is the largest number that divides **both** **a** and **b** without reminder.
 
