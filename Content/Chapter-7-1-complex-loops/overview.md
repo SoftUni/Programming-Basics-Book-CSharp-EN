@@ -17,3 +17,25 @@ In the current chapter, we will also understand what the operator **`break`** is
   https://www.youtube.com/watch?v=IovQ8OTnYuQ</a>.
 </div>
 
+## Introduction by Example
+
+**Loops** repeat a piece of code many times while a condition holds and usually change the so called "loop variable" after each iteration. Example of `for` loop from 10 down to 0, using a **step -2**:
+```csharp
+for (int i = 10; i >= 0; i-=2)
+    Console.Write(i + " ");
+// Output: 10 8 6 4 2 0
+```
+
+Another example is a `do-while` loop, that calculates the minimum number **k**, such that 2<sup>**k**</sup> > 1,000,000,000:
+```csharp
+int num = 1, count = 0;
+do
+{
+    count++;
+    num = num * 2;
+} while (num <= 1000000000);
+Console.WriteLine("2^{0} = {1}", count, num);
+// Output: 2^30 = 1073741824
+```
+
+Let's get into details how to use `for` loops with a step, how to use `while` loops, how to use `do-while` loops and how to design a program logic, based on infinite loops with `break`.
