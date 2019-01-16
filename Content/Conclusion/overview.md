@@ -10,15 +10,15 @@ Remember the **[four main groups of skills](chapter-00-preface.md#become-a-devel
  
 ## This Book is Only the First Step!
 
-**The present** book in programming basics is just the **first step** in building the skills of a programmer. If you were able to solve **all problems**, this means you have **obtained valuable knowledge** in the programming principles with C# on a **basic level**. You are about to start **in-depth** studying of programming, and develop **your algorithmic thinking**, and then add **technological knowledge** regarding the C# language and the .NET eco system (.NET Framework, .NET Core, Entity Framework, ASP.NET, etc.), front-end technologies (HTML, CSS, JavaScript) and many other concepts, technologies and instruments for software development.
+**The present** book on programming basics is just the **first step** in building the skills of a programmer. If you were able to solve **all problems**, this means you have **obtained valuable knowledge** in the programming principles with C# on a **basic level**. You are about to start **in-depth** studying of programming, and develop **your algorithmic thinking**, and then add **technological knowledge** regarding the C# language and the .NET eco system (.NET Framework, .NET Core, Entity Framework, ASP.NET, etc.), front-end technologies (HTML, CSS, JavaScript) and many other concepts, technologies and instruments for software development.
 
-If you were able **not able** to solve all problems or a large part of them, go back and solve them! Remember that **becoming a programmer** requires **a lot of work and efforts**. Тази професия не е за мързеливци. Без **да практикувате сериозно** програмирането години наред, няма как да го научите!
+If you were **not able** to solve all problems or a large part of them, go back and solve them! Remember that **becoming a programmer** requires **a lot of work and efforts**. This profession is not for lazy people. There is no way to learn it, unless **you seriously practice** programming for years!
 
-Както вече обяснихме, първото и най-базово умение на програмиста е **да се научи да пише код** с лекота и удоволствие. Именно това е мисията на тази книга: да ви научи да кодите. Препоръчваме ви освен книгата, да запишете и **[практическия курс "Основи на програмирането" в SoftUni](https://softuni.bg/apply)**, който се предлага напълно безплатно в присъствена или онлайн форма на обучение.
+As we already explained, the first and basic skill of a programmer is **to learn to write code** with ease and pleasure. This is namely the mission of this book: to teach you how to code. We recommend you, besides reading the book, to enroll in the **[practical course "Programming Basics" at SoftUni](https://softuni.bg/apply)**, which is offered for free, in on-site or online form of training.
 
 ## How to Proceed After This Book?
 
-С тази книга сте **поставили стабилни основи**, благодарение на които ще ви е лесно да продължите да се развивате като програмисти. Ако се чудите как да продължите развитието си, помислете за следните няколко възможности:
- - да учите за **софтуерен инженер в SoftUni** и да направите програмирането своя професия;
- - да продължите развитието си като програмист **по свой собствен път**, например чрез самообучение или с някакви онлайн уроци;
- - да си **останете на ниво кодер**, без да се занимавате с програмиране по-сериозно.
+This book **gives you solid grounds**, thanks to which it will be easy for you to continue developing as programmers. If you wonder how to continue your development, you have the following possibilities:
+ - to study for a **software engineer at SoftUni** and make programming your profession;
+ - to continue developing as a programmer **in your own way**, for example through self-training or via online lessons;
+ - to **stay at coder level**, without going more seriously into programming.
