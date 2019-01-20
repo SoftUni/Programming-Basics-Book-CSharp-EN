@@ -2,26 +2,26 @@
 
 A **huge amount of resources** are available on the Web for developers: online trainings, courses, tutorials, books, interactive training sites, etc.
 
-We cannot mention all of them, because they change over the time and because the list might be huge. What we recommend is to **join the developer communities** in your region, because this will help you a lot when you study.
+We can not mention all of them, because they change over the time and because the list might be huge. What we recommend is to **join the developer communities** in your region, because this will help you a lot when you study.
 
 ## Online Communities for Beginners in Programming
 
-Независимо по кой път сте поели, ако ще се занимавате сериозно с програмиране, е препоръчително да следите специализирани **онлайн форуми, дискусионни групи и общности**, от които можете да получите помощ от свои колеги и да следите новостите от софтуерната индустрия.
+Regardless of the path you have chosen, if you are seriously involved in programming, we recommend to track specialized **online forums, discussion groups and communities**, from which you can get assistance by your colleagues and track the novelties in the software industry.
 
-Ако ще учите програмиране сериозно, **обградете се с хора, които се занимават с програмиране** сериозно. Присъединете се към **общности от софтуерни разработчици**, ходете по софтуерни конференции, ходете на събития за програмисти, намерете си приятели, с които да си говорите за програмиране и да си обсъждате проблемите и бъговете, намерете среда, която да ви помага. В София и в големите градове има безплатни събития за програмисти, по няколко на седмица. В по-малките градове имате Интернет и достъп до цялата онлайн общност.
+If you will study programming seriously, **surround yourselves with people who are involved in programming** seriously. Join **communities of software developers**, attend software conferences, go to events for programmers, find friends with whom you can talk about programming and discuss problems and bugs, find environment that can help you. In Sofia and other cities there are free events for programmers, a few times a week. In smaller localities you have the Internet and an access to the entire online community.
 
-Ето и някои препоръчителни **ресурси**, които ще са от полза за развитието ви като програмист:
-* https://softuni.bg - официален **уеб сайт на SoftUni**. В него ще намерите безплатни (и не само) курсове, семинари, видео уроци и обучения по програмиране, софтуерни технологии и дигитални компетенции.
-* https://softuni.bg/forum - официален **форум на SoftUni**. Форумът за дискусии на SoftUni е изключително позитивен и изпълнен с желаещи да помагат колеги. Ако зададете смислен въпрос, свързан с програмирането и изучаваните в SoftUni технологии, почти сигурно ще получите смислен отговор до минути. Опитайте, нищо не губите.
-* https://www.facebook.com/SoftwareUniversity/ - официална **Facebook страница на SoftUni**. От нея ще научавате за нови курсове, семинари и събития, свързани с програмирането и разработката на софтуер.
-* http://www.introprogramming.info - официален уеб сайт на **книгите "Въведение в програмирането"** със **C#** и **Java** от д-р Светлин Наков и колектив. Книгите разглеждат в дълбочина основите на програмирането, базовите структури от данни и алгоритми, ООП и други базови умения и са отлично продължение за четене след настоящата книга. Обаче **освен четене, трябва и здраво писане**, не забравяйте това!
-* http://stackoverflow.com - **Stack Overflow** е един от **най-големите** в световен мащаб дискусионни форуми за програмисти, в който ще получите помощ за всеки възможен въпрос от света на програмирането. Ако владеете английски език, търсете в StackOverflow и задавайте въпросите си там.
-* https://fb.com/groups/bg.developers - групата "**Програмиране България @ Facebook**" е една от най-големите онлайн общности за програмисти и дискусии по темите на софтуерната разработка на български език във Facebook.
-* https://www.meetup.com/find/tech/ - потърсете **технологични срещи (tech meetups)** около вашия град и се включете в общностите, които харесвате. Повечето технологични срещи са безплатни и новобранци са добре дошли.
-* Ако се интересувате от ИТ събития, технологични конференции, обучения и стажове, разгледайте и по-големите **сайтове за ИТ събития** като http://iteventz.bg и http://dev.bg.
+Here are some recommended **resources** that will be useful for your development as a programmer:
+* https://softuni.bg - official **website of SoftUni**. In it you will find free (and not only) courses, seminars, video tutorials and trainings in programming, software technologies and digital competences.
+* https://softuni.bg/forum - official **forum of SoftUni**. The discussions forum of SoftUni is exceptionally positive and full of colleagues who would like to help. If you ask a reasonable question related to programming and the technologies studied at SoftUni, you will almost certainly get a reasonable answer within a few minutes. Try it, you will not lose anything.
+* https://www.facebook.com/SoftwareUniversity/ - official **Facebook page of SoftUni**. By it you will learn for new courses, seminars and events related to programming and software development.
+* http://www.introprogramming.info - official website of the **books "Programming Basics"** with **C#** and **Java** by Dr. Svetlin Nakov and his team. The books examine in-depth programming basics, basic data structures and algorithms, object-oriented programming, and other basic skills, and are an excellent continuation for reading after the current book. However, **besides reading, you need to do intense code writing**, do not forget that!
+* http://stackoverflow.com - **Stack Overflow** is one of the **widest** discussion forums for programmers worldwide, where you will find assistance for any possible question in the world of programming. If you are fluent in English, look up at StackOverflow and ask your questions there.
+* https://fb.com/groups/bg.developers - the group "**Bulgaria Programming @ Facebook**" is one of the largest online communities for programmers and discussions on the topics of software development in Bulgarian language on Facebook.
+* https://www.meetup.com/find/tech/ - look for **tech meetups** around your city and involve in communities that you like. Most of the tech meetups are free and newbies are welcome.
+* If you are interested in IT events, tech conferences, trainings and internships, take a look at the large **IT events websites**, such as http://iteventz.bg and http://dev.bg.
 
 ## Good Luck to All!
 
-От името на целия авторски колектив ви **пожелаваме неспирни успехи в професията и в живота**! Ще сме невероятно щастливи, ако с наша помощ сте се **запалили по програмирането** и сме ви вдъхновили да поемете смело към професията "софтуерен инженер", която ще ви донесе добра работа, която да работите с удоволствие, качествен живот и просперитет, като и страхотни перспективи за развитие и възможности да правите значими проекти с вдъхновение и страст.
+On behalf of the entire authors' team, we **wish you endless success in the profession and in your life**! We will be really happy if we have helped you get **passionate in programming** and we have inspired you to go bravely working towards becoming a "software engineer", which will bring you a good job that you will work with pleasure, give you a quality life and prosperity, as well as amazing perspectives for development and possibilities for making impressive projects with inspiration and passion.
 
-<p align="right"><i>София, 21 май 2017 г.</i></p>
+<p align="right"><i>Sofia, May 21, 2017</i></p>
