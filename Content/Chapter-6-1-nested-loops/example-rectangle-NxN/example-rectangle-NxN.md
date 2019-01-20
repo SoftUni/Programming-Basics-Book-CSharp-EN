@@ -1,4 +1,4 @@
-### Example: Rectangle Made Out of N x N Stars
+### Example: Rectangle Made of N x N Stars
 
 Write a program that gets a positive integer **n** and prints in the console **a rectangle made out of N x N stars**.
 
