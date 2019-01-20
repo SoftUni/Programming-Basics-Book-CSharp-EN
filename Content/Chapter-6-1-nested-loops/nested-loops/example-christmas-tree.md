@@ -1,6 +1,6 @@
 ### Example: Christmas Tree
 
-Write a program, which takes a number **n** (1 ≤ n ≤ 100) and prints a Christmas tree with height **n+1**.
+Write a program that takes a number **n** (1 ≤ n ≤ 100) and prints a Christmas tree with height of **n+1**.
 
 |Input|Output|Input|Output|
 |---|---|---|---|
@@ -12,7 +12,7 @@ Write a program, which takes a number **n** (1 ≤ n ≤ 100) and prints a Chris
 
 #### Hints and Guidelines
 
-From the examples we see that **the Christmas tree** can be **divided** into **three** logical parts. **The first** part is **the stars and the white spaces before and after them**, **the middle** part is **` | `**, and **the last** part is again **stars**, but this time there are **white spaces** only **before** them. The printing can be done with only **one loop** and the constructor **`new string(…)`**, which we will use once for the stars and once for the white spaces. 
+From the examples we see that **the Christmas tree** can be **divided** into **three** logical parts. **The first** part is **the stars and the white spaces before and after them**, **the middle** part is **` | `**, and **the last** part is again **stars**, but this time there are **white spaces** only **before** them. The printing can be done with only **one loop** and the **`new string(…)`** constructor, which we will use once for the stars and once for the white spaces. 
 
 ![](/assets/chapter-6-images/07.Christmas-tree-01.png)
 
