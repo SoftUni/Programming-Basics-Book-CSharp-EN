@@ -1,4 +1,4 @@
-# \* Problem: A Square Made Out of Stars
+# \* Problem: A Square Made of Stars
 
 Write a C# console program that **reads** from the console **an integer N** and **prints** on the console **a square made out of N stars**, like in the examples below.
 
