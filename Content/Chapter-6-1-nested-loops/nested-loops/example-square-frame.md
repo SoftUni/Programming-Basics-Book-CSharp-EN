@@ -1,6 +1,6 @@
-### Example: A Square Frame
+### Example: Square Frame
 
-Write a program, which takes a positive integer **n** and draws on the console **a square frame** with a size of **n \* n**.
+Write a program that takes a positive integer **n** and draws on the console **a square frame** with a size of **n \* n**.
 
 |Input|Output|Input|Output|
 |---|---|---|---|
@@ -15,7 +15,7 @@ Write a program, which takes a positive integer **n** and draws on the console *
 We can solve the problem in the following way:
 * We read from the console the number **`n`**.
 * We print **the upper part**: first a **`+`** sign, then **n-2** times **`-`** and in the end a  **`+`** sign.
-* We print **the middle part**: we print **n-2** rows, as we first print a  **`|`** sign, then **n-2** times **`-`** and in the end again a **`|`** sign. We can do this with nested loops.
+* We print **the middle part**: we print **n-2** rows, as we first print a **`|`** sign, then **n-2** times **`-`** and in the end again a **`|`** sign. We can do this with nested loops.
 * We print **the lower part**: first a **`+`** sign, then **n-2** times **`-`** and in the end a  **`+`** sign.
 
 Here is an example implementation of the above idea with nested loops:
