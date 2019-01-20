@@ -1,11 +1,11 @@
 # Study Software Engineering in Your Own Way
 
-Другата възможност за развитие след тази книга е **да продължите да изучавате програмирането извън SoftUni**. Можете да запишете или да следите **видео курсове**, които навлизат в по-голяма дълбочина в програмирането със C# или други езици и платформи за разработка. Можете **да четете книги** за програмиране и софтуерни технологии, да следвате **онлайн ръководства (tutorials)** и други онлайн ресурси - има безкрайно много безплатни материали в Интернет. Запомнете, обаче, че най-важното по пътя към професията на програмиста е **да правите практически проекти**!
+Another possibility to develop after this book is to **continue studying programming outside of SoftUni**. You can enroll or subscribe to **video trainings** that go into more details in programming with C# or other languages and development platforms. You can **read books** on programming and software technologies, follow **online tutorials** and other online resources - there are plenty of free materials on the Internet. However, keep in mind that the most important thing towards the profession of a programmer is **to do practical projects**!
 
-**Без писане на много, много код и здраво практикуване, не се става програмист**. Отделете си **достатъчно време**. Програмист не се става за месец или два. В Интернет ще намерите голям набор от **свободни ресурси** като книги, учебници, видео уроци, онлайн и присъствени курсове за програмиране и разработка на софтуер. Обаче, ще трябва да инвестирате **поне година-две**, за да добиете начално ниво като за започване на работа.
+**You can not become a programmer without a lot of code writing and intense practicing**. Allocate **sufficient time** on it. You can not become a programmer for a month or two. On the Internet you will find a wide variety of **free resources**, such as books, manuals, video lessons, online and on-site courses on programming and software development. However, you need to invest **at least a year or two** to acquire a foundation level, needed for starting a job.
 
-След като понапреднете, намерете начин или да започнете **стаж в някоя фирма** (което ще е почти невъзможно без поне година здраво писане на код преди това) или да си измислите **ваш собствен практически проект**, по който да поработите няколко месеца, даже година, за да се учите чрез проба-грешка.
+After you gain some experience, find a way to start **an internship in a company** (which will be almost impossible unless you'd spent at least a year of intense code writing before that) or come up with **your own practical project**, on which you need to spend a few months, even a year, in order to learn based on the trial-and-error principle.
 
 <table><tr><td><img src="/assets/alert-icon.png" style="max-width:50px" /></td>
-<td>Запомнете, че има много начини да станете програмисти, но всички те имат обща пресечна точка: <b>здраво писане на код и практика години наред</b>!</td>
+<td>Keep in mind that there are many ways to become a programmer, but they all have something in common: <b>intense code writing and years of practice</b>!</td>
 </tr></table>
