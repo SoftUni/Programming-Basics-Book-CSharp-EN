@@ -1,6 +1,6 @@
-### Example: Rectangle of N x N Stars
+### Example: Rectangle Made Out of N x N Stars
 
-Write a program, which gets a positive integer **n** and prints in the console **a rectangle of N x N stars**.
+Write a program that gets a positive integer **n** and prints in the console **a rectangle made out of N x N stars**.
 
 |Input|Output|Input|Output|Input|Output|
 |---|---|---|---|---|---|
