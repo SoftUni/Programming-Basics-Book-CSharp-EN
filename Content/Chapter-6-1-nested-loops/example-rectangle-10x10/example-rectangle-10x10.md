@@ -1,4 +1,4 @@
-### Example: Rectangle Made Out of 10 x 10 Stars
+### Example: Rectangle Made of 10 x 10 Stars
 
 Print in the console a rectangle made out of **10 x 10** stars.
 
