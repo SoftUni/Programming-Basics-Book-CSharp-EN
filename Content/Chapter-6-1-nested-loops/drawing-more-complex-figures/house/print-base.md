@@ -6,7 +6,7 @@ After we have finished with the **roof**, it is time for **the base**. It is eas
 
 ![](/assets/chapter-6-images/09.House-08.png)
 
-If you have written everything as it is here the problem should be solved.
+If you have written everything as it is here, the problem should be solved.
 
 #### Testing in the Judge System
 
