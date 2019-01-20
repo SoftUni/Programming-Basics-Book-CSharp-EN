@@ -1,10 +1,10 @@
 ## Problem: Histogram
 	
-We have **n integer numbers** within the range [**1 … 1000**]. From them some percent **p1** are under 200, percent __p2__ are from 200 to 399, percent **p3** are from 400 to 599, percent **p4** are from 600 to 799 and the rest **p5** percentages are from 800 upwards. Write a program, that calculates and prints the percentages **p1**, **p2**, **p3**, **p4** and **p5**.
+We have **n integer numbers** within the range of [**1 … 1000**]. Some percent of them **p1** are under 200, another percent **p2** are from 200 to 399, percent **p3** are from 400 to 599, percent **p4** are from 600 to 799 and the rest **p5** percent are from 800 upwards. Write a program that calculates and prints the percentages **p1**, **p2**, **p3**, **p4** and **p5**.
 
 **Example**: we have n = **20** numbers: 53, 7, 56, 180, 450, 920, 12, 7, 150, 250, 680, 2, 600, 200, 800, 799, 199, 46, 128, 65. We get the following distribution and visualization:
                           
-| **Group**   | **Numbers**                                       | **Count numbers** | **Percent**                     |
+| **Group**   | **Numbers**                                       | **Numbers Count** | **Percent**                     |
 |-------------|-------------------------------------------------|:---------------|---------------------------------|
 | < 200       | 53, 7, 56, 180, 12, 7, 150, 2, 199, 46, 128, 65 | 12             | p1 = 12 / 20 * 100 = 60.00%     |
 | 200 … 399   | 250, 200                                        | 2              | p2 = 2 / 20 * 100 = 10.00%      |
@@ -14,11 +14,11 @@ We have **n integer numbers** within the range [**1 … 1000**]. From them some 
 
 ### Input Data
 
-On the input line is the integer number **n** (1 ≤ **n** ≤ 1000), that represents the count of lines with numbers, which will be given. On the next **n lines** we have **one integer number** within range [**1 … 1000**] – numbers, on which we have to calculate the histogram.
+On the first line of the input there is an integer **n** (1 ≤ **n** ≤ 1000) that represents the count of lines of numbers that will be passed. On each of the following **n lines** we have **one integer** within range of [**1 … 1000**] – numbers, on which we have to calculate the histogram.
 
 ### Output Data
 
-Print on the console **histogram that consists of 5 lines**, each of them containing a number within the range 0% and 100%, formatted to two digits after the decimal point (for example 25.00%, 66.67%, 57.14%).
+Print on the console a **histogram that consists of 5 lines**, each of them containing a number within the range of 0% - 100%, formatted up to two digits after the decimal point (for example 25.00%, 66.67%, 57.14%).
 
 ### Sample Input and Output
 
