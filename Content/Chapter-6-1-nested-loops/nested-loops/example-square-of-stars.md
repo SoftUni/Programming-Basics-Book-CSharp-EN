@@ -1,6 +1,6 @@
-### Example: Square of Stars
+### Examples: Square Made of Stars
 
-Print in the console a square of **N x N** stars:
+Print on the console a square made of **N x N** stars:
 
 |Input|Output|Input|Output|Input|Output|
 |---|---|---|---|---|---|
