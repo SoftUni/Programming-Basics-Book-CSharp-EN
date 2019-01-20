@@ -1,12 +1,12 @@
-#### Calculating the Length of the Roof
+#### Calculating Roof Length
 
 In order to draw **the roof**, we write down how many **stars** we start with in a variable called **`stars`**:
-* If **`n`** i **an even** number, there will be 2 stars.
+* If **`n`** is **an even** number, there will be 2 stars.
 * If it is **odd**, there will be 1.
 
 ![](/assets/chapter-6-images/09.House-03.png)
 
-Calculate the length of **the roof**. It equals half of **`n`**. Write the result in the variable  **`roofLength`**.
+Calculate the length of **the roof**. It equals half of **`n`**. Write the result in the variable **`roofLength`**.
 
 ![](/assets/chapter-6-images/09.House-04.png)
 
@@ -20,4 +20,4 @@ int result = 3 / 2; // result 1
 
 If we want to round up, we need to use the method **`Math.Ceiling(…)`**:
 **`int result = (int)Math.Ceiling(3 / 2f);`**
-In this example the division isn't between two integers. "`f`" after a number shows that this number is of type **`float`** (a floating point number). The result of **`3 / 2f`** is **`1.5f`**. **`Math.Ceiling(…)`** rounds the division up. In this case **`1.5f`** will become 2. **`(int)`** is used so that we can transfer the type back to **`int`**.
+In this example the division isn't between two integers. "`f`" after a number shows that this number is of **`float`** type (a floating point number). The result of **`3 / 2f`** is **`1.5f`**. **`Math.Ceiling(…)`** rounds the division up. In this case **`1.5f`** will become 2. **`(int)`** is used so that we can transfer the type back to **`int`**.
