@@ -1,6 +1,6 @@
-### Example: Rhombus of Stars
+### Example: Rhombus Made of Stars
 
-Write a program, which takes a positive integer **n** and prints **a rhombus of stars** with size **n**.
+Write a program that takes a positive integer **n** and prints **a rhombus made of stars** with size **n**.
 
 |Input|Output|Input|Output|
 |---|---|---|---|
@@ -13,7 +13,7 @@ Write a program, which takes a positive integer **n** and prints **a rhombus of 
 
 #### Hints and Guidelines
 
-To solve this problem we need to mentally **divide** **the rhombus** into **two parts** - **upper**, which **also**includes the middle row, and **lower**. For **the printing** of each part we will use **two** separate loops, as we leave the reader to decide the dependency between **`n`** and the variables of the loops. For the first loop we can use the following tips:
+To solve this problem we need to mentally **divide** **the rhombus** into **two parts** - **upper** one, which **also** includes the middle row, and **lower** one. For **the printing** of each part we will use **two** separate loops, as we leave the reader to decide the dependency between **`n`** and the variables of the loops. For the first loop we can use the following guidelines:
 
 * We print **`n-row`** white spaces.
 * We print **`*`**.
