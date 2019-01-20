@@ -1,6 +1,6 @@
-#### Tips and Tricks
+#### Hints and Guidelines
 
-We take from the problem explanation that the house is with size of **`n` x `n`**. What we see from the example input and output is that:
+We understand from the problem explanation that the house is with size of **`n` x `n`**. What we see from the example input and output is that:
 
 * The house is divided into two parts: **roof and base**. 
 
@@ -10,7 +10,7 @@ We take from the problem explanation that the house is with size of **`n` x `n`*
 * When **`n`** is odd, **the roof** is one row larger than the **base**.
 
 ##### Roof
-* It is comprised of **stars** and **dashes**.
+* It comprises of **stars** and **dashes**.
 * In the top part there are one or two stars, depending on if **n** is even or odd (also related to the dashes).
 * In the lowest part there are many stars and no dashes.
 * With each lower row, **the stars** increase by 2 and **the dashes** decrease by 2.
@@ -18,4 +18,4 @@ We take from the problem explanation that the house is with size of **`n` x `n`*
 ##### Base
 * The height is **`n`** rows.
 * It is made out of **stars** and **pipes**.
-* Each row is comprised of 2 **pipes** - one in the beginning and one in the end of the row, and also **stars** between the pipes with string length of **`n - 2`**.  
+* Each row comprises of 2 **pipes** - one in the beginning and one in the end of the row, and also **stars** between the pipes with string length of **`n - 2`**.  
