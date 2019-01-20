@@ -1,5 +1,5 @@
 ### Example: Sunglasses
-Write a program, which takes an integer **n** (3 ≤ n ≤ 100) and prints sunglasses with size of **5\*n x n** as found in the examples:
+Write a program that takes an integer **n** (3 ≤ n ≤ 100) and prints sunglasses with size of **5\*n x n** as found in the examples:
 
 |Input|Output|Input|Output|
 |---|---|---|---|
