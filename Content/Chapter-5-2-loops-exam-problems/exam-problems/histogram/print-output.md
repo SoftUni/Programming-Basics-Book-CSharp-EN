@@ -1,6 +1,6 @@
-#### Printing the output
+#### Printing the Output
   
-We only have to print out the reults. In the description is said, that the percentages must be with **precision two points after the decimal point**. To achive this , write “:f2”: after the placeholder:
+We only have to print the results output. The description says that the percentages must be with **precision of two points after the decimal point**. To achieve this, write “:f2”: after the placeholder:
 
 ![](/assets/chapter-5-2-images/01.Histogram-06.png)
 
