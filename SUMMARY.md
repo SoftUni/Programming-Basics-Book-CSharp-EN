@@ -221,7 +221,7 @@
       * [Checking if Heritage is Enough and Printing the Output](Content/Chapter-5-2-loops-exam-problems/exam-problems/back-to-the-past/check-heritage-and-print-output.md)
     * [Problem: Hospital](Content/Chapter-5-2-loops-exam-problems/exam-problems/hospital/hospital.md)
       * [Reading the Input Data](Content/Chapter-5-2-loops-exam-problems/exam-problems/hospital/process-input-data.md)
-      * [Calculating the Number of Treated and Untreated Patients](Content/Chapter-5-2-loops-exam-problems/exam-problems/hospital/calc-treated-and-untreated-patients.md.md)
+      * [Calculating the Number of Treated and Untreated Patients](Content/Chapter-5-2-loops-exam-problems/exam-problems/hospital/calc-treated-and-untreated-patients.md)
     * [Problem: Division Without Remainder](Content/Chapter-5-2-loops-exam-problems/exam-problems/division/division.md)
       * [Hints and Guidelines](Content/Chapter-5-2-loops-exam-problems/exam-problems/division/guidelines.md)
     * [Problem: Logistics](Content/Chapter-5-2-loops-exam-problems/exam-problems/logistics/logistics.md)
