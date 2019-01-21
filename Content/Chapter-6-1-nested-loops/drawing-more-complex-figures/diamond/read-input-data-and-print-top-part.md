@@ -1,21 +1,21 @@
-#### Reading the Input Data and Drawing the Upper Part of the Diamond
+#### Reading the Input Data and Printing the Top Part of the Diamond
 
-We read **n** from the console and we write it down in a variable of type **`int`**.  
+We read **n** from the console and we save it in a variable of **`int`** type.  
 
 ![](/assets/chapter-6-images/10.Diamond-01.png)
 
-We start to draw the upper part of the diamond. The first thing we need to do is to calculate the number of the outer **dashes `leftRight`** (the dashes on the outer side of **the stars**). It is equal to **`(n - 1) / 2`**, rounded down.
+We start drawing the upper part of the diamond. The first thing we need to do is to calculate the number of the outer **dashes `leftRight`** (the dashes on the outer side of **the stars**). It is equal to **`(n - 1) / 2`**, rounded down.
 
 ![](/assets/chapter-6-images/10.Diamond-02.png)
 
-After we have calculated **`leftRight`**, we start to draw **the upper part** of the diamond. We can start by making a **loop** from **`0`** to **`n / 2 + 1`** (rounded down).  
+After we have calculated **`leftRight`**, we start drawing **the upper part** of the diamond. We can start by running a **loop** from **`0`** to **`n / 2 + 1`** (rounded down).  
 
 At each iteration of the loop the following steps must be taken:
 * We draw on the console the left **dashes** (with length **`leftRight`**) and right after them the first **star**.
 
 ![](/assets/chapter-6-images/10.Diamond-03.png)
 
-* We will calculate the distance between the two **stars**. We can do this by subtracting from **n** the number of the outer **dashes**, and the number 2 (the number of **the stars**, i.e. the diamonds outline). The result of the subtraction we write down in a variable **`mid`**. 
+* We will calculate the distance between the two **stars**. We can do this by subtracting from **n** the number of the outer **dashes**, and the number 2 (the number of **the stars**, i.e. the diamonds outline). We need to store the result of the subtraction in a variable **`mid`**. 
 
 ![](/assets/chapter-6-images/10.Diamond-04.png)
 
