@@ -1,6 +1,6 @@
 ## What We Learned in This Chapter?
 
-We became acquainted with the constructor **`new string`**:
+We became acquainted with the **`new string`** constructor:
 
 ```csharp
 string printMe = new string('*', 5);
