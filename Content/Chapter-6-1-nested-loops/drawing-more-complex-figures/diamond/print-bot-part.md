@@ -1,6 +1,6 @@
-#### Drawing the Lower Part of the Diamond
+#### Printing the Bottom Part of the Diamond
 
-Drawing the lower part is very similar to that of the upper part. The difference is that instead of decreasing **`leftRight`** with 1 in the end of the loop, we will increase **`leftRight`** with 1 in the beginning of the loop. Also, **the loop will be from 0 to `(n - 1) / 2`**.   
+Printing the lower part is very similar to that of the upper part. The difference is that instead of decreasing **`leftRight`** with 1 in the end of the loop, we will increase **`leftRight`** with 1 at the beginning of the loop. Also, **the loop will be from 0 to `(n - 1) / 2`**.   
 
 ![](/assets/chapter-6-images/10.Diamond-01.png)
 
