@@ -215,7 +215,7 @@
       * [Reading the Input Data and Printing the Top Part of the Diamond](Content/Chapter-6-1-nested-loops/drawing-more-complex-figures/diamond/read-input-data-and-print-top-part.md)
       * [Printing the Bottom Part of the Diamond](Content/Chapter-6-1-nested-loops/drawing-more-complex-figures/diamond/print-bot-part.md)
   * [What We Learned in This Chapter?](Content/Chapter-6-1-nested-loops/what-we-learned/what-we-learned.md)
-  * [Exercises: Printing Figures in Web Environment](Content/Chapter-6-1-nested-loops/exercise-drawing-figures-in-web-app/exercise-drawing-figures-in-web-app.md)
+  * [Exercises: Drawing Figures in a Web Environment](Content/Chapter-6-1-nested-loops/exercise-drawing-figures-in-web-app/exercise-drawing-figures-in-web-app.md)
     * [Problem: Ratings – Visualization in a Web Environment](Content/Chapter-6-1-nested-loops/exercise-drawing-figures-in-web-app/ratings/ratings.md)
       * [Creating a New C\# Project](Content/Chapter-6-1-nested-loops/exercise-drawing-figures-in-web-app/ratings/create-new-project.md)
       * [Creating a Web Form](Content/Chapter-6-1-nested-loops/exercise-drawing-figures-in-web-app/ratings/create-web-form.md)
