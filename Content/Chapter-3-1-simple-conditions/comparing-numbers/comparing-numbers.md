@@ -46,6 +46,7 @@ In C #, we can use the following comparison operators:
 </table>
 
 Example:
+
 ![](/assets/chapter-3-images/00.Comparing-numbers-02.png)
 
 
