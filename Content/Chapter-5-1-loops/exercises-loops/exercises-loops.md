@@ -14,18 +14,27 @@ We can read a sequence of `n` numbers from the console this way:
 
 ## Blank Solution in Visual Studio
 
-Before starting with the exercises, we shall create a **Visual Studio solution** with the idea to hold the code for each exercises problem in a **separate C# project** inside the solution.
+Before starting with the exercises, we shall create a **Visual Studio solution** with the idea to hold the code for each exercises problem in a **separate C\# project** inside the solution.
 
-Create a **(Blank Solution)** in Visual Studio:
-  
+Create a **\(Blank Solution\)** in Visual Studio:
+
 ![](/assets/chapter-5-images/00.Blank-visual-studio-01.png)
 
-Set it up to **start the current project by default** (not the first one in the solution). Do that by right clicking on **Solution 'Loops'** -> [**Set StartUp Projects…**] -> [**Current selection**].
+Set it up to **start the current project by default** \(not the first one in the solution\). Do that by right clicking on **Solution 'Loops'** -&gt; \[**Set StartUp Projects…**\] -&gt; \[**Current selection**\].
 
 ## The Problems
 
 Now it's time to start working on the problems:
 
+* [Problem: Summing up Numbers](/Content/Chapter-5-1-loops/examples-for-loops/example-sum-numbers/example-sum-numbers.md)
+* [Problem: The Max Number](/Content/Chapter-5-1-loops/examples-for-loops/example-max-number/example-max-number.md)
+* [Problem: The Min Number](/Content/Chapter-5-1-loops/examples-for-loops/example-min-number/example-min-number.md)
+* [Problem: Left and Right Sum](/Content/Chapter-5-1-loops/examples-for-loops/example-left-and-right-sum/example-left-and-right-sum.md)
+* [Problem: Even / Odd Sum](/Content/Chapter-5-1-loops/examples-for-loops/example-even-odd-sum/example-even-odd-sum.md)
+* [Problem: Summing up Vowels](/Content/Chapter-5-1-loops/examples-for-loops/example-vowels-sum/example-vowels-sum.md)
 * [Problem: Element Equal to the Sum of the Rest](/Content/Chapter-5-1-loops/exercises-loops/half-sum-element.md)
 * [Problem: Even / Odd Positions](/Content/Chapter-5-1-loops/exercises-loops/even-odd-positions.md)
 * [Problem: Equal Pairs](/Content/Chapter-5-1-loops/exercises-loops/equal-pairs.md)
+
+
+

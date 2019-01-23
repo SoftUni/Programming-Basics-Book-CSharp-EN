@@ -1,4 +1,4 @@
-### Problem: * Drawing a Spiral with the Turtle
+# Problem: * Draw a Spiral with the Turtle
 
 Add a [**Spiral**] button that draws a spiral with 20 beams, as on the figure below:
 

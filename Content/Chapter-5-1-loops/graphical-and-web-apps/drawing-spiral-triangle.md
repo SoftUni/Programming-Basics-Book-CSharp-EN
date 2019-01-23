@@ -1,6 +1,6 @@
-### Problem: * Drawing a Spiral Triangle with the Turtle
+# Problem: \* Draw a Spiral Triangle with the Turtle
 
-Add a [**Triangle**] button that draws three triangles with 22 beams each, as on the figure below:
+Add a \[**Triangle**\] button that draws three triangles with 22 beams each, as on the figure below:
 
 ![](/assets/chapter-5-images/13.Turtle-graphics-17.png)
 
@@ -8,4 +8,7 @@ Add a [**Triangle**] button that draws three triangles with 22 beams each, as on
 
 Draw in a cycle by moving forward and rotating. In each step, increase the length of the forward step with 10 and rotate 120 degrees. Repeat 3 times for the three triangles.
 
-If you have a problem with the above example, **watch the video** at the beginning of this chapter. The application is shown live, step by step, with a lot of explanations. Or try in the **SoftUni forum**: https://softuni.bg/forum.
+If you have a problem with the above exercises, ask in the **SoftUni forum**: [https://softuni.bg/forum](https://softuni.bg/forum).
+
+
+

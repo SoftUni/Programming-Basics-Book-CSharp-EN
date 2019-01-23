@@ -1,4 +1,4 @@
-### Problem: * Drawing a Star with the Turtle
+# Problem: * Draw a Star with the Turtle
 
 Add a [**Star**] button that draws a star with 5 beams (**pentagram**), as on the figure below:
 

@@ -1,4 +1,4 @@
-### Problem: * Drawing а Hexagon with the Turtle
+# Problem: * Draw а Hexagon with the Turtle
 
 Add a [**Hexagon**] button that draws a regular hexagon:
 

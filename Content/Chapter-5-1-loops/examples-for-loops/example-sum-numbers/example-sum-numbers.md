@@ -1,4 +1,4 @@
-### Example: Summing up Numbers
+# Problem: Summing up Numbers
 
 Write a program that **inputs `n` integers and sums them up**.
 
@@ -6,7 +6,7 @@ Write a program that **inputs `n` integers and sums them up**.
 * Enter one number on each of the following **`n`** rows.
 * Sum up the numbers and finally print the result.
 
-#### Sample Input and Output
+## Sample Input and Output
 
 | Input | Output |
 | --- | --- |
@@ -16,7 +16,7 @@ Write a program that **inputs `n` integers and sums them up**.
 | 1<br>999 | 999 | 
 | 0 | 0 |
 
-#### Tips and Tricks
+## Tips and Tricks
 
 We can solve the problem with summing up numbers in the following way:
  - We read the input number **`n`**.
