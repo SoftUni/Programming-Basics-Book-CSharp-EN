@@ -1,8 +1,10 @@
-#### Implementing the [**Reset**] and [**Show / Hide Turtle**] Buttons 
+## Implementing the [**Reset**] Button
 
 Now let's write the code for the other two buttons. The purpose of the [**Reset**] button is to delete the graphics and to start drawing from the beginning:
 
 ![](/assets/chapter-5-images/13.Turtle-graphics-11.png)
+
+## Implementing the [**Show / Hide Turtle**] Buttons 
 
 The purpose of the [**Show / Hide Turtle**] button is to show or hide the turtle: 
 

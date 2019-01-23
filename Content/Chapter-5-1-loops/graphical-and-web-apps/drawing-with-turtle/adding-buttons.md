@@ -1,4 +1,4 @@
-#### Adding Buttons
+## Adding the Buttons
 
 Now we need to add **three buttons** into the form and change their **names** and **properties** as stated below:
  

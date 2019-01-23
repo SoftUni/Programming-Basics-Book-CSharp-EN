@@ -12,3 +12,13 @@ Write a program that inputs **text** (string), calculates and prints **the sum o
 | --- | --- | --- | --- |
 | hello | 6<br>(e+o = 2+4 = 6) | bamboo | 9<br>(a+o+o = 1+4+4 = 9) |
 | hi | 3<br>(i = 3) | beer | 4<br>(e+e = 2+2 = 4) |
+
+#### Tips and Tricks
+
+We read the input text **`s`**, null the sum and run a loop from **0** to **`s.Length-1`** (text length -1). We check each letter **`s[i]`** and verify if it is a vowel, and accordingly, add its value to the sum.
+
+![](/assets/chapter-5-images/09.Vowels-sum-01.png)
+
+#### Testing in the Judge System
+
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/510#8](https://judge.softuni.bg/Contests/Practice/Index/510#8).

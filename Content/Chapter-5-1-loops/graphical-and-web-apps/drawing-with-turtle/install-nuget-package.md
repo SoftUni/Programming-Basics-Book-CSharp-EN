@@ -1,4 +1,4 @@
-#### Installing Turtle Graphics NuGet Package
+## Installing Turtle Graphics NuGet Package
 
 Install the **NuGet** package **"Nakov.TurtleGraphics"** to your new Windows Forms project. From Visual Studio you can add **external libraries** (packages) to an existing C# project. They add up additional functionality to our applications. The official repository for C# libraries is maintained by Microsoft and is called **NuGet** ([http://www.nuget.org/](http://www.nuget.org)).
 

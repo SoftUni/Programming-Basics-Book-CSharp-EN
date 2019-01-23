@@ -7,3 +7,13 @@ Write a program that converts **2 \* n integers** and checks whether **the sum o
 | Input | Output | Input | Output |
 | --- | --- | --- | --- | 
 | 2<br>10<br>90<br>60<br>40 | Yes, sum = 100 | 2<br>90<br>9<br>50<br>50 | No, diff = 1 |
+
+#### Tips and Tricks
+
+We will first input the number **n**, after that the first **n** numbers (**left** half) and sum them up. We will then proceed with inputting more **n** numbers (**the right** half) and sum them up. We calculate the **difference** between the sums by absolute value: **`Math.Abs(leftSum - rightSum)`**. If the difference is **0**, print **"Yes" + the sum**, otherwise - print **"No" + the difference**.
+
+![](/assets/chapter-5-images/07.Left-and-right-sum-01.png)
+
+#### Testing in the Judge System
+
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/510#6](https://judge.softuni.bg/Contests/Practice/Index/510#6).

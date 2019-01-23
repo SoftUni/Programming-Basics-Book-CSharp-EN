@@ -1,8 +1,8 @@
-### Problem: Element Equal to the Sum of the Rest
+# Problem: Element Equal to the Sum of the Rest
 
 Write a program that inputs **n integers** and checks whether among them there is a number equal to the sum of all the rest. If there is such an element, print **"Yes" + its value**, otherwise - **"No" + the difference between the largest element and the sum of the rest** (by absolute value). 
 
-#### Sample Input and Output
+## Sample Input and Output
 
 | Input | Output | Comments |
 | --- | --- | :---: |
@@ -12,10 +12,10 @@ Write a program that inputs **n integers** and checks whether among them there i
 | 3<br>5<br>5<br>1 | No<br>Diff = 1 | &#124;5 - (5 + 1)&#124; = 1 |
 | 3<br>1<br>1<br>1 | No<br>Diff = 1 | - |
 
-#### Tips and Tricks
+## Tips and Tricks
 
 We must calculate the **sum** of all elements, find the **largest** of them and check the condition.
 
-#### Testing in the Judge System
+## Testing in the Judge System
 
 Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/510#9](https://judge.softuni.bg/Contests/Practice/Index/510#9).
