@@ -102,7 +102,7 @@
   * [Problem: Game Tickets](Content/Chapter-4-2-complex-conditions-exam-problems/exam-problems/match-tickets/match-tickets.md)
   * [Problem: Hotel Room](Content/Chapter-4-2-complex-conditions-exam-problems/exam-problems/hotel-room/hotel-room.md)
 * [5.1. Repetitions \(Loops\)](Content/Chapter-5-1-loops/overview.md)
-  * [Repetitions of Code Blocks \(For Loop\)](Content/Chapter-5-1-loops/for-loop/for-loop.md)
+  * [For Loops](Content/Chapter-5-1-loops/for-loop/for-loop.md)
     * [Example: Numbers from 1 to 100](Content/Chapter-5-1-loops/for-loop/example-numbers-1-to-100.md)
     * [Example: Numbers up to 1000, Ending in 7](Content/Chapter-5-1-loops/examples-for-loops/example-numbers-ending-in-7.md)
     * [Example: All Latin Letters](Content/Chapter-5-1-loops/examples-for-loops/example-latin-letters.md)
