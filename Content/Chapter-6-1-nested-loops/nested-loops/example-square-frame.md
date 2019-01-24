@@ -1,4 +1,4 @@
-### Example: Square Frame
+# Example: Square Frame
 
 Write a program that takes a positive integer **n** and draws on the console **a square frame** with a size of **n \* n**.
 
@@ -10,7 +10,7 @@ Write a program that takes a positive integer **n** and draws on the console **a
 |---|---|---|---|
 |5|<code>+ - - - +</code><br><code>&#124; - - - &#124;</code><br><code>&#124; - - - &#124;</code><br><code>&#124; - - - &#124;</code><br><code>+ - - - +</code>|6|<code>+ - - - - +</code><br><code>&#124; - - - - &#124;</code><br><code>&#124; - - - - &#124;</code><br><code>&#124; - - - - &#124;</code><br><code>&#124; - - - - &#124;</code><br><code>+ - - - - +</code>|
 
-#### Hints and Guidelines
+## Hints and Guidelines
 
 We can solve the problem in the following way:
 * We read from the console the number **`n`**.
@@ -22,6 +22,6 @@ Here is an example implementation of the above idea with nested loops:
 
 ![](/assets/chapter-6-images/05.Square-frame-01.png)
 
-#### Testing in the Judge System
+## Testing in the Judge System
 
 Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/512#4](https://judge.softuni.bg/Contests/Practice/Index/512#4).

@@ -1,4 +1,4 @@
-### Example: Rhombus Made of Stars
+# Problem: Rhombus Made of Stars
 
 Write a program that takes a positive integer **n** and prints **a rhombus made of stars** with size **n**.
 
@@ -6,12 +6,11 @@ Write a program that takes a positive integer **n** and prints **a rhombus made 
 |---|---|---|---|
 |1|<code>\*</code>|2|<code>&nbsp;\*&nbsp;</code><br><code>\*&nbsp;\*</code><br><code>&nbsp;\*&nbsp;</code><br>|
 
-
 |Input|Output|Input|Output|
 |---|---|---|---|
 |3|<code>&nbsp;&nbsp;\*&nbsp;&nbsp;</code><br><code>&nbsp;\*&nbsp;\*&nbsp;</code><br><code>\*&nbsp;\*&nbsp;\*</code><br><code>&nbsp;\*&nbsp;\*&nbsp;</code><br><code>&nbsp;&nbsp;\*&nbsp;&nbsp;</code>|4|<code>&nbsp;&nbsp;&nbsp;\*&nbsp;&nbsp;&nbsp;</code><br><code>&nbsp;&nbsp;\*&nbsp;\*&nbsp;&nbsp;</code><br><code>&nbsp;\*&nbsp;\*&nbsp;\*&nbsp;</code><br><code>\*&nbsp;\*&nbsp;\*&nbsp;\*</code><br><code>&nbsp;\*&nbsp;\*&nbsp;\*&nbsp;</code><br><code>&nbsp;&nbsp;\*&nbsp;\*&nbsp;&nbsp;</code><br><code>&nbsp;&nbsp;&nbsp;\*&nbsp;&nbsp;&nbsp;</code>|
 
-#### Hints and Guidelines
+## Hints and Guidelines
 
 To solve this problem we need to mentally **divide** **the rhombus** into **two parts** - **upper** one, which **also** includes the middle row, and **lower** one. For **the printing** of each part we will use **two** separate loops, as we leave the reader to decide the dependency between **`n`** and the variables of the loops. For the first loop we can use the following guidelines:
 
@@ -23,6 +22,6 @@ To solve this problem we need to mentally **divide** **the rhombus** into **two 
 
 ![](/assets/chapter-6-images/06.Rhombus-of-stars-01.png)
 
-#### Testing in the Judge System
+## Testing in the Judge System
 
 Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/512#5](https://judge.softuni.bg/Contests/Practice/Index/512#5).
