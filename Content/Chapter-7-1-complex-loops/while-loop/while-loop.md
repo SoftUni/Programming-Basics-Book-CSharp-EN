@@ -1,6 +1,6 @@
 # While Loop
 
-The next type of loops that we will get familiar with are called **`while` loops**. The specific thing about them is that they repeat a block of commands **until a condition is true**. As a structure, they differ from **`for`** loops, even have a simple syntax.
+The next type of loops that we will get familiar with are called **`while` loops**. The specific thing about them is that they repeat a block of commands **while a condition is true**. As a structure, they differ from **`for`** loops, and even have a simple syntax.
 
 ## While Loop – Explanation
 
@@ -8,11 +8,11 @@ In programming **the `while` loop** is used when we want to **repeat** the execu
 
 ![](/assets/chapter-7-images/00.While-loop-01.png)
 
-Here is a series of sample problems, the solution of which will help us to better understand the use of the **`while`** loop.
+Here is a series of sample problems, the solution of which will help us better understand the use of the **`while`** loop.
 
-## Example: Sequence 2k+1
+## Example: Sequence of Numbers 2k+1
 
-Write a program that prints all **numbers ≤ n** of the row: **1, 3, 7, 15, 31, …**, assuming that every next number = **previous number \* 2 + 1**.
+Write a program that prints all **numbers ≤ n** of the series: **1, 3, 7, 15, 31, …**, assuming that each next number = **previous number \* 2 + 1**.
 
 Here is how we can solve the problem:
 
@@ -30,16 +30,16 @@ Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/514#4
 
 ## Example: Number in Range [1 … 100]
 
-Enter an integer in the range [**1 … 100**]. If the entered number is invalid, enter it again. In this case, an invalid number will be any one that **is not** within the specified range.
+Enter an integer in the range [**1 … 100**]. If the entered number is invalid, enter it again. In this case, an invalid number will be any number that **is not** within the specified range.
 
 To solve the problem, we can use the following algorithm:
 
    * We create a **`num`** variable to which we assign the integer value obtained from the console input.
    * For a loop condition, we put an expression that is **`true`** if the number of the input **is not** in the range specified in the problem's description.
-   * In **the body of the loop**: we print a message with "**Invalid number!**" on the console, then assign a new value to **`num`** from the console input.
+   * In **the body of the loop**: we print a message "**Invalid number!**" on the console, then we assign a new value to **`num`** from the console input.
    * Once we have validated the entered number, we print the value of the number outside the body of the loop.
 
-Here's a sample implementation of the algorithm using **`while` loop**:
+Here's a sample implementation of the algorithm using a **`while` loop**:
 
 ![](/assets/chapter-7-images/06.Numbers-in-range-1..100-01.png)
 
