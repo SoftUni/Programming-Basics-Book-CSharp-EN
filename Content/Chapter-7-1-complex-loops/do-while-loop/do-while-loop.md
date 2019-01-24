@@ -1,14 +1,14 @@
 # Do-While Loop
 
-The next loops we will get familiar with are **`do-while`**. By structure, it resembles **`while`**, but there is a significant difference between them. It is that **`do-while`** will execute its body **at least once**. Why is this happening? In the **`do-while`** loop construction, **the condition** is always checked **after** the body, which ensures that **the first loop rotation will execute** the code and **the check for the end of the loop** will be applied to each subsequent iteration of the **`do-while`**.
+The next type of loops we will get familiar with are the **`do-while`** loops. By structure, this type of loop resembles the **`while`** loop, but there is a significant difference between them. It is that the **`do-while`** loop will execute its body **at least once**. Why is this happening? In the **`do-while`** loop construction, **the condition** is always checked **after** the body, which ensures that **the first loop iteration will execute** the code and **the check for the end of the loop** will be applied to each subsequent iteration of the **`do-while`**.
 
 ![](/assets/chapter-7-images/00.Do-while-01.png)
 
-Here is following the usual set of sample problems, the solution of which will help us better understand the **`do-while`** loops.
+The usual set of sample problems follows. Their solutions will help us better understand the **`do-while`** loops.
 
-## Example: Calculate Factorial
+## Example: Calculating Factorial
 
-For natural **n** calculate **n! = 1 \* 2 \* 3 \* … \* n**. For example, if **n = 5**, the result will be: **5!** = 1 \* 2 \* 3 \* 4 \* 5 = **120**.
+For natural **n** number, calculate **n! = 1 \* 2 \* 3 \* … \* n**. For example, if **n = 5**, the result will be: **5!** = 1 \* 2 \* 3 \* 4 \* 5 = **120**.
 
 Here is how we can specifically calculate factorial:
 
@@ -16,7 +16,7 @@ Here is how we can specifically calculate factorial:
    * We create another variable - a **`fact`** which initial value is 1. We will use it for the calculation and storage of the factorial.
    * For a loop condition, we will use **`n > 1`**, because each time we perform the calculations in the body of the loop, we will decrease the value of **`n`** by 1.
    * In the body of the loop:
-      * We assign a new value to a **`fact`** that is the result of multiplying the current **`fact`** value to the current value of **`n`**.
+      * We assign a new value to **`fact`** that is the result of multiplying the current **`fact`** value to the current value of **`n`**.
       * We decrease the value of **`n`** by **-1**.
    * Outside the body of the loop, we print the final factorial value.
    
@@ -26,7 +26,7 @@ Here is how we can specifically calculate factorial:
 
 Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/514#7](https://judge.softuni.bg/Contests/Practice/Index/514#7).
 
-## Example: Sum Digits
+## Example: Summing Up Digits
 
 Sum up the digits of a **positive** integer **n**. For example, if **n = 5634**, the result will be: 5 + 6 + 3 + 4 = **18**.
 
