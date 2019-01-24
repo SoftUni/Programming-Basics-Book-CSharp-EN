@@ -1,4 +1,4 @@
-# Chapter 6.2. Nested Loops - Exam Problems
+# Chapter 6.2. Nested Loops – Exam Problems
 
 In the previous chapter we looked at **nested loops** and how to use them to **draw** different kinds of **figures on the console**. We learned how to print figures with different sizes, thinking of an appropriate logic to construct them using **single and nested **`for` loops in combination with various calculations and program logic:
 
