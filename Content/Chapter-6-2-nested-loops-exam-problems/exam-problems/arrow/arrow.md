@@ -40,7 +40,7 @@ We can see from the examples the structure of the first row. We must use the dec
 
 ## Printing the Body and the Middle Row of the Arrow
 
-In order to draw **the body of the arrow**, we need to make **a loop**, which recurs **`n - 2`** times.
+In order to draw **the body of the arrow**, we need to create **a loop**, which runs **`n - 2`** times.
 
 ![](/assets/chapter-6-2-images/04.Arrow-05.png)
 
@@ -50,7 +50,7 @@ In order to draw **the body of the arrow**, we need to make **a loop**, which re
 
 ## Printing the Lower Part of the Arrow
 
-In order to draw **the lower part of the arrow**, we need to give new values to **the variables** **`outerDots`** and **`innerDots`**.
+In order to draw **the lower part of the arrow**, we need to assign new values to **the variables** **`outerDots`** and **`innerDots`**.
 
 ![](/assets/chapter-6-2-images/04.Arrow-07.png)
 
