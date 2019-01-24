@@ -1,14 +1,14 @@
-## Problem: Back to the Past
+# Problem: Back to the Past
 
 Ivancho is **18 years old** and receives an inheritance that consists of **X** money and а **time machine**. He decides **to return to 1800**, but does not know **if the money** will **be enough** to live without working. Write **a program that calculates** if Ivancho **will have enough money** to not have to work until a particular year (inclusive). Assuming that **for every even** (1800, 1802, etc.) year he **will spend 12 000 dollars**. For **every odd one** (1801, 1803, etc.) he will spend **12 000 + 50 * [the age he will have reached in the given year]**.
 
-### Input Data
+## Input Data
 
 The input is read from the console and **contains exactly 2 lines**:
   * **Inherited money** – a real number in the range [**1.00 … 1 000 000.00**].
   * **Year, until which he has to live in the past (inclusive)** – integer number in the range [**1801 … 1900**].
 
-### Output Data
+## Output Data
 
 **Print** on the console **1 line**. The **sum** must be **formatted** up to the **two symbols after the decimal point**:
   * If **money is enough**:
@@ -16,7 +16,7 @@ The input is read from the console and **contains exactly 2 lines**:
   * If **money is NOT enough**:
     * **"He will need {М} dollars to survive."** – where **M** is the sum that **is NOT enough**.
 
-### Sample Input and Output
+## Sample Input and Output
 
 <table>
 <thead>
@@ -54,3 +54,27 @@ The input is read from the console and **contains exactly 2 lines**:
 </tr>
 </tbody>
 </table>    
+
+## Reading the Input Data
+
+The method to solve this task is no different than the previous ones, so we start **declaring and initializing** the necessary variables:
+
+![](/assets/chapter-5-2-images/03.Back-to-the-past-01.png)
+
+The requirements say that Ivancho is 18 years old, so when declaring the variable **`years`** we assign it an initial value of **18**. We read the other variables from the console.
+
+## Iterating through the Years
+
+Using a **`for` loop**, we will iterate through all years. We **start from 1800** – the year in that Ivancho returns, and we reach the **year until which he must live in the past**. We check in the loop if the current year is **even** or **odd**. We do this by **division with remainder** (**`%`**) by 2. If the year is **even**, we subtract from **`heritage`** **12000**, and if is **odd**, we subtract from **`heritage`** **12000 + 50 * (years)**.
+
+![](/assets/chapter-5-2-images/03.Back-to-the-past-02.png)
+
+## Checking if Heritage is Enough and Printing the Output
+
+Finally we need to print out the results by checking **if the `heritage`** is enough to live without working or not. If the **`heritage`** is a **positive number**, we print: „**`Yes! He will live a carefree life and will have {N} dollars left.`**“, and if it is a **negative number**: „**`He will need {М} dollars to survive.`**“. Do not forget to format the sum up to the second symbol after the decimal point.
+
+**Hint**: Consider using the **`Math.Abs(…)`** function when printing the output, if the heritage is not enough.
+
+## Testing in the Judge System
+
+Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/511#2](https://judge.softuni.bg/Contests/Practice/Index/511#2).

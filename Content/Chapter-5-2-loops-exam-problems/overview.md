@@ -18,12 +18,10 @@ Before we start working, it will be good to review again the `for`** loop** cons
 ## Exam Problems
 
 Let's solve a few **problems** with loops from **exams in SoftUni**:
+
 * [Problem: Histogram](/Content/Chapter-5-2-loops-exam-problems/exam-problems/histogram/histogram.md)
-* [Problem: Hospital](/Content/Chapter-5-2-loops-exam-problems/exam-problems/hospital/hospital.md)
-* [Problem: Division Without Remainder](/Content/Chapter-5-2-loops-exam-problems/exam-problems/division/division.md)
-* [Problem: Logistics](/Content/Chapter-5-2-loops-exam-problems/exam-problems/logistics/logistics.md)
 * [Problem: Smart Lilly](/Content/Chapter-5-2-loops-exam-problems/exam-problems/smart-lily/smart-lily.md)
 * [Problem: Back to the Past](/Content/Chapter-5-2-loops-exam-problems/exam-problems/back-to-the-past/back-to-the-past.md)
-
-
-
+* [Problem: Hospital](/Content/Chapter-5-2-loops-exam-problems/exam-problems/hospital/hospital.md)
+* [Problem: Division without Remainder](/Content/Chapter-5-2-loops-exam-problems/exam-problems/division/division.md)
+* [Problem: Logistics](/Content/Chapter-5-2-loops-exam-problems/exam-problems/logistics/logistics.md)
