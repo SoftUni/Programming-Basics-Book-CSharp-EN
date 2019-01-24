@@ -1,6 +1,6 @@
 # Greatest Common Divisor (GCD)
 
-Before proceeding to the next problem, we will get familiar with the definition of **the greatest common divisor** (**GCD**), widely used in math and number theory, and will learn how to calculate GCD.
+Before proceeding to the next problem, we will get familiar with the definition of **the greatest common divisor** (**GCD**), widely used in mathematics and numbers theory, and will learn how to calculate GCD.
 
 **Definition of GCD**: the greatest common divisor of two **natural** numbers **a** and **b** is the largest number that divides **both** **a** and **b** without reminder.
 
@@ -17,7 +17,7 @@ Before proceeding to the next problem, we will get familiar with the definition 
 
 In the next problem we will use one of the first published algorithms for finding the GCD - **Euclid's algorithm**.
 
-**Until** we reach remainder 0:
+**Until** we reach a remainder of 0:
 
    * We divide the greater number by the smaller one.
    * We take the remainder of the division.
@@ -44,7 +44,7 @@ We will solve the problem through **Euclid's algorithm**:
       * We create a temporary variable to which we assign **the current** value of **`b`**.
       * We assign a new value to **`b`**, which is the remainder of the division of **`a`** and **`b`**.
       * On the variable **`a`** we assign **the previous** value of the variable **`b`**.
-   * Once the loop is complete and we have established the GCD, we print it on the screen.
+   * Once the loop is complete and we have found the GCD, we print it on the screen.
 
 ![](/assets/chapter-7-images/07.GCD-01.png)
 
