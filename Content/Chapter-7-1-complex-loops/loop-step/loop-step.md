@@ -1,12 +1,12 @@
 # For Loop with Step
 
-In the **"Repetitions (Loops)"** chapter, we learned how the **`for`** loop works and we already know when and for what purpose to use it. In this chapter we will pay **attention** to a definite and very important part of its construction, namely the **step**.
+In the **"Repetitions (Loops)"** chapter we learned how the **`for`** loop works and we already know when and for what purpose to use it. In this chapter we will pay **attention** to a particular and very important part of its construction, namely the **step**.
 
 ## Loop Step Explanation
 
-**The step** is that **part** of the **`for`** loop construct that tells **how** much to **increase** or **decrease** the value of its **leading** variable. It is declared the last in the skeleton of the **`for`** loop.
+**The step** is that **part** of the **`for`** loop construction that tells **how** much to **increase** or **decrease** the value of its **leading** variable. It is declared the last in the skeleton of the **`for`** loop.
 
-Most often, we have **a size of `1`**, and in this case, instead of writing **`i += 1`** or **`i -= 1`**, we can use the **`i++`** or **`i--`** operators. If we want our step to be **different than 1**, when increasing, we use the **`i +=` + `step size`**, and when decreasing, the **`i -=` + `step size`**. With step 10, the loop would look like this: 
+Most often, we have **a size of `1`**, and in this case, instead of writing **`i += 1`** or **`i -= 1`**, we can use the **`i++`** or **`i--`** operators. If we want our step to be **different than 1**, when increasing, we use the **`i +=` + `step size`** operator, and when decreasing, the **`i -=` + `step size`**. With step of 10, the loop would look like this: 
 
 ![](/assets/chapter-7-images/00.Step-explanation-01.png)
 
@@ -14,11 +14,11 @@ Here is a series of sample problems, the solution of which will help us better u
 
 ## Example: Numbers 1...N with Step 3 
 
-Write a program that prints the numbers **from 1 to n** with **step 3**. For example, **if n = 100**, the result will be: **1, 4, 7, 10, …, 94, 97, 100**.
+Write a program that prints the numbers **from 1 to n** with **step of 3**. For example, **if n = 100**, the result will be: **1, 4, 7, 10, …, 94, 97, 100**.
 
-We can solve the problem through the following sequence of actions (algorithm):
+We can solve the problem using the following sequence of actions (algorithm):
   * We read the number **`n`** from the console input.
-  * We run a **`for` loop** from **1** to **`n`** with step size **3**.
+  * We run a **`for` loop** from **1** to **`n`** with step size of **3**.
   * In **the body of the loop**, we print the value of the current step.
   
 ![](/assets/chapter-7-images/01.Numbers-1-to-n-01.png)
@@ -27,9 +27,9 @@ We can solve the problem through the following sequence of actions (algorithm):
 
 Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/514#0](https://judge.softuni.bg/Contests/Practice/Index/514#0).
 
-## Example: Numbers N...1 
+## Example: Numbers N...1 in Reverse Order
 
-Write a program that prints the numbers from **n to 1 in reverse order** (step -1). For example, **if n = 100**, the result will be: **100, 99, 98, …, 3, 2, 1**.
+Write a program that prints the numbers from **n to 1 in reverse order** (step of -1). For example, **if n = 100**, the result will be: **100, 99, 98, …, 3, 2, 1**.
 
 We can solve the problem in the following way:
 
@@ -45,9 +45,9 @@ We can solve the problem in the following way:
 
 Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/514#1](https://judge.softuni.bg/Contests/Practice/Index/514#1).
 
-## Example: Powers of 2
+## Example: Numbers from 1 to 2^n with a For Loop
 
-In the following example, we'll look at using the usual step with size of 1, combined with a calculation at each loop iteration.
+In the following example, we will look at using the usual step with size of 1, combined with a calculation at each loop iteration.
 
 Write a program that prints the numbers from **1 to 2^n** (two in power of n). For example, **if n = 10**, the result will be: **1, 2, 4, 8, 16, 32, 64, 128, 256, 512, 1024**.
 
