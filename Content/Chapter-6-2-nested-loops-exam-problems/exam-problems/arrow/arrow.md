@@ -1,14 +1,14 @@
 # Problem: Arrow
 
-Write a program which takes from the console **an integer n** and draws **a vertical arrow** with size as in the examples below.
+Write a program that takes from the console **an integer n** and draws **a vertical arrow** with size as in the examples below.
 
 ## Input Data
 
-The input is **an odd integer n** in the interval [**3 … 79**].
+The input is **an odd integer n** within the range [**3 … 79**].
 
 ## Output Data
 
-Print a vertical arrow on the console, in which "**`#`**" (number sign) makes out the outline of the arrow, and "**`.`**" - the rest.
+Print a vertical arrow on the console, in which "**`#`**" (number sign) marks the outline of the arrow, and "**`.`**" - the rest.
 
 ## Sample Input and Output
 
@@ -20,17 +20,17 @@ Print a vertical arrow on the console, in which "**`#`**" (number sign) makes ou
 | --- | --- |
 |9|<code>....#########....</code><br><code>....#.......#....</code><br><code>....#.......#....</code><br><code>....#.......#....</code><br><code>....#.......#....</code><br><code>....#.......#....</code><br><code>....#.......#....</code><br><code>....#.......#....</code><br><code>#####.......#####</code><br><code>.#.............#.</code><br><code>..#...........#..</code><br><code>...#.........#...</code><br><code>....#.......#....</code><br><code>.....#.....#.....</code><br><code>......#...#......</code><br><code>.......#.#.......</code><br><code>........#........</code><br>|
 
-## Reading the Input Data and Printing the First Row
+## Hints and Guidelines
 
-From the explanation we see that **the input data** will be taken from one row only, which will have **an integer** in the interval [**3 … 1000**]. This is why we will use **a variable** of type **`int`**.
+From the explanation we see that **the input data** will be read from one row only, which will contain **an integer** within the range [**3 … 1000**]. This is why we will use **a variable** of **`int`** type.
 
 ![](/assets/chapter-6-2-images/04.Arrow-01.png)
 		
-We can divide the figure into **3 parts** - upper, middle and lower. **The upper part** contains two subparts - a first row and a body of the arrow. We can see from the examples that the count of **the outer dots** in the first row and in the body of the arrow is **`(n - 1) / 2`**. We can write this value in **a variable** **`outerDots`**. 
+We can divide the figure into **3 parts** - upper, middle and lower one. **The upper part** contains two subparts - a first row and a body of the arrow. We can see from the examples that the count of **the outer dots** on the first row and in the body of the arrow is **`(n - 1) / 2`**. We can write this value in **a variable** **`outerDots`**. 
 
 ![](/assets/chapter-6-2-images/04.Arrow-02.png)
 		
-The number of **the inside dots** in the body of the arrow is **`(n - 2)`**. We must make **a variable** named **`innerDots`**, which will contain this value.
+The number of **the inside dots** in the body of the arrow is **`(n - 2)`**. We must create **a variable** named **`innerDots`**, which will store this value.
 
 ![](/assets/chapter-6-2-images/04.Arrow-03.png)
 		
