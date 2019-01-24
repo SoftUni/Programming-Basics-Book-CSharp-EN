@@ -1,4 +1,4 @@
-# Problem: Graphical Application "Sumator" \(Calculator\)
+# Lab: Graphical Application "Sumator" (Calculator)
 
 Write a **graphical \(GUI\) application**, which **calculates the sum of two numbers**:
 
