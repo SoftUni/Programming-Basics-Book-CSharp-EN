@@ -8,7 +8,7 @@
 <table>
    <tr>
       <td width="60%">
-        <b>Triangle in the plane</b> is set by the coordinates of its three vertices. First is set the vertice <b>(x1, y1)</b>. Then the other two vertices are set: <b>(x2, y2)</b> and <b>(x3, y3)</b>, which <b>lie on a common horizontal line</b> (ie have the same Y coordinates). Write a program that calculates <b>the area of the triangle</b> by the coordinates of its three vertices.
+        <b>Triangle in the plane</b> is set by the coordinates of its three tips. First the tip <b>(x1, y1)</b> is set. Then the other two tips are set: <b>(x2, y2)</b> and <b>(x3, y3)</b>, which <b>lie on a common horizontal line</b> (i.e. they have the same Y coordinates). Write a program that calculates <b>the area of the triangle</b> by the coordinates of its three tips.
       </td>
       <td>
          <img src="/assets/chapter-8-1-images/01.Triangle-area-01.png"/>
@@ -37,7 +37,7 @@ Print on the console **the area of the triangle**.
 
 ### Reading the Input Data
 
-It is important in such types of assignments where some coordinates are given to pay attention to **the order** in which they are submitted, and to properly understand which of the coordinates we will use and how. In this case, the input is in order **x1, y1, x2, y2, x3, y3**. If we do not follow this sequence, the solution becomes wrong. First we write the code that reads the input data:
+It is important in such types of tasks where some coordinates are given to pay attention to **the order** in which they are submitted, and to properly understand which of the coordinates we will use and how. In this case, the input is in order **x1, y1, x2, y2, x3, y3**. If we do not follow this sequence, the solution becomes wrong. First we write the code that reads the input data:
 
 ![](/assets/chapter-8-1-images/01.Triangle-area-03.png)
 
@@ -49,7 +49,7 @@ We have to calculate **the side** and **the height** of the triangle. From the p
 
 ### Calculate and Print Triangle Area
 
-By our familiar formula of finding an **area of a triangle** we will calculate it. An important thing to keep in mind is that although we get only integers at the input, **the area** will not always be an integer. That's why we use a variable of type **`double`** for the area. We have to convert the right side of the equation, because if we give whole numbers as equation parameters, our result will also be an integer.
+we will calculate it using our familiar formula for finding an **area of a triangle**. An important thing to keep in mind is that although we get only integers at an input, **the area** will not always be an integer. That's why we use a variable of **`double`** type for the area. We have to convert the right side of the equation, because if we give whole numbers as equation parameters, our result will also be an integer.
 
 ![](/assets/chapter-8-1-images/01.Triangle-area-05.png)
 
@@ -62,9 +62,9 @@ The only thing left is to print the area on the console.
 Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/516#0](https://judge.softuni.bg/Contests/Practice/Index/516#0).
 
 
-## Problem: Bricks
+## Problem: Transferring Bricks
 
-Construction workers have to transfer a total of **x bricks**. **Workers** are **w** and work simultaneously. They transport the bricks in trolleys, each with a **capacity of m** bricks. Write a program that reads the integers **x**, **w**, and **m**, and calculates **how much less courses** the workers need to do to transport the bricks.
+Construction workers have to transfer a total of **x bricks**. **Workers** are **w** and work simultaneously. They transport the bricks in trolleys, each with a **capacity of m** bricks. Write a program that reads the integers **x**, **w**, and **m**, and calculates **what is the minimum number of courses** the the workers need to do to transport the bricks.
 
 ### Input
 
@@ -83,15 +83,15 @@ Print on the console **the minimum number of courses** needed to transport the b
 
 | Input | Output | Comments |
 |----|----|----|
-|120<br>2<br>30|2|We have **2** workers, each riding on **30** bricks per course. In total, workers are riding **60** bricks per course. To transport **120** bricks, exactly **2** courses are needed.|
+|120<br>2<br>30|2|We have **2** workers, each transporting **30** bricks per course. In total, workers are transporting **60** bricks per course. To transport **120** bricks, exactly **2** courses are needed.|
 
 | Input | Output | Comments |
 |----|----|----|
-|355<br>3<br>10|12|We have **3** workers, each riding on **10** bricks per course. In total, workers are riding **30** bricks per course. To transport **355** bricks, exactly **12** courses are needed: **11** complete courses carry **330** bricks and the last **12th** course carries the last **25** bricks.|
+|355<br>3<br>10|12|We have **3** workers, each transporting **10** bricks per course. In total, workers are transporting **30** bricks per course. To transport **355** bricks, exactly **12** courses are needed: **11** complete courses carry **330** bricks and the last **12th** course carries the last **25** bricks.|
 
 | Input | Output | Comments |
 |----|----|----|
-|5<br>12<br>30|1|We have **5** workers, each riding on **30** bricks per course. In total, workers are riding **150** bricks per course. In order to transport **5** bricks, only **1** course is sufficient (although incomplete, with only 5 bricks).|
+|5<br>12<br>30|1|We have **5** workers, each transporting **30** bricks per course. In total, workers are transporting **150** bricks per course. In order to transport **5** bricks, only **1** course is sufficient (although incomplete, with only 5 bricks).|
 
 ### Reading the Input Data and Calculate Bricks per Course
 
@@ -99,13 +99,13 @@ The input is standard, and we only need to be careful about the sequence in whic
 
 ![](/assets/chapter-8-1-images/02.Bricks-01.png)
 
-We calculate how many **bricks** carry workers on a course.
+We calculate how many **bricks** the workers transport in a course.
 
 ![](/assets/chapter-8-1-images/02.Bricks-02.png)
 
-### Calculate and Print needed Courses
+### Calculating and Printing the Needed Courses
 
-By dividing the total number of **bricks transferred for 1 course**, we will receive the number of **courses** required to carry them. We have to consider that when dividing whole numbers the remainder is neglected and rounded down always. To avoid this, we will convert the right side of the equation to **`double`** and use the **`Math.Ceiling(…)`** function to round the result always up. When the bricks can be transferred with **an exact number of courses**, the division will return a whole number and there will be nothing to round. Accordingly, if not, the result of the division will be **the number of exact courses** but a decimal fraction. The decimal part will be rounded up and we will get the required **1 course** for the remaining bricks.
+By dividing the total number of **bricks transported for 1 course**, we will receive the number of **courses** required to carry them. We have to consider that when dividing whole numbers the remainder is ignored and always rounded down. To avoid this, we will convert the right side of the equation to **`double`** and use the **`Math.Ceiling(…)`** function to round the result always up. When the bricks can be transferred with **an exact number of courses**, the division will return a whole number and there will be nothing to round. Accordingly, if not, the result of the division will be **the number of exact courses** but a decimal fraction. The decimal part will be rounded up and we will get the required **1 course** for the remaining bricks.
 
 ![](/assets/chapter-8-1-images/02.Bricks-03.png)
 
