@@ -1,11 +1,11 @@
 # Exercises: Web Application with Complex Loops
 
-Now we know how to repeat a group of actions using **loops**. Let's do something interesting: **a web-based game**. Yes, a real game, with graphics and game logic. Let's have fun. It will be complicated, but if you do not understand how it works, there is no problem. We are now getting into programming. You will advance with technology by the time. For now just follow the steps.
+Now we know how to repeat a group of actions using **loops**. Let's do something interesting: **a web-based game**. Yes, a real game, with graphics and game logic. Let's have fun. It will be complicated, but if you do not understand how it works, there is no problem. We are now getting into programming. You will advanced with technology by the time. For now, just follow the steps.
 
 ## Problem: Web Application "Fruits Game"
 
 **Description**: Develop an **ASP.NET MVC Web Application** - a game in which the player **shoots fruits**, arranged in a table. Successfully hit fruits disappear and the player gets points for each target fruit. When you hit a **dynamite**, the fruits explode and the game ends \(as in Fruit Ninja\).  
-Shooting is done by columns, top to bottom or bottom to top, and the location of impact \(the column under fire\) is set by scroll bar. Because of the scroller's inaccuracy, the player is not quite sure which column he is going to shoot. So every shot has a chance not to hit and this makes the game more interesting \(like the sling in Angry Birds\).
+Shooting is done by columns, top to bottom or bottom to top, and the location of impact \(the column under fire\) is set by scroll bar. Because of the scroller's inaccuracy, the player is not quite sure which column they are going to shoot. So every shot has a chance not to hit and this makes the game more interesting \(like the sling in Angry Birds\).
 
 Our game should look like this:
 
@@ -15,7 +15,7 @@ Our game should look like this:
 
 ## Create New C\# Project
 
-In Visual Studio, we create a new **ASP.NET MVC web application** with C\# language. Add a new project from \[**File**\] → \[**New**\] → \[**Project…**\]. We give a meaningful name, for example "**Fruits-Web-Game**":
+In Visual Studio, we create a new **ASP.NET MVC web application** with C\# language. Add a new project from \[**File**\] → \[**New**\] → \[**Project…**\]. We give it a meaningful name, for example "**Fruits-Web-Game**":
 
 ![](/assets/chapter-7-images/15.Fruits-03.png)
 
@@ -25,11 +25,11 @@ Then we choose the type of web app "MVC":
 
 ## Create Controls
 
-Now we will create the controls for the game. The goal is to add **scrolling bars** with which the player is targeting, and a button for starting a **new game**. So we need to edit the file `Views/Home/Index.cshtml`. We delete everything in it and write the code from the picture:
+Now we will create the controls for the game. The goal is to add **scrolling bars** by which the player is targeting, and a button for starting a **new game**. So we need to edit the file `Views/Home/Index.cshtml`. We delete everything in it and write the code from the picture:
 
 ![](/assets/chapter-7-images/15.Fruits-05.png)
 
-This code creates a HTML form `<form>` with a scroller `position` for setting a number in the range \[**0 … 100**\] and a button \[**Fire Top**\] for sending the form data to the server. The action that will process the data is called `Home/FireTop`, which means method `FireTop` in the `Home` controller, which is located in the file `HomeController.cs`. There are two similar forms with the \[**Fire Bottom**\] and \[**New Game**\] buttons.
+This code creates an HTML form `<form>` with a scroller `position` for setting a number in the range \[**0 … 100**\] and a button \[**Fire Top**\] for sending the form data to the server. The action that will process the data is called `Home/FireTop`, which means `FireTop` method in the `Home` controller, which is located in the file `HomeController.cs`. There are two similar forms with the \[**Fire Bottom**\] and \[**New Game**\] buttons.
 
 ## Prepare Fruits for the View
 
@@ -37,7 +37,7 @@ Now we have to prepare the fruits for drawing in the view. Add the following cod
 
 ![](/assets/chapter-7-images/15.Fruits-06.png)
 
-The above code defines the fields for **number of rows, number of columns**, **fruit table** \(playing field\), **points** accumulated by the player and information whether the game is active or **ended** \(field `gameOver`\). The playing field has 9 columns in 3 rows and contains for each field text what is in it: `apple`**, **`banana`**, **`orange`**, **`kiwi`**, **`empty`** or **`dynamite`.  
+The above code defines the fields for **number of rows, number of columns**, **fruit table** \(playing field\), **points** accumulated by the player and information whether the game is active or **ended** \(field `gameOver`\). The playing field has 9 columns in 3 rows and contains for each field a text stating what is inside it: `apple`**, **`banana`**, **`orange`**, **`kiwi`**, **`empty`** or **`dynamite`.  
 The main action `Index ()` prepares the game field by recording in the `ViewBag` the structure of the game elements and invoking the view that draws them into the game page of the web browser as HTML.
 
 ## Generate Random Fruits
@@ -54,7 +54,7 @@ The next thing is to **add the images** for the game.
 
 From \[**Solution Explorer**\] create folder **images** in the root directory of the project. We use the menu \[**Add**\] → \[**New Folder**\].
 
-Now we add the **game images** \(they are part of the project files for this project and can be downloaded from [here](https://github.com/SoftUni/Programming-Basics-Book-CSharp-BG/tree/master/assets/chapter-7-assets)\). We copy them from Windows Explorer and put them in the **images** folder in \[**Solution Explorer**\] in Visual Studio with **copy/paste**.
+Now we add the **game images** \(they are part of the project files for this project and can be downloaded [here](https://github.com/SoftUni/Programming-Basics-Book-CSharp-BG/tree/master/assets/chapter-7-assets)\). We copy them from Windows Explorer and put them in the **images** folder in \[**Solution Explorer**\] in Visual Studio with **copy/paste**.
 
 ![](/assets/chapter-7-images/15.Fruits-08.png)
 
@@ -62,11 +62,11 @@ Now we add the **game images** \(they are part of the project files for this pro
 
 Drawing Fruits in `Index.cshtml`:
 
-In order to **draw the playing field** with the fruits, we need to rotate **two nested loops** \(for rows and columns\). Each row consists of 9 images, each of which contains `apple`, `banana` or other fruit, or empty `empty`, or `dynamite`. Images are drawn by printing an HTML tag to insert a picture of the type `<img src = "/images/apple.png" />`. Nine pictures are stacked one after the other on each row, followed by a new line with a `<br>`. This is repeated three times for the three lines. Finally, the player's points are printed. Here is how **the code** for drawing the playing field and points looks:
+In order to **draw the playing field** with the fruits, we need to rotate **two nested loops** \(for rows and columns\). Each row consists of 9 images, each of which contains an `apple`, `banana` or other fruit, or empty `empty`, or `dynamite`. Images are drawn by printing an HTML tag to insert a picture of the type `<img src = "/images/apple.png" />`. Nine pictures are stacked one after the other on each row, followed by a new line with a `<br>`. This is repeated three times for the three lines. Finally, the player's points are printed. Here is what **the code** for drawing the playing field and points looks like:
 
 ![](/assets/chapter-7-images/15.Fruits-09.png)
 
-Take a look at the yellow characters `@` - they serve to switch between the **C\#** and **HTML** languages and come from the **Razor** syntax for drawing dynamic web pages.
+Take a look at the yellow characters `@` - they are used to switch between the **C\#** and **HTML** languages and come from the **Razor** syntax for drawing dynamic web pages.
 
 ## Change Text in Layout
 
@@ -76,13 +76,13 @@ We need to adjust the texts in the `/Views/Shared/_Layout.cshtml` file. We repla
 
 ## Test the Application
 
-Start the project with \[**Ctrl + F5**\] and enjoy it. It is expected to generate a random 9-to-3 playing field with fruits and visualize it on the web page through a series of pictures:
+Start the project using \[**Ctrl + F5**\] and enjoy it. It is expected to generate a random 9-to-3 playing field with fruits and visualize it on the web page through a series of pictures:
 
 ![](/assets/chapter-7-images/15.Fruits-11.png)
 
-Now the game is sort of done: the playing field is randomly generated and rendered successfully \(if you have not made a mistake somewhere\). It remains to realize the essence of the game: **shooting the fruits**.
+Now the game is sort of done: the playing field is randomly generated and rendered successfully \(if you have not made a mistake somewhere\). What remains is to fulfill the essence of the game: **shooting the fruits**.
 
-## Shooting on the Fruits
+## Shooting the Fruits
 
 For the fruit shooting, we need to add the actions \[**Reset**\] and \[**Fire Top**\] / \[**Fire Bottom**\] to the controller `HomeController.cs`:
 
@@ -90,7 +90,7 @@ For the fruit shooting, we need to add the actions \[**Reset**\] and \[**Fire To
 
 The above code defines three actions:
 
-* `Reset()` - starts a new game by generating a new random playing field with fruits and explosives, resetting the player's points and making the game valid **\(**`gameOver = false`**\)**. This action is pretty simple and can be immediately tested with \[**Ctrl + F5**\] before writing the other ones.
+* `Reset()` - starts a new game by generating a new random playing field with fruits and explosives, resetting the player's points and making the game valid **\(**`gameOver = false`**\)**. This action is pretty simple and can be immediately tested using \[**Ctrl + F5**\] before writing the other ones.
 * `FireTop (position)` - shoots on row **0** at position `position` \(number 0 to 100\). The shooting is in direction **down** \(+1\) from row `0` \(top\). Shooting itself is more complicated as a logic and will be considered after a while.
 * `FireBottom (position)` - shoots on row **2** at position `position` \(number 0 to 100\). The shooting is in direction **up** \(-1\) from row **2** \(bottom\).
 
@@ -104,11 +104,11 @@ Shooting works like this: first calculate the column number `col` to which the p
 
 In order to find where the shot hits fruit or dynamite, go through a loop through all the cells in the playing field in the target column and from the first to the last attack row. If a fruit is hit, it disappears \(replaced by `empty`\) and points are given to the player. If the `dynamite` is hit, the game is marked as finished.
 
-We left to the more enthusiastic to implement more complex behavior, for example, to give different points in the pursuit of a different fruit, to carry out animation with an explosion \(this is not too easy\), to take points in unnecessary firing in an empty column and so on.
+The more enthusiastic among you can implement a more complex behavior, for example, to give different points in the pursuit of a different fruit, to carry out animation with an explosion \(this is not too easy\), to take points in unnecessary firing in an empty column and so on.
 
 ## Test the Application Again
 
-**We are testing** what is up to now by starting with \[**Ctrl + F5**\]:
+**We are testing** what created up until now by starting with \[**Ctrl + F5**\]:
 
 * **New Game** → the new game button must generate a new playing field with randomly placed fruits and explosives and reset the player's points.
 * **Shooting from top** → the top firing must remove the top fruit in the hit column or cause the game to end if there is dynamite. In fact, at the end of the game nothing is going to happen, because in the view this case is still not considered.
@@ -118,7 +118,7 @@ We left to the more enthusiastic to implement more complex behavior, for example
 
 ## Implement "Game Over"
 
-For now, at **"End of the game"** nothing happens. If a player reaches dynamite, the controller says that the game is over **\(**`gameOver = true`**\)**, but this fact is not visualized in any way. In order for the game to finish, we need to add several checks in the view:
+For now, at **"End of the game"** nothing happens. If a player reaches a dynamite, the controller says that the game is over **\(**`gameOver = true`**\)**, but this fact is not visualized in any way. In order for the game to finish, we need to add several checks in the view:
 
 ![](/assets/chapter-7-images/15.Fruits-14.png)
 
@@ -128,11 +128,11 @@ The code above checks whether the game has finished and indicates accordingly th
 
 ## Final Testing of the Application
 
-After changing the code in the view, let's start with \[**Ctrl + F5**\] and **test** the game again:
+After changing the code in the view, let's start by \[**Ctrl + F5**\] and **test** the game again:
 
 ![](/assets/chapter-7-images/15.Fruits-16.png)
 
 This time, when you hit a dynamite, the right picture should appear and allow only the "new game" action \(the \[**New Game**\] button\).
 
-Was it complicated? Did you manage to make the game? If you have not succeeded, relax, this is a relatively complex project that includes a great deal of non-studied matter. If you want the web game to pass through your hands, **watch the video** at the beginning of this chapter and follow the steps. There the app is made live with a lot of explanations. Or ask for specific issues in the **forum of SoftUni**: [https://softuni.bg/forum](https://softuni.bg/forum).
+Was it complicated? Did you manage to create the game? If you have not succeeded, relax, this is a relatively complex project that includes a great deal of non-studied matter. If you want the web game to pass through your hands, **watch the video** at the beginning of this chapter and follow the steps. There the app is made live with a lot of explanations. Or ask for specific issues in the **SoftUni forum**: [https://softuni.bg/forum](https://softuni.bg/forum).
 
