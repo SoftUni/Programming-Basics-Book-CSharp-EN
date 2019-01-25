@@ -20,9 +20,9 @@ Fn = Fn-1 + Fn-2
 | 0 | 1 |  |
 | 1 | 1 |  |
 
-Enter **an integer** number **n** and calculate **n-number of Fibonacci**.
+Enter **an integer** number **n** and calculate the **n-number of Fibonacci**.
 
-## Tips and Tricks
+## Hints and Guidelines
 
 An idea to solve the problem:
 
@@ -31,8 +31,8 @@ An idea to solve the problem:
 * We create a `for` loop with condition **the current value **`i < n - 1`.
 * In **the body of the loop**:
   * We create **a temporary** variable `fNext`, to which we assign the next number in the Fibonacci sequence.
-  * At `f0` we assign the current value of `f1`.
-  * At `f1` we assign the value of the temporary variable `fNext`.
+  * To `f0` we assign the current value of `f1`.
+  * To `f1` we assign the value of the temporary variable `fNext`.
 * Out of the loop we print the n-th number of Fibonacci.
 
 Example implementation:
