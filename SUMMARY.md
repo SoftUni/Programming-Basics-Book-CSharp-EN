@@ -159,7 +159,7 @@
   * [Infinite Loops with Break](Content/Chapter-7-1-complex-loops/infinite-loops/infinite-loops.md)
   * [Nested Loops and Break](Content/Chapter-7-1-complex-loops/nested-loops-and-break/nested-loops-and-break.md)
   * [Handling Errors: Try-Catch](Content/Chapter-7-1-complex-loops/try-catch/try-catch.md)
-  * [Exercises: Complex Loops](Content/Chapter-7-1-complex-loops/exercises-with-loops/exercises-with-loops.md)
+  * [Exercises: More Complex Loops](Content/Chapter-7-1-complex-loops/exercises-with-loops/exercises-with-loops.md)
     * [Problem: Fibonacci Numbers](Content/Chapter-7-1-complex-loops/exercises-with-loops/fibonacci-numbers/fibonacci-numbers.md)
     * [Problem: Numbers Pyramid](Content/Chapter-7-1-complex-loops/exercises-with-loops/number-pyramid/number-pyramid.md)
     * [Problem: Numbers Table](Content/Chapter-7-1-complex-loops/exercises-with-loops/number-table/number-table.md)
