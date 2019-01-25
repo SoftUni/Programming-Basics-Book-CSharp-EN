@@ -1,10 +1,10 @@
 # Exercises: More Complex Loops
 
-In this chapter, we got familiar with some new types of loops that can make repetitions with more complex programming logic. Let's solve a few **practical problems** using these new constructs.
+In this chapter, we got familiar with some new types of loops that can perform repetitions with more complex programming logic. Let's solve a few **practical problems** using these new constructs.
 
 ## What We Learned in This Chapter?
 
-First, recall what we have learned.
+First, let's recall what we have learned.
 
 We can use `for` loop with **a step**:
 
@@ -15,7 +15,7 @@ for (var i = 1; i <= n; i+=3)
 }
 ```
 
-The loops `while` / `do-while` are repeated while a **condition** is in effect:
+The `while` / `do-while` loops are repeated while a **condition** is in effect:
 
 ```csharp
 int num = 1;
