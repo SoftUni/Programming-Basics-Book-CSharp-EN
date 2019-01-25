@@ -163,7 +163,7 @@
     * [Problem: Fibonacci Numbers](Content/Chapter-7-1-complex-loops/exercises-with-loops/fibonacci-numbers/fibonacci-numbers.md)
     * [Problem: Numbers Pyramid](Content/Chapter-7-1-complex-loops/exercises-with-loops/number-pyramid/number-pyramid.md)
     * [Problem: Numbers Table](Content/Chapter-7-1-complex-loops/exercises-with-loops/number-table/number-table.md)
-  * [Lab: Web Application](Content/Chapter-7-1-complex-loops/web-app/web-apps-with-complex-loops.md)
+  * [Lab: Web Application with Complex Loops](Content/Chapter-7-1-complex-loops/web-app/web-apps-with-complex-loops.md)
 * [7.2. More Complex Loops – Exam Problems](Content/Chapter-7-2-complex-loops-exam-problems/overview.md)
   * [Problem: Dumb Passwords Generator](Content/Chapter-7-2-complex-loops-exam-problems/stupid-password-generator/stupid-password-generator.md)
   * [Problem: Magic Numbers](Content/Chapter-7-2-complex-loops-exam-problems/magic-combination/magic-combination.md)
