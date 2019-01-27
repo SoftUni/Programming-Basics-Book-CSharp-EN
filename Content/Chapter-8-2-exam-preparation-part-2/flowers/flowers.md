@@ -26,7 +26,7 @@ The input is read from the **console** and contains **exactly 5 rows**:
 
 ## Output Data
 
-Print in the console 1 number – **the price of flowers**, formatted up to the second symbol after the decimal point.
+Print on the console 1 number – **the price of flowers**, formatted up to the second symbol after the decimal point.
 
 ## Sample Input and Output
 
@@ -64,7 +64,7 @@ Our next subtask is to **read** properly **the input** data from the console. We
 
 ### Preparing the Program Logic
 
-Let's think of the most approprate way to **structure** or programming logic. By the requirements it becomes clear that the path of the program is divided mainly into two parts: **spring / summer** and **autumn / winter**. We can do the separation by conditional statement, by storing variables in advance for the **prices** of the individual flowers, as well as for the **end result**.
+Let's think of the most appropriate way to **structure** our programming logic. By the requirements it becomes clear that the path of the program is divided mainly into two parts: **spring / summer** and **autumn / winter**. We can do the separation by conditional statement, by storing variables in advance for the **prices** of the individual flowers, as well as for the **end result**.
 
 ![](/assets/chapter-8-2-images/03.Flowers-04.png)
 
