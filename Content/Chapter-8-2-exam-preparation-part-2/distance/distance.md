@@ -12,7 +12,7 @@ Write a program that calculates **what is the distance passed by a car (in kilom
 
 ## Output Data
 
-Print a number in the console: **the kilometers passed**, formatted up to the **second symbol after the decimal point**.
+Print a number оn the console: **the kilometers passed**, formatted up to the **second symbol after the decimal point**.
 
 ## Sample Input and Output
 
@@ -24,7 +24,7 @@ Print a number in the console: **the kilometers passed**, formatted up to the **
 |-----|-----|-----|
 |140<br>112<br>75<br>190|917.12|**Distance with initial speed**: 140 km/h \* 1.86 hr (112 min) = **261.33 km**<br>**After speed increase**: 140 + 10% = 154.00 km/h \* 1.25 hr (75 min) = **192.5 km**<br>**After speed decrease**: 154.00 - 5% = 146.29 km/h \* 3.16 hr (190 min) = **463.28 km**<br>**Total number of km passed**: **917.1166 km**|
 
-## Tips and Tricks
+## Hints and Guidelines
 
 It is possible that such a description may look **misleading** and incomplete at first glance, which **adds** to the **complexity** of a relatively easy task. Let's **separate** the problem into a few **sub-problems** and try to **solve** each of them one by one, which will lead us to the final result:
 
