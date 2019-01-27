@@ -10,7 +10,7 @@ Read from the console a **sequence of numbers, each on a separate row**:
 
 ## Output Data
 
-Print in the console **5 rows** that contain the following information:
+Print on the console **5 rows** that contain the following information:
 * "Top students: {percentage of students with grade of 5.00 or more}%".
 * "Between 4.00 and 4.99: {between 4.00 and 4.99 included}%".
 * "Between 3.00 and 3.99: {between 3.00 and 3.99 included}%".
