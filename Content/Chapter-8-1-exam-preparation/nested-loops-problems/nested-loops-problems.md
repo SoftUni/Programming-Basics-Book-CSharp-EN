@@ -1,11 +1,11 @@
 # Nested Loops – Problems
 
-**The last** (sixth) problem of the "Programming Basics" Practical Exam requires the using of **several nested loops and more complex logic in them**. The task examines students' ability to think algorithmically and to solve non-trivial problems that require loops. HLet's take a few examples of exam problems.
+**The last** (sixth) problem of the "Programming Basics" Practical Exam requires using of **several nested loops and more complex logic inside them**. The task examines students' ability to think in a algorithmic way and to solve non-trivial problems that require loops. Let's see a few examples of exam problems.
 
 
 ## Problem: Increasing 4 Numbers
 
-For a pair of numbers **a** and **b** generate all fours **n1, n2, n3, n4,** for which **a ≤ n1 <n2 <n3 <n4 ≤ b**.
+For a pair of numbers **a** and **b** generate all four number **n1, n2, n3, n4,** for which **a ≤ n1 <n2 <n3 <n4 ≤ b**.
 
 ### Input
 
@@ -13,7 +13,7 @@ The input contains two integers **a** and **b** in the range  [**0 … 1000**], 
 
 ### Output
 
-The output contains all **quadruple** searches, in ascending order, one per line.
+The output contains all **numbers in batches of four**, in ascending order, one per line.
 
 ### Sample Input and Output
 
@@ -33,17 +33,17 @@ We will read the input data from the console. We also create the additional vari
 
 ### Implementation with 2 Numbers
 
-We will most easily solve the problem if we logically divide it **in parts**. If we are required to draw all the rows from a number between **`a`** and **`b`**, we will do it with **one loop** that takes all the numbers from **`a`** to **`b`**. Let's think how we make this with **two-number rows**. The answer is easy - we will use **nested loops**.
+We will most easily solve the problem if we logically divide it **in parts**. If we are required to draw all the rows from a number between **`a`** and **`b`**, we will do it using **one loop** that takes all the numbers from **`a`** to **`b`**. Let's think how to do this with **series of two numbers**. The answer is easy - we will use **nested loops**.
 
 ![](/assets/chapter-8-1-images/11.Increasing-4-numbers-02.png)
 
-We can test the uncomplete program to see if it's true so far. It must print all pairs of numbers **`i`**, **`j`** for which **`i ≤ j`**.
+We can test the incomplete program to see if it's accurate so far. It must print all pairs of numbers **`i`**, **`j`** for which **`i ≤ j`**.
 
-Since each **next number** of the row must be **greater** than **the previous one**, the second loop will revolve around **`i + 1`** (the next greater number). Accordingly, if **there is no sequence** of two incremental numbers (**`a`** and **`b`** are equal), the second loop **will not be fulfilled** and nothing will be printed on the console.
+Since each **next number** of the row must be **greater** than **the previous one**, the second loop will run around **`i + 1`** (the next greater number). Accordingly, if **there is no sequence** of two incremental numbers (**`a`** and **`b`** are equal), the second loop **will not be fulfilled** and nothing will be printed on the console.
 
 ### Implementation with 4 Numbers
 
-**Similarly**, it remains to implement **the nested loops** for **four numbers**. We will add an **increase of the counter** that we initialized in order to know if **there is such a sequence**.
+**Similarly**, what remains is to implement **the nested loops** for **four numbers**. We will add an **increase of the counter** that we initialized in order to know if **there is such a sequence**.
 
 ![](/assets/chapter-8-1-images/11.Increasing-4-numbers-03.png)
 
@@ -56,9 +56,9 @@ Finally, we will check if **the counter** is equal to **0** and we will print "*
 Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/516#10](https://judge.softuni.bg/Contests/Practice/Index/516#10).
 
 
-## Problem: Generate Rectangles
+## Problem: Generating Rectangles
 
-By a given number **n** and **a minimum area m**, all rectangles with whole coordinates in the range [**-n…n**] with an area of at least **m** are generated. Generated rectangles must be print in the following format:
+By a given number **n** and **a minimum area m**, all rectangles with whole coordinates in the range [**-n…n**] with an area of at least **m** are generated. Generated rectangles must be printed in the following format:
 
 **(left, top) (right, bottom) -> area**
 
@@ -91,19 +91,19 @@ Two numbers, one per line, are entered from the console:
 
 ### Reading the Input Data and Sample Idea for the Solution
 
-Read the input data from the console. We will also create a **counter**, which will keep the number of rectangles found.
+Read the input data from the console. We will also create a **counter**, which will store the number of rectangles found.
 
 ![](/assets/chapter-8-1-images/12.Generating-rectangles-01.png)
 
-It is very important to be able to imagine the problem before we begin to solve it. In our case it is required to search for rectangles in a coordinate system. The thing we know is that the **left point** will always have the coordinate **`x`, smaller** than **the right**. Accordingly, **the upper one** will always have a smaller **`у`** coordinate than **the lower one**. To find all the rectangles, we'll have to make **a loop** similar to the previous problem, but this time, **not every next loop** will start from **the next number** because some of **the coordinates** can be equal (for example **`left`** and **`top`**).
+It is very important to be able to imagine the problem before we begin to solve it. In our case it is required to search for rectangles in a coordinate system. The thing we know is that the **left point** will always have the coordinate **`x`, smaller** than **the right** one. Accordingly, **the upper one** will always have a smaller **`у`** coordinate than **the lower one**. To find all the rectangles, we'll have to create **a loop** similar to the previous problem, but this time, **not every next loop** will start from **the next number** because some of **the coordinates** can be equal (for example **`left`** and **`top`**).
 
 ![](/assets/chapter-8-1-images/12.Generating-rectangles-02.png)
 
 With the variables **`left`** and **`right`** we will follow the coordinates **horizontally** and with **`top`** and **`bottom`** - **vertically**.
 
-### Calculate the Rectangle Area and Print the Output
+### Calculating the Rectangle Area and Printing the Output
 
-The important thing here is knowing which coordinates they are so we can correctly calculate the sides of the rectangle. Now we have to find **the area of the rectangle** and check if it is **greater than** or **equal** to **`m`**. The one **side** will be **the difference between `left` and `right`** and **the other one - between `top` and `bottom`**. Since the coordinates may be eventually interchanged, we will use **absolute values**. Again, we add **the counter** in the loop, counting **only the rectangles** we write. It is important to note that the writing order is **`left`**, **`top`**, **`right`**, **`bottom`**, as it is set in the problem's description.
+The important thing here is knowing the corresponding coordinates so we can correctly calculate the sides of the rectangle. Now we have to find **the area of the rectangle** and check if it is **greater than** or **equal** to **`m`**. One **side** will be **the difference between `left` and `right`** and **the other one - between `top` and `bottom`**. Since the coordinates may be eventually interchanged, we will use **absolute values**. Again, we add **the counter** in the loop, counting **only the rectangles** we write. It is important to note that the writing order is **`left`**, **`top`**, **`right`**, **`bottom`**, as it is set in the problem's description.
 
 ![](/assets/chapter-8-1-images/12.Generating-rectangles-03.png)
 
