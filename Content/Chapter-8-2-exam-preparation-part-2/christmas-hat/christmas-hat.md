@@ -8,7 +8,7 @@ The input is read from the console – an **integer `n`** within the range [**3 
 
 ## Output Data
 
-Print in the console a **Christmas hat**, exactly like in the examples.
+Print on the console a **Christmas hat**, exactly like in the examples.
 
 ## Sample Input and Output
 
@@ -22,7 +22,7 @@ Print in the console a **Christmas hat**, exactly like in the examples.
 
 ### Problem Analysis
 
-In tasks requiring **drawing** in the console, most often the user inputs **an integer** that is related to the **total size of the figure** that we need to draw. As the task requirements mention how the total length and width of the figure are calculated, we can use them as **starting points**. In the examples it is clear that regardless of the input data, we always have **first two rows** that are almost identical.
+In tasks requiring **drawing** on the console, most often the user inputs **an integer** that is related to the **total size of the figure** that we need to draw. As the task requirements mention how the total length and width of the figure are calculated, we can use them as **starting points**. In the examples it is clear that regardless of the input data, we always have **first two rows** that are almost identical.
 
 <code>......./\|\\.......</code><br><code>.......\\\|/.......</code>
 
