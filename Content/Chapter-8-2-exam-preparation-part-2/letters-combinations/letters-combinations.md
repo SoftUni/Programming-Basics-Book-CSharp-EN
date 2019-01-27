@@ -1,6 +1,6 @@
 # Problem: Letters Combination
 
-Write a program that prints in the console **all combinations of 3 letters** within a specified range, by skipping the combinations **containing a letter set from the console**. Finally, print the number of printed combinations.
+Write a program that prints on the console **all combinations of 3 letters** within a specified range, by skipping the combinations **containing a letter set from the console**. Finally, print the number of printed combinations.
 
 ## Input Data
 
@@ -45,7 +45,7 @@ The result of running the code is all letters from **а** to **z** included, pri
 
 ### Printing Combination of Three Symbols
 
-We use a **loop** that runs through **all symbols** from the starting to the end letter (included). In **each iteration** of the **first** loop, we run a **second** one with the same parameters (but **only if** the letter of the first loop is valid, i.e. does not match the one that we must exclude, by requirements). In each iteration of the **second** loop, we run **one** more with the **same parameters** and the same **condition**. This way we have three nested loops, as we will print the symbols in the body of the **latter**.
+We use a **loop** that runs through **all symbols** from the starting to the end letter (included). On **each iteration** of the **first** loop, we run a **second** one with the same parameters (but **only if** the letter of the first loop is valid, i.e. does not match the one that we must exclude, by requirements). In each iteration of the **second** loop, we run **one** more with the **same parameters** and the same **condition**. This way we have three nested loops, as we will print the symbols in the body of the **latter**.
 
 ![](/assets/chapter-8-2-images/06.Letters-03.png)
 
