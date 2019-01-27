@@ -39,6 +39,37 @@ It is possible that such a description may look **misleading** and incomplete at
 * Last change of **speed** and **calculation**.
 * **Summing up**.
 
+### Reading the Input Data
+
+We use the following **function** to **read** the data from the **console**:
+
+![](/assets/chapter-8-2-images/01.Distance-01.png)
+
+By definition, **the input data** is introduced as **four** separate rows. This is why we need to execute **the previous** code **four** times in total.
+
+![](/assets/chapter-8-2-images/01.Distance-02.png)
+
+
+### Selecting Data Type for Calculations
+
+In order to **perform** the **calculations** we select **`decimal`** type.
+
+<table>
+<tr>
+<td width=10%><img src="/assets/alert-icon.png" style="max-width:50px" /></td>
+<td>The data type for real numbers with decimal representation in <b>C#</b> is the 128-bit <b><code>decimal</code></b> type. It has the <b>accuracy</b> of <b>28 to 29</b> decimal numbers. Its <b>minimum</b> value is <b>-7.9×10^28</b>, and its <b>maximum</b> value is <b>+7.9×10^28</b>. Its default value is <b>0.0m</b> or <b>0.0M</b>. The <b><code>m</code></b> symbol at the end explicitly indicates that the number is <b><code>decimal</code></b> type (by <b>default</b> all real numbers are <b><code>double</code></b> type). The numbers closest to <b>0</b> that can be stored in <b><code>decimal</code></b> are <b>±1.0 × 10^-28</b>. It is evident that <b><code>decimal</code> can not</b> store <b>very large</b> positive and negative numbers (for example with hundreds of digits), nor values <b>very close to 0</b>. On the other hand, this type rarely causes <b>any errors</b> upon financial calculations because it represents the numbers as a <b>sum of the power of the number 10</b>, upon which the <b>losses</b> from roundings are much <b>less</b> compared to when we use binary representation. Real numbers of <b><code>decimal</code></b> type are exceptionally <b>suitable for doing money calculations</b> – calculation of incomes, liabilities, taxes, interest, etc.
+</td>
+</tr>
+</table>
+
+This way we solved successfully the **first sub-problem**.
+
+### Converting the Input Data into Appropriate Types
+
+**The next** steps is to **convert the input data** into appropriate **types**, in order to be able to perform the needed calculations. We select **`Int32`** or **`int`** as an appropriate type, because the condition of the problem says that the input data must be within a **particular range**, for which this data type is completely sufficient. We will do the **conversion** in the following way:
+
+![](/assets/chapter-8-2-images/01.Distance-03.png)
+
 ### Helper Variable
 
 We initially **store** one **variable** that will be used multiple times. This centralization approach gives us **flexibility** and **possibility** to **modify** the end result of the program with minimum efforts. In case we need to change the value, we must do it in **only once place in the code**, which saves us time and effort. 
@@ -49,18 +80,6 @@ We initially **store** one **variable** that will be used multiple times. This c
 <tr>
 <td width=10%><img src="/assets/alert-icon.png" style="max-width:50px" /></td>
 <td><strong>Avoiding repetitive code</strong> (centralization of the program logic) in the tasks that we examine in the present book may look unnecessary at first glance, but this approach is very important upon building large applications in a real work environment, and its exercising in an initial stage of training will help you build a quality programming style.
-</td>
-</tr>
-</table>
-
-### Selecting Data Type for Calculations
-
-In order to **perform** the **calculations** we select **`decimal`** type.
-
-<table>
-<tr>
-<td width=10%><img src="/assets/alert-icon.png" style="max-width:50px" /></td>
-<td>The data type for real numbers with decimal representation in <b>C#</b> is the 128-bit <b><code>decimal</code></b> type. It has the <b>accuracy</b> of <b>28 to 29</b> decimal numbers. Its <b>minimum</b> value is <b>-7.9×10^28</b>, and its <b>maximum</b> value is <b>+7.9×10^28</b>. Its default value is <b>0.0m</b> or <b>0.0M</b>. The <b><code>m</code></b> symbol at the end explicitly indicates that the number is <b><code>decimal</code></b> type (by <b>default</b> all real numbers are <b><code>double</code></b> type). The numbers closest to <b>0</b> that can be stored in <b><code>decimal</code></b> are <b>±1.0 × 10^-28</b>. It is evident that <b><code>decimal</code> can not</b> store <b>very large</b> positive and negative numbers (for example with hundreds of digits), nor values <b>very close to 0</b>. On the other hand, this type rarely causes <b>any errors</b> upon financial calculations because it represents the numbers as a <b>sum of the power of the number 10</b>, upon which the <b>losses</b> from roundings are much <b>less</b> compared to when we use binary representation. Real numbers of <b><code>decimal</code></b> type are exceptionally <b>suitable for doing money calculations</b> – calculation of incomes, liabilities, taxes, interest, etc.
 </td>
 </tr>
 </table>
