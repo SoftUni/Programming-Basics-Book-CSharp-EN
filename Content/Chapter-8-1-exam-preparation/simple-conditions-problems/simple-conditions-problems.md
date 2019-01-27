@@ -1,26 +1,26 @@
 # Simple Conditions – Problems
 
-**The second** problem of the "Programming Basics" Practical Exam covers **conditional statement and simple calculations**. Let's take a few examples.
+**The second** problem of the "Programming Basics" Practical Exam covers **conditional statements and simple calculations**. Let's see a few examples.
 
 
-## Problem: Point on Segment
+## Problem: Point on a Segment
 
-**A horizontal segment** is set on a horizontal line, set with the **x** coordinates of both ends: **first** and **second**. **A point** is located **on** the same horizontal line and is set with its **x coordinate**. Write a program that checks whether the point is **inside or outside the segment** and calculates **the distance to the nearest end** of the segment.
+**A horizontal segment** is placed on a horizontal line, set with the **x** coordinates of both ends: **first** and **second**. **A point** is located **on** the same horizontal line and is set with its **x coordinate**. Write a program that checks whether the point is **inside or outside the segment** and calculates **the distance to the nearest end** of the segment.
 
 ### Input
 
 The console reads **3 integer numbers** (one per line):
-- On the first line stands the number first - **one end of the segment**.
-- On the second line stands the number second – **the other end of the segment**.
-- On the third line stands the number point – **the location of the point**.
+- On the first line the number "first" is read - **one end of the segment**.
+- On the second line the number "second" is read – **the other end of the segment**.
+- On the third line the number "point" is read – **the location of the point**.
 
 All input numbers are integers in the range [**-1000 … 1000**].
 
 ### Output
 
 Print the result on the console:
-- On the first line print "**in**" or "**out**" - whether the point is inside or outside the segment.
-- On the second line print the distance from the point to the nearest end of the segment.
+- On the first line, print "**in**" or "**out**" - whether the point is inside or outside the segment.
+- On the second line, print the distance from the point to the nearest end of the segment.
 
 ### Sample Input and Output
 
@@ -42,9 +42,9 @@ We read the input from the console.
 
 ![](/assets/chapter-8-1-images/03.Point-on-segment-04.png)
 
-### Calculate the Minimal Distance to the Closest End of the Segment
+### Calculate the Minimum Distance to the Closest End of the Segment
 
-Since we do not know which **point** is on the left and which is on the right, we will make two variables to note this. Since the **left point** is always the one with the smaller **x coordinate**, we will use **`Math.Min(…)`** to find it. Accordingly, **the right one** is always the one with a larger **x coordinate** and we will use **`Math.Max(…)`**. We will also find the distance from **point x** to **the two points**. Because we do not know their position relative to each other, we will use **`Math.Abs(…)`** to get a positive result.
+Since we do not know which **point** is on the left and which is on the right, we will create two variables to mark this. Since the **left point** is always the one with the smaller **x coordinate**, we will use **`Math.Min(…)`** to find it. Accordingly, **the right one** is always the one with a larger **x coordinate** and we will use **`Math.Max(…)`**. We will also find the distance from **point x** to **the two points**. Because we do not know their position relative to each other, we will use **`Math.Abs(…)`** to get a positive result.
 
 ![](/assets/chapter-8-1-images/03.Point-on-segment-05.png)
 
@@ -52,9 +52,9 @@ The shorter of the two **distances** we can found using **`Math.Min(…)`**.
 
 ![](/assets/chapter-8-1-images/03.Point-on-segment-06.png)
 
-### Determining if Point is In or Out the Segment and Print Result
+### Determining if Point is In or Out the Segment and Printing the Result
 
-It remains to be found whether **the point** is on or out of the line. The point will be **on the line** whenever it **matches** one of the other two points or its x coordinate lies **between them**. Otherwise, the point is **outside the line**. After checking, we get one of the two messages, which one is satisfied.
+What remains is to find whether **the point** is on or out of the line. The point will be **on the line** whenever it **matches** one of the other two points or its x coordinate lies **between them**. Otherwise, the point is **outside the line**. After checking, we display one of the two messages, depending on which condition is satisfied.
 
 ![](/assets/chapter-8-1-images/03.Point-on-segment-07.png)
 
@@ -93,14 +93,14 @@ Print on the console "**in**" or "**out**" - whether the point is **inside** or 
 |----|----|----|----|
 |11<br>-5|out|11<br>2|out|
 
-### Tips and Tricks
+### Hints and Guidelines
 
-To find out if the **point** is in the figure, we will divide **the figure** into 2 quadrangles:
+To find out if the **point** is in the figure, we will divide **the figure** into 2 rectangles:
 
 ![](/assets/chapter-8-1-images/04.Point-in-figure-02.png)
 ![](/assets/chapter-8-1-images/04.Point-in-figure-03.png)
 
-A sufficient condition is **the point** to be located in one of them to be in **the figure**.
+A sufficient condition is **the point** to be located in one of them, in order to be in **the figure**.
 
 ### Determining Point Location
 
@@ -112,7 +112,7 @@ We will initialize two variables that will mark whether **the point** is in one 
 
 ![](/assets/chapter-8-1-images/04.Point-in-figure-05.png)
 
-When printing the message, we will check whether any of the variables has accepted a value of **`true`**. It is enough **only one** of them to be **`true`** to find the point in the figure.
+When printing the message, we will check whether any of the variables has accepted a value of **`true`**. It is enough **only one** of them to be **`true`**, so that the point is in the figure.
 
 ![](/assets/chapter-8-1-images/04.Point-in-figure-06.png)
 
