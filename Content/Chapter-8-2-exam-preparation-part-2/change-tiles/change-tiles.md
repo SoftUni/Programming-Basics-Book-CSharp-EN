@@ -4,7 +4,7 @@ Haralambi has some **savings** that he wants to use to **change the tiles on the
 
 ## Input Data
 
-The following 7 rows must be read from the console:
+The following 7 lines must be read from the console:
 * **Savings**.
 * **Floor width**.
 * **Floor length**.
@@ -17,7 +17,7 @@ The following 7 rows must be read from the console:
 
 ## Output Data
 
-The following must be printed in the console in **one row**:
+The following must be printed on the console in **one row**:
 
 * If the money **is sufficient**:
    * “{Remaining funds} lv left.”
@@ -36,7 +36,7 @@ The result must be **formatted up to the second symbol** after the decimal point
 |-----|-----|-----|
 |1000<br>5.55<br>8.95<br>0.90<br>0.85<br>13.99<br>321|You'll need 1209.65 lv more.|**Floor area** &rarr; 5.55 \* 8.95 = **49.67249**<br>**Tile area** &rarr; 0.9 \* 0.85 / 2 = **0.3825**<br>**Needed tiles** &rarr; 49.67249 / 0.3825 = 129.86… = **130 + 5 spare tiles** = **135**<br>**Total amount** &rarr; 135 * 13.99 + 321 (workman) = **2209.65**<br>**2209.65 > 1000** &rarr; **1209.65 lv are insufficient**|
 
-## Tips and Tricks
+## Hints and Guidelines
 
 The following task requires our problem to accept more input data and to perform a larger number of calculations, despite the fact that the solution is **identical**. Accepting the input data is done in the **familiar way**. Pay attention that the **Input** part of the condition states that all input data must be in **real numbers**, and for that reason we would use **`decimal`** type.
 
