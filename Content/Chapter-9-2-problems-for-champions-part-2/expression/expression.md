@@ -8,6 +8,19 @@ The expression is solved without considering the mathematical rules for calculat
 - An expression containing **(…(…)…) is an invalid one**.
 - An expression containing **(…)…(…) is a valid one**.
 
+## Example
+
+The expression
+
+![](/assets/chapter-9-2-images/02.X-expression-01.png)
+
+is solved in the following way:
+
+![](/assets/chapter-9-2-images/02.X-expression-02.png)
+
+Bonny is very pretty, but not as wise, so she will need our help to master the power of Expressions.
+
+
 ## Input Data
 
 The input data contains one row that is passed from the console. It contains a **mathematical expression for calculation**. The row **always ends with the "=" symbol**. The **"="** symbol means **end of the mathematical expression**.
@@ -24,7 +37,7 @@ The output must be **rounded up to the second digit after the decimal point**.
 
 - The expressions will consist of **maximum 2500 symbols**.
 - The numbers of each mathematical expression will be within the range [**1 … 9**].
-- The operators in the mathematical expressions will always be among **`+`** (summing up), **`-`** (subraction), **`/`** (division) or **`*`** (multiplying).
+- The operators in the mathematical expressions will always be among **`+`** (summing up), **`-`** (subtraction), **`/`** (division) or **`*`** (multiplying).
 - The result of the mathematical expression will be within the range [**-100000.00 … 100000.00**].
 - Allowed execution time: **0.1 seconds**.
 - Allowed memory: **16 MB**.
@@ -34,18 +47,6 @@ The output must be **rounded up to the second digit after the decimal point**.
 | Input                           | Output  | Input                           | Output  |
 |--------------------------------|--------|-------------------------------|--------|
 | 4+6/5+(4\*9–8)/7\*2=           | 8.57   |3+(6/5)+(2\*3/7)\*7/2\*(9/4+4\*1)= | 110.63 |
-
-## Example
-
-The expression
-
-![](/assets/chapter-9-2-images/02.X-expression-01.png)
-
-is solved in the following way:
-
-![](/assets/chapter-9-2-images/02.X-expression-02.png)
-
-Bonny is very pretty, but not as wise, so she will need our help to master the power of Expressions.
 
 ## Hints and Guidelines
 
@@ -96,7 +97,7 @@ Let's examine the actions that we need to undertake in the relevant cases that w
 
 ### Calculating the Sub-Expression Value
 
-After that, in order to **calculate the sub-expression value** we will use the same methods that we used for calculating the main expression – we use a **`while` loop** to **read symbols** (until we reach an **`)`** symbol). Depending on whether the read symbol is a number or an operator, we modify the result of the sub-expression. The implementation of these operations is identical to the  above described implementation for calculating expressions. This is why we believe the reader will be able to easily handle it.
+After that, in order to **calculate the sub-expression value** we will use the same methods that we used for calculating the main expression – we use a **`while` loop** to **read symbols** (until we reach an **`)`** symbol). Depending on whether the read symbol is a number or an operator, we modify the result of the sub-expression. The implementation of these operations is identical to the above described implementation for calculating expressions. This is why we believe the reader will be able to easily handle it.
 
 After finishing the result calculation for our sub-expression, we **modify the result of the whole expression** depending on the value of the **`expressionOperator`**.
 
