@@ -200,7 +200,7 @@
   * [Methods Overloading](Content/Chapter-10-methods/methods-overloading/methods-overloading.md)
   * [Nested Methods \(Local Functions\)](Content/Chapter-10-methods/nested-methods/nested-methods.md)
   * [Method Naming](Content/Chapter-10-methods/what-method-is/method-naming.md)
-  * [Methods – Best Practices](Content/Chapter-10-methods/what-method-is/methods-best-practices.md)
+  * [Good Practices When Working with Methods](Content/Chapter-10-methods/what-method-is/methods-best-practices.md)
 * [11. Tricks and Hacks](Content/Chapter-11-tricks-and-hacks/overview.md)
   * [Code Formatting](Content/Chapter-11-tricks-and-hacks/code-formatting/code-formatting.md)
   * [Naming Code Elements](Content/Chapter-11-tricks-and-hacks/naming-elements-of-the-code/naming-elements-of-the-code.md)
