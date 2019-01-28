@@ -1,6 +1,6 @@
 # Tricks for C\# Developers
 
-In this section we will recall some **tricks and techniques** in programming with C\#, already seen in this book, which can be very useful if you go to an exam for beginner programming.
+In this section we will recall some **tricks and techniques** in programming with C\#, already seen in this book, which can be very useful if you attend an exam for beginner programming.
 
 ## Inserting Variables in Strings
 
@@ -10,7 +10,7 @@ Console.WriteLine("{0}", text);
 // This will print on the console "some text"
 ```
 
-In this case we are using a **placeholder** – `{x}`, where **x** is a number \(larger than or equal to 0\), corresponding to the position on which we have placed our variable. Therefore if we insert two variables, we will have one placeholder, which will be `{0}` and it will keep the value of **the first variable** and another one – `{1}`, which will keep the value of на **the second variable**. For example:
+In this case we are using a **placeholder** – `{x}`, where **x** is a number \(larger than or equal to 0\), corresponding to the position on which we have placed our variable. Therefore if we insert two variables, we will have one placeholder, which will be `{0}` and it will keep the value of **the first variable** and another one – `{1}`, which will keep the value of **the second variable**. For example:
 
 ```csharp
 var text = "some text";
@@ -19,9 +19,9 @@ Console.WriteLine("{0} {1} {0}", text, number);
 // This will print "some text 5 some text"
 ```
 
-In this example we can see that we can insert **not only text variables**. We can also use a given variable **several times** and for this we put the number which **corresponds with the position of the variable** in the placeholder. In this case on position zero is the variable `text`, and at first position is the variable `number`. In the beginning the numbering can be confusing, but you need to remember that in programming **counting starts from 0**.
+In this example we can see that we can insert **not only text variables**. We can also use a given variable **several times** and for this we put the number which **corresponds with the position of the variable** in the placeholder. In this case on position zero is the variable `text`, and at first position is the variable `number`. At the beginning, numbering can be confusing, but you need to remember that in programming **counting starts from 0**.
 
-## Formatting with 2 Decimal Places
+## Formatting with 2 Digits After the Decimal Point
 
 ```csharp
 var number = 5.432432;
@@ -32,9 +32,9 @@ Console.WriteLine(Math.Round(number, 2));
 `Math.Round(…)` takes 2 parameters:
 
 * the first one is **the number we want to round**
-* the second is the number which determines **to how much decimal places we want to round** \(this should always be an integer\)
+* the second one is the number that determines **how many digits after the decimal point we want to round to** \(this should always be an integer\)
 
-If we want to round the number to **2 decimal places** and the third digit is lower than 5, as in the example above, the rounding is down, but if the third digit is equal or bigger than 5 – the rounding is up as in the example below:
+If we want to round the number to **2 digits after the decimal point** and the third digit is lower than 5, as in the example above, the rounding is down, but if the third digit is equal or bigger than 5 – the rounding is up as in the example below:
 
 ```csharp
 var number = 5.439;
@@ -65,7 +65,7 @@ var num = 5.432424;
 Console.WriteLine("{0:f2}", num);
 ```
 
-In this case after the number we add `:f2`, which will limit the number to 2 decimal places and will work like `Math.Round(…)`. You should keep in mind that the number after the letter `f` means to how many decimal places the number is rounded \(i.e. it can be `f3` or `f5`\).
+In this case after the number we add `:f2`, which will limit the number to 2 digits after the decimal point and will work like `Math.Round(…)`. You should keep in mind that the number after the letter `f` means to how many digits after the decimal point the number is rounded \(i.e. it can be `f3` or `f5`\).
 
 ## How to Write a Conditional Statement?
 
@@ -91,7 +91,7 @@ To make it easier we can use a code snippet for an `if`** construction**:
 
 * `if`** + \[Tab\] + \[Tab\]**
 
-## How to Write a 'for' Loop?
+## How to Write a 'For' Loop?
 
 For a `for`** loop** we need a couple of things:
 
