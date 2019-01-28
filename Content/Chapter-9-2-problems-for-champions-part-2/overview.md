@@ -1,6 +1,6 @@
 # Chapter 9.2. Problems for Champions – Part II
 
-In this chapter we will review three more problems that belong to to the category "**For Champions**", i.e. they are more complex than the rest of the problems in this book.
+In this chapter we will review three additional problems that belong to the category "**For Champions**", i.e. they are more complex than the rest of the problems in this book.
 
 ## More Complex Problems on the Studied Material
 
@@ -8,7 +8,7 @@ Before we move on to particular tasks, we must clarify that these can be solved 
 
 ## The Problems
 
-The problems, which we shall solve in this chapter, are:
+The problems that we will solve in this chapter, are:
 
 * [Problem: Passion Shopping Days](/Content/Chapter-9-2-problems-for-champions-part-2/passion-days/passion-days.md)
 * [Problem: Numerical Expression](/Content/Chapter-9-2-problems-for-champions-part-2/expression/expression.md)

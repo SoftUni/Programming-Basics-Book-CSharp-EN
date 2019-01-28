@@ -2,7 +2,7 @@
 
 Lina has a real shopping passion. When she has some money, she immediately goes to the closest shopping center (mall) and tries to spend as much as she can on clothes, bags and shoes. But her favorite thing are winter sales. Our task is to analyze her strange behavior and  **calculate the purchases** that Lina does when she enters the mall, as well as the **money she has left** when the shopping is over.
 
-The **first line** of the input will pass the **amount** that Lina has **before** she starts shopping. After that, upon reading the "**`mall.Enter`**" command, Lina enters the mall and starts shopping until the "**`mall.Exit`**" is given. When Lina starts shopping, **on each line** of the input you will be given strings that are **actions performed by Lina**. Each **symbol** in the string is a **purchase or another action**. String commands contain only symbols of the **ASCII table**. The ASCII code of each sign is **related to what Lina must pay** for each of the goods. You need to interpret the symbols in the following way:
+The **first line** of the input will pass the **amount** that Lina has **before** she starts shopping. After that, upon reading the "**`mall.Enter`**" command, Lina enters the mall and starts shopping until the "**`mall.Exit`**" command is given. When Lina starts shopping, **on each line** of the input you will be given strings that are **actions performed by Lina**. Each **symbol** in the string is a **purchase or another action**. String commands contain only symbols of the **ASCII table**. The ASCII code of each sign is **related to what Lina must pay** for each of the goods. You need to interpret the symbols in the following way:
 
 - If the symbol is a **capital letter**, Lina gets a **50% discount**, which means that you must decrease the money she has by 50% of the numeric representation of the symbol from the ASCII table.
 - If the symbol is a **small letter**, Lina gets a **70% discount**, which means that you must decrease the money she has by 30% of the numeric representation of the symbol from  the ASCII table.
@@ -10,7 +10,7 @@ The **first line** of the input will pass the **amount** that Lina has **before*
 - If the symbol is **"`*`"**, Lina **withdraws money from her debit card** and adds 10 lv to her available funds.
 - If the symbol is **different from all of the aforementioned**, Lina just makes a purchase without discount, and in this case you should simply subtract the value of the symbol from the ASCII table from her available funds.
 
-If some of the values of her purchases is **higher** than her current available funds, Lina **DOES NOT** make the purchase. Lina's funds **can not be less than 0**.
+If a certain value of her purchases is **higher** than her current available funds, Lina **DOES NOT** make the purchase. Lina's funds **can not be less than 0**.
 
 The shopping ends when the "**`mall.Exit`**" command is given. When this happens, you need to **print the number of purchases made and the money** that Lina has left.
 
@@ -22,8 +22,8 @@ Always only one "**`mall.Enter`**" command will be given, as well as only one "*
 
 ## Output Data
 
-The output data must be **printed in the console**.
-When shopping is over, the console must print individual output depending on what purchases have been made.
+The output data must be **printed on the console**.
+When shopping is over, you must print on the console a particular output depending on what purchases have been made.
 - If **no purchases have been made** – "**No purchases. Money left: {remaining funds} lv.**"
 - If **at least one purchase** is made – "**{number of purchases} purchases. Money left: {remaining funds} lv.**"
 
@@ -31,10 +31,10 @@ When shopping is over, the console must print individual output depending on wha
 
 ## Constraints
 
-- Money is a **float** number within: [**0 - 7.9 x 10<sup>28</sup>**].
+- Money is a **float** number within the range: [**0 - 7.9 x 10<sup>28</sup>**].
 - The number of strings between "**`mall.Enter`**" and "**`mall.Exit`**" will be within the range: [**1-20**].
 - The number of symbols in each string that represents a command will be within the range: [**1-20**].
-- Allowed execution time: **0.1 секунди**.
+- Allowed execution time: **0.1 seconds**.
 - Allowed memory: **16 MB**.
 
 ## Sample Input and Output
@@ -59,16 +59,16 @@ Let's examine each of the parts in details.
 ### Processing the Input Data
 
 The input of our task consists of a few components:
-- On the **first row we have all the money** that Lina has for shopping.
-- On **each of the following rows** we will have some kind of **command**.
+- On the **first line we have all the money** that Lina has for shopping.
+- On **each of the following lines** we will have some kind of a **command**.
 
 The first part of reading the input is trivial:
 
 ![](/assets/chapter-9-2-images/01.Passion-days-01.png)
 
-But the second one contains a detail that we need to take into consideration. The requirements says the following:
+But the second one contains a detail that we need to take into consideration. The requirements state the following:
 
-> On each of the following rows there will be a particular command. After you read the command **"mall.Enter"**, on each of the following rows you will be given strings containing information regarding the purchases / actions that Lina wants to perform.
+> On each of the following lines there will be a particular command. After you read the command **"mall.Enter"**, on each of the following lines you will be given strings containing information regarding the purchases / actions that Lina wants to perform.
 
 This is where we need to take into consideration the fact that from the **second row on, we need to start reading commands**, but **only after we read** the command **"mall.Enter"**, we must start processing them. How can we do this? Using a **`while`** or a **`do-while`** loop is a good option. Here is an exemplary solution of how **to skip** all commands before processing the command **"mall.Enter"**:
 
@@ -77,7 +77,7 @@ This is where we need to take into consideration the fact that from the **second
 Here is the place to point out that calling **`Console.ReadLine()`** after the end of the loop is used for **moving to the first command** for processing.
 
 
-### Reading the Commands
+### Algorithm for Solving the Problem
 
 The algorithm for solving the problem is a direct one – we continue **reading commands** from the console, **until the command "mall.Exit" is passed**. In the meantime, we **process** each symbol (**`char`**) of each one of the commands according to the rules specified in the task requirements, and in parallel, we **modify the amount** that Lina has, and **store the number of purchases**.
 
