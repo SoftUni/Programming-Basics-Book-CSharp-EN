@@ -1,6 +1,6 @@
 # Code Debugging Techniques
 
-Debugging plays an important role in the process of creating software, which is to allow us to **follow the implementation** of our program **step by step**. With this technique we can **follow the values of the local variables**, because they are changing during the execution of the program, and to **remove** eventual **errors** \(bugs\). The process of debugging includes:
+Debugging plays an important role in the process of creating software, which is to allow us to **follow the implementation** of our program **step by step**. With this technique we can **follow the values of the local variables**, because they are changing during the execution of the program, and to **remove** possible **errors** \(bugs\). The process of debugging includes:
 
 * **Finding** the problems \(bugs\).
 * **Locating** the code, which causes the problems.
@@ -9,7 +9,7 @@ Debugging plays an important role in the process of creating software, which is 
 
 ## Debugging in Visual Studio
 
-Visual Studio gives us **a built in debugger**, thanks to which we can place **breakpoints** at places we have chosen. When it reaches a **breakpoint**, the program **stops running** and allows **step-by-step running** of the remaining rows. Debugging allows us to **get in the details of the program** and see where exactly do the errors occur and what is the reason for this.
+Visual Studio gives us **a built in debugger**, thanks to which we can place **breakpoints** at places we have chosen. When it reaches a **breakpoint**, the program **stops running** and allows **step-by-step running** of the remaining rows. Debugging allows us to **get in the details of the program** and see where exactly the errors occur and what is the reason for this.
 
 In order to demonstrate the debugger, we will use the following program:
 
@@ -33,7 +33,7 @@ In order to start  **the program in debug mode**, we choose \[**Debug**\] -&gt; 
 
 ![](/assets/chapter-11-images/02.Debugger-02.jpg)
 
-After starting the program, we can see that it **stops executing** at line 11, where we placed our breakpoint. The code in the current row **is colored in yellow** and we can **run it step by step**. In order to go to **the next row** we use the key \[**F10**\]. **We can see that the code on the current row hasn't executed yet**. **It executes when we go on the next row**:
+After starting the program, we can see that it **stops executing** at line 11, where we placed our breakpoint. The code in the current row **is colored in yellow** and we can **run it step by step**. In order to go to **the next row** we use the key \[**F10**\]. **We can see that the code on the current row hasn't executed yet**. **It executes when we go to the next row**:
 
 ![Debugger](/assets/chapter-11-images/02.Debugger-03.jpg)
 
