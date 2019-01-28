@@ -1,6 +1,6 @@
-# The Book "Programming Basics with C#"
+# The Free Book "Programming Basics with C#"
 
-The book "**Programming Basics with C#**" introduces the readers to writing **programming code** at beginner level (variables and data, conditional statements, loops and methods) using the **C#** language.
+The **free** book "**Programming Basics with C#**" introduces the readers to writing **programming code** at beginner level (variables and data, conditional statements, loops and methods) using the **C#** language.
 
 > **Warning**: the translation of this book from its original Bulgarian language version is **not completed**.
 >
@@ -33,7 +33,7 @@ The book "**Programming Basics with C#**" introduces the readers to writing **pr
 Download the book "Programming Basics with C#" in PDF format:
 * <a href="#">Programming-Basics-CSharp-v2019.pdf</a> (still not ready)
 
-This book is available in several versions in various programming languages:
+This book is available in several versions in different programming languages:
  * [Programming Basics with C# (Bulgarian)](https://csharp-book.softuni.bg)
  * [Programming Basics with C# (English)](https://csharp-book.softuni.org)
  * [Programming Basics with Java (Bulgarian)](https://java-book.softuni.bg)
