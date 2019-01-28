@@ -20,15 +20,15 @@ As we mentioned, if you use **the same name for several methods with different s
 
 ## Signature and Return Value Type
 
-It is important to say that **the return type as a result** of the method **is not a part of its signature**. If the return type was a part of the signature, then the compiler doesn't know which method exactly to invoke.
+It is important to say that **the returned type as a result** of the method **is not a part of its signature**. If the returned type was a part of the signature, then the compiler doesn't know which method exactly to call.
 
-Let's look at the following example – we have two methods with different return types. Despite that Visual Studio shows that there is a mistake, because both of their signatures are the same. Therefore when trying to invoke a method named **`Print(…)`**, the compiler can't know which of the two methods to run.
+Let's look at the following example – we have two methods with different return types. Despite that, Visual Studio shows that there is a mistake, because both of their signatures are the same. Therefore when trying to call a method named **`Print(…)`**, the compiler can't know which of the two methods to run.
 
 ![](/assets/chapter-10-images/17.Method-overloading-02.png)
 
 ## Example: Greater of Two Values
 
-The input is two values of the same type. The values can be of type **`int`**, **`char`** or **`string`**. Create a method **`GetMax()`**, which returns as a result the greater of the two values.
+The input is two values of the same type. The values can be of **`int`**, **`char`** or **`string`** type. Create a method **`GetMax()`** that returns as a result the greater of the two values.
 
 ### Sample Input and Output
 
@@ -46,7 +46,7 @@ Following the logic of the previous method we create another one with the same n
 
 ![](/assets/chapter-10-images/18.Greater-of-two-values-02.png)
 
-The next method we need to create will compare strings. The logic here is a bit different from the previous two methods because variables of type **`string`** can not be compared with the operators **`<`** and **`>`**. We will use the method **`CompareTo(…)`**, which returns a numerical value: larger than 0 (the compared object is larger), smaller than 0 (the compared object is smaller) and 0 (the two objects are the same).
+The next method we need to create will compare strings. The logic here is a bit different from the previous two methods because variables of **`string`** type can not be compared with the operators **`<`** and **`>`**. We will use the method **`CompareTo(…)`**, which returns a numerical value: larger than 0 (the compared object is larger), smaller than 0 (the compared object is smaller) and 0 (the two objects are the same).
 
 ![](/assets/chapter-10-images/18.Greater-of-two-values-03.png)
 
