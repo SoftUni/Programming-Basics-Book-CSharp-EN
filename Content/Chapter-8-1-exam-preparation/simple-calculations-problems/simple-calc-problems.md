@@ -17,12 +17,14 @@
 </table>
 
 ### Input
+
 The console reads **6 integers** (one per line):
 **x1, y1, x2, y2, x3, y3.**
 -	All input numbers are in range [**-1000 … 1000**].
 -	It is guaranteed that **y2 = y3**.
 
 ### Output
+
 Print on the console **the area of the triangle**.
 
 ### Sample Input and Output
