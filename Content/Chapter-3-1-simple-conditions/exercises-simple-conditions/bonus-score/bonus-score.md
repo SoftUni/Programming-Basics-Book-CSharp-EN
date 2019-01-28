@@ -1,6 +1,6 @@
 # Problem: Bonus Score
 
-We have an **integer** - the number of points. **Bonus score** are charged on it, according to the rules described below. Write a program that calculates **bonus score** for this figure and **total points** with bonuses.
+We have an **integer** – the number of points. **Bonus score** are charged on it, according to the rules described below. Write a program that calculates **bonus score** for this figure and **total points** with bonuses.
 
 - If the number is **up to 100** including, bonus score is 5.
 - If the number is **larger than 100**, bonus score is **20%** of the number.
@@ -20,7 +20,7 @@ We have an **integer** - the number of points. **Bonus score** are charged on it
 
 ## Tips and Tricks
 
-We can calculate the main and additional bonus score with a series of **`if-else-if-else`** statements. For **the main bonus score we have 3 cases** (when the entered number is up to 100, between 100 and 1000 and larger than 1000), and for **extra bonus score - 2 more cases** (when the number is even and odd).
+We can calculate the main and additional bonus score with a series of **`if-else-if-else`** statements. For **the main bonus score we have 3 cases** (when the entered number is up to 100, between 100 and 1000 and larger than 1000), and for **extra bonus score – 2 more cases** (when the number is even and odd).
 
 ![](/assets/chapter-3-images/06.Bonus-score-01.png)
 

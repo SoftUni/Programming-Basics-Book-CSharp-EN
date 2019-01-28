@@ -10,7 +10,7 @@ Console.WriteLine("{0}", text);
 // This will print on the console "some text"
 ```
 
-In this case we are using a **placeholder** - `{x}`, where **x** is a number \(larger than or equal to 0\), corresponding to the position on which we have placed our variable. Therefore if we insert two variables, we will have one placeholder, which will be `{0}` and it will keep the value of **the first variable** and another one - `{1}`, which will keep the value of на **the second variable**. For example:
+In this case we are using a **placeholder** – `{x}`, where **x** is a number \(larger than or equal to 0\), corresponding to the position on which we have placed our variable. Therefore if we insert two variables, we will have one placeholder, which will be `{0}` and it will keep the value of **the first variable** and another one – `{1}`, which will keep the value of на **the second variable**. For example:
 
 ```csharp
 var text = "some text";
@@ -34,7 +34,7 @@ Console.WriteLine(Math.Round(number, 2));
 * the first one is **the number we want to round**
 * the second is the number which determines **to how much decimal places we want to round** \(this should always be an integer\)
 
-If we want to round the number to **2 decimal places** and the third digit is lower than 5, as in the example above, the rounding is down, but if the third digit is equal or bigger than 5 - the rounding is up as in the example below:
+If we want to round the number to **2 decimal places** and the third digit is lower than 5, as in the example above, the rounding is down, but if the third digit is equal or bigger than 5 – the rounding is up as in the example below:
 
 ```csharp
 var number = 5.439;
@@ -44,9 +44,9 @@ Console.WriteLine(Math.Round(number, 2));
 
 ## Other Rounding Methods
 
-In case we always want to round down instead of `Math.Round(…)` we can use another method - `Math.Floor(…)`, which always rounds down, but also always rounds to an integer. For example if we have the number 5.99 and we use `Math.Floor(5.99)`, we will get the number **5**.
+In case we always want to round down instead of `Math.Round(…)` we can use another method – `Math.Floor(…)`, which always rounds down, but also always rounds to an integer. For example if we have the number 5.99 and we use `Math.Floor(5.99)`, we will get the number **5**.
 
-We can also do the exact opposite - to always round up using the method `Math.Ceiling(…)`. Again if we have for example 5.11 and we use `Math.Ceiling(5.11)`, we will get 6. Here are some examples:
+We can also do the exact opposite – to always round up using the method `Math.Ceiling(…)`. Again if we have for example 5.11 and we use `Math.Ceiling(5.11)`, we will get 6. Here are some examples:
 
 ```csharp
 var numberToFloor = 5.99;

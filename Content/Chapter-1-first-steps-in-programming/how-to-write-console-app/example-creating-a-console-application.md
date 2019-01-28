@@ -10,8 +10,8 @@ We set **a meaningful name** to our program, for example `HelloCSharp`:![](/asse
 
 The source code of the C\# program is written in the section `Main(string[] args)`, between the opening and the closing parentheses `{ }`. This is the main method \(action\), that is being executed with the start of a C\# program. This `Main()` method can be written in two ways:
 
-* `static void Main(string[] args)` - with parameters from the command line \(we are not going into details\)
-* `static void Main()` - without parameters from the command line.
+* `static void Main(string[] args)` – with parameters from the command line \(we are not going into details\)
+* `static void Main()` – without parameters from the command line.
 
 Both ways are valid, as **the second one is recommended**, because it is shorter and clearer. By default, though, when creating a console application, Visual Studio uses the first way, which we can edit manually if we want to, and delete the part with the parameters `string[] args`.
 
@@ -70,7 +70,7 @@ In the table with the sent solutions the judge system is going to show one of th
 
 ### How to Register in SoftUni Judge?
 
-Use your credentials \(username + password\) for the site softuni.bg. If you don't have a SoftUni registration, create one. It takes only a minute - a standard registration in an Internet site.
+Use your credentials \(username + password\) for the site softuni.bg. If you don't have a SoftUni registration, create one. It takes only a minute – a standard registration in an Internet site.
 
 ## Testing the Programs That Play Notes
 

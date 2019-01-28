@@ -117,7 +117,7 @@
     * [Problem: Element Equal to the Sum of the Rest](Content/Chapter-5-1-loops/exercises-loops/half-sum-element.md)
     * [Problem: Even / Odd Positions](Content/Chapter-5-1-loops/exercises-loops/even-odd-positions.md)
     * [Problem: Equal Pairs](Content/Chapter-5-1-loops/exercises-loops/equal-pairs.md)
-  * [Lab: Drawing with a Turtle - Graphical \(GUI\) Application](Content/Chapter-5-1-loops/graphical-and-web-apps/drawing-with-turtle/drawing-with-turtle.md)
+  * [Lab: Drawing with a Turtle – Graphical \(GUI\) Application](Content/Chapter-5-1-loops/graphical-and-web-apps/drawing-with-turtle/drawing-with-turtle.md)
   * [Lab Exercises: Turtle Graphics](Content/Chapter-5-1-loops/graphical-and-web-apps/graphical-and-web-apps.md)
     * [Problem: \* Draw а Hexagon with the Turtle](Content/Chapter-5-1-loops/graphical-and-web-apps/drawing-hexagon.md)
     * [Problem: \* Draw a Star with the Turtle](Content/Chapter-5-1-loops/graphical-and-web-apps/drawing-star.md)

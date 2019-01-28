@@ -15,7 +15,7 @@ Before proceeding to the next problem, we will get familiar with the definition 
 
 ## The Euclidean Algorithm
 
-In the next problem we will use one of the first published algorithms for finding the GCD - **Euclid's algorithm**.
+In the next problem we will use one of the first published algorithms for finding the GCD – **Euclid's algorithm**.
 
 **Until** we reach a remainder of 0:
 

@@ -2,7 +2,7 @@
 
 **Date** is given in a "**dd-mm-yyyy**" format, e.g. 17-04-2018. We calculate **the weight of that date** by taking all of its digits, multiplying each digit with the others after it, and finally summing up all the results obtained. In our case, we have 8 digits: **17032007**, so the weight is **`1*7 + 1*0 + 1*3 + 1*2 + 1*0 + 1*0 + 1*7`** **+** **`7*0 + 7*3 + 7*2 + 7*0 + 7*0 + 7*7`** **+** **`0*3 + 0*2 + 0*0 + 0*0 + 0*7`** **+** **`3*2 + 3*0 + 3*0 + 3*7`** **+** **`2*0 + 2*0 + 2*7`** **+** **`0*0 + 0*7`** **+** **`0*7`** = **144**.
 
-Our task is to write a program that finds all **the magical dates - dates between two specific years (inclusive) corresponding to the weight given in the input data**. Dates must be printed in ascending order (by date) in the format "**dd-mm-yyyy**". We will only use the valid dates in the traditional calendar (the leap years have 29 days in February).
+Our task is to write a program that finds all **the magical dates – dates between two specific years (inclusive) corresponding to the weight given in the input data**. Dates must be printed in ascending order (by date) in the format "**dd-mm-yyyy**". We will only use the valid dates in the traditional calendar (the leap years have 29 days in February).
 
 ## Input Data
 
@@ -20,7 +20,7 @@ The result should be printed on the console as consecutive dates in **"dd-mm-yyy
 
 ## Constraints
 
-   * The start and final year are integer numbers in the range [**1900 - 2100**].
+   * The start and final year are integer numbers in the range [**1900 … 2100**].
    * Magic weight is an integer in the range [**1 … 1000**].
    * Allowed program time: 0.25 seconds.
    * Allowed memory: 16 MB.
@@ -49,7 +49,7 @@ For looping through the dates, we will take advantage of the functionality that 
 
 Once we have the start date, we want to create a **loop that runs until we exceed the final year** (or until we pass December 31 in the final year if we compare the full dates), increasing each day by 1 day.
 
-To increase by one day in each rotation, we will use a method of **`DateTime` - `.AddDays(…)`**, which will add one day to the current date. The method will take care instead of us, to decide where to skip the next month, how many days there is a month and everything around the leap years.
+To increase by one day in each rotation, we will use a method of **`DateTime` – `.AddDays(…)`**, which will add one day to the current date. The method will take care instead of us, to decide where to skip the next month, how many days there is a month and everything around the leap years.
 
 ![](/assets/chapter-9-images/02.Magic-dates-02.png)
 
@@ -63,7 +63,7 @@ In the end, our loop may look like this:
 
 ### Calculating Date Weight
 
-Each date consists of exactly **8 characters (digits)** - **2 for the day** (**`d1`**, **`d2`**), **2 for the month** (**`d3`**, **`d4`**) and **4 for the year** (**`d5`** to **`d8`**). This means that we will always have the same calculation every time, and we can benefit from this **to define the formula statically** (i.e. not to use loops, referring to different numbers from the date, but write the whole formula). To be able to write it, we will need **all digits from the date** in individual variables to make all the necessary multiplications. By using the division and partition operations on the individual components of the date, using the **`Day`**, **`Month`** and **`Year`** properties, we can retrieve each digit.
+Each date consists of exactly **8 characters (digits)** – **2 for the day** (**`d1`**, **`d2`**), **2 for the month** (**`d3`**, **`d4`**) and **4 for the year** (**`d5`** to **`d8`**). This means that we will always have the same calculation every time, and we can benefit from this **to define the formula statically** (i.e. not to use loops, referring to different numbers from the date, but write the whole formula). To be able to write it, we will need **all digits from the date** in individual variables to make all the necessary multiplications. By using the division and partition operations on the individual components of the date, using the **`Day`**, **`Month`** and **`Year`** properties, we can retrieve each digit.
 
 ![](/assets/chapter-9-images/02.Magic-dates-04.png)
 

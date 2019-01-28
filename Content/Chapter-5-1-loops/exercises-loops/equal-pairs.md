@@ -2,7 +2,7 @@
 
 There are **2 \* n numbers**. The first and the second number form a **pair**, the third and the fourth number also, and so on. Each pair has a **value** – the sum of its numbers. Write a program that checks **if all pairs have equal value**.
 
-In case the value is the same, print **"Yes, value=…" + the value**, otherwise, print the **maximum difference** between two neighboring pairs in the following format - **"No, maxdiff=…" + the maximum difference**. 
+In case the value is the same, print **"Yes, value=…" + the value**, otherwise, print the **maximum difference** between two neighboring pairs in the following format: **"No, maxdiff=…" + the maximum difference**. 
 
 The input consists of the number **n**, followed by **2*n integers**, all of them one per row.
 
@@ -19,7 +19,7 @@ The input consists of the number **n**, followed by **2*n integers**, all of the
 
 ## Tips and Tricks
 
-We read the input numbers **in pairs**. For each pair we calculate its **sum**. While reading the input pairs, for each pair except the first one, we must calculate **the difference compared to the previous one**. In order to do that, we need to store as a separate variable the sum of the previous pair. Finally, we find the **largest difference** between two pairs. If it is **0**, print **“Yes”** + the value, otherwise - **“No”** + the difference.
+We read the input numbers **in pairs**. For each pair we calculate its **sum**. While reading the input pairs, for each pair except the first one, we must calculate **the difference compared to the previous one**. In order to do that, we need to store as a separate variable the sum of the previous pair. Finally, we find the **largest difference** between two pairs. If it is **0**, print **“Yes”** + the value, otherwise – **“No”** + the difference.
 
 ## Testing in the Judge System
 

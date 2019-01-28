@@ -66,7 +66,7 @@ Let's review the requirements once again. We need to perform **two** different b
 
 By the first set of calculations we must understand what part of the budget has to be spent on **transportation**. You will notice that the logic for doing these calculations only depends on the **number of people in the group**. Therefore, we will do a logical breakdown according to the number of football fans.
 
-We will use conditional statement - a sequence of **`if-else`** blocks.
+We will use conditional statement – a sequence of **`if-else`** blocks.
 
 ![](/assets/chapter-4-2-images/04.Match-tickets-03.png)
 

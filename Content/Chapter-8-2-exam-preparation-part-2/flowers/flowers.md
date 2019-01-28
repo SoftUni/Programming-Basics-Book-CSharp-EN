@@ -22,7 +22,7 @@ The input is read from the **console** and contains **exactly 5 rows**:
 * The second row contains **the number of purchased roses** – an integer within the range [**0 … 200**].
 * The third row contains **the number of purchased tulips** – an integer within the range [**0 … 200**].
 * The fourth row indicates **the season** – [**Spring, Summer, Autumn, Winter**].
-* The fifth row specifies **if the day is a holiday** – [**Y - yes / N - no**].
+* The fifth row specifies **if the day is a holiday** – [**Y = yes / N = no**].
 
 ## Output Data
 

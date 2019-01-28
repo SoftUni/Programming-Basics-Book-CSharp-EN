@@ -59,7 +59,7 @@ The input data is read from the console. The first row is an integer **n** (**0 
 
 #### Output
 
-On the console we must print one number - **the length** of the longest increasing sequence.
+On the console we must print one number – **the length** of the longest increasing sequence.
 
 ### Sample Input and Output
 
@@ -73,11 +73,11 @@ To solve this problem, we need to think in a bit **more algorithmic way**. A **s
 
 ![](/assets/chapter-8-1-images/08.Increasing-numbers-01.png)
 
-The variable **`n`** is **the count of numbers** we get from the console. In **`countCurrentLongest`** we will keep **the number of elements** in the increasing sequence we are **currently counting**. For example, in the sequence: 5, 6, 1, 2, 3 **`countCurrentLongest`** will be 2 when we reach **the second element** of the counting (5, **6**, 1, 2, 3) and will become 3 when we reach the **last element** (5, 6, 1, 2, **3**), because the increasing row 1, 2, 3 has 3 elements. We will use **`countLongest`** to keep the **longest** increasing sequence. The other variables are **`a`** - the number we are **currently in**, and **`aPrev`** - **the previous number** which we will compare with **`a`** to see if the row is **growing**.
+The variable **`n`** is **the count of numbers** we get from the console. In **`countCurrentLongest`** we will keep **the number of elements** in the increasing sequence we are **currently counting**. For example, in the sequence: 5, 6, 1, 2, 3 **`countCurrentLongest`** will be 2 when we reach **the second element** of the counting (5, **6**, 1, 2, 3) and will become 3 when we reach the **last element** (5, 6, 1, 2, **3**), because the increasing row 1, 2, 3 has 3 elements. We will use **`countLongest`** to keep the **longest** increasing sequence. The other variables are **`a`** – the number we are **currently in**, and **`aPrev`** – **the previous number** which we will compare with **`a`** to see if the row is **growing**.
 
 ### Determining Increasing Sequence
 
-We begin to run the numbers and check if the present number **`a`** is larger than the previous **`aPrev`** one. If this is true, then the row **is growing** and we need to increase its number by **1**. This is stored in the variable that tracks the length of the sequence we are currently in - **`countCurrentLongest`**. If the number **`a`** is **not greater** than the previous one, it means that **a new sequence** starts and we have to start the count from **1**. Finally, after all the checks are done, **`aPrev`** becomes **the number** we are **currently** using and we start the loop from the beginning with **the next** entered **`a`**.
+We begin to run the numbers and check if the present number **`a`** is larger than the previous **`aPrev`** one. If this is true, then the row **is growing** and we need to increase its number by **1**. This is stored in the variable that tracks the length of the sequence we are currently in – **`countCurrentLongest`**. If the number **`a`** is **not greater** than the previous one, it means that **a new sequence** starts and we have to start the count from **1**. Finally, after all the checks are done, **`aPrev`** becomes **the number** we are **currently** using and we start the loop from the beginning with **the next** entered **`a`**.
 
 Here is a sample implementation of the algorithm described:
 

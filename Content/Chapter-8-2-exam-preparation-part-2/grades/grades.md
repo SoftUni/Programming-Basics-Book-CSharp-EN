@@ -1,6 +1,6 @@
 # Problem: Grades
 
-Write a program that **calculates statistics for grades** in an exam. At the beginning, the program reads the **number of students** who attended the exam and for **each student - their grade**. At the end, the program must **print the percentage of students** that have grades between 2.00 and 2.99, between 3.00 and 3.99, between 4.00 and 4.99, 5.00 or more, as well as the **average grade** of the exam.
+Write a program that **calculates statistics for grades** in an exam. At the beginning, the program reads the **number of students** who attended the exam and for **each student – their grade**. At the end, the program must **print the percentage of students** that have grades between 2.00 and 2.99, between 3.00 and 3.99, between 4.00 and 4.99, 5.00 or more, as well as the **average grade** of the exam.
 
 ## Input Data
 
@@ -23,7 +23,7 @@ The results must be **formatted up to the second symbol** after the decimal poin
 
 | Input | Output | Comments |
 | --- | --- | --- |
-|10<br>3.00<br>2.99<br>5.68<br>3.01<br>4<br>4<br>6.00<br>4.50<br>2.44<br>5<br>|Top students: 30.00%<br>Between 4.00 and 4.99: 30.00%<br>Between 3.00 and 3.99: 20.00%<br>Fail: 20.00%<br>Average: 4.06|5 or more - **three students** = 30% of 10<br>Between 4.00 and 4.99 - **three students** = 30% of 10<br>Between 3.00 and 3.99 - **two students** = 20% of 10<br>Below 3 - **two students** = 20% of 10<br>The average grade is: 3 + 2.99 + 5.68 + 3.01 + 4 + 4 + 6 + 4.50 + 2.44 + 5 = 40.62 / 10 = 4.062|
+|10<br>3.00<br>2.99<br>5.68<br>3.01<br>4<br>4<br>6.00<br>4.50<br>2.44<br>5<br>|Top students: 30.00%<br>Between 4.00 and 4.99: 30.00%<br>Between 3.00 and 3.99: 20.00%<br>Fail: 20.00%<br>Average: 4.06|5 or more: **three students** = 30% of 10<br>Between 4.00 and 4.99: **three students** = 30% of 10<br>Between 3.00 and 3.99: **two students** = 20% of 10<br>Below 3: **two students** = 20% of 10<br>The average grade is: 3 + 2.99 + 5.68 + 3.01 + 4 + 4 + 6 + 4.50 + 2.44 + 5 = 40.62 / 10 = 4.062|
 
 | Input | Output |
 | --- | --- |
@@ -59,7 +59,7 @@ We can calculate what **percentage** is taken by a particular **group of student
 </tr>
 </table>
 
-The **end result** is formed in the well know fashion - **up to the second symbol** after the decimal point.
+The **end result** is formed in the well know fashion – **up to the second symbol** after the decimal point.
 
 ## Testing in the Judge System
 

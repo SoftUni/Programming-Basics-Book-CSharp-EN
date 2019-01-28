@@ -33,7 +33,7 @@ We will read the input data from the console. We also create the additional vari
 
 ### Implementation with 2 Numbers
 
-We will most easily solve the problem if we logically divide it **in parts**. If we are required to draw all the rows from a number between **`a`** and **`b`**, we will do it using **one loop** that takes all the numbers from **`a`** to **`b`**. Let's think how to do this with **series of two numbers**. The answer is easy - we will use **nested loops**.
+We will most easily solve the problem if we logically divide it **in parts**. If we are required to draw all the rows from a number between **`a`** and **`b`**, we will do it using **one loop** that takes all the numbers from **`a`** to **`b`**. Let's think how to do this with **series of two numbers**. The answer is easy – we will use **nested loops**.
 
 ![](/assets/chapter-8-1-images/11.Increasing-4-numbers-02.png)
 
@@ -70,8 +70,8 @@ Rectangles are set using the top left and bottom right corner. The following ine
 
 Two numbers, one per line, are entered from the console:
 
-- An integer **n** in the range [**1 … 100**] - sets the minimum and maximum coordinates of a peak.
-- An integer **m** in the range [**0 … 50 000**] - sets the minimum area of the generated rectangles.
+- An integer **n** in the range [**1 … 100**] – sets the minimum and maximum coordinates of a peak.
+- An integer **m** in the range [**0 … 50 000**] – sets the minimum area of the generated rectangles.
 
 ### Output
 
@@ -99,11 +99,11 @@ It is very important to be able to imagine the problem before we begin to solve 
 
 ![](/assets/chapter-8-1-images/12.Generating-rectangles-02.png)
 
-With the variables **`left`** and **`right`** we will follow the coordinates **horizontally** and with **`top`** and **`bottom`** - **vertically**.
+With the variables **`left`** and **`right`** we will follow the coordinates **horizontally** and with **`top`** and **`bottom`** – **vertically**.
 
 ### Calculating the Rectangle Area and Printing the Output
 
-The important thing here is knowing the corresponding coordinates so we can correctly calculate the sides of the rectangle. Now we have to find **the area of the rectangle** and check if it is **greater than** or **equal** to **`m`**. One **side** will be **the difference between `left` and `right`** and **the other one - between `top` and `bottom`**. Since the coordinates may be eventually interchanged, we will use **absolute values**. Again, we add **the counter** in the loop, counting **only the rectangles** we write. It is important to note that the writing order is **`left`**, **`top`**, **`right`**, **`bottom`**, as it is set in the problem's description.
+The important thing here is knowing the corresponding coordinates so we can correctly calculate the sides of the rectangle. Now we have to find **the area of the rectangle** and check if it is **greater than** or **equal** to **`m`**. One **side** will be **the difference between `left` and `right`** and **the other one – between `top` and `bottom`**. Since the coordinates may be eventually interchanged, we will use **absolute values**. Again, we add **the counter** in the loop, counting **only the rectangles** we write. It is important to note that the writing order is **`left`**, **`top`**, **`right`**, **`bottom`**, as it is set in the problem's description.
 
 ![](/assets/chapter-8-1-images/12.Generating-rectangles-03.png)
 

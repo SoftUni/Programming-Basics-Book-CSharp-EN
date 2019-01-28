@@ -18,7 +18,7 @@ On the first line of the input there is an integer **n** (1 ≤ **n** ≤ 1000) 
 
 ## Output Data
 
-Print on the console a **histogram that consists of 5 lines**, each of them containing a number within the range of 0% - 100%, formatted up to two digits after the decimal point (for example 25.00%, 66.67%, 57.14%).
+Print on the console a **histogram that consists of 5 lines**, each of them containing a number within the range of [0% … 100%], formatted up to two digits after the decimal point (for example 25.00%, 66.67%, 57.14%).
 
 ## Sample Input and Output
 
@@ -127,9 +127,9 @@ To make it even clearer, let's take a look at the following example:
 
 In this case **`n = 3`**.
 For the loop we have:
-   -   	**`i = 0`** - we read the number 1, which is less than 200 and falls into the first group (**`p1`**), and increase the group count (**`cntP1`**) by 1.
-   -   	**`i = 1`** – we read the number 2, which again falls into the first group (**`p1`**) and increase its count (**`cntP1`**) again by 1.
-   -   	**`i = 2`** – we read the number 999, which falls into the last group (**`p5`**), because its bigger than 800, and increase the count of the group (**`cntP5`**) with 1.
+- **`i = 0`** – we read the number 1, which is less than 200 and falls into the first group (**`p1`**), and increase the group count (**`cntP1`**) by 1.
+- **`i = 1`** – we read the number 2, which again falls into the first group (**`p1`**) and increase its count (**`cntP1`**) again by 1.
+- **`i = 2`** – we read the number 999, which falls into the last group (**`p5`**), because its bigger than 800, and increase the count of the group (**`cntP5`**) with 1.
    
 After reading the numbers in group **`p1`** we have 2 numbers, and in **`p5`** we have 1 number. We have **no numbers** in the other groups. By applying the above formula, we calculate the percentages of each group. If we multiply in the formula by **100**, instead of **100.0** we will receive for group **`p1`** 66%, and for group **`p5`** – 33% (without fractional part).
 

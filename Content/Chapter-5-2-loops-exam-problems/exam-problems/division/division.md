@@ -35,7 +35,7 @@ We have **n integers** in the range of [**1 ... 1000**]. Among them, **some perc
 
 ## Input Data
 
-On the first line of the input is the integer **n** (1 ≤ **n** ≤ 1000) - count of numbers. On each of the next **n lines** we have **one integer** in the range of [**1 … 1000**] – numbers that needs to be checked for division.
+On the first line of the input is the integer **n** (1 ≤ **n** ≤ 1000) – count of numbers. On each of the next **n lines** we have **one integer** in the range of [**1 … 1000**] – numbers that needs to be checked for division.
 
 ## Output Data
 

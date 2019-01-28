@@ -10,7 +10,7 @@
 ### Input
 
 The console reads **3 integer numbers** (one per line):
-- On the first line the number "first" is read - **one end of the segment**.
+- On the first line the number "first" is read – **one end of the segment**.
 - On the second line the number "second" is read – **the other end of the segment**.
 - On the third line the number "point" is read – **the location of the point**.
 
@@ -19,7 +19,7 @@ All input numbers are integers in the range [**-1000 … 1000**].
 ### Output
 
 Print the result on the console:
-- On the first line, print "**in**" or "**out**" - whether the point is inside or outside the segment.
+- On the first line, print "**in**" or "**out**" – whether the point is inside or outside the segment.
 - On the second line, print the distance from the point to the nearest end of the segment.
 
 ### Sample Input and Output
@@ -81,7 +81,7 @@ All input numbers are integers in the range **[-1000 … 1000]**.
 
 ### Output
 
-Print on the console "**in**" or "**out**" - whether the point is **inside** or **outside** the figure (the outline is inside).
+Print on the console "**in**" or "**out**" – whether the point is **inside** or **outside** the figure (the outline is inside).
 
 ### Sample Input and Output
 

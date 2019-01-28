@@ -66,7 +66,7 @@ As every problem, we start the solution by **reading and processing the input da
 
 ![](/assets/chapter-9-images/03.Five-special-letters-01.png)
 
-We have several main points in the problem - **generating all combinations** with a length of 5 including the 5 letters, **removing repeating letters** and **calculating weight** for a simplified word. The answer will consist of every word whose weight is within the given interval **`[firstNumber, secondNumber]`**.
+We have several main points in the problem – **generating all combinations** with a length of 5 including the 5 letters, **removing repeating letters** and **calculating weight** for a simplified word. The answer will consist of every word whose weight is within the given interval **`[firstNumber, secondNumber]`**.
 
 ### Generating All Combinations
 
@@ -90,7 +90,7 @@ This way we already have generated all 5-letter combinations and can proceed wit
 
 ### Removing Repetitive Letters
 
-Once we have the finished string, we have to remove all the repeating symbols. We will do this by adding **the letters from left to right in a new string and each time before adding a letter, we will check if it already exists** - if it does, we will skip it and if it is doesn't, we will add it. To begin with, we will add the first letter to the starting string.
+Once we have the finished string, we have to remove all the repeating symbols. We will do this by adding **the letters from left to right in a new string and each time before adding a letter, we will check if it already exists** – if it does, we will skip it and if it is doesn't, we will add it. To begin with, we will add the first letter to the starting string.
 
 ![](/assets/chapter-9-images/03.Five-special-letters-05.png)
 

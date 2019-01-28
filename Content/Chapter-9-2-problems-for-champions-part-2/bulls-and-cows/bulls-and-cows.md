@@ -56,9 +56,9 @@ If there are **no suggested numbers** that match the criteria provided from the 
 ## Tips and Tricks
 
 We will solve the problem in a few steps:
- - We will read the **input data**.
- - We will generate all possible **four-digit combinations** (candidates for verification).
- - For each generated combination we will calculate **how many bulls** and **how many cows** it has according to the secret number. Upon matching the needed bulls and cows, we will **print the combination**.
+- We will read the **input data**.
+- We will generate all possible **four-digit combinations** (candidates for verification).
+- For each generated combination we will calculate **how many bulls** and **how many cows** it has according to the secret number. Upon matching the needed bulls and cows, we will **print the combination**.
 
 ### Reading the Input Data
 
@@ -105,7 +105,7 @@ What logic can we use? The easiest way to check how many cows and bulls there ar
 
 What conditions do we need?
 
-The bulls condition is very simple - we check whether the **first digit** of the generated number matches the **same digit** in the secret number. We remove the digits that are already checked in order to avoid repetitions of bulls and cows.
+The bulls condition is very simple – we check whether the **first digit** of the generated number matches the **same digit** in the secret number. We remove the digits that are already checked in order to avoid repetitions of bulls and cows.
 
 ![](/assets/chapter-9-2-images/03.Bulls-and-cows-09.png)
 
@@ -113,7 +113,7 @@ We repeat the action for the second, third and fourth digit.
 
 ### Counting the Cows
 
-We will apply the following condition for the cows - first we will check whether the **first digit** of the generated number **matches the second one**, the **third one** or the **fourth digit** of the secret number. An example for the implementation:
+We will apply the following condition for the cows – first we will check whether the **first digit** of the generated number **matches the second one**, the **third one** or the **fourth digit** of the secret number. An example for the implementation:
 
 ![](/assets/chapter-9-2-images/03.Bulls-and-cows-10.png)
 

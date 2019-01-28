@@ -1,6 +1,6 @@
 # Problem: Digits
 
-Write a program that reads from the console 1 integer within the range [**100 … 999**], and then prints it a predefined number of times - modifying it before each print, as follows:
+Write a program that reads from the console 1 integer within the range [**100 … 999**], and then prints it a predefined number of times – modifying it before each print, as follows:
 - If the number is divisible by **5** without reminder, **subtract** from it **its first digit**.
 - If the number is divisible by **3** without reminder, **subtract** from it **its second digit**
 - If none of the above mentioned conditions is valid, **add** to it **its third digit**.

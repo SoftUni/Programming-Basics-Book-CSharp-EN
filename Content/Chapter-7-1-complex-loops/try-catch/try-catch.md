@@ -47,10 +47,10 @@ Here is a **sample implementation** of the described idea:
 The solution should **work in all cases**: whether we are entering integer numbers, invalid numbers (for example, too many digits), or non-numbered text.
 
 The above program logic will repeat in an infinite loop the process of **entering a value until a valid even integer is entered**.
- - The `int.Parse()` method will **throw an exception** in case of an invalid integer. 
- - In case of a valid integer, the program will check if it is even. In this case a "_success_" message is shown and the **loop is stopped** using `break`. 
- - In case of an odd integer, an **error message** is shown and the **loop repeats again**. 
- - In case of an exception (error during the number parsing), an **error message** is shown and the **loop repeats again**.
+- The `int.Parse()` method will **throw an exception** in case of an invalid integer. 
+- In case of a valid integer, the program will check if it is even. In this case a "_success_" message is shown and the **loop is stopped** using `break`. 
+- In case of an odd integer, an **error message** is shown and the **loop repeats again**. 
+- In case of an exception (error during the number parsing), an **error message** is shown and the **loop repeats again**.
 
 ### Testing in the Judge System
 

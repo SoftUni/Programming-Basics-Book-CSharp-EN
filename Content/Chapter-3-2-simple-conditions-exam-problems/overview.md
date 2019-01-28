@@ -16,8 +16,8 @@ else
 `if`** conditions** consist of:
 
 * `if`** clause**
-* boolean expression - a variable of boolean type \(`bool`\) or boolean logical expression \(an expression that results in `true/false`\)
-* condition body - contains random block of source code
+* boolean expression – a variable of boolean type \(`bool`\) or boolean logical expression \(an expression that results in `true/false`\)
+* condition body – contains random block of source code
 * `else`** clause** and its block of source code \(**optional**\)
 
 ## Exam Problems

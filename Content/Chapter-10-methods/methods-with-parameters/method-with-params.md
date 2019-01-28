@@ -38,7 +38,7 @@ The first step is **creating** a method and giving it a descriptive name, e.g. *
 
 ![](/assets/chapter-10-images/06.Print-sign-01.png)
 
-The next step is **implementing** the logic by which the program will check what the sign of the number is. You can see from the examples that there are three cases  - the number is larger than, equal to or lower than zero, which means that we'll make three verifications in our method. 
+The next step is **implementing** the logic by which the program will check what the sign of the number is. You can see from the examples that there are three cases – the number is larger than, equal to or lower than zero, which means that we'll make three verifications in our method. 
 
 The next step is to read the input number and to invoke the new method from the body of the **`Main`** method.
 
@@ -76,7 +76,7 @@ Before creating a method to print a row with a given beginning and an end, we mu
 
 ![](/assets/chapter-10-images/08.Print-triangle-01.png)
 
-From the drawing exercises we can remember, that it is good practice **to divide the figure into several parts**. to make it easier we will divide the triangle into three parts - upper, middle and lower.
+From the drawing exercises we can remember, that it is good practice **to divide the figure into several parts**. to make it easier we will divide the triangle into three parts – upper, middle and lower.
 
 The next step is to print **the upper half** of the triangle using a loop:
 

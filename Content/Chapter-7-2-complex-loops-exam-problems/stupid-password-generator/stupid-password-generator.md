@@ -39,7 +39,7 @@ For **reading** of **input** data we will declare two integer variables **`int`*
 
 ![](/assets/chapter-7-exam-preparation-images/01.stupid-password-generator-1.png)
 
-Let's declare and initialize the **variables** that will store the **characters** of the password: for the characters of **digit** type -  **`int`** -  **`d1`**, **`d2`**, **`d3`**, and for the **letters** - of **`char`** type - **`l1`**, **`l2`**. To make it easier we will skip explicit specification of the type by replacing it with the keyword **`var`**.
+Let's declare and initialize the **variables** that will store the **characters** of the password: for the characters of **digit** type – **`int`** – **`d1`**, **`d2`**, **`d3`**, and for the **letters** – of **`char`** type – **`l1`**, **`l2`**. To make it easier we will skip explicit specification of the type by replacing it with the keyword **`var`**.
 
 ## Processing the Input Data and Printing Output
 

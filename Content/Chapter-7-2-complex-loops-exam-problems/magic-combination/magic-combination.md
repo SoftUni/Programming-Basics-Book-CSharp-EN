@@ -38,7 +38,7 @@ Print on the console **all magic numbers**, separated by **space**.
 
 In the previous chapter we reviewed other loop constructions. Let's look at the sample solution of the same problem using the **`while`** loop.
 
-First we need to store the **input magical number** in a suitable variable. Then we will initialize 6 variables - one for each of the six digits of **the searched numbers**. 
+First we need to store the **input magical number** in a suitable variable. Then we will initialize 6 variables – one for each of the six digits of **the searched numbers**. 
 
 ![](/assets/chapter-7-exam-preparation-images/02.magic-numbers-2.png)
 
@@ -60,7 +60,7 @@ Let's remove the **`if`** check from the innermost loop. Now, let's initialize e
 
 ![](/assets/chapter-7-exam-preparation-images/02.magic-numbers-4.png)
 
-As we can see, we can solve a problem using different types of loops. Of course, each task has its most appropriate choice. In order to practice each type of loops - try to solve each of the following problems with all the learned loops.
+As we can see, we can solve a problem using different types of loops. Of course, each task has its most appropriate choice. In order to practice each type of loops – try to solve each of the following problems with all the learned loops.
 
 ## Testing in the Judge System
 

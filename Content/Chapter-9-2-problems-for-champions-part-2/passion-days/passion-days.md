@@ -25,7 +25,7 @@ Always only one "**`mall.Enter`**" command will be received, as well as only one
 The output data must be **printed in the console**.
 When shopping is over, the console must print individual output depending on what purchases have been made.
 - If **no purchases have been made** – "**No purchases. Money left: {remaining funds} lv.**"
-- If **at least one purchase** is made - "**{number of purchases} purchases. Money left: {remaining funds} lv.**"
+- If **at least one purchase** is made – "**{number of purchases} purchases. Money left: {remaining funds} lv.**"
 
 **The funds** must be printed with **accuracy of up to 2 symbols after the decimal point**.
 
@@ -50,9 +50,9 @@ When shopping is over, the console must print individual output depending on wha
 ## Tips and Tricks
 
 We will separate the solution of the problem into three main parts:
- - Processing of the **input**.
- - **Algorithm** for solving the problem. 
- - Formatting the **output**.
+- Processing of the **input**.
+- **Algorithm** for solving the problem. 
+- Formatting the **output**.
 
 Let's examine each of the parts in details.
 
@@ -79,7 +79,7 @@ Here is the place to point out that calling **`Console.ReadLine()`** after the e
 
 ### Reading the Commands
 
-The algorithm for solving the problem is a direct one - we continue **reading commands** from the console, **until the command "mall.Exit" is passed**. In the meantime, we **process** each symbol (**`char`**) of each one of the commands according to the rules specified in the task requirements, and in parallel, we **modify the amount** that Lina has, and **store the number of purchases**.
+The algorithm for solving the problem is a direct one – we continue **reading commands** from the console, **until the command "mall.Exit" is passed**. In the meantime, we **process** each symbol (**`char`**) of each one of the commands according to the rules specified in the task requirements, and in parallel, we **modify the amount** that Lina has, and **store the number of purchases**.
 
 Let's examine the first two problems for our algorithm. The first problem concerns the way we read the commands until we reach the **"mall.Exit"** command. The solution that we previously saw uses a **`while-loop`**. The second problem for the task is to **access each symbol** of the command passed. Keeping in mind that the input data with the commands is **`string`** type, the easiest way to access each symbol inside the strings is via a **`foreach` loop**.
 
@@ -91,11 +91,11 @@ Here is what using two loops of this kind would look like:
 
 The next part of the algorithm is to **process the symbols from the commands**, according to the following rules in the requirements:
 
-> - If the symbol is a **capital letter**, Lina gets a 50% discount, which means that you must decrease the money she has by 50% of the numeric representation of the symbol from the ASCII table.
-> - If the symbol is a **small letter**, Lina gets a 70% discount, which means that you must decrease the money she has by 30% of the numeric representation of the symbol from the ASCII table.
-> - If the symbol is **"%"**,  Lina makes a purchase that decreases her money in half.
-> - If the symbol is **"\*"**, Lina withdraws money from her debit card and adds 10 lv to her available funds.
-> - If the symbol is **different from all of the aforementioned**, Lina just makes a purchase without discount, and in this case you should simply subtract the value of the symbol from the ASCII table from her available funds.
+> * If the symbol is a **capital letter**, Lina gets a 50% discount, which means that you must decrease the money she has by 50% of the numeric representation of the symbol from the ASCII table.
+> * If the symbol is a **small letter**, Lina gets a 70% discount, which means that you must decrease the money she has by 30% of the numeric representation of the symbol from the ASCII table.
+> * If the symbol is **"%"**,  Lina makes a purchase that decreases her money in half.
+> * If the symbol is **"\*"**, Lina withdraws money from her debit card and adds 10 lv to her available funds.
+> * If the symbol is **different from all of the aforementioned**, Lina just makes a purchase without discount, and in this case you should simply subtract the value of the symbol from the ASCII table from her available funds.
 
 Let's examine the problems that we will be facing in the first condition. The first one is how to distinguish if a particular **symbol is a capital letter**. We can use one of the following ways:
 * Keeping in mind the fact that the letters in the alphabet have a particular order, we can use the following condition **`action >= 'A' && action <= 'Z'`**, in order to check if our symbol is within the capital letters range.
@@ -115,8 +115,8 @@ We believe the reader should not have difficulties implementing all the other co
 
 In the end of our task we must **print** a particular **output**, depending on the following condition:
 
-> - If no purchases have been made – "**No purchases. Money left: {remaining funds} lv.**"
-> - If at least one purchase is made - "**{number of purchases} purchases. Money left: {remaining funds} lv.**"
+> * If no purchases have been made – "**No purchases. Money left: {remaining funds} lv.**"
+> * If at least one purchase is made – "**{number of purchases} purchases. Money left: {remaining funds} lv.**"
 
 The printing operations are trivial, as the only thing we need to take into consideration is that **the amount has to be printed with accuracy of up to 2 symbols after the decimal point**.
 

@@ -70,7 +70,7 @@ What remains is to calculate the difference between the two times, in order to d
 
 Our next step is to do the required **checks and calculations**, and finally we will print the output. Let's separate the code into **two** parts: 
 
-- First, let's show when the student arrived - were they **early**, **late** or **on time**. In order to do that, we will use an **`if-else`** statement. 
+- First, let's show when the student arrived – were they **early**, **late** or **on time**. In order to do that, we will use an **`if-else`** statement. 
 - After that, we will show the **time difference**, if the student arrives in a **different time** compared to the **exam starting time**.
 
 In order to spare one additional check (**`else`**), we can, by default, assume that the student was late. 
@@ -87,7 +87,7 @@ Finally, we need to understand and print **what is the time difference between e
 
 We check whether the time difference is **more than** one hour, in order to print hours and minutes in the required **format**, or **less than** one hour, in order to print **only minutes** as a format and description. 
 
-We also need to do one more check - whether the time of student's arrival is **before** or **after** the exam start time.
+We also need to do one more check – whether the time of student's arrival is **before** or **after** the exam start time.
 
 ![](/assets/chapter-4-2-images/01.On-time-for-the-exam-07.png)
 
@@ -97,7 +97,7 @@ Finally, what remains is to print the result in the console. According to the re
 
 ![](/assets/chapter-4-2-images/01.On-time-for-the-exam-08.png)
 
-Actually, for the purposes of the task, printing the result **in the console** can be done on a much earlier stage - during the calculations. This, however, is not a very good practice. **Why?**
+Actually, for the purposes of the task, printing the result **in the console** can be done on a much earlier stage – during the calculations. This, however, is not a very good practice. **Why?**
 
 Let's examine the idea that our code is not 10 rows, but 100 or 1000! One day, printing the result will not be done in the console, but will be written in a **file** or displayed as a **web application**. Then, how many places in the code you will make changes at, due to such a correction? Are you sure you won't miss some places?
 

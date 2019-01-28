@@ -1,9 +1,9 @@
 # Problem: Notifications
 
 Write a program, which takes an integer **`n`** and on the next rows prints **`n`** **messages** (for each message read a few lines). Each message starts with **`messageType`**: **`success`**, **`warning`** or **`error`**:
-   - When **`messageType`** is **`success`** read **`operation`** + **`message`** (each on a new line).
-   - When **`messageType`** is **`warning`** read only **`message`**.
-   - When **`messageType`** is **`error`** read **`operation`** + **`message`** + **`errorCode`** (each on a new line).
+- When **`messageType`** is **`success`** read **`operation`** + **`message`** (each on a new line).
+- When **`messageType`** is **`warning`** read only **`message`**.
+- When **`messageType`** is **`error`** read **`operation`** + **`message`** + **`errorCode`** (each on a new line).
 
 Print in the console **each read message**, formatted depending on its **`messageType`**. After the headline of the message print as much **`=`**, **as the length** of the said **headline** and print **an empty line** after each message (to understand in detail look at the examples). 
 

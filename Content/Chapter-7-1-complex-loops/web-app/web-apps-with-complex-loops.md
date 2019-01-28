@@ -4,7 +4,7 @@ Now we know how to repeat a group of actions using **loops**. Let's do something
 
 ## Problem: Web Application "Fruits Game"
 
-**Description**: Develop an **ASP.NET MVC Web Application** - a game in which the player **shoots fruits**, arranged in a table. Successfully hit fruits disappear and the player gets points for each target fruit. When you hit a **dynamite**, the fruits explode and the game ends \(as in Fruit Ninja\).  
+**Description**: Develop an **ASP.NET MVC Web Application** – a game in which the player **shoots fruits**, arranged in a table. Successfully hit fruits disappear and the player gets points for each target fruit. When you hit a **dynamite**, the fruits explode and the game ends \(as in Fruit Ninja\).  
 Shooting is done by columns, top to bottom or bottom to top, and the location of impact \(the column under fire\) is set by scroll bar. Because of the scroller's inaccuracy, the player is not quite sure which column they are going to shoot. So every shot has a chance not to hit and this makes the game more interesting \(like the sling in Angry Birds\).
 
 Our game should look like this:
@@ -66,7 +66,7 @@ In order to **draw the playing field** with the fruits, we need to rotate **two 
 
 ![](/assets/chapter-7-images/15.Fruits-09.png)
 
-Take a look at the yellow characters `@` - they are used to switch between the **C\#** and **HTML** languages and come from the **Razor** syntax for drawing dynamic web pages.
+Take a look at the yellow characters `@` – they are used to switch between the **C\#** and **HTML** languages and come from the **Razor** syntax for drawing dynamic web pages.
 
 ## Change Text in Layout
 
@@ -90,9 +90,9 @@ For the fruit shooting, we need to add the actions \[**Reset**\] and \[**Fire To
 
 The above code defines three actions:
 
-* `Reset()` - starts a new game by generating a new random playing field with fruits and explosives, resetting the player's points and making the game valid **\(**`gameOver = false`**\)**. This action is pretty simple and can be immediately tested using \[**Ctrl + F5**\] before writing the other ones.
-* `FireTop (position)` - shoots on row **0** at position `position` \(number 0 to 100\). The shooting is in direction **down** \(+1\) from row `0` \(top\). Shooting itself is more complicated as a logic and will be considered after a while.
-* `FireBottom (position)` - shoots on row **2** at position `position` \(number 0 to 100\). The shooting is in direction **up** \(-1\) from row **2** \(bottom\).
+* `Reset()` – starts a new game by generating a new random playing field with fruits and explosives, resetting the player's points and making the game valid **\(**`gameOver = false`**\)**. This action is pretty simple and can be immediately tested using \[**Ctrl + F5**\] before writing the other ones.
+* `FireTop (position)` – shoots on row **0** at position `position` \(number 0 to 100\). The shooting is in direction **down** \(+1\) from row `0` \(top\). Shooting itself is more complicated as a logic and will be considered after a while.
+* `FireBottom (position)` – shoots on row **2** at position `position` \(number 0 to 100\). The shooting is in direction **up** \(-1\) from row **2** \(bottom\).
 
 ## Implement the "Fire" Method
 

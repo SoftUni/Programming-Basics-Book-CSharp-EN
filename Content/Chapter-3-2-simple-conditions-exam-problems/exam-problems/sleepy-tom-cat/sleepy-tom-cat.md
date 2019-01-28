@@ -10,7 +10,7 @@ Write a program that receives **the number of holidays** and prints whether **To
 
 ## Input Data
 
-The input is read from the console and consists of an integer - **the number of holidays** in the range of [**0 … 365**].
+The input is read from the console and consists of an integer – **the number of holidays** in the range of [**0 … 365**].
 
 ## Output Data
 
@@ -62,7 +62,7 @@ Here we have to note that if the total **time for play** of Tom is **less** than
 
 ### Checking the Conditions
 
-The time for games is already calculated, which leads us to the **next** step - **comparing** the **time for play** of Tom with the **norm** on which the good sleep of the cat depends. For that we will use an **`if-else`** conditional statement. In the **`if` clause** we will check whether **the time for play is more than 30 000** (the norm).
+The time for games is already calculated, which leads us to the **next** step – **comparing** the **time for play** of Tom with the **norm** on which the good sleep of the cat depends. For that we will use an **`if-else`** conditional statement. In the **`if` clause** we will check whether **the time for play is more than 30 000** (the norm).
 
 ### Processing the Output Data
 

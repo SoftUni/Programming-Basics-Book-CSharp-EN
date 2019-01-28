@@ -8,7 +8,7 @@ The input is **an odd integer n** within the range [**3 … 79**].
 
 ## Output Data
 
-Print a vertical arrow on the console, in which "**`#`**" (number sign) marks the outline of the arrow, and "**`.`**" - the rest.
+Print a vertical arrow on the console, in which "**`#`**" (number sign) marks the outline of the arrow, and "**`.`**" – the rest.
 
 ## Sample Input and Output
 
@@ -26,7 +26,7 @@ From the explanation we see that **the input data** will be read from one row on
 
 ![](/assets/chapter-6-2-images/04.Arrow-01.png)
 		
-We can divide the figure into **3 parts** - upper, middle and lower one. **The upper part** contains two subparts - a first row and a body of the arrow. We can see from the examples that the count of **the outer dots** on the first row and in the body of the arrow is **`(n - 1) / 2`**. We can write this value in **a variable** **`outerDots`**. 
+We can divide the figure into **3 parts** – upper, middle and lower one. **The upper part** contains two subparts – a first row and a body of the arrow. We can see from the examples that the count of **the outer dots** on the first row and in the body of the arrow is **`(n - 1) / 2`**. We can write this value in **a variable** **`outerDots`**. 
 
 ![](/assets/chapter-6-2-images/04.Arrow-02.png)
 		

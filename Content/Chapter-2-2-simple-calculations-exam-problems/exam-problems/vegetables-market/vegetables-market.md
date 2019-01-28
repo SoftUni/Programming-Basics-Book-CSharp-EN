@@ -5,10 +5,10 @@ A gardener is selling his harvest on the vegetables market. He is selling **vege
 ## Input Data
 
 **Four numbers** are read from the console, one per line: 
-* First line - Price per kilogram for vegetables - a floating-point number.
-* Second line - Price per kilogram for fruits - a floating-point number.
-* Third line - Total kilograms of vegetables - an integer.
-* Fourth line - Total kilograms of fruits - an integer. 
+* First line: price per kilogram for vegetables – a floating-point number.
+* Second line: price per kilogram for fruits – a floating-point number.
+* Third line: total kilograms of vegetables – an integer.
+* Fourth line: total kilograms of fruits – an integer. 
 
 **Constraints: All numbers will be within the range from 0.00 to 1000.00**
 

@@ -49,7 +49,7 @@ We will read the input data and do the calculations according to the provided pr
 
 ### Processing the Input Data
 
-According to the task requirements we expect to receive two rows of input data - on the first row **the month in which the stay is planned**, and on the second one - **the number of stays**.
+According to the task requirements we expect to receive two rows of input data – on the first row **the month in which the stay is planned**, and on the second one – **the number of stays**.
 
 Let's process and store the input data in the appropriate parameters:
 
@@ -67,7 +67,7 @@ In general, there are different approaches and ways to apply the above condition
 
 ### Calculating Prices for Stay in May and October
 
-Let's start with the first group of months: **May** and **October**. For these two months **the price for stay is the same** for both types of accommodation - in a **studio** or in an **apartment**. Therefore, the only thing that remains is to apply an internal condition regarding the **number of stays**, and recalculate **the relevant price** (if needed).
+Let's start with the first group of months: **May** and **October**. For these two months **the price for stay is the same** for both types of accommodation – in a **studio** or in an **apartment**. Therefore, the only thing that remains is to apply an internal condition regarding the **number of stays**, and recalculate **the relevant price** (if needed).
 
 ![](/assets/chapter-4-2-images/05.Hotel-room-03.png)
 
@@ -81,7 +81,7 @@ To some extent, the **logic** and **calculations** will be **identical** for the
 
 ### Formatting the Output Data
 
-After calculating the relevant prices and the total amount for the stay, now let's prepare the formatted result. Before that, we should store it in our output **parameters** - **`studioInfo`** and **`apartmentInfo`**.
+After calculating the relevant prices and the total amount for the stay, now let's prepare the formatted result. Before that, we should store it in our output **parameters** – **`studioInfo`** and **`apartmentInfo`**.
 
 ![](/assets/chapter-4-2-images/05.Hotel-room-06.png)
 

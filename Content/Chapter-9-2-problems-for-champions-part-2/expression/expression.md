@@ -67,7 +67,7 @@ For the goals of our task we need two variables:
 
 ![](/assets/chapter-9-2-images/02.X-expression-04.png)
 
-We will clarify two details regarding the aforementioned code. The first one is the use of **`decimal`** type for **storing the output of our expression** in order to avoid any problems with the accuracy pertaining to the **`float`** and **`double`** type. The second one is the default value of the operator - it is **`+`**, so that the very first number can be added to our output.
+We will clarify two details regarding the aforementioned code. The first one is the use of **`decimal`** type for **storing the output of our expression** in order to avoid any problems with the accuracy pertaining to the **`float`** and **`double`** type. The second one is the default value of the operator – it is **`+`**, so that the very first number can be added to our output.
 
 ### Defining the Program Structure
 
@@ -77,7 +77,7 @@ Now that we already have our starting variables, we must decide **what will be t
 
 The next step is the processing of our **`symbol`** variable. We have 3 possible cases for it:
 * If the symbol is a **start of a sub-expression placed in brackets** i.e. the found symbol is a **`(`**.
-* If the symbol is a **digit between 0 and 9**. But how can we check this? How can we check if our symbol is a digit? We can use for assistance the **ASCII code** of the symbol, via which we can use the following formula: **`[ASCII code of our symbol] - [ASCII code of the symbol 0] = [the digit that represents the symbol]`**. If **the result of this condition is between 0 and 9**, then our symbol is really a **number**.
+* If the symbol is a **digit between 0 and 9**. But how can we check this? How can we check if our symbol is a digit? We can use for assistance the **ASCII code** of the symbol, via which we can use the following formula: **`[ASCII code of our symbol] – [ASCII code of the symbol 0] = [the digit that represents the symbol]`**. If **the result of this condition is between 0 and 9**, then our symbol is really a **number**.
 * If the symbol is an **operator**, i.e. it is **`+`**, **`-`**, **`*`** or **`/`**.
 
 ![](/assets/chapter-9-2-images/02.X-expression-06.png)
@@ -86,7 +86,7 @@ The next step is the processing of our **`symbol`** variable. We have 3 possible
 
 Let's examine the actions that we need to undertake in the relevant cases that we defined:
 * If our symbol is an **operator**, then the only thing we need to do is to **set a new value for the `expressionOperator` variable**.
-* If our symbol is a **digit**, then we need to **change the current result of the expression depending on the current operator**, i.e. if  **`expressionOperator`** is a **`-`**, then we must **decrease the result by the numerical representation of the current symbol**. We can get the numerical representation of the current symbol via the formula that we used upon checking the condition for this case (the **`[ASCII code of our symbol] - [the ASCII code of the symbol `0`] = [the digit that represents the symbol]`**)
+* If our symbol is a **digit**, then we need to **change the current result of the expression depending on the current operator**, i.e. if  **`expressionOperator`** is a **`-`**, then we must **decrease the result by the numerical representation of the current symbol**. We can get the numerical representation of the current symbol via the formula that we used upon checking the condition for this case (the **`[ASCII code of our symbol] – [the ASCII code of the symbol `0`] = [the digit that represents the symbol]`**)
 
 ![](/assets/chapter-9-2-images/02.X-expression-07.png)
 
@@ -96,7 +96,7 @@ Let's examine the actions that we need to undertake in the relevant cases that w
 
 ### Calculating the Sub-Expression Value
 
-After that, in order to **calculate the sub-expression value** we will use the same methods that we used for calculating the main expression - we use a **`while` loop** to **read symbols** (until we reach an **`)`** symbol). Depending on whether the read symbol is a number or an operator, we modify the result of the sub-expression. The implementation of these operations is identical to the  above described implementation for calculating expressions. This is why we believe the reader will be able to easily handle it.
+After that, in order to **calculate the sub-expression value** we will use the same methods that we used for calculating the main expression – we use a **`while` loop** to **read symbols** (until we reach an **`)`** symbol). Depending on whether the read symbol is a number or an operator, we modify the result of the sub-expression. The implementation of these operations is identical to the  above described implementation for calculating expressions. This is why we believe the reader will be able to easily handle it.
 
 After finishing the result calculation for our sub-expression, we **modify the result of the whole expression** depending on the value of the **`expressionOperator`**.
 

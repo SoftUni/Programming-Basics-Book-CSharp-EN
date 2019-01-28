@@ -13,7 +13,7 @@ For natural **n** number, calculate **n! = 1 \* 2 \* 3 \* … \* n**. For exampl
 Here is how we can specifically calculate factorial:
 
    * We create the variable **`n`** to which we assign an integer value taken from the console input.
-   * We create another variable - a **`fact`** which initial value is 1. We will use it for the calculation and storage of the factorial.
+   * We create another variable – a **`fact`** which initial value is 1. We will use it for the calculation and storage of the factorial.
    * For a loop condition, we will use **`n > 1`**, because each time we perform the calculations in the body of the loop, we will decrease the value of **`n`** by 1.
    * In the body of the loop:
       * We assign a new value to **`fact`** that is the result of multiplying the current **`fact`** value to the current value of **`n`**.
@@ -33,7 +33,7 @@ Sum up the digits of a **positive** integer **n**. For example, if **n = 5634**,
 We can use the following idea to solve the problem:
 
    * We create the variable **`n`**, to which we assign a value equal to the number entered by the user.
-   * We create a second variable - **`sum`**, which initial value is 0. We will use it for the calculation and storage of the result.
+   * We create a second variable – **`sum`**, which initial value is 0. We will use it for the calculation and storage of the result.
    * For a loop condition, we will use **`n > 0`** because after each calculation of the result in the body of the loop, we will remove the last digit of **`n`**.
    * In the body of the loop:
        * We assign a new value of **`sum`** that is the result of the sum of the current value of **`sum`** with the last digit of **`n`**.

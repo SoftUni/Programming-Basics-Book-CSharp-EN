@@ -74,7 +74,7 @@ Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/514#9
 
 ## Example: Infinite Loop with Break
 
-Write a program that checks if a particular number **n** is even, and if it is - to print it on the screen. An even number is one that can be divided by 2 without remainder. If an invalid number is entered, the system should ask the user to enter it again and display notification that the input number is not even.
+Write a program that checks if a particular number **n** is even, and if it is – to print it on the screen. An even number is one that can be divided by 2 without remainder. If an invalid number is entered, the system should ask the user to enter it again and display notification that the input number is not even.
 
 Here is an idea how we can solve the problem:
 

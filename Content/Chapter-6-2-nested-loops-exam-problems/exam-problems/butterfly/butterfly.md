@@ -26,7 +26,7 @@ We can see in the explanation that **the input data** will be taken from only on
 
 ![](/assets/chapter-6-2-images/02.Butterfly-01.png)
 
-We can divide the figure into 3 parts - upper wing, body and lower wing. In order to draw the upper wing, we need to divide it into parts - beginning **`*`**, middle part **`\ /`** and end **`*`**. After looking at the examples we find out that the beginning is with size **`n - 2`**.
+We can divide the figure into 3 parts – upper wing, body and lower wing. In order to draw the upper wing, we need to divide it into parts – beginning **`*`**, middle part **`\ /`** and end **`*`**. After looking at the examples we find out that the beginning is with size **`n - 2`**.
 
 ![](/assets/chapter-6-2-images/02.Butterfly-02.png)
 
@@ -34,7 +34,7 @@ We can also see that the upper wing is with size **`n - 2`**, and that's why we 
 
 ![](/assets/chapter-6-2-images/02.Butterfly-03.png)
 
-We can see in the examples that on an even row we have a beginning **`*`**, a middle part **`\ /`** and an end **`*`**, and on an odd row - beginning **`-`**, middle part **`\ /`** and an end **`-`**. This is why we must add an **`if-else`** condition to check if the row is even or odd and then to draw one of the two types of rows.
+We can see in the examples that on an even row we have a beginning **`*`**, a middle part **`\ /`** and an end **`*`**, and on an odd row – beginning **`-`**, middle part **`\ /`** and an end **`-`**. This is why we must add an **`if-else`** condition to check if the row is even or odd and then to draw one of the two types of rows.
 
 ![](/assets/chapter-6-2-images/02.Butterfly-04.png)
 

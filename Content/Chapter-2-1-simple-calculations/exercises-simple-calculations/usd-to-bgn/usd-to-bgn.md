@@ -1,4 +1,4 @@
-# Problem: Console Converter - USD to BGN
+# Problem: Console Converter – USD to BGN
 
 Write a program for **conversion of US dollars** \(USD\) **into Bulgarian levs** \(BGN\). **Round** the result to **2 digits** after the decimal point. Use a fixed rate between a dollar and lev: **1 USD = 1.79549 BGN**.
 

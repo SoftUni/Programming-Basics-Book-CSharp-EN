@@ -4,7 +4,7 @@ It is strange, but most people start planning their vacations well in advance. A
 
 Write a program that accepts **as input the budget and season**, and **as output** displays programmer's **vacation place** and **the amount of money they will spend**.
 
-**The budget determines the destination, and the season determines what amount of the budget will be spent**. If the season is **summer**, the programmer will go **camping**, if it is **winter - they will stay in a hotel**. If it is in **Europe**, **regardless of the season**, the programmer will stay in a **hotel**. Each **camp** or **hotel**, **according to the destination**, has **its own price**, which corresponds to a particular **percentage of the budget**:
+**The budget determines the destination, and the season determines what amount of the budget will be spent**. If the season is **summer**, the programmer will go **camping**, if it is **winter – they will stay in a hotel**. If it is in **Europe**, **regardless of the season**, the programmer will stay in a **hotel**. Each **camp** or **hotel**, **according to the destination**, has **its own price**, which corresponds to a particular **percentage of the budget**:
 
 - If **100 BGN or less** – somewhere in **Bulgaria**.
   - **Summer** – **30%** of the budget.
@@ -19,7 +19,7 @@ Write a program that accepts **as input the budget and season**, and **as output
 
 The input data will be read from the console and will consist of **two rows**:
 
-- On the **first** row we receive **the budget** - **real number** in the range [**10.00 … 5000.00**].
+- On the **first** row we receive **the budget** – **real number** in the range [**10.00 … 5000.00**].
 - On the **second** row – **one** of two possible seasons: "**summer**" or "**winter**".
 
 ## Output Data
@@ -47,7 +47,7 @@ Typically, as for the other tasks, we can separate the solution into the followi
 
 ### Processing the Input Data
 
-While reading carefully the requirements, we understand that we expect **two** rows of input data. The first parameter is a **real number**, for which we need to pick an appropriate variable type. For higher level of calculation accuracy we can pick **`decimal`** as a variable for the budget and - **`string`** for the season. 
+While reading carefully the requirements, we understand that we expect **two** rows of input data. The first parameter is a **real number**, for which we need to pick an appropriate variable type. For higher level of calculation accuracy we can pick **`decimal`** as a variable for the budget and – **`string`** for the season. 
 
 ![](/assets/chapter-4-2-images/02.Trip-01.png)
 
@@ -71,7 +71,7 @@ When examining once again the problem requirements, we notice that the main dist
 
 Based on the way we arrange the logical scheme (the order in which we will check the border values), we will have more or less conditions in the solution. **Why?**
 
-After that, we need to apply a condition to check the value of the **season**. Based on it, we will determine what percentage of the budget will be spent, as well as where the programmer will stay - in a **hotel** or a **camp**.
+After that, we need to apply a condition to check the value of the **season**. Based on it, we will determine what percentage of the budget will be spent, as well as where the programmer will stay – in a **hotel** or a **camp**.
 
 ### Calculations
 
@@ -87,7 +87,7 @@ When examining once again the problem requirements, we notice that the main dist
 
 Based on the way we arrange the logical scheme (the order in which we will check the border values), we will have more or less conditions in the solution. **Why?**
 
-After that, we need to apply a condition to check the value of the **season**. Based on it, we will determine what percentage of the budget will be spent, as well as where the programmer will stay - in a **hotel** or a **camp**.
+After that, we need to apply a condition to check the value of the **season**. Based on it, we will determine what percentage of the budget will be spent, as well as where the programmer will stay – in a **hotel** or a **camp**.
 
 ### Printing the Result
 

@@ -10,10 +10,10 @@ Write a method **`Encrypt(char letter)`**, which encrypts a given letter in the 
 
 Example:
 * j &rarr; **p16i**
-  * ASCII code of **j** is **106** &rarr; First digit - **1**, last digit - **6**.
+  * ASCII code of **j** is **106** &rarr; First digit – **1**, last digit – **6**.
   * We concatenate the first and the last digit &rarr; **16**.
   * At **the beginning** of the string, which represents the result, concatenate the symbol, which you get from the sum of the ASCII code + the last digit &rarr; 106 + 6 &rarr; 112 &rarr; **p**.
-  * At **the end** of the string, which represents the result, concatenate the symbol, which you get from subtracting the ASCII code - the first digit &rarr; 106 - 1 &rarr; 105 &rarr; **i**.
+  * At **the end** of the string, which represents the result, concatenate the symbol, which you get from subtracting the ASCII code – the first digit &rarr; 106 - 1 &rarr; 105 &rarr; **i**.
   
 Using the method shown above, write a program which takes **a sequence of characters**, **encrypts them** and prints the result on one line.
 

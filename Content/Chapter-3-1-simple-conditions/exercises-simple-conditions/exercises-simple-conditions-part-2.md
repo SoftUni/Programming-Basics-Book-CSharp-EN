@@ -4,7 +4,7 @@ Now let's **practice** the lessons learned in this chapter about of conditional 
 
 ## Empty Visual Studio Solution (Blank Solution)
 
-At the start we create a **Blank Solution** in Visual Studio to organize better the task solutions from the exercise - each task will be in a separate project and all projects will be in a common solution.
+At the start we create a **Blank Solution** in Visual Studio to organize better the task solutions from the exercise – each task will be in a separate project and all projects will be in a common solution.
 
 We run Visual Studio and create a new **Blank Solution:** [**File**] -> [**New**] -> [**Project**].
 

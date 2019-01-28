@@ -20,7 +20,7 @@ What remains is to finish the program above, to calculate the area of the rectan
 
 ## Test Your Solution
 
-Test your solution with a few examples. You have to receive an output, similar to this one \(we enter 2 and 7 as input and the program prints result 14 - their multiplication\):
+Test your solution with a few examples. You have to receive an output, similar to this one \(we enter 2 and 7 as input and the program prints result 14 – their multiplication\):
 
 ```
 2

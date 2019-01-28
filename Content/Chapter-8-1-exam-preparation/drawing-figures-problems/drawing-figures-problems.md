@@ -35,13 +35,13 @@ We will read the number **n** from the console.
 
 ### Printing the Top Part of the Diamond
 
-We start painting **the top half** of the diamond. We clearly see that **each row** starts with a **few empty spaces and <code>*</code>**. If we take a closer look, we will notice that **the empty spaces** are always equal to **`n - the number of lines`** (the first row is n-1, the second - n-2, etc.). We will start by drawing the number of **empty spaces**, and the **first asterisk**. Let's not forget to use **`Console.Write(…)`** instead of **`Console.WriteLine(…)`** to stay on **the same line**. At the end of the line we write **`Console.WriteLine(…)`** to go to **a new line**. Notice that we start counting from **1, not from 0**. Next, we will only add a few times **`-*`** to **finish the line**.
+We start painting **the top half** of the diamond. We clearly see that **each row** starts with a **few empty spaces and <code>*</code>**. If we take a closer look, we will notice that **the empty spaces** are always equal to **`n` – the number of lines** (the first row is n-1, the second – n-2, etc.). We will start by drawing the number of **empty spaces**, and the **first asterisk**. Let's not forget to use **`Console.Write(…)`** instead of **`Console.WriteLine(…)`** to stay on **the same line**. At the end of the line we write **`Console.WriteLine(…)`** to go to **a new line**. Notice that we start counting from **1, not from 0**. Next, we will only add a few times **`-*`** to **finish the line**.
 
 Here is part of the code for the **top of the diamond**:
 
 ![](/assets/chapter-8-1-images/09.Perfect-diamond-02.png)
 
-What remains is to **complete each line** with the required number of **`-*`** elements. On each row we have to add **`i - 1`** such **items** (on the first 1-1 -> 0, the second -> 1, etc.)
+What remains is to **complete each line** with the required number of **`-*`** elements. On each row we have to add **`i-1`** such **items** (on the first 1-1 -> 0, the second -> 1, etc.)
 
 Here is the complete code for drawing **the top of the diamond**:
 
@@ -49,7 +49,7 @@ Here is the complete code for drawing **the top of the diamond**:
 
 ### Printing the Bottom Part of the Diamond
 
-To draw the **bottom part** of the diamond, we have to reverse **the upper part**. We will count from **`n - 1`**, because if we start from **`n`**, we will draw the middle row twice. Do not forget to change **the step** from **`++` to `--`**.
+To draw the **bottom part** of the diamond, we have to reverse **the upper part**. We will count from **`n-1`**, because if we start from **`n`**, we will draw the middle row twice. Do not forget to change **the step** from **`++` to `--`**.
 
 Here is the code for drawing **the bottom part of the diamond**:
 
@@ -104,7 +104,7 @@ We can **start and test the code so far**. Everything without the two asterisks 
 
 ### Adding Stars in the Center of the Rectangle
 
-Now, **in the body** of the loop let's add the **asterisks**. We'll check if we're on the **middle row**. If we are in the middle, we will draw **the row** together **with the asterisks**, if not - we will draw **a normal row**. The line with the asterisks has **`n - 2` empty spaces** (**`n`** is half the length and we remove the asterisk and the percentage), **two stars** and again **`n - 2` empty spaces**. We leave out of the check the two percent at the beginning and at the end of the row.
+Now, **in the body** of the loop let's add the **asterisks**. We'll check if we're on the **middle row**. If we are in the middle, we will draw **the row** together **with the asterisks**, if not – we will draw **a normal row**. The line with the asterisks has **`n-2` empty spaces** (**`n`** is half the length and we remove the asterisk and the percentage), **two stars** and again **`n-2` empty spaces**. We leave out of the check the two percent at the beginning and at the end of the row.
 
 ![](/assets/chapter-8-1-images/10.Rectangle-with-stars-04.png)
 

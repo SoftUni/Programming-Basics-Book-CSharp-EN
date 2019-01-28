@@ -1,6 +1,6 @@
 # Problem: Element Equal to the Sum of the Rest
 
-Write a program that inputs **n integers** and checks whether among them there is a number equal to the sum of all the rest. If there is such an element, print **"Yes" + its value**, otherwise - **"No" + the difference between the largest element and the sum of the rest** (by absolute value). 
+Write a program that inputs **n integers** and checks whether among them there is a number equal to the sum of all the rest. If there is such an element, print **"Yes" + its value**, otherwise – **"No" + the difference between the largest element and the sum of the rest** (by absolute value). 
 
 ## Sample Input and Output
 

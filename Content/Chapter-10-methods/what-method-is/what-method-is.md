@@ -61,7 +61,7 @@ With the next example we will look at the obligatory elements in the declaration
 * **Parameter list**. It is declared between the parentheses **`(`** and **`)`**, which we write after its name. This is where we list all the **parameters**, which the method will use. There can be **only one** parameter, **multiple** ones or it could be an **empty** list. If there aren't any parameters, we will write only the parentheses **`()`**. In this example we declare the parameter **`double num`**.
 * **`static`** declaration in the method description. For the moment you can accept that we write **`static`** always when you declare a method, and later when we meet object oriented programming (OOP), you will learn about the difference between **static methods** (shared for the whole class) and **methods of an object**, which work on the data of a certain instance of the class (object).
 
-When declaring methods you must follow the **sequence** of its base elements - first **type of the return value**, then **method name** and in the end **list of parameters**, surrounded by parentheses **`()`**.
+When declaring methods you must follow the **sequence** of its base elements – first **type of the return value**, then **method name** and in the end **list of parameters**, surrounded by parentheses **`()`**.
 
 After we have declared a method, its **implementation (body)** follows. In the body of the method we write down **the algorithm**, by which it solves a problem, i.e. the body contains the code (program block), which realizes the methods **logic**. In the shown example we are calculating the area of a square, which is **`num * num`**. 
 

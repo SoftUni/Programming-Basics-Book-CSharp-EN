@@ -10,8 +10,8 @@ There are two numbers **d** (day) and **m** (month) that form **a date**. Write 
 ### Input
 
 The input is read from the console and consists of two rows:
-- On the first row we read an integer **d** in the range [**1 … 31**] - day. The number of the day does not exceed the number of days in that month (eg. 28 for February).
-- On the second row we read an integer **m** in the range [**1 … 12**] - month. Month 1 is January, month 2 is February,  …, month 12 is December. The month may contain a leading zero (eg. April may be written as 4 or 04).
+- On the first row we read an integer **d** in the range [**1 … 31**] – day. The number of the day does not exceed the number of days in that month (eg. 28 for February).
+- On the second row we read an integer **m** in the range [**1 … 12**] – month. Month 1 is January, month 2 is February,  …, month 12 is December. The month may contain a leading zero (eg. April may be written as 4 or 04).
 
 ### Output
 

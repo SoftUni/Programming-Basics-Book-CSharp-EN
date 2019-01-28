@@ -17,7 +17,7 @@ Three numbers are read from the console:
 * 
 ## Output Data
 
-Print one number on the console - **the result of the exchange of currencies**. Rounding is not necessary. 
+Print one number on the console – **the result of the exchange of currencies**. Rounding is not necessary. 
 
 ## Sample Input and Output
 

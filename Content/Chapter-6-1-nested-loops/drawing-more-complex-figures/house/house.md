@@ -32,7 +32,7 @@ We understand from the problem explanation that the house is with size of **`n` 
 
 * The height is **`n`** rows.
 * It is made out of **stars** and **pipes**.
-* Each row comprises of 2 **pipes** - one in the beginning and one in the end of the row, and also **stars** between the pipes with string length of **`n - 2`**.  
+* Each row comprises of 2 **pipes** – one in the beginning and one in the end of the row, and also **stars** between the pipes with string length of **`n - 2`**.  
 
 ### Reading the Input Data
 

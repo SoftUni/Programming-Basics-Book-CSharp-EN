@@ -21,9 +21,9 @@ Nesting of **more than three conditional statements** inside each other is not c
 ## Example: Titles According to Age and Sex
 
 Depending on **age** (decimal number and **gender** (**m** / **f**), print a personal title:
-* “**Mr.**” – a man (gender “**m**”) - 16 or more years old.
+* “**Mr.**” – a man (gender “**m**”) – 16 or more years old.
 * “**Master**” – a boy (gender “**m**”) under 16 years.
-* “**Ms.**” – a woman (gender “**f**”) - 16 or more years old.
+* “**Ms.**” – a woman (gender “**f**”) – 16 or more years old.
 * “**Miss**” – a girl (gender “**f**”) under 16 years.
 
 ### Sample Input and Output
@@ -72,7 +72,7 @@ Calculate the price by the given **city** (string), **product** (string) and **q
 
 ### Solution
 
-We **convert** all of the letters into **lower register** using the function **`.ToLower()`**, in order to compare products and cities **no matter** what the letters are - small or capital ones.
+We **convert** all of the letters into **lower register** using the function **`.ToLower()`**, in order to compare products and cities **no matter** what the letters are – small or capital ones.
 
 ![](/assets/chapter-4-images/02.Small-shop-01.png)
 

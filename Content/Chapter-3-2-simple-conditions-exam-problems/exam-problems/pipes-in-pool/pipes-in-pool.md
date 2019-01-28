@@ -15,7 +15,7 @@ A pool with **volume V** fills up via **two pipes**. **Each pipe has a certain f
 Print on the console **one of the two possible states**:
 * To what extent the pool has filled up and how many percent each pipe has contributed with. All percents must be formatted to an integer (without rounding).
   * "The pool is **[x]**% full. Pipe 1: **[y]**%. Pipe 2: **[z]**%."
-* If the pool has overflown - with how many liters it has overflown for the given time - a floating-point number. 
+* If the pool has overflown – with how many liters it has overflown for the given time – a floating-point number. 
   * "For **[x]** hours the pool overflows with **[y]** liters."
 
 **Have in mind** that due to **the rounding to an integer**, there is **data loss** and it is normal **the sum of the percents to be 99%, not 100%**. 
@@ -50,7 +50,7 @@ The ratio has to be in **percentage**, that is why all the calculations so far w
 
 ![](/assets/chapter-3-2-images/02.Pipes-in-pool-03.png)
 
-However, if **the condition** returns **`false`**, that means that **the quantity of water** is **more** than the **volume** of the pool, therefore, it has **overflown**. Again, the output data has to be on **one line**, but this time it should contain only **two values** - the one of the **hours** when the worker was absent, and the **quantity of water**, which is the **difference** between **the incoming water** and **the volume of the pool**.
+However, if **the condition** returns **`false`**, that means that **the quantity of water** is **more** than the **volume** of the pool, therefore, it has **overflown**. Again, the output data has to be on **one line**, but this time it should contain only **two values** – the one of the **hours** when the worker was absent, and the **quantity of water**, which is the **difference** between **the incoming water** and **the volume of the pool**.
 
 ## Testing in the Judge System
 

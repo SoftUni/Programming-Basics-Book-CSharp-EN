@@ -19,7 +19,7 @@ Write a method **`Letterize(number)`**, which reads an integer and prints it in 
 
 ## Hints and Guidelines
 
-We can first print **the hundreds** as a text - \(the number / 100\) % 10, after that **the tens** - \(the number / 10\) % 10 and at the end **the ones** - \(the number % 10\).
+We can first print **the hundreds** as a text – \(the number / 100\) % 10, after that **the tens** – \(the number / 10\) % 10 and at the end **the ones** – \(the number % 10\).
 
 The first special case is when the number is exactly **rounded to 100** \(e.g. 100, 200, 300 etc.\). In this case we print "one-hundred", "two-hundred", "three-hundred" etc.
 

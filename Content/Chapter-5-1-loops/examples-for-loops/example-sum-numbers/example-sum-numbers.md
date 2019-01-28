@@ -19,11 +19,11 @@ Write a program that **inputs `n` integers and sums them up**.
 ## Tips and Tricks
 
 We can solve the problem with summing up numbers in the following way:
- - We read the input number **`n`**.
- - We initially start with a sum **`sum = 0`**.
- - We run a loop from 1 to **`n`**. On each step of the loop, we read the a number **`num`** and add it to the sum **`sum`**.
- - Finally, we print the calculated amount **`sum`**.
- 
+- We read the input number **`n`**.
+- We initially start with a sum **`sum = 0`**.
+- We run a loop from 1 to **`n`**. On each step of the loop, we read the a number **`num`** and add it to the sum **`sum`**.
+- Finally, we print the calculated amount **`sum`**.
+
 Below is the source code for the solution:
 
 ![](/assets/chapter-5-images/04.Sum-numbers-01.png)
