@@ -212,5 +212,5 @@
 * [Conclusion](Content/Conclusion/overview.md)
   * [Study Software Engineering in SoftUni](Content/Conclusion/overview/study-software-engineering-in-softuni.md)
   * [Study Software Engineering in Your Own Way](Content/Conclusion/overview/study-software-engineering-alone.md)
-  * [Recommended Resources](Content/Conclusion/overview/recommended-resources.md)
+  * [Recommended Resources for Developers](Content/Conclusion/overview/recommended-resources.md)
 
