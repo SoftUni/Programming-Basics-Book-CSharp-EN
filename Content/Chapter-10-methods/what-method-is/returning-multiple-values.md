@@ -1,16 +1,16 @@
 # Methods Returning Multiple Values
 
-There are cases in practice when we need a method to return more than one element as a result. For this to be possible **`ValueTuple`** has been integrated in Visual Studio and C# (onwards from C# 7), and also a literal of type **`ValueTuple`**. The type **`ValueTuple`** represents two values, which allow the temporary containing of **multiple values**. The values are contained in variables (fields – we will earn about them later) of the corresponding types. Although the type **`Tuple`** existed before C# 7, it didn't have good support in the older versions and it's ineffective. That's why in previous versions of C# the elements in one **`Tuple`** were shown as **`Item1`**, **`Item2`** etc. and the names of their variables (the variables in which they are contained) could not be changed. In C# 7 the type (**`ValueTuple`**) is maintained, which allows giving meaningful names to the elements in a **`ValueTuple`**.
+There are cases in practice when we need a method to return more than one element as a result. For this to be possible **`ValueTuple`** has been integrated in Visual Studio and C# (C# 7 and later versions), as well as a literal of **`ValueTuple`** type. The **`ValueTuple`** type represents two values, which allow the temporary containing of **multiple values**. The values are contained in variables (fields – we will learn about them later) of the corresponding types. Although the type **`Tuple`** existed before C# 7, it didn't have good support in the older versions and it's ineffective. That's why in previous versions of C# the elements in one **`Tuple`** were shown as **`Item1`**, **`Item2`** etc. and the names of their variables (the variables in which they are contained) could not be changed. In C# 7 the type (**`ValueTuple`**) is maintained, which allows giving meaningful names to the elements in a **`ValueTuple`**.
 
 ## Declaring a ValueTuple
 
-Let's look at an example declaring of a variable of type **`ValueTuple`**:
+Let's examine an example declaring of a variable of **`ValueTuple`** type:
 
 ```csharp
 var personInfo = (name: "Steeve", age: 27, "Bulgaria");
 ```
 
-To make it easier when declaring we use the keyword **`var`**, and in the brackets we list **the names of the values we want**, followed by **the values themselves**. Let's see what the variable **`personInfo`** contains in debug mode:
+To make it easier when declaring, we use the keyword **`var`**, and in the brackets we list **the names of the values we want**, followed by **the values themselves**. Let's see what the variable **`personInfo`** contains in debug mode:
 
 ![](/assets/chapter-10-images/15.Tuples-01.jpg)
 
@@ -30,12 +30,12 @@ return (result, reminder);
 }
 ```
 
-This method returns a result of type **`ValueTuple`**, containing two variables (fields) of type **`int`**, named **`result`** and **`reminder`** respectively. Invoking the method is done in the following way:
+This method returns a result of **`ValueTuple`** type, containing two variables (fields) of **`int`** type, named **`result`** and **`reminder`** respectively. Calling the method is done in the following way:
 
 ```csharp
 var division = Divide(1, 3);
 ```
 
-In order to get the results, returned from the method, we apply **point notation to the variable** **`division`**:
+In order to get the results returned from the method, we apply **point notation to the variable** **`division`**:
 
 ![](/assets/chapter-10-images/15.Tuples-02.jpg)
