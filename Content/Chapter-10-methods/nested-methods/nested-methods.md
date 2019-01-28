@@ -1,20 +1,20 @@
 # Nested Methods (Local Functions)
 
-Let's look at the following Example:
+Let's examine the following example:
 
 ![](/assets/chapter-10-images/19.Local-functions-01.png)
 
-## What is a Local Function?
+## What Is a Local Function?
 
 We can see that in this code the **`Main()`** method has **another** declared method **`Result()`**. This **nested** method is called **local** function and is an innovation in C# 7.
 
-Local functions can be declared inside every other method. When the C# compiler compiles such functions they are turned into private methods. Because you will learn about the difference between **`public`** and **`private`** methods later, we can now say that **`private`** can be used only in the class, in which they have been declared. The programs which we write at this level are using only one class, therefore we can say that we can use nested methods without any concerns.
+Local functions can be declared inside every other method. When the C# compiler compiles such functions they are turned into private methods. Because you will learn about the difference between **`public`** and **`private`** methods later, we can now say that **`private`** can be used only in the class, in which they have been declared. The programs that we write at this level are using only one class, therefore we can say that we can use nested methods without any concerns.
 
 ## Why Use Local Functions?
 
-With time and practice you will see that when you are writing code, you often need **methods that you only need once**, or the method we need gets very long. We said earlier that when a method contains too many lines of code it becomes hard to read and maintain.
+With time and practice you will see that when you are writing code, you often need **methods that you only need once**, or the method you need gets very long. We said earlier that when a method contains too many lines of code it becomes hard to read and maintain.
 
-This is where local functions come to help – they help us to **declare a new method in another one** we already have, and it will be used only once. This helps our code to be ordered better and **easier to read**, which helps for faster correction if there is an error in the code and limits the possibility for mistakes when making changes in the program logic.
+This is where local functions come in handy – they help us **declare a new method in another one** we already have, and it will be used only once. This helps making our code better ordered and **easier to read**, which helps for faster correction if there is an error in the code, and limits the possibility for mistakes when making changes in the program logic.
 
 ## Declaring Local Functions
 
