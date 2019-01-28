@@ -10,7 +10,7 @@ Write a C\# program that **reads** from the console **two numbers, a and b**, **
 | 7 | 8 | 56 |
 | 12 | 5 | 60 |
 
-## Tips and Tricks
+## Hints and Guidelines
 
 Create a new **console C\# program**. To **read both of numbers**, use the following commands:
 

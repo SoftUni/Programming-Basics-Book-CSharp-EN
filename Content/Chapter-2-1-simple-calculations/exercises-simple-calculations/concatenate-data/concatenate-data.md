@@ -2,7 +2,7 @@
 
 Write a C\# program, that reads a first name, last name, age and city from the console and prints a message of the following kind: `You are <firstName> <lastName>, a <age>-years old person from <town>`.
 
-## Tips and Tricks
+## Hints and Guidelines
 
 We add to the existing Visual Studio solution one more console C\# project with name “Concatenate-Data”.    We **write the code** which reads the input from the console:
 

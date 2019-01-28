@@ -26,7 +26,7 @@ Print on the console **one of the two possible states**:
 | ---- | ----- | ---- | ---- |
 |1000<br>100<br>120<br>3 |The pool is 66% full. Pipe 1: 45%. Pipe2: 54%. |100<br>100<br>100<br>2.5|For 2.5 hours the pool overflows with 400 liters.|
 
-## Tips and Tricks
+## Hints and Guidelines
 
 In order to solve the task, we read the input data, write a few conditional statements, do some calculations and print the result. 
 

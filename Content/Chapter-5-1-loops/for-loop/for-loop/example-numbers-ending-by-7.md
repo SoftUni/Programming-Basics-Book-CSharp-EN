@@ -2,7 +2,7 @@
 
 Write a program that finds all numbers within the range [**1 … 1000**] that end in 7. 
 
-## Tips and Tricks
+## Hints and Guidelines
 
 We can solve the problem by combining a **`for` loop** for passing through the numbers from 1 to 1000 and a **condition** to check if each of the numbers ends in 7. Of course, there are other solutions too, but let's solve the problem using a **loop + condition**:
 

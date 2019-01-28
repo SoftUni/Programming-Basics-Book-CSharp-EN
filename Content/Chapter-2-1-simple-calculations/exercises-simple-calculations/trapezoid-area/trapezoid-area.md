@@ -6,7 +6,7 @@ The figure below shows a trapezoid with bases 8 and 13 and height 7. It has an a
 
 ![](/assets/chapter-2-images/05.Trapezoid-area-01.png)
 
-## Tips and Tricks
+## Hints and Guidelines
 
 Again, we have to add to the existing Visual Studio solution another **console C\# project** with name "Trapezoid-Area" and write the **code that reads the input from the console, calculates the trapezoid area and prints it**:
 

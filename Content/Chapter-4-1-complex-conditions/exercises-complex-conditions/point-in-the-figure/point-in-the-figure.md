@@ -28,7 +28,7 @@ Write a program that enters an integer **h** and the coordinates of a given **po
 |-----|-----|-----|-----|
 |15<br>-4<br>7|outside|15<br>30<br>0|border|
 
-## Tips and Tricks
+## Hints and Guidelines
 
 A possible logic for solving the task (not the only correct one):
 

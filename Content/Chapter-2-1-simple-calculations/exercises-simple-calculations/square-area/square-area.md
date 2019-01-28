@@ -2,7 +2,7 @@
 
 The first exercise from this topic is the following: write a console program that **inputs an integer **`a`** and calculates the area** of a square with side `a`. The task is trivial and easy: **input a number** from the console, **multiply it by itself** and **print the received result** on the console.
 
-## Tips and Tricks
+## Hints and Guidelines
 
 We create a **new project** in the existing Visual Studio solution. In the **Solution Explorer** right-click on **Solution 'Simple-Calculations'**. Choose \[**Add**\] -&gt; \[**New Project…**\]:
 

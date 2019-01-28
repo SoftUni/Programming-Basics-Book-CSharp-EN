@@ -18,7 +18,7 @@ We have an **integer** – the number of points. **Bonus score** are charged on 
 | 2703 | 270.3<br>2973.3 |
 | 15875 | 1589.5<br>17464.5 |
 
-## Tips and Tricks
+## Hints and Guidelines
 
 We can calculate the main and additional bonus score with a series of **`if-else-if-else`** statements. For **the main bonus score we have 3 cases** (when the entered number is up to 100, between 100 and 1000 and larger than 1000), and for **extra bonus score – 2 more cases** (when the number is even and odd).
 

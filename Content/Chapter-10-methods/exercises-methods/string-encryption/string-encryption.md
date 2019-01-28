@@ -34,7 +34,8 @@ Example:
 | --- | --- |
 |7<br>B<br>i<br>r<br>a<br>H<br>a<br>x| H66<n15hv14qh97XJ72Ah97xx10w |
 
-## Tips and Tricks
+## Hints and Guidelines
+
 Firstly, we will give a value of **`string.Empty`** to the **`string`**, which will keep the result. We must recur a loop **`n`** times, so that in each iteration we will add the encrypted symbol to the result string. 
 
 In order to find the first and the last digit of the ASCII code, we will use the same algorithm that we used to solve "Integer to Base".

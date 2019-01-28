@@ -36,7 +36,7 @@ Print **one row** in the console:
 |10<br>1<br>-|10 - 1 = 9 - odd|
 |7<br>3<br>\*|7 * 3 = 21 - odd|
 
-## Tips and Tricks
+## Hints and Guidelines
 
 The problem is not complex, but there are a lot of code rows to write.
 

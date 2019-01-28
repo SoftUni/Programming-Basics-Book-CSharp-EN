@@ -14,7 +14,7 @@ Write a program that enters a **type of screening** (string), number of **rows**
 |----|-----|----|-----|
 |Premiere<br>10<br>12|1440.00 leva|Normal<br>21<br>13|2047.50 leva|
 
-## Tips and Tricks
+## Hints and Guidelines
 
 While reading the input, we could convert the screening type into small letters (with the function **`.ToLower()`**). We create and initialize a variable that will store the calculated income. In another variable we calculate the full capacity of the hall. We use a **`switch-case`** conditional statement to calculate the income according to the type of the projection and print the result on the console in the given format (look for the needed **C#** functionality on the internet). 
 

@@ -11,7 +11,7 @@ Write a program that checks whether an **integer** is **even** or **odd**.
 | 25 | odd |
 | 1024 | even |
 
-## Tips and Tricks
+## Hints and Guidelines
 
 Again, first we add **a new C # console project** in the existing solution. In the **`static void Main ()`** method, we have to write the program code. Checking if a given number is even can be done with the operator **`%`**, which will return the **remainder from an integer divided by 2** as follows: **`var isEven = (num % 2 == 0)`**.
 

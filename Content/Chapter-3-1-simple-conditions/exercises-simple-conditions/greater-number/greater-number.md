@@ -11,7 +11,7 @@ Write a program that inputs **two integers** and prints the larger one.
 |10<br>10| 10 |
 |-5<br>5| 5 |
 
-## Tips and Tricks
+## Hints and Guidelines
 
 As usual, first we need to add a **new C # console project** to the existing solution. For the code of the program we need a single **`if-else`** statement. You can partially get assistance for the code from the picture that is deliberately blurred to make you think about how to write it yourself:
 

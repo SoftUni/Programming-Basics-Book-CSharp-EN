@@ -41,7 +41,7 @@ The input data will be read from the console and will consist of **two rows**:
 |678.53<br>winter|Somewhere in Balkans<br>Hotel - 542.82|
 |1500<br>summer|Somewhere in Europe<br>Hotel - 1350.00|
 
-## Tips and Tricks
+## Hints and Guidelines
 
 Typically, as for the other tasks, we can separate the solution into the following parts: reading the input data, doing calculations, printing the result.
 

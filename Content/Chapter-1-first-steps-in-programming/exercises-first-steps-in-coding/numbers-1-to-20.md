@@ -2,7 +2,7 @@
 
 Write a C\# console program that **prints the numbers from 1 to 20** on separate rows on the console.
 
-## Tips and Tricks
+## Hints and Guidelines
 
 Create **a C\# console application** with name “`Nums1To20`“:
 

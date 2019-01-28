@@ -30,7 +30,7 @@ Print **one number** on the console – **the daily earnings in lev**. The resul
 |-------------|------------------|-------------|------------------|
 |15<br>105<br>1.71|80.24|22<br>199.99<br>1.50|196.63|
 
-## Tips and Tricks
+## Hints and Guidelines
 
 Firstly, we have to analyze the task and think of a way to solve it. Then, we will choose data types and, finally, we will write the code.
 

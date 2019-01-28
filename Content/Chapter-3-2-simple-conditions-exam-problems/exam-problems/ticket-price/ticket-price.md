@@ -27,7 +27,7 @@ Print on the console **the lowest price** for the given number of kilometers.
 |----------|----------|----------|----------|
 |25<br>day   |2.25        |180<br>night|10.8        |
 
-## Tips and Tricks
+## Hints and Guidelines
 
 We will read the input data and depending on the distance, we will choose the cheapest transport. To do that, we will write a few conditional statements.
 

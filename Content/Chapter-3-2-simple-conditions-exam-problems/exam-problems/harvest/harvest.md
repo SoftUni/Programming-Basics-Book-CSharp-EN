@@ -30,7 +30,7 @@ The following has to be printed on the console:
 |----|-----|----|-----|
 |650<br>2<br>175<br>3|Good harvest this year! Total wine: 208 liters.<br>33 liters left -> 11 liters per person.|1020<br>1.5<br>425<br>4|It will be a tough winter! More 180 liters wine needed.|
 
-## Tips and Tricks
+## Hints and Guidelines
 
 In order to solve the problem, we will read the input data. Then, we will write a few conditional statements and do some calculations. Finally, we will print the result.
 

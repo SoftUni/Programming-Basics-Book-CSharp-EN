@@ -19,7 +19,7 @@ The input data is read from the console:
 |-----|-----|-----|-----|
 |normal<br>11<br>6|44|leap<br>0<br>1|41|
 
-## Tips and Tricks
+## Hints and Guidelines
 
 As usual, we read the input data from the console and, to avoid making mistakes, we convert the text into small letters with the function **`.ToLower()`**. Consequently, we calculate **the weekends spent in Sofia**, **the time for playing in Sofia** and **the common playtime**. At last, we check whether the year is **leap**, we make additional calculation when necessary and we print the result on the console **rounded down** to the nearest **integer** (look for a **C#** class with such functionality).
 

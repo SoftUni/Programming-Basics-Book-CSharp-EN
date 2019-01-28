@@ -39,7 +39,7 @@ Print on the console **two numbers**: **number of tiles needed** for the repair 
 |-----------|--------------------|
 |40<br>0.8<br>0.6<br>3<br>5|3302.08333333333<br>660.416666666667| 
 
-## Tips and Tricks
+## Hints and Guidelines
 
 Let's make a draft to clarify the task requirements. It can look the following way: 
 

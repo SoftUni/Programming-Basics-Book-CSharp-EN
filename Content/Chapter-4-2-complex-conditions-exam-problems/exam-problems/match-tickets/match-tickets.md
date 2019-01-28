@@ -44,7 +44,7 @@ The input data is read from the **console** and contains **exactly 3 rows**:
 | --- | --- | --- |
 |30000<br>VIP<br>49|Not enough money! You need 6499.51 leva.|**49 persons: 40%** of the budget are spent on **transportation**.<br>Remaining amount: 30000 – 12000 = 18000.<br>Category **VIP**: the ticket **costs** 499.99 * 49.<br>**24499.510000000002** < 18000.<br>**The amount is not enough** 24499.51 - 18000 = **6499.51**|
 
-## Tips and Tricks
+## Hints and Guidelines
 
 We will read the input data and perform the calculations described in the task requirements, in order to check if the money will be sufficient.
 

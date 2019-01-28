@@ -47,7 +47,7 @@ is solved in the following way:
 
 Bonny is very pretty, but not as wise, so she will need our help to master the power of Expressions.
 
-## Tips and Tricks
+## Hints and Guidelines
 
 As usual, we will first read and process the input, after that we will solve the problem, and finally, we will print the result, formatted as required.
 

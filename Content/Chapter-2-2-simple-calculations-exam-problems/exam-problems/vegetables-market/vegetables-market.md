@@ -32,7 +32,7 @@ Print on the console **one floating-point number: the earnings of all fruits and
 |-----------|----------------|
 |1.5<br>2.5<br>10<br>10|20.6185567010309| 
 
-## Tips and Tricks
+## Hints and Guidelines
 
 First, we will give a few ideas and particular hints for solving the problem, followed by the essential part of the code.  
 

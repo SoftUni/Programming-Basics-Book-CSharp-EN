@@ -25,7 +25,7 @@ In the first example, the hall length is 1500 cm. **12 rows** can be situated in
 
 In the second example, the hall length is 840 cm. **7 rows** can be situated in it (7 * 120 cm = 840, no difference). The hall width is 520 cm. 100 cm from them are for the hallway in the middle. The rest 420 cm can be situated by **6 desks per row** (6 * 70 cm = 420 cm, no difference). **Number of places = 7 * 6 - 3** = 42 - 3 = **39** (we have 7 rows with 6 working places = 42 minus 3 places for podium and entrance door).
 
-## Tips and Tricks
+## Hints and Guidelines
 
 Try to solve the problem on your own first. If you do not succeed, go through the hints.
 

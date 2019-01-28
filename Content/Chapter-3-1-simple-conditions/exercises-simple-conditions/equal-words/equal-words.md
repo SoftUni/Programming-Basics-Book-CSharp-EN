@@ -12,7 +12,7 @@ Write a program that **inputs two words** and checks if they are the same. Do no
 | beer<br>vodka | no |
 | HeLlO<br>hELLo | yes |
 
-## Tips and Tricks
+## Hints and Guidelines
 
 Before comparing the words, turn them into a lowercase to avoid the letter size influence (uppercase / lowercase): **`word = word.ToLower()`**.
 

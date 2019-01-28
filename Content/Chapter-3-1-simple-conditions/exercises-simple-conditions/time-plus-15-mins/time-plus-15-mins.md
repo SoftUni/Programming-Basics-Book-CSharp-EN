@@ -12,7 +12,7 @@ Write a program that **inputs hours and minutes** of a 24-hour day and calculate
 | 11<br>08 | 11:23 |
 | 12<br>49 | 13:04 |
 
-## Tips and Tricks
+## Hints and Guidelines
 
 Add 15 minutes and check using a few conditions. If minutes are over 59, **increase hours** with 1 and **reduce minutes** with 60. Identically, check the case when hours are over 23. When you print the minutes you should **check for zero at the front**.
 

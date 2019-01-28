@@ -10,7 +10,7 @@ Write a program that inputs **n integers** (**n** > 0) and finds **the min** num
 | 3<br>-10<br>20<br>-30 | -30 |
 | 4<br>45<br>-20<br>7<br>99<br> | -20 |
 
-## Tips and Tricks
+## Hints and Guidelines
 
 The problem is completely identical to the previous one, except this time we will start with another neutral starting value.
 

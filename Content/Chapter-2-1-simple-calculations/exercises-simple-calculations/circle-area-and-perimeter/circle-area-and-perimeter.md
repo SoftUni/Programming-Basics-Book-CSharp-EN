@@ -9,7 +9,7 @@ Write a program that reads from the console a **number r** and calculates and pr
 | 3     | Area = 28.2743338823081 <br> Perimeter = 18.8495559215388|
 | 4.5   | Area = 63.6172512351933 <br> Perimeter = 28.2743338823081|
 
-## Tips and Tricks 
+## Hints and Guidelines 
 
 For the calculations you may use the following formulas: 
   - **`Area = Math.PI * r * r`**.

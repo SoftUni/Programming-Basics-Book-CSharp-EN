@@ -27,7 +27,7 @@ Print **one line** on **the console**:
 |----|-----|----|-----|
 |90<br>7<br>3<br>|Yes!99 hours left.|99<br>3<br>1|Not enough time!72 hours needed.|
 
-## Tips and Tricks
+## Hints and Guidelines
 
 In order to solve the problem, we will read the input data. Then, we will write a few conditional statements and do some calculations. Finally, we will print the result.
 

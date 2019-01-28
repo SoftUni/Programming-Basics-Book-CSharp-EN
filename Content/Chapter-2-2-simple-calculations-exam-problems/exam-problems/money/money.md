@@ -37,7 +37,7 @@ Print one number on the console – **the result of the exchange of currencies**
 |------------|------------------|--------------|------------------|
 |20<br>5678<br>2.4|12442.2442010256|7<br>50200.12<br>3|10659.4701177436|
 
-## Tips and Tricks
+## Hints and Guidelines
 
 Let's first think of the way we can solve the task again, before having started to write code.
 

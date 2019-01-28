@@ -8,7 +8,7 @@ Write a console-based C# console program that **calculates** and **prints** the 
 
 Note: **it is not allowed to previously calculate the value** (for example with Windows Calculator).
 
-## Tips and Tricks
+## Hints and Guidelines
 
 Create **a new  C# console project** with title "**Expression**". Find the method **``static void Main(string[] args)``** and **go into its body** between **`{`** and **`}`**. After that, **write the code** that calculates the above numerical expression and prints its value on the console. Put the above numerical expression inside the brackets of the command **``Console.WriteLine(…)``**:
 

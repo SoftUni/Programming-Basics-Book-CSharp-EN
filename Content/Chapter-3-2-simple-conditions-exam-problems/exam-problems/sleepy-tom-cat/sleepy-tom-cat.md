@@ -30,7 +30,7 @@ The input is read from the console and consists of an integer – **the number o
 |----|-----|----|-----|
 |20|Tom sleeps well<br>95 hours and 25 minutes less for play|113|Tom will run away<br>3 hours and 47 minutes for play|
 
-## Tips and Tricks
+## Hints and Guidelines
 
 In order to solve the problem, we will read the input data. Then, we will write a few conditional statements and do some calculations. Finally, we will print the result.
 

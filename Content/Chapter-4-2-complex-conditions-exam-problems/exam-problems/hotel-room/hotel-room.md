@@ -43,7 +43,7 @@ The input data is read from the **console** and contains **exactly two rows**:
 |June<br>14|Apartment: 961.80 lv.<br>Studio: 1052.80 lv|
 |August<br>20|Apartment: 1386.00 lv.<br>Studio: 1520.00 lv.|
 
-## Tips and Tricks
+## Hints and Guidelines
 
 We will read the input data and do the calculations according to the provided price list and the discount rules, and finally print the result.
 

@@ -17,7 +17,7 @@ The input consists of the number **n**, followed by **2*n integers**, all of the
 | 2<br>-1<br>0<br>0<br>-1 | Yes, value=-1 | values = {-1, -1}<br>equal values | 
 | 2<br>-1<br>2<br>0<br>-1 | No, maxdiff=2 | values = {1, -1}<br>differences = {2}<br>max difference = 2 |
 
-## Tips and Tricks
+## Hints and Guidelines
 
 We read the input numbers **in pairs**. For each pair we calculate its **sum**. While reading the input pairs, for each pair except the first one, we must calculate **the difference compared to the previous one**. In order to do that, we need to store as a separate variable the sum of the previous pair. Finally, we find the **largest difference** between two pairs. If it is **0**, print **“Yes”** + the value, otherwise – **“No”** + the difference.
 

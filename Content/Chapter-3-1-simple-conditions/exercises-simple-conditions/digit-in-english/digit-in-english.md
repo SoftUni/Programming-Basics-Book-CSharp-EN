@@ -11,7 +11,7 @@ Write a program that inputs **an integer in the range** [**0 ... 9**] and output
 | 9 | nine |
 | 10 | number too big |
 
-## Tips and Tricks
+## Hints and Guidelines
 
 We can use a series of **`if-else`** statements to examine the possible **11 cases**.
 

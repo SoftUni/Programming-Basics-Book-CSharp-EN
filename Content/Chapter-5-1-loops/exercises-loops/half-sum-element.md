@@ -12,7 +12,7 @@ Write a program that inputs **n integers** and checks whether among them there i
 | 3<br>5<br>5<br>1 | No<br>Diff = 1 | &#124;5 - (5 + 1)&#124; = 1 |
 | 3<br>1<br>1<br>1 | No<br>Diff = 1 | - |
 
-## Tips and Tricks
+## Hints and Guidelines
 
 We must calculate the **sum** of all elements, find the **largest** of them and check the condition.
 

@@ -2,7 +2,7 @@
 
 Write a program that **reads a person's name** and prints `Hello, <name>!`, where `<name>` is the name entered earlier.
 
-## Tips and Tricks
+## Hints and Guidelines
 
 First, we create a **new C\# console project** with name “Greeting” in the solution “Simple-Calculations”:
 

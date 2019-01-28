@@ -2,7 +2,7 @@
 
 Write a program that prints the letters of the English Alphabet: **a, b, c, …, z**.
 
-## Tips and Tricks
+## Hints and Guidelines
 
 It is good to know that the **`for` loops** don't only work with numbers. We can solve the task by running a **`for` loop** that passes sequentially through all letters in the English alphabet:
 

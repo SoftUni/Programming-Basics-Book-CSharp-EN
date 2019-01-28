@@ -15,7 +15,7 @@ Write a C\# console program that **prints a triangle made of 55 stars** on 10 ro
 **********
 ```
 
-## Tips and Tricks
+## Hints and Guidelines
 
 Create **a new console C\# application** with name “**`TriangleOf55Stars`**”. Inside it, write code that prints the triangle of stars, for example through 10 commands, as the ones pointed out below:
 

@@ -16,7 +16,7 @@ Write a program that **inputs `n` integers and sums them up**.
 | 1<br>999 | 999 | 
 | 0 | 0 |
 
-## Tips and Tricks
+## Hints and Guidelines
 
 We can solve the problem with summing up numbers in the following way:
 - We read the input number **`n`**.

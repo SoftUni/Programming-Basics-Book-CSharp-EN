@@ -10,7 +10,7 @@ Write a program that **inputs a password** (one line with random text) and check
 | s3cr3t!P@ssw0rd | Welcome |
 | s3cr3t!p@ss | Wrong password! |
 
-## Tips and Tricks
+## Hints and Guidelines
 
 Use an **`if-else`** statement.
 

@@ -53,7 +53,7 @@ If there are **no suggested numbers** that match the criteria provided from the 
 | 1234<br>3<br>1 | No           |
 
 
-## Tips and Tricks
+## Hints and Guidelines
 
 We will solve the problem in a few steps:
 - We will read the **input data**.
