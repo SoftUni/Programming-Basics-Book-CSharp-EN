@@ -67,7 +67,7 @@ Let's test with floating point numbers, for example with **2.5**:
 <td>Depending on the regional settings of the operation system, it is possible instead of using a <b>decimal point </b> (US settings), to use a <b>decimal comma</b> (BG settings).</td>
 </tr></table>
 
-If the program expects a decimal point and instead a number with a decimal comma you enter the opposite (to enter a decimal point, when a decimal comma is expected), the following error will be received:
+If the program expects a decimal point and instead a number with a decimal comma you enter the opposite (to enter a decimal point, when a decimal comma is expected), the following error will be produced:
 
 ![](/assets/chapter-2-images/02.Inches-to-centimeters-13.png)
 

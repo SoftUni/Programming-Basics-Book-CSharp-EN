@@ -38,7 +38,7 @@ First, we will give a few ideas and particular hints for solving the problem, fo
 
 ### Idea for Solution
 
-Let's first go through the problem requirements. In this case, we have to calculate the **total income** from the harvest. It equals **the sum of the earnings from the fruits and vegetables** which we can calculate by multiplying **the price per kilogram by the quantity**. The input is received in leva and the output should be in Euro. It is accepted that 1 Euro equals 1.94 leva, therefore, in order to get the wanted **output value, we have to divide the sum by 1.94**.
+Let's first go through the problem requirements. In this case, we have to calculate the **total income** from the harvest. It equals **the sum of the earnings from the fruits and vegetables** which we can calculate by multiplying **the price per kilogram by the quantity**. The input is given in leva and the output should be in Euro. It is accepted that 1 Euro equals 1.94 leva, therefore, in order to get the wanted **output value, we have to divide the sum by 1.94**.
 
 ### Choosing Data Types
 
@@ -64,7 +64,7 @@ We do the necessary calculations:
 
 ![](/assets/chapter-2-2-images/02.Vegetable-market-02.png)
 
-The task does not specify special output format, therefore, we just have to calculate the wanted value and print it on the console. As in mathematics and so in programming, division has a priority over addition. However, in this task, first we have to **calculate the sum** of the two received values and then **divide by 1.94**. In order to give priority to addition, we can use brackets. With `Console.WriteLine(…)` we print the output on the console.
+The task does not specify special output format, therefore, we just have to calculate the requested value and print it on the console. As in mathematics and so in programming, division has a priority over addition. However, in this task, first we have to **calculate the sum** of the two input values and then **divide by 1.94**. In order to give priority to addition, we can use brackets. With `Console.WriteLine(…)` we print the output on the console.
 
 ![](/assets/chapter-2-2-images/02.Vegetable-market-03.png)
 

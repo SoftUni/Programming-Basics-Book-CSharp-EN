@@ -20,7 +20,7 @@ Console.Write("Centimeters = ");
 Console.WriteLine(centimeters);
 ```
 
-Let's start the program and make sure that when a value in inches is entered, we receive a correct output in centimeters:
+Let's start the program and make sure that when a value in inches is entered, we obtain a correct output in centimeters:
 
 ![](/assets/chapter-2-images/00.Inches-to-centimeters-01.jpg)
 

@@ -5,7 +5,7 @@ A student has to travel **n kilometers**. He can choose between **three types of
 * **Bus**. Day / Night rate: **0.09** lv./km. Can be used for distances of minimum **20** km.
 * **Train**. Day / Night rate: **0.06** lv./km. Can be used for distances of minimum **100** km.
 
-Write a program that receives the number of **kilometers n** and **period of the day** (day or night) and calculates **the price for the cheapest transport**.
+Write a program that reads the number of **kilometers n** and **period of the day** (day or night) and calculates **the price for the cheapest transport**.
 
 ## Input Data
 

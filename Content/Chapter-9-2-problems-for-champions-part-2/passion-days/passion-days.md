@@ -2,7 +2,7 @@
 
 Lina has a real shopping passion. When she has some money, she immediately goes to the closest shopping center (mall) and tries to spend as much as she can on clothes, bags and shoes. But her favorite thing are winter sales. Our task is to analyze her strange behavior and  **calculate the purchases** that Lina does when she enters the mall, as well as the **money she has left** when the shopping is over.
 
-The **first row** of the input will pass the **amount** that Lina has **before** she starts shopping. After that, upon receiving the "**`mall.Enter`**" command, Lina enters the mall and starts shopping until the "**`mall.Exit`**" is received. When Lina starts shopping, **on each row** of the input you will receive strings that are **actions performed by Lina**. Each **symbol** in the string is a **purchase or another action**. String commands contain only symbols of the **ASCII table**. The ASCII code of each sign is **related to what Lina must pay** for each of the goods. You need to interpret the symbols in the following way:
+The **first line** of the input will pass the **amount** that Lina has **before** she starts shopping. After that, upon reading the "**`mall.Enter`**" command, Lina enters the mall and starts shopping until the "**`mall.Exit`**" is given. When Lina starts shopping, **on each line** of the input you will be given strings that are **actions performed by Lina**. Each **symbol** in the string is a **purchase or another action**. String commands contain only symbols of the **ASCII table**. The ASCII code of each sign is **related to what Lina must pay** for each of the goods. You need to interpret the symbols in the following way:
 
 - If the symbol is a **capital letter**, Lina gets a **50% discount**, which means that you must decrease the money she has by 50% of the numeric representation of the symbol from the ASCII table.
 - If the symbol is a **small letter**, Lina gets a **70% discount**, which means that you must decrease the money she has by 30% of the numeric representation of the symbol from  the ASCII table.
@@ -12,13 +12,13 @@ The **first row** of the input will pass the **amount** that Lina has **before**
 
 If some of the values of her purchases is **higher** than her current available funds, Lina **DOES NOT** make the purchase. Lina's funds **can not be less than 0**.
 
-The shopping ends when the "**`mall.Exit`**" command is received. When this happens, you need to **print the number of purchases made and the money** that Lina has left.
+The shopping ends when the "**`mall.Exit`**" command is given. When this happens, you need to **print the number of purchases made and the money** that Lina has left.
 
 ## Input Data
 
-The input data must be read from the console. The **first row** of the input will indicate the **amount that Lina has before starting to purchase**. On each of the following rows there will be a particular command. After you receive the command **"mall.Enter"**, on each of the following rows you will receive strings containing **information regarding the purchases / actions** that Lina wants to perform. These strings will keep being passed, until the "**`mall.Exit`**" command is received.
+The input data must be read from the console. The **first line** of the input will indicate the **amount that Lina has before starting to purchase**. On each of the following lines there will be a particular command. After you read the command **"mall.Enter"**, on each of the following lines you will be given strings holding **information regarding the purchases / actions** that Lina wants to perform. These strings will keep being passed, until the "**`mall.Exit`**" command is given.
 
-Always only one "**`mall.Enter`**" command will be received, as well as only one "**`mall.Exit`**" command.
+Always only one "**`mall.Enter`**" command will be given, as well as only one "**`mall.Exit`**" command.
 
 ## Output Data
 
@@ -41,7 +41,7 @@ When shopping is over, the console must print individual output depending on wha
 
 | Input                       | Output                              | Comments |
 |----------------------------|------------------------------------|-----------|
-| 110<br>mall.Enter<br>d<br>mall.Exit | 1 purchases. Money left: 80.00 lv. | ‘d’ has an ASCII code of 100. ‘d’ is a small letter, this is why Lina receives a 70% discount. 100% – 70% = 30.110 – 30 = 80 lv. |
+| 110<br>mall.Enter<br>d<br>mall.Exit | 1 purchases. Money left: 80.00 lv. | ‘d’ has an ASCII code of 100. ‘d’ is a small letter, this is why Lina gets a 70% discount. 100% – 70% = 30.110 – 30 = 80 lv. |
 
 | Input | Output | Input | Output |
 |------|-------|------|-------|
@@ -68,9 +68,9 @@ The first part of reading the input is trivial:
 
 But the second one contains a detail that we need to take into consideration. The requirements says the following:
 
-> On each of the following rows there will be a particular command. After you receive the command **"mall.Enter"**, on each of the following rows you will receive strings containing information regarding the purchases / actions that Lina wants to perform.
+> On each of the following rows there will be a particular command. After you read the command **"mall.Enter"**, on each of the following rows you will be given strings containing information regarding the purchases / actions that Lina wants to perform.
 
-This is where we need to take into consideration the fact that from the **second row on, we need to start reading commands**, but **only after we receive** the command **"mall.Enter"**, we must start processing them. How can we do this? Using a **`while`** or a **`do-while`** loop is a good option. Here is an exemplary solution of how **to skip** all commands before receiving the command **"mall.Enter"**:
+This is where we need to take into consideration the fact that from the **second row on, we need to start reading commands**, but **only after we read** the command **"mall.Enter"**, we must start processing them. How can we do this? Using a **`while`** or a **`do-while`** loop is a good option. Here is an exemplary solution of how **to skip** all commands before processing the command **"mall.Enter"**:
 
 ![](/assets/chapter-9-2-images/01.Passion-days-02.png)
 

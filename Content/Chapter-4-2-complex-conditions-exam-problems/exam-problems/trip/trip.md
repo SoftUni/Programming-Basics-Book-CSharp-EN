@@ -17,10 +17,9 @@ Write a program that accepts **as input the budget and season**, and **as output
 
 ## Input Data
 
-The input data will be read from the console and will consist of **two rows**:
-
-- On the **first** row we receive **the budget** – **real number** in the range [**10.00 … 5000.00**].
-- On the **second** row – **one** of two possible seasons: "**summer**" or "**winter**".
+The input data will be read from the console and will consist of **two lines**:
+- The **first** line holds **the budget** – **real number** in the range [**10.00 … 5000.00**].
+- The **second** line holds **one** of two possible seasons: "**summer**" or "**winter**".
 
 ## Output Data
 

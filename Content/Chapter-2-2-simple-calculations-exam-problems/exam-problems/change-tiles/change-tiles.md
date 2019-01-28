@@ -47,7 +47,7 @@ Let's make a draft to clarify the task requirements. It can look the following w
 
 ### Idea for Solution
 
-It is required to calculate **the number of tiles** that have to be changed, as well as **the total time for replacing them**. In order to find the **number of tiles**, we have to calculate the **area that needs to be covered** and **divide it by the area per tile**.The ground is square, therefore, we find the total area by multiplying its side by its value **`N * N`**. After that, we calculate **the area that the bench takes up** by multiplying its two sides as well **`M * O`**. After subtracting the area of the bench from the area of the whole ground, we receive the area that needs to be repaired.
+It is required to calculate **the number of tiles** that have to be changed, as well as **the total time for replacing them**. In order to find the **number of tiles**, we have to calculate the **area that needs to be covered** and **divide it by the area per tile**.The ground is square, therefore, we find the total area by multiplying its side by its value **`N * N`**. After that, we calculate **the area that the bench takes up** by multiplying its two sides as well **`M * O`**. After subtracting the area of the bench from the area of the whole ground, we obtain the area that needs to be repaired.
 
 We calculate the area of a single tile by **multiplying its two sides with one another** **`W * L`**. As we already stated, now we have to **divide the area for covering by the area of a single tile**. This way, we find the number of necessary tiles which we multiply by **0.2** (the time needed for changing a tile). Now, we have the wanted output. ****
 
@@ -72,7 +72,7 @@ After we have initialized the variables and have stored the corresponding values
 
 ![](/assets/chapter-2-2-images/03.Change-tiles-03.png)
 
-The variables **`w`** and  **`h`** are of type **`double`**, therefore, for **the area of a single tile**, we create a variable of the same type. Finally, **we calculate the values that we have to print** on the console. **The number** of necessary **tiles** is received by **dividing the area that needs to be covered by the area of a tile**. When dividing the two numbers, one of which is **a floating-point number**, the result will also be **a floating-point number**. Therefore, in order for the calculations to be correct, we store the result in a variable of type **`double`**. The task does not specify special formatting or rounding of the output, so we just print the values with **`Console.WriteLine(…)`**. 
+The variables **`w`** and  **`h`** are of type **`double`**, therefore, for **the area of a single tile**, we create a variable of the same type. Finally, **we calculate the values that we have to print** on the console. **The number** of necessary **tiles** is obtained by **dividing the area that needs to be covered by the area of a tile**. When dividing the two numbers, one of which is **a floating-point number**, the result will also be **a floating-point number**. Therefore, in order for the calculations to be correct, we store the result in a variable of type **`double`**. The task does not specify special formatting or rounding of the output, so we just print the values with **`Console.WriteLine(…)`**. 
 
 ![](/assets/chapter-2-2-images/03.Change-tiles-04.png)
 

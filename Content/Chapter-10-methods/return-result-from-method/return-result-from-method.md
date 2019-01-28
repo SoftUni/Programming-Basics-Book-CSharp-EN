@@ -20,7 +20,7 @@ We should note that **the result** returned by the method can be of **a type, co
 
 ## The "Return" Operator
 
-In order to receive a result from the method we need to use the **`return`** operator. It should be **used in the body** of the method and tells the program to **stop its execution** and to **return** the method invoker a certain **value**, which is defined by the expression after the **`return`** operator.
+In order to obtain a result from the method we need to use the **`return`** operator. It should be **used in the body** of the method and tells the program to **stop its execution** and to **return** the method invoker a certain **value**, which is defined by the expression after the **`return`** operator.
 
 In the example below there is a method that reads two names from the console, concatenates them and returns them as a result. The return value is of type **`string`**:
 

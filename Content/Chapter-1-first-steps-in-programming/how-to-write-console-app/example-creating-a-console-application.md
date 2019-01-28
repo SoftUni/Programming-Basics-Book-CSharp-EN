@@ -64,9 +64,9 @@ We send our solution for evaluation using the \[**Send**\] button. The system gi
 In the table with the sent solutions the judge system is going to show one of the following **possible results**:
 
 * **Points count** \(between 0 and 100\), when the submitted code is compiled successfully \(there are no syntax errors\) and can be tested.
-  * When the **solution is correct** all of the tests are marked in green and we receive **100 points**.
-  * When the **solution is incorrect** some of the tests are marked in red and we receive incomplete or 0 points.
-* When the program is incorrect we will receive **an error message** upon compiling.
+  * When the **solution is correct** all of the tests are marked in green and we get **100 points**.
+  * When the **solution is incorrect** some of the tests are marked in red and we get incomplete or 0 points.
+* When the program is incorrect we will get **an error message** upon compiling.
 
 ### How to Register in SoftUni Judge?
 

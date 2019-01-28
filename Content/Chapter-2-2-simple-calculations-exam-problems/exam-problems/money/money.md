@@ -47,11 +47,11 @@ We see that the **number of bitcoins** and the **number of Chinese yuans** will 
 
 As we have information for the exhange rate of bitcoins to leva, we can directly exchange them. On the other hand, in order to get the value of **Chinese yuans in leva**, first we have to **exchange them in dollars**, and then **the dollars to leva**. Finally, we will **sum the two values** and calculate how much Euro that is. 
 
-Only the final step is left: **calculating the commission fee** and subtracting the new sum from the total one. We will receive **an integer** for the commission fee, which will be a particular **percent from the total sum**. Let's divide it by 100, so as to calculate its **percentage value** and then multiply it by the sum in Euro. We will divide the result from the same sum and print the final sum on the console. 
+Only the final step is left: **calculating the commission fee** and subtracting the new sum from the total one. We will obtain **an integer** for the commission fee, which will be a particular **percent from the total sum**. Let's divide it by 100, so as to calculate its **percentage value** and then multiply it by the sum in Euro. We will divide the result from the same sum and print the final sum on the console. 
 
 ### Choosing Data Types
 
-**Bitcoins** are given as **an integer**, therefore, we can declare a **variable of `int`** type for their value. For **Chinese yuan and commission fee** we receive **a floating-point number**, therefore, we are going to use **`double`**. As **`double`** is the data type with bigger scope, and the **output** should also be **a floating-point number**, we will use it for the other variables we create as well.
+**Bitcoins** are given as **an integer**, therefore, we can declare a **variable of `int`** type for their value. For **Chinese yuan and commission fee** we obtain **a floating-point number**, therefore, we are going to use **`double`**. As **`double`** is the data type with bigger scope, and the **output** should also be **a floating-point number**, we will use it for the other variables we create as well.
 
 ### Solution
 
@@ -76,7 +76,7 @@ The task does not specify special string formatting or rounding the result, ther
 
 ![](/assets/chapter-2-2-images/04.Money-04.png)
 
-Let's pay attention to something that applies to all other problems of this type: written like that, the solution of the task is pretty detailed. As the task itself is not too complex, in theory, we could write one big expression, where right after having received the input, we calculate the output. For example, such expression would look like this:
+Let's pay attention to something that applies to all other problems of this type: written like that, the solution of the task is pretty detailed. As the task itself is not too complex, in theory, we could write one big expression, where right after having taken the input, we calculate the output. For example, such expression would look like this:
 
 ![](/assets/chapter-2-2-images/04.Money-05.png)
 

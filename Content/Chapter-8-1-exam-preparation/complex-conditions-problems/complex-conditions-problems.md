@@ -43,7 +43,7 @@ We are increasing **the day** by 5.
 
 ![](/assets/chapter-8-1-images/05.Date-after-5-days-03.png)
 
-We check if **the day** has not exceeded the number of days it has in the **month**. If so, we must deduct the days of the month from the received day in order to check which day of the next month our day corresponds to.
+We check if **the day** has not exceeded the number of days in the **month**. If so, we must deduct the days of the month from the obtained day in order to calculate which day of the next month our day corresponds to.
 
 ![](/assets/chapter-8-1-images/05.Date-after-5-days-04.png)
 

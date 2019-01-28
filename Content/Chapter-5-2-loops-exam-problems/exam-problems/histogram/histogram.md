@@ -131,7 +131,7 @@ For the loop we have:
 - **`i = 1`** – we read the number 2, which again falls into the first group (**`p1`**) and increase its count (**`cntP1`**) again by 1.
 - **`i = 2`** – we read the number 999, which falls into the last group (**`p5`**), because its bigger than 800, and increase the count of the group (**`cntP5`**) with 1.
    
-After reading the numbers in group **`p1`** we have 2 numbers, and in **`p5`** we have 1 number. We have **no numbers** in the other groups. By applying the above formula, we calculate the percentages of each group. If we multiply in the formula by **100**, instead of **100.0** we will receive for group **`p1`** 66%, and for group **`p5`** – 33% (without fractional part).
+After reading the numbers in group **`p1`** we have 2 numbers, and in **`p5`** we have 1 number. We have **no numbers** in the other groups. By applying the above formula, we calculate the percentages of each group. If we multiply in the formula by **100**, instead of **100.0** we will obtain for group **`p1`** 66%, and for group **`p5`** – 33% (without fractional part).
 
 ### Printing the Output
   

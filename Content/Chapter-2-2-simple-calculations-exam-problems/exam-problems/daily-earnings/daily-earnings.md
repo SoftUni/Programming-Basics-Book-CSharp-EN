@@ -1,6 +1,6 @@
 # Problem: Daily Earnings
 
-Ivan is a programmer in an **American company** and he **works** at home **approximately N days per month** by earning **approximately M dollars per day**. At the end of the year, Ivan **receives a bonus**, which **equals 2.5 of his monthly salaries. 25% of his annual salary goes for taxes**. Write a program that calculates **what is the amount of Ivan's net average earnings in leva per day**, as he spends them in Bulgaria. It is accepted that **one year has exactly 365 days. The exchange rate of dollar** to lev will be **read from the console**. 
+Ivan is a programmer in an **American company** and he **works** at home **approximately N days per month** by earning **approximately M dollars per day**. At the end of the year, Ivan **gets a bonus**, which **equals 2.5 of his monthly salaries. 25% of his annual salary goes for taxes**. Write a program that calculates **what is the amount of Ivan's net average earnings in leva per day**, as he spends them in Bulgaria. It is accepted that **one year has exactly 365 days. The exchange rate of dollar** to lev will be **read from the console**. 
 
 ## Input Data
 
@@ -40,7 +40,7 @@ Let's first calculate **how much the monthly salary** of Ivan is. We do that by 
 
 ### Choosing Data Types
 
-**The working days** per month are given as **an integer**, therefore, we can declare a variable of **`int` type** to store their value. For both **the earned money** and **the exchange rate of dollar to lev**, we will receive **a floating-point number**, therefore, we will use **`double`**. As **`double`** is the data type with **the higher scope**, and the output should also be **a floating-point number**, we use **`double`** for the other variables that we create as well. 
+**The working days** per month are given as **an integer**, therefore, we can declare a variable of **`int` type** to store their value. For both **the earned money** and **the exchange rate of dollar to lev**, we will obtain **a floating-point number**, therefore, we will use **`double`**. As **`double`** is the data type with **the higher scope**, and the output should also be **a floating-point number**, we use **`double`** for the other variables that we create as well. 
 
 ### Reading the Input Data and Doing the Calculations
 

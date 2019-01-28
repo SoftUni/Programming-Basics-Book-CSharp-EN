@@ -50,7 +50,7 @@ We will read the input data and perform the calculations described in the task r
 
 ### Processing the Input Data
 
-Let's read carefully the requirements and examine what we expect to receive as **input data**, what is expected to **return as a result**, as well as what are the **main steps** for understanding **the logical scheme**.
+Let's read carefully the requirements and examine what we expect to take as **input data**, what is expected to **return as a result**, as well as what are the **main steps** for solving the problem.
 
 For a start, let's process and save the input data in **appropriate variables**:
 

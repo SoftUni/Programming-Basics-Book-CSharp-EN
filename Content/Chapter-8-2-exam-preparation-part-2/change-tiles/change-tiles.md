@@ -47,7 +47,7 @@ In order to calculate the **number of tiles** that are needed, **we divide the f
 <table>
 <tr>
 <td width="10%"><img src="/assets/alert-icon.png" style="max-width:50px" /></td>
-<td>Pay attention that the requirements state that we should round up the number of tiles, received upon the division, up to the higher number, and then we should add 5. Find more information about the system functionality that does that: <code><strong>Math.Ceiling(…)</strong></code>.
+<td>Pay attention that the requirements state that we should round up the number of tiles, obtained upon the division, up to the higher number, and then we should add 5. Find more information about the system functionality that does that: <code><strong>Math.Ceiling(…)</strong></code>.
 </td>
 </tr>
 </table>

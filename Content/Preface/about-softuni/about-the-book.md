@@ -28,7 +28,7 @@ TODO
 
 ## The Book to Help Teachers
 
-If you are a **teacher in programming**, informatics or IT, or you want **to teach programming**, this book gives you more than well-structured teaching material with many examples and tasks. **Free**, additionally to the book you receive quality educational content for teaching in school, in **Bulgarian**, according to the school requirements:
+If you are a **teacher in programming**, informatics or IT, or you want **to teach programming**, this book gives you more than well-structured teaching material with many examples and tasks. **Free**, additionally to the book you get quality educational content for teaching in school, in **Bulgarian**, according to the school requirements:
 
 * **Presentations** \(PowerPoint slides\) for each studied topic, compliant to the 45-minute classes in schools – free.
 * Well-developed home and classroom **exercises** with detailed requirements and exemplary input and output – free.
@@ -65,7 +65,7 @@ Ask your **questions about basic programming book** at the **SoftUni's forum**:
 
 <p align="center"><strong><a href="https://softuni.bg/forum">https://softuni.bg/forum</a></strong></p>
 
-In this discussion forum you will receive **proper response to any question associated with the content of this book** also any other questions about programming. The SoftUni community is so big that you will get a response **within a few minutes**. All of the teachers, assistant and mentors at SoftUni also responds on your questions.
+In this discussion forum you will get **proper response to any question associated with the content of this book** also any other questions about programming. The SoftUni community is so big that you will get a response **within a few minutes**. All of the teachers, assistant and mentors at SoftUni also responds on your questions.
 
 Because of the big amount of learners, you can find in the forum practically any **solution of any exercise, shared by your colleague**. Thousands of students already got the answer on the same exercise, so if you are late you can check the forum. Even though the exercises in "Programming Basics" are changing at some point, the sharing at SoftUni is always welcome and encouraged, that's why you will easily find solutions and guidance in any exercise.
 

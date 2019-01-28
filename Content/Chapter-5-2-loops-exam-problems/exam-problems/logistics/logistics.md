@@ -86,7 +86,7 @@ We sill need a **`for` loop** from **`0`** to **`countOfLoads-1`**, to iterate t
  * Otherwise, if the value **`tons`** is **less than 11**, increase **`truckTons`** by **`tons`**.
  * If **`tons`** is **more than 11**, increase **`trainTons`** by **`tons`**.
 
-Before we print the output, we need to **calculate the percentage of tonnes, transported by each vehicle** and the **average price per tonne**. For the average price per tonne we will declare one more helper variable **`totalPrice`**, in which we will **sum the total price of all transported cargo** (by minibus, truck and train). We will receive an average price, by dividing **`totalPrice`** of **`sumOfTons`**. You need **to calculate by yourself** the percentages of tonnes, transported by each vehicle, and print the results, keeping the format specified in the description.
+Before we print the output, we need to **calculate the percentage of tonnes, transported by each vehicle** and the **average price per tonne**. For the average price per tonne we will declare one more helper variable **`totalPrice`**, in which we will **sum the total price of all transported cargo** (by minibus, truck and train). We will calculate an average price, by dividing **`totalPrice`** of **`sumOfTons`**. You need **to calculate by yourself** the percentages of tonnes, transported by each vehicle, and print the results, keeping the format specified in the description.
 
 ## Testing in the Judge System
 

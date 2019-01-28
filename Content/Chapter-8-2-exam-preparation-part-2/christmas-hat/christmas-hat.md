@@ -30,7 +30,7 @@ We also notice that the **last three rows** are always present, as **two** of th
 
 <code>\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*</code><br><code>\*.\*.\*.\*.\*.\*.\*.\*.\*</code><br><code>\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*</code>
 
-By these observations we can come up with the **formula** for the **height of the variable part** of the Christmas hat. We use the formula specified in the task to calculate the total height, by subtracting the size of the unchangeable part. We receive **`(2 * n + 5) – 5`** or **`2 * n`**.
+By these observations we can come up with the **formula** for the **height of the variable part** of the Christmas hat. We use the formula specified in the task to calculate the total height, by subtracting the size of the unchangeable part. We obtain **`(2 * n + 5) – 5`** or **`2 * n`**.
 
 ### Guidelines for Drawing the Dynamic Part of the Figure
 
@@ -49,7 +49,7 @@ The sequence of drawing in the body of the loop is the following:
 * Star
 * Symbol string of dots
 
-In case we have worked properly, we will receive figures identical to those in the examples.
+In case we have worked properly, we will obtain figures identical to those in the examples.
 
 ## Testing in the Judge System
 

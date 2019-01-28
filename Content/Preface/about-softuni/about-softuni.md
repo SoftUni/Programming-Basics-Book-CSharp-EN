@@ -14,7 +14,7 @@ This **programming book** accompanies the free programming lessons for beginners
 
 ## About the Automated Judge System
 
-**The SoftUni Judge system** \([http://judge.softuni.bg](http://judge.softuni.bg)\) is an automated Internet system for **verifying the solutions of programming exercises via series of tests**. The submission and verification happens in **real time**: you submit the solution and  within seconds you receive an answer whether it is correct. Each **successfully** taken test gives you the points it gains. For a correct solution you get all the points for the particular task. For partially correct solution you get part of the points for the task. For a completely wrong solution you get 0 points.
+**The SoftUni Judge system** \([http://judge.softuni.bg](http://judge.softuni.bg)\) is an automated Internet system for **verifying the solutions of programming exercises via series of tests**. The submission and verification happens in **real time**: you submit the solution and within seconds you get an answer whether it is correct. Each **successfully** taken test gives you the points it gains. For a correct solution you get all the points for the particular task. For partially correct solution you get part of the points for the task. For a completely wrong solution you get 0 points.
 
 **All tasks from the current book are available for testing in SoftUni judge** and we strongly recommend to test them after you solve them to be sure you don't miss anything and that your solution works correctly according to the task requirements.
 
@@ -29,5 +29,4 @@ Keep in mind some **specifics about SoftUni judge**:
   * To sign in use your authentication for the SoftUni website: [https://softuni.org](https://softuni.org).
   * Using the softuni system is **free** and it's not bound with the participation in SoftUni's courses.
 
-We are convinced that after sending a few tasks **you will like receiving instant feedback** for your solutions and the Judge system will become your favorite helper in your programming practice.
-
+We are convinced that after sending a few tasks **you will like getting instant feedback** for your solutions and the Judge system will become your favorite assistant in your programming practice.

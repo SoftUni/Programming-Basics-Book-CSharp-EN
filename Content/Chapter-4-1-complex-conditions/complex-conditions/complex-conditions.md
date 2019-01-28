@@ -58,7 +58,7 @@ Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/508#2
 
 ## Logical "OR"
 
-The logical **"OR"** (operator **`||`**) means that **at least one** among a few conditions is fulfilled. Similar to the operator **`&&`**, the logical **"OR"** accepts a few arguments of **boolean** (conditional) type and returns **`true`** or **`false`**. We can easily guess that we **receive** a value **`true`** every time when at least **one** of the arguments has a **`true`** value. Typical example of the logic of this operator is the following:
+The logical **"OR"** (operator **`||`**) means that **at least one** among a few conditions is fulfilled. Similar to the operator **`&&`**, the logical **"OR"** accepts a few arguments of **boolean** (conditional) type and returns **`true`** or **`false`**. We can easily guess that we **obtain** a value **`true`** every time when at least **one** of the arguments has a **`true`** value. Typical example of the logic of this operator is the following:
 
 At school the teacher says: "John or Peter should clean the board". To fulfill this condition (to clean the board), it is possible either just for John to clean it, or just for Peter to clean it, or both of them to do it.
 
@@ -81,7 +81,7 @@ bool result = a || b || c || d;
 // true (as c and d are not being checked)
 ```
 
-The programs **checks `а`**, accepts that it has a value **`false`** and continues. Reaching **`b`**, it understands that it has a **`true`** value and the whole **expression** receives a value **`true`**, **without** having to check **`c`** or **`d`**, because their values **wouldn't change** the result of the expression.
+The programs **checks `а`**, accepts that it has a value **`false`** and continues. Reaching **`b`**, it understands that it has a **`true`** value and the whole **expression** is calculated as **`true`**, **without** having to check **`c`** or **`d`**, because their values **wouldn't change** the result of the expression.
 
 ### Example: Fruit or Vegetable
 

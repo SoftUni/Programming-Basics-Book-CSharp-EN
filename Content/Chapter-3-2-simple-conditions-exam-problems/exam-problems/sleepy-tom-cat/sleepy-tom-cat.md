@@ -4,7 +4,7 @@
 * During **work days**, his owner plays with him **63 minutes per day**. 
 * During **holidays**, his owner plays with him **127 minutes per day**. 
 
-Write a program that receives **the number of holidays** and prints whether **Tom can sleep well** and how much **the difference from the norm** for the current year is. It is accepted that **there are 365 days in one year**. 
+Write a program that reads **the number of holidays** and prints whether **Tom can sleep well** and how much **the difference from the norm** for the current year is. It is assumed that **there are 365 days in one year**. 
    
 **Example**: 20 holidays -> the working days are 345 (365 - 20 = 345). The time for games is 24 275 minutes (345 \* 63 + 20 \* 127). The difference from the norm is 5 725 minutes (30 000 – 24 275 = 5 725) or 95 hours and 25 minutes.
 
@@ -44,7 +44,7 @@ From the task we see that **the input data** will be read only on **the first li
 
 To solve the problem, **first** we have to calculate **the total minutes** the owner of Tom is playing with him. We see that not only does the sleepy cat has to play with his owner during **the holidays**, but also during **the working days**. **The number** that we read from the console refers to **the holidays**. 
 
-Out next step is to **calculate**, with the help of that number, how many **the working days** of the owner are, as without them we cannot receive **the total minutes for play**. As the total number of days per year is **365** and the number of holidays is **X**, that means that the number of working days is **365 - X***. We store **The difference** in a new variable that **only** stores this **value**.
+Out next step is to **calculate**, with the help of that number, how many **the working days** of the owner are, as without them we cannot calculate **the total minutes for play**. As the total number of days per year is **365** and the number of holidays is **X**, that means that the number of working days is **365 - X***. We store **the difference** in a new variable that **only** stores this **value**.
 
 ![](/assets/chapter-3-2-images/03.Sleepy-tom-cat-02.png)
 
@@ -56,7 +56,7 @@ Once we have **the number of days for playing**, we can calculate **the time for
 
 In the task condition we see that we have to **print the difference** between the two values in **hours** and **minutes** as output data. That is why we **subtract** the **total** time for play from the norm of **30 000** minutes and **store** the result in a **new** variable. After that, we **divide** that variable by 60 to get the **hours**, and then, to find out how many the **minutes** are, we use **modular division with the operator `%`**, as again we divide the variable of the difference by 60.
 
-Here we have to note that if the total **time for play** of Tom is **less** than **30 000**, when **subtracting** the norm from it, we will receive **a negative number**. In order to **neutralize** the number in the division, we use **the method `Math.Abs(…)`** when finding the difference.
+Here we have to note that if the total **time for play** of Tom is **less** than **30,000**, when **subtracting** the norm from it, we will obtain **a negative number**. In order to **neutralize** the number in the division, we use **the method `Math.Abs(…)`** when finding the difference.
 
 ![](/assets/chapter-3-2-images/03.Sleepy-tom-cat-04.png)
 

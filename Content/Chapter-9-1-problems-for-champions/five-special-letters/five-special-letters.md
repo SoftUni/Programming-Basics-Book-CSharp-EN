@@ -98,7 +98,7 @@ Then we will do the same with the other 4, checking each time with the following
 
 ![](/assets/chapter-9-images/03.Five-special-letters-06.png)
 
-The **`.IndexOf(…)`** method returns **the index of the particular element if it is found or `-1` if the item is not found**. Therefore, every time we receive **`-1`**, it means that we still do not have this letter in the new string with unique letters and we can add it, and if we get a value other than **`-1`**, this will mean we already have the letter and we'll not add it.
+The **`.IndexOf(…)`** method returns **the index of the particular element if it is found or `-1` if the item is not found**. Therefore, every time we get **`-1`**, it means that we still do not have this letter in the new string with unique letters and we can add it, and if we get a value other than **`-1`**, this will mean we already have the letter and we'll not add it.
 
 ### Calculating Weight
 

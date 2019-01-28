@@ -1,6 +1,6 @@
 # Problem: Calculating Square Area
 
-The first exercise from this topic is the following: write a console program that **inputs an integer **`a`** and calculates the area** of a square with side `a`. The task is trivial and easy: **input a number** from the console, **multiply it by itself** and **print the received result** on the console.
+The first exercise from this topic is the following: write a console program that **inputs an integer **`a`** and calculates the area** of a square with side `a`. The task is trivial and easy: **input a number** from the console, **multiply it by itself** and **print the obtained result** on the console.
 
 ## Hints and Guidelines
 
@@ -22,7 +22,7 @@ The code inputs an integer through `a = int.Parse(Console.ReadLine())`, afterwar
 
 ## Testing in the Judge System
 
-Test your solution here:  [https://judge.softuni.bg/Contests/Practice/Index/504\#0](https://judge.softuni.bg/Contests/Practice/Index/504#0).        You have to receive 100 points \(completely correct solution\):
+Test your solution here:  [https://judge.softuni.bg/Contests/Practice/Index/504\#0](https://judge.softuni.bg/Contests/Practice/Index/504#0). You have to get 100 points \(completely correct solution\):
 
 ![](/assets/chapter-2-images/01.Square-area-05.png)
 
