@@ -5,7 +5,7 @@ If you have **read the entire** book and you've solved all the problems from the
 Remember the **[four main groups of skills](chapter-00-preface.md#become-a-developer)** that each programmer must have in order to work in the industry:
 - Skill #1 – **writing the program code** (20% of programmer's skills) – covered to a large degree by this book, but you must learn additional basic data structures, classes, functions, strings and other elements of code writing.
 - Skill #2 – **algorithmic thinking** (30% of programmer's skills) – covered partially by this book and developed mostly by solving a large amount of diverse algorithmic problems.
-- Skill #3 – **fundamental understanding of the profession** (25% of programmer's skills) – acquired for a few years in combination with learning and practice (reading books, watching video lessons, attending courses and mostly by writing diverse project in various technological areas).
+- Skill #3 – **fundamental understanding of the profession** (25% of programmer's skills) – acquired for a few years in combination with learning and practice (reading books, watching video lessons, attending courses and mostly by writing diverse projects in various technological areas).
 - Skill #4 – **programming languages and software technologies** (25% of programmer's skills) – acquired in a long period of time, by a lot of practice, consistent reading and writing projects. Such knowledge and skills quickly get outdated and need to be updated frequently. Good programmers study new technologies ever day.
 
 ## This Book is Only the First Step!
