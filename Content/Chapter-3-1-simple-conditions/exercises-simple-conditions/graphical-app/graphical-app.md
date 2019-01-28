@@ -62,7 +62,7 @@ We apply the following **settings for the UI controls**:
 
 We need to take the following **events** to write the C# code that will be executed upon their occurrence:
 
-* The Event **`ValueChanged`** of numeric entry control **`numericUpDownAmount`**:
+* The event **`ValueChanged`** of numeric entry control **`numericUpDownAmount`**:
 
 ![](/assets/chapter-3-images/14.Converter-04.png)
 

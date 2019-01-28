@@ -43,7 +43,7 @@ There are **alternative environments for development online** directly into your
 * For the language C\# the site **.NET Fiddle** allows code writing and its execution online: [https://dotnetfiddle.net](https://dotnetfiddle.net).
 * For Java you can use the following online Java IDE: [https://www.compilejava.net](https://www.compilejava.net).
 * For JavaScript you can write a JS code directly in the console of a given browser when you press **\[F12\]**.
-* The Repl.it provides online coding environment for multiple languages \(C\#, Java, JS, Pyhton, C++ and many more\): [https://repl.it](https://repl.it).
+* The site Repl.it provides online coding environment for multiple languages \(C\#, Java, JS, Pyhton, C++ and many more\): [https://repl.it](https://repl.it).
 
 ## Project Solutions and Projects in Visual Studio
 
