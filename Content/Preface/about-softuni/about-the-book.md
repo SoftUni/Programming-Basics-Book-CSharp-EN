@@ -16,7 +16,7 @@ The project is part of the hard work of the **[Software University Fondation](ht
 
 ### Author's Team
 
-This book is developed by a broad author's team of **volunteers** who dedicated their time to give away the systematized knowledge and guide you at the start of programming. Below is aist of all authors and editors (in alphabetical order.)
+This book is developed by a broad author's team of **volunteers** who dedicated their time to give away the systematized knowledge and guide you at the start of programming. Below is a list of all authors and editors (in alphabetical order.)
 
 > **Aleksander Krastev, Aleksander Lazarov, Angel Dimitriev, Vasko Viktorov, Ventsislav Petrov, Daniel Tsvetkov, Dimitar Tatarski, Dimo Dimov, Diyan Tonchev, Elena Rogleva, Zhivko Nedyalkov, Julieta Atanasova, Zahariya Pehlivanova, Ivelin Kirilov, Iskra Nikolova, Kalin Primov, Kristiyan Pamidov, Luboslav Lubenov, Nikolay Bankin, Nikolay Dimov, Pavlin Petkov, Petar Ivanov, Rositsa Nenova, Ruslan Filipov, Svetlin Nakov, Stefka Vasileva, Teodor Kurtev, Tonyo Zhelev, Hristiyan Hristov, Hristo Hristov, Tsvetan Iliev, Yulian Linev, Yanitsa Vuleva.**
 
@@ -24,7 +24,10 @@ Book cover design: Marina Shideroff.
 
 ### Translator Teams
 
-TODO
+English translation lead and editor: [Nelly Karaivanova](https://www.linkedin.com/in/nelly-karaivanova-a1a17a4b).
+
+Translators: Bilyana Borislavova, Kalina Milanova, Karina Cholakova, Marieta Petrova, Mirela Damyanova, Petko Dyankov.
+
 
 ## The Book to Help Teachers
 
