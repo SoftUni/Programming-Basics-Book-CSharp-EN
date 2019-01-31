@@ -14,7 +14,7 @@ The book was initially written in **Bulgarian language** in 2017 and later trans
 
 The project is part of the hard work of the **[Software University Fondation](http://softuni.foundation)** to create and distribute an open learning content to teach software engineers and IT professionals.
 
-### Author's Team
+### Authors Team
 
 This book is developed by a broad author's team of **volunteers** who dedicated their time to give away the systematized knowledge and guide you at the start of programming. Below is a list of all authors and editors (in alphabetical order.)
 
@@ -22,7 +22,7 @@ This book is developed by a broad author's team of **volunteers** who dedicated 
 
 Book cover design: Marina Shideroff.
 
-### Translator Team
+### Translators Team
 
  * English translation lead and editor: [Nelly Karaivanova](https://www.linkedin.com/in/nelly-karaivanova-a1a17a4b).
  * Translators: Bilyana Borislavova, Kalina Milanova, Karina Cholakova, Marieta Petrova, Mirela Damyanova, Petko Dyankov.
