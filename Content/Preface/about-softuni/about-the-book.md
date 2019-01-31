@@ -27,7 +27,6 @@ Book cover design: Marina Shideroff.
  * English translation lead and editor: [Nelly Karaivanova](https://www.linkedin.com/in/nelly-karaivanova-a1a17a4b).
  * Translators: Bilyana Borislavova, Kalina Milanova, Karina Cholakova, Marieta Petrova, Mirela Damyanova, Petko Dyankov.
 
-
 ## The Book to Help Teachers
 
 If you are a **teacher in programming**, informatics or IT, or you want **to teach programming**, this book gives you more than well-structured teaching material with many examples and tasks. **Free**, additionally to the book you get quality educational content for teaching in school, in **Bulgarian**, according to the school requirements:
