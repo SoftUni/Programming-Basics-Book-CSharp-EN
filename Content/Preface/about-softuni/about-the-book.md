@@ -22,11 +22,10 @@ This book is developed by a broad author's team of **volunteers** who dedicated 
 
 Book cover design: Marina Shideroff.
 
-### Translator Teams
+### Translator Team
 
-English translation lead and editor: [Nelly Karaivanova](https://www.linkedin.com/in/nelly-karaivanova-a1a17a4b).
-
-Translators: Bilyana Borislavova, Kalina Milanova, Karina Cholakova, Marieta Petrova, Mirela Damyanova, Petko Dyankov.
+ * English translation lead and editor: [Nelly Karaivanova](https://www.linkedin.com/in/nelly-karaivanova-a1a17a4b).
+ * Translators: Bilyana Borislavova, Kalina Milanova, Karina Cholakova, Marieta Petrova, Mirela Damyanova, Petko Dyankov.
 
 
 ## The Book to Help Teachers
