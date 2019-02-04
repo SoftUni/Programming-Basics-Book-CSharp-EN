@@ -4,7 +4,7 @@ Write a C\# program, that reads a first name, last name, age and city from the c
 
 ## Hints and Guidelines
 
-We add to the existing Visual Studio solution one more console C\# project with name “Concatenate-Data”.    We **write the code** which reads the input from the console:
+We add to the existing Visual Studio solution one more console C\# project with name “Concatenate-Data”. We **write the code** which reads the input from the console:
 
 ![](/assets/chapter-2-images/04.Concatenate-data-01.png)
 

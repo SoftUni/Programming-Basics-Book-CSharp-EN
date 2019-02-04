@@ -1,6 +1,6 @@
 # Graphical Application: _\*_ Catch the Button!
 
-Create a fun graphical application **„catch the button“**: a form consisting of one button. Upon moving the mouse cursor onto the button, it moves to a random position. This way it creates the impression that "**the button runs form the mouse and it is hard to catch**". When the button gets „caught“, a congratulations message is shown.
+Create a fun graphical application **“catch the button”**: a form consisting of one button. Upon moving the mouse cursor onto the button, it moves to a random position. This way it creates the impression that "**the button runs form the mouse and it is hard to catch**". When the button gets “caught”, a congratulations message is shown.
 
 ![](/assets/chapter-2-images/14.Catch-the-button-01.png)
 

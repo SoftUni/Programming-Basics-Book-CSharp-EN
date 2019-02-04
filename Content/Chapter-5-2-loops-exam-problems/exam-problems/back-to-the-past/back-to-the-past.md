@@ -12,7 +12,7 @@ The input is read from the console and **contains exactly 2 lines**:
 
 **Print** on the console **1 line**. The **sum** must be **formatted** up to the **two symbols after the decimal point**:
   * If **money is enough**:
-    * **"Yes! He will live a carefree life and will have {N} dollars left.“** – where **N** is the money that will remain.
+    * **"Yes! He will live a carefree life and will have {N} dollars left."** – where **N** is the money that will remain.
   * If **money is NOT enough**:
     * **"He will need {М} dollars to survive."** – where **M** is the sum that **is NOT enough**.
 
@@ -71,7 +71,7 @@ Using a **`for` loop**, we will iterate through all years. We **start from 1800*
 
 ## Checking if Heritage is Enough and Printing the Output
 
-Finally we need to print out the results by checking **if the `heritage`** is enough to live without working or not. If the **`heritage`** is a **positive number**, we print: „**`Yes! He will live a carefree life and will have {N} dollars left.`**“, and if it is a **negative number**: „**`He will need {М} dollars to survive.`**“. Do not forget to format the sum up to the second symbol after the decimal point.
+Finally we need to print out the results by checking **if the `heritage`** is enough to live without working or not. If the **`heritage`** is a **positive number**, we print: “**`Yes! He will live a carefree life and will have {N} dollars left.`**”, and if it is a **negative number**: “**`He will need {М} dollars to survive.`**”. Do not forget to format the sum up to the second symbol after the decimal point.
 
 **Hint**: Consider using the **`Math.Abs(…)`** function when printing the output, if the heritage is not enough.
 

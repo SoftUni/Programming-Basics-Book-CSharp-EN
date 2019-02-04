@@ -8,7 +8,7 @@ By entering two numbers in the first two fields and pressing the button \[**Calc
 
 ## Creating a New C\# Project
 
-In Visual Studio we create **a new C\# project of type „Windows Forms Application“**:
+In Visual Studio we create **a new C\# project of type “Windows Forms Application”**:
 
 ![](/assets/chapter-1-images/07.Numbers-sum-02.png)
 
