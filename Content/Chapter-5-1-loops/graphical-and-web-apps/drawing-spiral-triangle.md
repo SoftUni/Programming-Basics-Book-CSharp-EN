@@ -10,5 +10,3 @@ Draw in a cycle by moving forward and rotating. In each step, increase the lengt
 
 If you have a problem with the above exercises, ask in the **SoftUni forum**: [https://softuni.bg/forum](https://softuni.bg/forum).
 
-
-

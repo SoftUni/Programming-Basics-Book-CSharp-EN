@@ -16,7 +16,6 @@ At the same time, let the **numbers in the spiral** begin with **5** and the spi
 
 Then **the second sequence** will contain the numbers 5, 7, 9, 13, 17, 23, 29, 37 and so on. We see that **37** is the first number to be found in the Tribonacci sequence and in the spiral one, and that is the desired solution to the problem.
 
-
 ## Input Data
 
 Input data should be read from the console.

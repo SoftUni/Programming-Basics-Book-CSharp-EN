@@ -52,7 +52,6 @@ If there are **no suggested numbers** that match the criteria provided from the 
 |--------------|------------|
 | 1234<br>3<br>1 | No           |
 
-
 ## Hints and Guidelines
 
 We will solve the problem in a few steps:

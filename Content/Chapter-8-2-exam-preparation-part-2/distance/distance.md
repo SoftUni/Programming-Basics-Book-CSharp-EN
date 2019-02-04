@@ -49,7 +49,6 @@ By definition, **the input data** is given as **four** separate lines. This is w
 
 ![](/assets/chapter-8-2-images/01.Distance-02.png)
 
-
 ### Selecting Data Type for Calculations
 
 In order to **perform** the **calculations** we select **`decimal`** type.

@@ -15,6 +15,3 @@ Let's get started with the **exercises**. You didn't forget that programming is 
 * [Problem: A Triangle Made Out of 55 Stars](/Content/Chapter-1-first-steps-in-programming/exercises-first-steps-in-coding/triangle-of-stars.md)
 * [Problem: Calculate Rectangle Area](/Content/Chapter-1-first-steps-in-programming/exercises-first-steps-in-coding/rectangle-area.md)
 * [Problem: A Square Made Out of Stars](/Content/Chapter-1-first-steps-in-programming/exercises-first-steps-in-coding/square-of-stars.md)
-
-
-

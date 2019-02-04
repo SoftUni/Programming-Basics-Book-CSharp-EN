@@ -26,6 +26,3 @@ Let's solve several **exam problems** related to nested loops to practice what w
 * [Problem: "Stop" Sign](/Content/Chapter-6-2-nested-loops-exam-problems/exam-problems/stop/stop.md)
 * [Problem: Arrow](/Content/Chapter-6-2-nested-loops-exam-problems/exam-problems/arrow/arrow.md)
 * [Problem: Axe](/Content/Chapter-6-2-nested-loops-exam-problems/exam-problems/axe/axe.md)
-
-
-

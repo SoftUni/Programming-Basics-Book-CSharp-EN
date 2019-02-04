@@ -105,6 +105,3 @@ var date = new DateTime(2017, 6, 14);
 var dateAfter5days = date.AddDays(5); // 14-Jun-17
 Console.WriteLine(dateAfter5days); // 19-Jun-17 00:00:00
 ```
-
-
-

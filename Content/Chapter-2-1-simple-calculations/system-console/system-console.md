@@ -8,5 +8,5 @@ Generally the **system console** represents a text terminal, which means that it
 
 In most operating systems, the **console** is available as a standalone application on which we write console commands. It is called a **Command Prompt** in Windows, and a **Terminal** in Linux and Mac. The console runs console applications. They read text from the command line and print text on the console. In this book we are going to learn programming mostly through creating **console applications**.
 
-In the next examples we shall **read data** \(like integers, floating-point numbers and strings\) from the console and will **print data** on the console \(text and numbers\).
+In the next examples we will **read data** \(like integers, floating-point numbers and strings\) from the console and will **print data** on the console \(text and numbers\).
 

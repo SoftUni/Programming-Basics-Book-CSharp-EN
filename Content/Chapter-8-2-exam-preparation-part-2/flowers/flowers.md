@@ -44,7 +44,7 @@ Print on the console 1 number – **the price of flowers**, formatted up to the 
 
 ## Hints and Guidelines
 
-We shall divide the problem into smaller sub-problems, as described below.
+We will divide the problem into smaller sub-problems, as described below.
 
 ### Separating the Constant Values in Variables
 

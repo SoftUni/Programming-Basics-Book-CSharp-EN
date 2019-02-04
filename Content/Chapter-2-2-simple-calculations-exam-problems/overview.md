@@ -85,6 +85,3 @@ Now, after having revised how to make simple calculations and how to read and pr
 * [Problem: Changing Tiles](/Content/Chapter-2-2-simple-calculations-exam-problems/exam-problems/change-tiles/change-tiles.md)
 * [Problem: Money](/Content/Chapter-2-2-simple-calculations-exam-problems/exam-problems/money/money.md)
 * [Problem: Daily Earnings](/Content/Chapter-2-2-simple-calculations-exam-problems/exam-problems/daily-earnings/daily-earnings.md)
-
-
-

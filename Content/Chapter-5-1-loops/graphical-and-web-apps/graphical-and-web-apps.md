@@ -9,6 +9,3 @@ Now, it is your time to draw a few figures with the turtle, using sequences of m
 * [Problem: \* Draw a Spiral Triangle with the Turtle](/Content/Chapter-5-1-loops/graphical-and-web-apps/drawing-spiral-triangle.md)
 
 Add a new **additional button** for drawing each of the figures.
-
-
-

@@ -30,6 +30,3 @@ We have a lot of practical work. Solve these exercises to learn how to work with
 * [Problem: Console Converter – USD to BGN](/Content/Chapter-2-1-simple-calculations/exercises-simple-calculations/usd-to-bgn/usd-to-bgn.md)
 * [Problem: \* Console Currency Converter](/Content/Chapter-2-1-simple-calculations/exercises-simple-calculations/currency-converter/currency-converter.md)
 * [Problem:  \*\* Date Calculations](/Content/Chapter-2-1-simple-calculations/exercises-simple-calculations/1000-days-after-birth/1000-days-after-birth.md)
-
-
-

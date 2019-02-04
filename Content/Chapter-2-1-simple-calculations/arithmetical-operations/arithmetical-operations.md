@@ -89,6 +89,3 @@ When printing the values  **∞** and **-∞**, the console output may be `?`, b
 -?
 NaN
 ```
-
-
-

@@ -8,11 +8,8 @@ We will solve together several programming problems that cover the material stud
 
 ## The Problems
 
-The problems that we shall solve in this chapter, are:
+The problems that we will solve in this chapter, are:
 
 * [Problem: Crossing Sequences](/Content/Chapter-9-1-problems-for-champions/crossing-sequences/crossing-sequences.md)
 * [Problem: Magic Dates](/Content/Chapter-9-1-problems-for-champions/magic-dates/magic-dates.md)
 * [Problem: Five Special Letters](/Content/Chapter-9-1-problems-for-champions/five-special-letters/five-special-letters.md)
-
-
-

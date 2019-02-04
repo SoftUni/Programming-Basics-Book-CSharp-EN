@@ -18,4 +18,4 @@ Now we have an **empty Visual Studio Solution** (no projects in it):
 
 ![](/assets/chapter-3-images/00.Visual-studio-03.png)
 
-We shall use this solution to create a **separate project** for each of the problems, which we will solve as exercises in this chapter.
+We will use this solution to create a **separate project** for each of the problems, which we will solve as exercises in this chapter.

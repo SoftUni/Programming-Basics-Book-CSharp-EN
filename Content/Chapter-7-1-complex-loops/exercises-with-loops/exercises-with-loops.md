@@ -57,11 +57,8 @@ catch
 
 ## The Exercises
 
-We shall work on the following exercises to practice the new loops from this chapter:
+We will work on the following exercises to practice the new loops from this chapter:
 
 * [Problem: Fibonacci Numbers](/Content/Chapter-7-1-complex-loops/exercises-with-loops/fibonacci-numbers/fibonacci-numbers.md)
 * [Problem: Numbers Pyramid](/Content/Chapter-7-1-complex-loops/exercises-with-loops/number-pyramid/number-pyramid.md)
 * [Problem: Numbers Table](/Content/Chapter-7-1-complex-loops/exercises-with-loops/number-table/number-table.md)
-
-
-

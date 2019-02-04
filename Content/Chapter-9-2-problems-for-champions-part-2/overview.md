@@ -13,6 +13,3 @@ The problems that we will solve in this chapter, are:
 * [Problem: Passion Shopping Days](/Content/Chapter-9-2-problems-for-champions-part-2/passion-days/passion-days.md)
 * [Problem: Numerical Expression](/Content/Chapter-9-2-problems-for-champions-part-2/expression/expression.md)
 * [Problem: Bulls and Cows](/Content/Chapter-9-2-problems-for-champions-part-2/bulls-and-cows/bulls-and-cows.md)
-
-
-

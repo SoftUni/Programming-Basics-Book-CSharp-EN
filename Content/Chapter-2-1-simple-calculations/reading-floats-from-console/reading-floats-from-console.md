@@ -24,7 +24,7 @@ Let's start the program and make sure that when a value in inches is entered, we
 
 ![](/assets/chapter-2-images/00.Inches-to-centimeters-01.jpg)
 
-Note that if you enter and invalid number, e.g. "_asfd_", the program will crash with an error message \(exception\). We shall learn how to handle exceptions later in the chapter "[**More Complex Loops**](/Content/Chapter-7-1-complex-loops/overview.md)".
+Note that if you enter and invalid number, e.g. "_asfd_", the program will crash with an error message \(exception\). We will learn how to handle exceptions later in the chapter "[**More Complex Loops**](/Content/Chapter-7-1-complex-loops/overview.md)".
 
 ### Testing in the Judge System
 

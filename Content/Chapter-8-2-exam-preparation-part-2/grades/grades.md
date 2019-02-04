@@ -31,7 +31,7 @@ The results must be **formatted up to the second symbol** after the decimal poin
 
 ## Hints and Guidelines
 
-We shall divide the problem into smaller sub-problems, as described below.
+We will divide the problem into smaller sub-problems, as described below.
 
 ### Reading the Input Data and Creating Helper Variables
 

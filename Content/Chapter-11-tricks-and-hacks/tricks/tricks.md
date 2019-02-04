@@ -110,6 +110,3 @@ for (var i = 0; i < 5; i++;)
 To make it easier we can use a code snippet for a `for`** loop**:
 
 * `for`** + \[Tab\] + \[Tab\]**
-
-
-

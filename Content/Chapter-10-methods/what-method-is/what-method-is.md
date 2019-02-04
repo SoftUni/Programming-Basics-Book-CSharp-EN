@@ -36,8 +36,6 @@ static void Main()
 }
 ```
 
-
-
 ## Why Use Methods?
 
 So far we determined that methods help with **dividing larger programs into smaller parts**, which leads to **easier solving** of the problem in question. This makes our program not only better structured and easier to read, but more understandable as well.

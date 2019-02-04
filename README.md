@@ -4,7 +4,7 @@ The **free** book "**Programming Basics with C#**" introduces the readers to wri
 
 > **Warning**: the translation of this book from its original Bulgarian language version is **not completed**.
 >
-> This is unfinished work. Once we finish it, we shall publish the book in PDF / MOBI / other formats.
+> This is unfinished work. Once we finish it, we will publish the book in PDF / MOBI / other formats.
 
 <img src = "/assets/CSharp-Programming-Basics-Book-Cover.png" alt = "Programming Basics with C# – book cover" readme-book-cover-image />
 

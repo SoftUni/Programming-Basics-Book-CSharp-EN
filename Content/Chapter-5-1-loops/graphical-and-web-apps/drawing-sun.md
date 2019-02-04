@@ -8,6 +8,3 @@ Add a \[**Sun**\] button that draws a sun with 36 beams, as on the figure below:
 
 * The entire circle consists of 360 degrees = 36 \* 10 degrees
 * Think about  how many times you will move the turtle forward, then rotate, then move the turtle back, etc.
-
-
-

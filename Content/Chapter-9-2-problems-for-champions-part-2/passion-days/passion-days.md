@@ -76,7 +76,6 @@ This is where we need to take into consideration the fact that from the **second
 
 Here is the place to point out that calling **`Console.ReadLine()`** after the end of the loop is used for **moving to the first command** for processing.
 
-
 ### Algorithm for Solving the Problem
 
 The algorithm for solving the problem is a direct one – we continue **reading commands** from the console, **until the command "mall.Exit" is passed**. In the meantime, we **process** each symbol (**`char`**) of each one of the commands according to the rules specified in the task requirements, and in parallel, we **modify the amount** that Lina has, and **store the number of purchases**.

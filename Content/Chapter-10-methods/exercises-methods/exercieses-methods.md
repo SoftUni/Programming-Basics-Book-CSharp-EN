@@ -37,7 +37,7 @@ Console.WriteLine("a = {0}, area = {1}", 9.999, CircleArea(9.999));
 
 ## The Exercises
 
-We shall work on the following exercises:
+We will work on the following exercises:
 
 * [Problem: "Hello, Name!"](/Content/Chapter-10-methods/exercises-methods/hello-name.md)
 * [Problem: Min Method](/Content/Chapter-10-methods/exercises-methods/min-method.md)
@@ -47,6 +47,3 @@ We shall work on the following exercises:
 * [Problem: Notifications](/Content/Chapter-10-methods/exercises-methods/notifications.md)
 * [Problem: Numbers to Words](/Content/Chapter-10-methods/exercises-methods/numbers-to-words/numbers-to-words.md)
 * [Problem: String Encryption](/Content/Chapter-10-methods/exercises-methods/string-encryption/string-encryption.md)
-
-
-
