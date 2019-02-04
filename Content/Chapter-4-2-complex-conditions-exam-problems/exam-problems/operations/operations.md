@@ -88,7 +88,7 @@ For short and clear conditions, such as the above example for even and odd numbe
 
 ### Printing the Output
 
-Finally, what remains is to print the calculated result in the console:
+Finally, what remains is to print the calculated result on the console:
 
 ![](/assets/chapter-4-2-images/03.Operations-08.png)
 

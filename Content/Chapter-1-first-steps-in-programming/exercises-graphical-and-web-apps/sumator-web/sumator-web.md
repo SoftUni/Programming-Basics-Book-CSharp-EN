@@ -8,7 +8,7 @@ The **Web application** is expected to look similarly to the following:
 
 ![](/assets/chapter-1-images/08.Numbers-sum-web-01.png)
 
-As a difference compared to console applications, which read and write the data in the form of a text in the console, web applications have **a web-based user interface**. Web applications **are being loaded from some Internet address** (URL) through a standard web browser. Users write input data in a page, visualized from the web browser, the data is processed on a web server and the results are shown again in a page of the web browser. For our web application we are going to use **the ASP.NET MVC technology**, which allows creating of **web applications with the programming language C\#** in the development environment **Visual Studio**.
+As a difference compared to console applications, which read and write the data in the form of a text on the console, Web applications have **a Web-based user interface**. Web applications **are being loaded from some Internet address** (URL) through a standard web browser. Users write input data in a page, visualized from the web browser, the data is processed on a web server and the results are shown again in a page of the web browser. For our web application we are going to use **the ASP.NET MVC technology**, which allows creating of **web applications with the programming language C\#** in the development environment **Visual Studio**.
 
 ## Creating a New ASP.NET MVC Project
 

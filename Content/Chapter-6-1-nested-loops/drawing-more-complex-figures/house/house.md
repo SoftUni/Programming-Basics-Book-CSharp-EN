@@ -75,7 +75,7 @@ After we have calculated the length of the roof we make a loop from 0 to **`roof
 
 ![](/assets/chapter-6-images/09.House-05.png)
 
-* We print in the console: "**dashes**" (**`padding / 2`** times) + "**stars**" (**`stars`** times) + "**dashes**" (**`padding / 2`** times). 
+* We print on the console: "**dashes**" (**`padding / 2`** times) + "**stars**" (**`stars`** times) + "**dashes**" (**`padding / 2`** times). 
 
 ![](/assets/chapter-6-images/09.House-06.png)
 
@@ -91,7 +91,7 @@ After we have calculated the length of the roof we make a loop from 0 to **`roof
 
 After we have finished with the **roof**, it is time for **the base**. It is easier to print:
 * We start with a loop from 0 to n (not inclusive).
-* We print in the console: `|` + `*` (**`n - 2`** times) + `|`.
+* We print on the console: `|` + `*` (**`n - 2`** times) + `|`.
 
 ![](/assets/chapter-6-images/09.House-08.png)
 

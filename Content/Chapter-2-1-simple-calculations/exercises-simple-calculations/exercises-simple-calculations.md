@@ -14,7 +14,7 @@ Let's summarize what we learned in this chapter of the book:
 
 ## The Exercises
 
-We have a lot of practical work. Solve these exercises to learn how to work with variables and data types, reading and writing at the console, using data and calculations:
+We have a lot of practical work. Solve these exercises to learn how to work with variables and data types, reading and writing on the console, using data and calculations:
 
 * [Blank Visual Studio Solution](/Content/Chapter-2-1-simple-calculations/exercises-simple-calculations/blank-visual-studio-solution.md)
 * [Problem: Calculating Square Area](/Content/Chapter-2-1-simple-calculations/exercises-simple-calculations/square-area/square-area.md)

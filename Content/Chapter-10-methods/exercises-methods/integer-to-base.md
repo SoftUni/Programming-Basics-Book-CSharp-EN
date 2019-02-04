@@ -1,6 +1,6 @@
 # Problem: Integer to Base
 
-Write a method **`IntegerToBase(number, toBase)`**, which takes as parameters an integer and a base of a numeral system and returns the integer converted to the given numeral system. After this the result should be printed in the console. The input number will always be in decimal numeral system, and the base parameter will be between 2 and 10.
+Write a method **`IntegerToBase(number, toBase)`**, which takes as parameters an integer and a base of a numeral system and returns the integer converted to the given numeral system. After this the result should be printed on the console. The input number will always be in decimal numeral system, and the base parameter will be between 2 and 10.
 
 ## Sample Input and Output
 

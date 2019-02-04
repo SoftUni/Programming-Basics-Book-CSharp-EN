@@ -1,6 +1,6 @@
 # Example: Rectangle Made of 10 x 10 Stars
 
-Print in the console a rectangle made out of **10 x 10** stars.
+Print on the console a rectangle made out of **10 x 10** stars.
 
 |Input|Output|
 |---|---|

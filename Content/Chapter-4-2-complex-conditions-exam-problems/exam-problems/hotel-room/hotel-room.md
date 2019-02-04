@@ -90,7 +90,7 @@ This method **rounds the decimal** number up to a **specified number of characte
 
 ### Printing the Result
 
-Finally, what remains is to print the calculated results in the console.
+Finally, what remains is to print the calculated results on the console.
 
 ## Testing in the Judge System
 

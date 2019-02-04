@@ -5,7 +5,7 @@ Write a program, which takes an integer **`n`** and on the next lines prints **`
 - When **`messageType`** is **`warning`** read only **`message`**.
 - When **`messageType`** is **`error`** read **`operation`** + **`message`** + **`errorCode`** (each on a new line).
 
-Print in the console **each read message**, formatted depending on its **`messageType`**. After the headline of the message print as much **`=`**, **as the length** of the said **headline** and print **an empty line** after each message (to understand in detail look at the examples). 
+Print on the console **each read message**, formatted depending on its **`messageType`**. After the headline of the message print as much **`=`**, **as the length** of the said **headline** and print **an empty line** after each message (to understand in detail look at the examples). 
 
 The problem should be solved by defining four methods: **`ShowSuccessMessage()`**, **`ShowWarningMessage()`**, **`ShowErrorMessage()`** and **`ReadAndProcessMessage()`**, so that only the last method is invoked by the **`Main()`** method:
 

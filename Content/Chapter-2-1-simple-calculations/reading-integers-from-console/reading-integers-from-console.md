@@ -6,7 +6,7 @@ In order to read an **integer** \(not a float\) **number** from the console, we 
 var num = int.Parse(Console.ReadLine());
 ```
 
-The above line of C\# code **reads an integer** from the first line at the console.
+The above line of C\# code **reads an integer** from the first line on the console.
 
 ## Example: Calculating a Square Area Using Side A
 

@@ -87,7 +87,7 @@ For the output, in order to spare one **`else` condition** in the construction, 
 
 ### Printing the Result
 
-Finally, we need to display the calculated result in the console.
+Finally, we need to display the calculated result on the console.
 
 ## Testing in the Judge System
 

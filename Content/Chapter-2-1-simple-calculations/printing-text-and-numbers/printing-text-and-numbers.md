@@ -1,6 +1,6 @@
 # Printing Text and Numbers
 
-In C\#, when printing a text, numbers and other data in the console, **we can join them** by using templates `{0}`, `{1}`, `{2}` etc. In programming, these templates are called **placeholders**.
+In C\#, when printing a text, numbers and other data on the console, **we can join them** by using templates `{0}`, `{1}`, `{2}` etc. In programming, these templates are called **placeholders**.
 
 ```csharp
 var firstName = Console.ReadLine();

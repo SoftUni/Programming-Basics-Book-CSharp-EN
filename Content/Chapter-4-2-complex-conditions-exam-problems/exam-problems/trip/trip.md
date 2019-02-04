@@ -23,7 +23,7 @@ The input data will be read from the console and will consist of **two lines**:
 
 ## Output Data
 
-**Two lines** must be printed in the console.
+**Two lines** must be printed on the console.
 
 * On the **first** line – "**Somewhere in {destination}**" among "**Bulgaria**", "**Balkans**" and "**Europe**".
 * On the **second** line – "{**Vacation type**} – {**Amount spent**}".
@@ -90,7 +90,7 @@ After that, we need to apply a condition to check the value of the **season**. B
 
 ### Printing the Result
 
-What remains is to display the calculated result in the console:
+What remains is to display the calculated result on the console:
 
 ![](/assets/chapter-4-2-images/02.Trip-07.png)
 
