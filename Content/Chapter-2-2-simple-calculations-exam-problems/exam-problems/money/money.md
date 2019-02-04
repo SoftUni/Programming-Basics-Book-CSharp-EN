@@ -1,6 +1,6 @@
 # Problem: Money
 
-Some time ago, **Pesho bought bitcoins**. Now, he is going on vacation in Europe and **he needs Euro**. Apart from bitcoins, he has **Chinese yuans** as well. Pesho wants to **exchange his money for Euro** for the tour. Write a program that calculates **how much Euro he can buy, depending on the following exchange rates**:  
+Some time ago, **Peter bought bitcoins**. Now, he is going on vacation in Europe and **he needs Euro**. Apart from bitcoins, he has **Chinese yuans** as well. Peter wants to **exchange his money for Euro** for the tour. Write a program that calculates **how much Euro he can buy, depending on the following exchange rates**:  
 * **1 bitcoin = 1168 leva.**
 * **1 Chinese yuan = 0.15 dollars.**
 * **1 dollar = 1.76 leva.**
@@ -30,7 +30,7 @@ Print one number on the console – **the result of the exchange of currencies**
 * 5 Chinese yuan = 0.75 dollars 
 * 0.75 dollars = 1.32 leva
 * **1168 + 1.32 = 1169.32 leva = 599.651282051282 Euro**
-* **Commission fee:** 5% от 599.651282051282 = **29.9825641025641** 
+* **Commission fee:** 5% of 599.651282051282 = **29.9825641025641** 
 * **Result**: 599.651282051282 - 29.9825641025641 = **569.668717948718 Euro**
 
 | Input        | Output            | Input         | Output            |
@@ -43,9 +43,9 @@ Let's first think of the way we can solve the task again, before having started 
 
 ### Idea for Solution
 
-We see that the **number of bitcoins** and the **number of Chinese yuans** will be given in the input. The **output** should be in **Euro**. The exchange rates that we have to work with are specified in the task. We notice that we can only exchange the sum in leva to Euro, therefore, we **first have to calculate the whole sum that Pesho has in leva**, and **then calculate the output**.
+We see that the **number of bitcoins** and the **number of Chinese yuans** will be given in the input. The **output** should be in **Euro**. The exchange rates that we have to work with are specified in the task. We notice that we can only exchange the sum in leva to Euro, therefore, we **first have to calculate the whole sum that Peter has in leva**, and **then calculate the output**.
 
-As we have information for the exhange rate of bitcoins to leva, we can directly exchange them. On the other hand, in order to get the value of **Chinese yuans in leva**, first we have to **exchange them in dollars**, and then **the dollars to leva**. Finally, we will **sum the two values** and calculate how much Euro that is. 
+As we have information for the exchange rate of bitcoins to leva, we can directly exchange them. On the other hand, in order to get the value of **Chinese yuans in leva**, first we have to **exchange them in dollars**, and then **the dollars to leva**. Finally, we will **sum the two values** and calculate how much Euro that is. 
 
 Only the final step is left: **calculating the commission fee** and subtracting the new sum from the total one. We will obtain **an integer** for the commission fee, which will be a particular **percent from the total sum**. Let's divide it by 100, so as to calculate its **percentage value** and then multiply it by the sum in Euro. We will divide the result from the same sum and print the final sum on the console. 
 

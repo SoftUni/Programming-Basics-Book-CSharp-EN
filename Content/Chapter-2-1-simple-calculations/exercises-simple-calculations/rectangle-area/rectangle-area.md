@@ -7,10 +7,10 @@ A **rectangle** is defined by the **coordinates** of both of its opposite corner
 ## Sample Input and Output
 
 | Input | Output |
-|-----------------------------------------|-------------------|
-|60<br>20<br>10<br>50                     |1500<br>160         |
-|30<br>40<br>70<br>-10                   |2000<br>180         |
-|600.25<br>500.75<br>100.50<br>-200.5    |350449.6875<br>2402 |
+|--------------------------------------|--------------------|
+|60<br>20<br>10<br>50                  |1500<br>160         |
+|30<br>40<br>70<br>-10                 |2000<br>180         |
+|600.25<br>500.75<br>100.50<br>-200.5  |350449.6875<br>2402 |
 
 ## Testing in the Judge System
 

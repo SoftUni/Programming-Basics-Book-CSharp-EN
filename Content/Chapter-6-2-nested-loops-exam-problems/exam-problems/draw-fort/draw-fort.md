@@ -53,7 +53,7 @@ In order to print **the roof**, we will use **`new string`**, which takes two pa
 
 ## Printing the Body of the Fort
 
-**The body of the fort** contains a beginning **`|`**, a middle part **`(white space)`** and an end **`|`**. **The middle part** is a blanc space with size of **`2 * n - 2`**. The number of **the rows** used for walls can be found in the given parameters: **`n - 3`**. This code prints the body of the fort:
+**The body of the fort** contains a beginning **`|`**, a middle part **`(white space)`** and an end **`|`**. **The middle part** is a blank space with size of **`2 * n - 2`**. The number of **the rows** used for walls can be found in the given parameters: **`n - 3`**. This code prints the body of the fort:
 
 ![](/assets/chapter-6-2-images/01.Draw-fort-05.png)
 

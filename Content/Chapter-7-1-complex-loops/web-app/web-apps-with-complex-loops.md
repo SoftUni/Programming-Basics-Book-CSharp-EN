@@ -5,7 +5,7 @@ Now we know how to repeat a group of actions using **loops**. Let's do something
 ## Problem: Web Application "Fruits Game"
 
 **Description**: Develop an **ASP.NET MVC Web Application** – a game in which the player **shoots fruits**, arranged in a table. Successfully hit fruits disappear and the player gets points for each target fruit. When you hit a **dynamite**, the fruits explode and the game ends \(as in Fruit Ninja\).  
-Shooting is done by columns, top to bottom or bottom to top, and the location of impact \(the column under fire\) is set by scroll bar. Because of the scroller's inaccuracy, the player is not quite sure which column they are going to shoot. So every shot has a chance not to hit and this makes the game more interesting \(like the sling in Angry Birds\).
+Shooting is done by columns, top to bottom or bottom to top, and the location of impact \(the column under fire\) is set by scroll bar. Because of the inaccuracy of the scroller, the player is not quite sure which column they are going to shoot. So every shot has a chance not to hit and this makes the game more interesting \(like the sling in Angry Birds\).
 
 Our game should look like this:
 
@@ -54,7 +54,7 @@ The next thing is to **add the images** for the game.
 
 From \[**Solution Explorer**\] create folder **images** in the root directory of the project. We use the menu \[**Add**\] → \[**New Folder**\].
 
-Now we add the **game images** \(they are part of the project files for this project and can be downloaded [here](https://github.com/SoftUni/Programming-Basics-Book-CSharp-BG/tree/master/assets/chapter-7-assets)\). We copy them from Windows Explorer and put them in the **images** folder in \[**Solution Explorer**\] in Visual Studio with **copy/paste**.
+Now we add the **game images** \(they are part of the project files for this project and can be downloaded [here](https://github.com/SoftUni/Programming-Basics-Book-CSharp-EN/tree/master/assets/chapter-7-assets)\). We copy them from Windows Explorer and put them in the **images** folder in \[**Solution Explorer**\] in Visual Studio with **copy/paste**.
 
 ![](/assets/chapter-7-images/15.Fruits-08.png)
 

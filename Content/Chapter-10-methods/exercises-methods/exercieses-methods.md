@@ -14,7 +14,7 @@ Before starting, let's review what we have learned about the **methods in C\#**:
 
 ### Defining a Method
 
-This is how we **define a method**, which takes а **parameter** and **returns** a value:
+This is how we **define a method**, which takes a **parameter** and **returns** a value:
 
 ```csharp
 static double CircleArea(double radius)

@@ -48,7 +48,7 @@ On the single line of the output, we must print **the smallest number that occur
 
 ## Hints and Guidelines
 
-The problem seems quite complicated, so we will break it into simpler subproblems.
+The problem seems quite complicated, so we will break it into simpler sub-problems.
 
 ### Processing the Input
 

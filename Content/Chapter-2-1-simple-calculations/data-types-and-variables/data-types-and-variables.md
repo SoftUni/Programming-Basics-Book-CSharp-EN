@@ -32,7 +32,7 @@ Example of **declaring a variable**:
 var count = 5;
 ```
 
-After being processed, data is again stored in variables \(in somе place in the memory saved for our program\):
+After being processed, data is again stored in variables \(in some place in the memory saved for our program\):
 
 ```csharp
 count = count + 1;

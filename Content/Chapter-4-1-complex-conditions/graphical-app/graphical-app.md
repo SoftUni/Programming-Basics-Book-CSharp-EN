@@ -65,11 +65,11 @@ We set the following recommended settings of the controls:
 
 ## Handling Events
 
-We have to catch the following **events** to write the C# code that will be executed upon their occurence:
+We have to catch the following **events** to write the C# code that will be executed upon their occurrence:
 
 *	The event **`Click`** the button **`buttonDraw`** (it is called upon pressing the button).
-*	The event **`ValueChanged`** of the controls for entering numbers **`numericUpDownX1`**, **`numericUpDownY1`**, **`numericUpDownX2`**, **`numericUpDownY2`**, **`numericUpDownX`** и **`numericUpDownY`** (it is called upon changing the value in the control that enters a number).
-*	The event **`Load`** of the form **`FormPointAndRectangle`** (it is called upon starting the application, before the main form is shown on the dispaly).
+*	The event **`ValueChanged`** of the controls for entering numbers **`numericUpDownX1`**, **`numericUpDownY1`**, **`numericUpDownX2`**, **`numericUpDownY2`**, **`numericUpDownX`** and **`numericUpDownY`** (it is called upon changing the value in the control that enters a number).
+*	The event **`Load`** of the form **`FormPointAndRectangle`** (it is called upon starting the application, before the main form is shown on the display).
 *	The event **`Resize`** of the form **`FormPointAndRectangle`** (it is called upon changing the size of the main form).
 
 All of the above mentioned events will execute the same action – **`Draw()`**, which will visualize the rectangle and the point and show whether it's inside, outside or onto one of the sides. The code must look like this: 
@@ -157,7 +157,7 @@ Think about how to **finish** the uncompleted (on purpose) conditions in the **`
 
 ## Visualization of the Rectangle and the Point
 
-What remains is to implement the most complex part: visualization of the rectangle and the point in the control **`pictureBox`** with resizing. We can help ourselves with **the code below**, which makes some calculations and draws a blue rectangle and a dark blue circle (the point) according to the coordinates given in the form. Unfortunately, the complexity of the code exceeds the material learnt until the present moment and it is complicated to explain in details exactly how it works. There are comments for orientation. This is the full version of the action **`Draw()`**:
+What remains is to implement the most complex part: visualization of the rectangle and the point in the control **`pictureBox`** with resizing. We can help ourselves with **the code below**, which makes some calculations and draws a blue rectangle and a dark blue circle (the point) according to the coordinates given in the form. Unfortunately, the complexity of the code exceeds the material learned until the present moment and it is complicated to explain in details exactly how it works. There are comments for orientation. This is the full version of the action **`Draw()`**:
 
 ```csharp
 private void Draw()
@@ -197,7 +197,7 @@ private void Draw()
   var rectHeight = (int)Math.Round(Math.Abs(y2 - y1) * ratio);
   var rect = new Rectangle(rectLeft, rectTop, rectWidth, rectHeight);
 
-  // Calculate the scalled point coordinates
+  // Calculate the scaled point coordinates
   var pointX = (int)Math.Round(offset + (x - minX) * ratio);
   var pointY = (int)Math.Round(offset + (y - minY) * ratio);
   var pointRect = new Rectangle(pointX - 2, pointY - 2, 5, 5);

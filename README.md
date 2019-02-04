@@ -45,7 +45,7 @@ This book is available in several versions in different programming languages:
 Brief information about this edition:
  * Title: **Programming Basics with C#**
  * Authors: **Svetlin Nakov & Team**
- * ISBN: **TODO**
+ * ISBN: **978-619-00-0902-3**
  * Edition: **Faber Publishing, Sofia, 2019**
  * License: **CC-BY-SA**
  * Source code: https://github.com/SoftUni/Programming-Basics-Book-CSharp-EN

@@ -12,7 +12,7 @@ In Visual Studio we create **a new C\# project of type “Windows Forms Applicat
 
 ![](/assets/chapter-1-images/07.Numbers-sum-02.png)
 
-When creating a Windows Forms application **an editor for user interface** will be shown, in which **different visual elements** could be put \(for example textboxes and buttons\):
+When creating a Windows Forms application **an editor for user interface** will be shown, in which **different visual elements** could be put \(for example text boxes and buttons\):
 
 ![](/assets/chapter-1-images/07.Numbers-sum-03.png)
 
@@ -77,5 +77,4 @@ The code above **catches the errors when working with numbers** \(it catches exc
 
 ![](/assets/chapter-1-images/07.Numbers-sum-15.png) ![](/assets/chapter-1-images/07.Numbers-sum-16.png)
 
-Is it complicated? It is normal to seem complex, of course. We are just beginning to get into programming. The example above requires much more knowledge and skills, which we are going to develop through this book and even afterwards. Just allow yourself to have some fun with desktop programming. If something doesn't work, watch **the video in the beginning of this chapter** or ask in **the SoftUni forum**: [https://softuni.bg/forum](https://softuni.bg/forum). Or move on bravely forward to the next example or to the next chapter of the book. A time will come when it is going to be easy for you, but you really have to put **an effort and be persistent**. Programming is learnt slowly with lots and lots of practice.
-
+Is it complicated? It is normal to seem complex, of course. We are just beginning to get into programming. The example above requires much more knowledge and skills, which we are going to develop through this book and even afterwards. Just allow yourself to have some fun with desktop programming. If something doesn't work, watch **the video in the beginning of this chapter** or ask in **the SoftUni forum**: [https://softuni.bg/forum](https://softuni.bg/forum). Or move on bravely forward to the next example or to the next chapter of the book. A time will come when it is going to be easy for you, but you really have to put **an effort and be persistent**. Learning programming is a slow process with lots and lots of practice.

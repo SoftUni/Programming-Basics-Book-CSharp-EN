@@ -13,7 +13,7 @@ Write a program that accepts **as input the budget and season**, and **as output
   - **Summer** – **40%** of the budget.
   - **Winter** – **80%** of the budget.
 - If **more than 1000 BGN** – somewhere in **Europe**.
-  - Upon travelling in Europe, regardless of the season, the programmer will spend **90% of the budget**.
+  - Upon traveling in Europe, regardless of the season, the programmer will spend **90% of the budget**.
 
 ## Input Data
 

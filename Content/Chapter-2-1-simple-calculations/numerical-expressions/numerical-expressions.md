@@ -47,7 +47,7 @@ Formulas:
 Console.Write("Enter circle radius. r = ");
 var r = double.Parse(Console.ReadLine());
 Console.WriteLine("Area = " + Math.PI * r * r); 
-  // Math.PI – built in constant for π in C#
+// Math.PI – built-in constant for π in C#
 Console.WriteLine("Perimeter = " + 2 * Math.PI * r);
 ```
 

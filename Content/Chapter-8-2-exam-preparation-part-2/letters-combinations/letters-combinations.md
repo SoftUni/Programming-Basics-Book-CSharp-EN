@@ -41,7 +41,7 @@ The easiest and most efficient way is to use a **loop**, by passing through **al
 
 ![](/assets/chapter-8-2-images/06.Letters-02.png)
 
-The result of running the code is all letters from **а** to **z** included, printed on a single line and separated by spaces. Does this look like the end result of our task? We must find a **way** to print **3 symbols**, as required, instead of **1**. Running such a program very much looks like a slot machine. We often win in slots, if we arrange a few identical symbols on a row. Let's say that the machine has space for three symbols. When we **stop** on a particular **symbol** on the first place, the other two places will **continue** rolling symbols among all possible ones. In our case, **all possible symbols** are the letters from the starting to the end one, entered by the user, and the solution of our program is identical to the way a slot machine works.
+The result of running the code is all letters from **a** to **z** included, printed on a single line and separated by spaces. Does this look like the end result of our task? We must find a **way** to print **3 symbols**, as required, instead of **1**. Running such a program very much looks like a slot machine. We often win in slots, if we arrange a few identical symbols on a row. Let's say that the machine has space for three symbols. When we **stop** on a particular **symbol** on the first place, the other two places will **continue** rolling symbols among all possible ones. In our case, **all possible symbols** are the letters from the starting to the end one, entered by the user, and the solution of our program is identical to the way a slot machine works.
 
 ### Printing Combination of Three Symbols
 

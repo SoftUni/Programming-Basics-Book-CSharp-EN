@@ -85,7 +85,7 @@ To print the dates, we have two options:
 
 ![](/assets/chapter-9-images/02.Magic-dates-07.png)
 
-   * The second option is to take the individual components of the date **`Day`**, **`Month`** и **`Year`** as we did when calculating, and to form the output by **formatting string**.
+   * The second option is to take the individual components of the date **`Day`**, **`Month`** and **`Year`** as we did when calculating, and to form the output by **formatting string**.
 
 ![](/assets/chapter-9-images/02.Magic-dates-08.png)
 

@@ -22,7 +22,9 @@ Press the \[**Continue**\] button and you will see the screen bellow:
 
 A screen with the installation panel of Visual Studio is being loaded.
 
-![](/assets/chapter-1-images/00.visual-studio-3.png)Put a checkmark on \[**Universal Windows Platform development**\], \[**.NET desktop development**\] and \[**ASP.NET and web development**\], then press the \[**Install**\] button. Basically, this is everything.![](/assets/chapter-1-images/00.visual-studio-4.png)The installation of Visual Studio begins, and a screen like the one bellow will appear:![](/assets/chapter-1-images/00.visual-studio-5.png)After Visual Studio is installed, an informative screen will appear. Press the \[**Launch**\] button to start it.![](/assets/chapter-1-images/00.visual-studio-6.png)Upon **starting VS** a screen appears like the one bellow. On it you can choose whether you will enter Visual Studio using a Microsoft account. For now, we choose to continue without being logged into our Microsoft account, and this is why we choose the option \[**Not now, maybe later.**\]. At a later point, if you have such an account, you may log in, and if you don't have one, and you have difficulties with its creation, you can always write in the forum of SoftUni: [https://softuni.bg/forum](https://softuni.bg/forum).
+![](/assets/chapter-1-images/00.visual-studio-3.png)
+
+Put a check mark on \[**Universal Windows Platform development**\], \[**.NET desktop development**\] and \[**ASP.NET and web development**\], then press the \[**Install**\] button. Basically, this is everything.![](/assets/chapter-1-images/00.visual-studio-4.png)The installation of Visual Studio begins, and a screen like the one bellow will appear:![](/assets/chapter-1-images/00.visual-studio-5.png)After Visual Studio is installed, an informative screen will appear. Press the \[**Launch**\] button to start it.![](/assets/chapter-1-images/00.visual-studio-6.png)Upon **starting VS** a screen appears like the one bellow. On it you can choose whether you will enter Visual Studio using a Microsoft account. For now, we choose to continue without being logged into our Microsoft account, and this is why we choose the option \[**Not now, maybe later.**\]. At a later point, if you have such an account, you may log in, and if you don't have one, and you have difficulties with its creation, you can always write in the forum of SoftUni: [https://softuni.bg/forum](https://softuni.bg/forum).
 
 ![](/assets/chapter-1-images/00.visual-studio-7.png)
 
@@ -43,7 +45,7 @@ There are **alternative environments for development online** directly into your
 * For the language C\# the site **.NET Fiddle** allows code writing and its execution online: [https://dotnetfiddle.net](https://dotnetfiddle.net).
 * For Java you can use the following online Java IDE: [https://www.compilejava.net](https://www.compilejava.net).
 * For JavaScript you can write a JS code directly in the console of a given browser when you press **\[F12\]**.
-* The site Repl.it provides online coding environment for multiple languages \(C\#, Java, JS, Pyhton, C++ and many more\): [https://repl.it](https://repl.it).
+* The site Repl.it provides online coding environment for multiple languages \(C\#, Java, JS, Python, C++ and many more\): [https://repl.it](https://repl.it).
 
 ## Project Solutions and Projects in Visual Studio
 

@@ -1,6 +1,6 @@
 # Methods with Parameters
 
-Frequently in order to solve a problem, the method by which we do this needs **additional information**, which depends on its purpose. This is precisely the information that **the method parameters** are, and its behaviour depends on them. 
+Frequently in order to solve a problem, the method by which we do this needs **additional information**, which depends on its purpose. This is precisely the information that **the method parameters** are, and its behavior depends on them. 
 
 ## Using Parameters in Methods
 

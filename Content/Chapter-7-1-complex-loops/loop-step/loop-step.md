@@ -51,7 +51,7 @@ In the following example, we will look at using the usual step with size of 1, c
 
 Write a program that prints the numbers from **1 to 2^n** (two in power of n). For example, **if n = 10**, the result will be: **1, 2, 4, 8, 16, 32, 64, 128, 256, 512, 1024**.
 
-![](/assets/chapter-7-images/03.Numbers-1-tо-2^n-01.png)
+![](/assets/chapter-7-images/03.Numbers-1-to-2^n-01.png)
 
 ### Testing in the Judge System
 

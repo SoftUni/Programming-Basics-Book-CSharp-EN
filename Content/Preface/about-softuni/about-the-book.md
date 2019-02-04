@@ -12,7 +12,7 @@ The free courses at SoftUni for a start at programming, are probably the most ex
 
 The book was initially written in **Bulgarian language** in 2017 and later translated into **English** in 2019.
 
-The project is part of the hard work of the **[Software University Fondation](http://softuni.foundation)** to create and distribute an open learning content to teach software engineers and IT professionals.
+The project is part of the hard work of the **[Software University Foundation](http://softuni.foundation)** to create and distribute an open learning content to teach software engineers and IT professionals.
 
 ### Authors Team
 
@@ -33,7 +33,7 @@ If you are a **teacher in programming**, informatics or IT, or you want **to tea
 
 * **Presentations** \(PowerPoint slides\) for each studied topic, compliant to the 45-minute classes in schools – free.
 * Well-developed home and classroom **exercises** with detailed requirements and exemplary input and output – free.
-* **Automated system for checking exercises** and homeworks \(online judge system\), which is used by students – also free .
+* **Automated system for checking exercises** and homework submissions (online judge system), which is used by thousands of students – also free.
 * **Video tutorials** with methodological guidance from the **free course for programming teachers**, which is conducted regularly by the SoftUni Foundation.
 
 All these **free teaching resources** can be found on the SoftUni Foundation website, along with the training content for all programming and software courses. Download them free here: [http://softuni.foundation/projects/applied-software-developer-profession/](http://softuni.foundation/projects/applied-software-developer-profession/).
@@ -70,7 +70,7 @@ In this discussion forum you will get **proper response to any question associat
 
 Because of the big amount of learners, you can find in the forum practically any **solution of any exercise, shared by your colleague**. Thousands of students already got the answer on the same exercise, so if you are late you can check the forum. Even though the exercises in "Programming Basics" are changing at some point, the sharing at SoftUni is always welcome and encouraged, that's why you will easily find solutions and guidance in any exercise.
 
-If you do have a specific question, for example if you spend many hours on a particular program and it doesn't start, you can always ask in the forum. You will be surprised how well-intentioned are the SoftUni's forum participants. 
+If you do have a specific question, for example if you spend many hours on a particular program and it doesn't start, you can always ask in the forum. You will be surprised how friendly are the SoftUni's forum participants. 
 
 ## Official Facebook Page of the Book
 
@@ -80,8 +80,8 @@ The book has an **official Facebook page** where you can track the news about th
 
 ## Error Reporting
 
-If you find **errors**, inaccuracies or defects in the book, you can report them in the offical traker of the project:
+If you find **defects**, inaccuracies or bugs in the book, you can report them in the official bug tracker of the project:
 
-<p align="center"><strong><a href="https://github.com/SoftUni/Programming-Basics-Book-CSharp-EN/issues">https://github.com/SoftUni/Programming-Basics-Book-CSharp-BG/issues</a></strong></p>
+<p align="center"><strong><a href="https://github.com/SoftUni/Programming-Basics-Book-CSharp-EN/issues">https://github.com/SoftUni/Programming-Basics-Book-CSharp-EN/issues</a></strong></p>
 
 We do not promise to fix everything you send us, but we do want to **always improve the quality** of the book, so the reported errors and reasonable suggestions will be reviewed.

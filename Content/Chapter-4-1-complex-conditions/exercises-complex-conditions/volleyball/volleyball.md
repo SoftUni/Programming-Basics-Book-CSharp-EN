@@ -1,12 +1,12 @@
 # Problem: Volleyball
 
-Vladi is a student, lives in Sofia and goes to his hometown from time to time. He is very keen on volleyball, but is busy during weekdays and plays **volleyball** only during **weekends** and on **holidays**. Vladi plays **in Sofia** every **Saturday**, when **he is not working** and **he is not travelling to his hometown** and also during **2/3 of the holidays**. He travels to his **hometown h times** a year, where he plays volleyball with his old friends on **Sunday**. Vladi **is not working 3/4 of the weekends**, during which he is in Sofia. Furthermore, during **leap years** Vladi plays **15% more** volleyball than usual. We accept that the year has exactly **48 weekends**, suitable for volleyball. 
-Write a program that calculates **how many times Vladi has played volleyball** through the year. **Round the result** down to the nearest whole number (e.g. 2.15 -> 2; 9.95 -> 9).
+Vladimir is a student, lives in Sofia and goes to his hometown from time to time. He is very keen on volleyball, but is busy during weekdays and plays **volleyball** only during **weekends** and on **holidays**. Vladimir plays **in Sofia** every **Saturday**, when **he is not working** and **he is not traveling to his hometown** and also during **2/3 of the holidays**. He travels to his **hometown h times** a year, where he plays volleyball with his old friends on **Sunday**. Vladimir **is not working 3/4 of the weekends**, during which he is in Sofia. Furthermore, during **leap years** Vladimir plays **15% more** volleyball than usual. We accept that the year has exactly **48 weekends**, suitable for volleyball. 
+Write a program that calculates **how many times Vladimir has played volleyball** through the year. **Round the result** down to the nearest whole number (e.g. 2.15 -> 2; 9.95 -> 9).
 
 The input data is read from the console:
  * The first line contains the word “**leap**” (leap year) or “**normal**” (a normal year with 365 days).
  * The second line contains the integer **p** – the count of holidays in the year (which are not Saturday or Sunday).
- * The third line contains the integer **h** – the count of weekends, in which Vladi travels to his hometown.
+ * The third line contains the integer **h** – the count of weekends, in which Vladimir travels to his hometown.
 
 ## Sample Input and Output
 

@@ -2,7 +2,7 @@
 
 Write a program for **conversion of money from one currency into another**. It has to support the following currencies: **BGN, USD, EUR, GBP**. Use the following fixed currency rates:
 
-|  Курс  |   USD   |   EUR   |   GBP   |
+|  Rate  |   USD   |   EUR   |   GBP   |
 |:------:|:-------:|:-------:|:-------:|
 | 1 BGN  | 1.79549 | 1.95583 | 2.53405 |
 
@@ -10,11 +10,11 @@ Write a program for **conversion of money from one currency into another**. It h
 
 ## Sample Input and Output
 
-|        Input        |   Output  |
-|------------------|--------|
-|   20<br>USD<br>BGN |35.91 BGN |     
-|  100<br>BGN<br>EUR |51.13 EUR | 
-| 12.35<br>EUR<br>GBP| 9.53 GBP |  
+|        Input       |  Output  |
+|--------------------|----------|
+|   20<br>USD<br>BGN | 35.91 BGN|     
+|  100<br>BGN<br>EUR | 51.13 EUR| 
+| 12.35<br>EUR<br>GBP|  9.53 GBP|  
 |150.35<br>USD<br>EUR|138.02 EUR|
  
 ## Testing in the Judge System

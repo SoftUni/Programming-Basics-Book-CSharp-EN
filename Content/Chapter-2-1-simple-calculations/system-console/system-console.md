@@ -2,7 +2,7 @@
 
 Simply called "**console**", the "system console", also the "computer console", represents the tool by which we give the computer commands in a text format and get the results from their execution again as a text.
 
-Generally the **system console** represents a text terminal, which means that it accepts and visualizes just **text** without any graphical elements like buttons, menus, etc. It usually looks like a black coloured window like this one:
+Generally the **system console** represents a text terminal, which means that it accepts and visualizes just **text** without any graphical elements like buttons, menus, etc. It usually looks like a black colored window like this one:
 
 ![](/assets/chapter-2-images/00.Console-example.png)
 

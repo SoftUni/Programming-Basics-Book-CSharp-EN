@@ -17,7 +17,7 @@ The price for arranging a bouquet is always **2 lv.** Write a program that calcu
 
 ## Input Data
 
-The input is read from the **console** and contains **exactly 5 linex**:
+The input is read from the **console** and contains **exactly 5 lines**:
  * The first line contains **the number of purchased chrysanthemums** – an integer within the range [**0 … 200**].
  * The second line contains **the number of purchased roses** – an integer within the range [**0 … 200**].
  * The third line contains **the number of purchased tulips** – an integer within the range [**0 … 200**].
@@ -58,7 +58,7 @@ We will also do the same for the rest of the defined values:
 
 ### Reading the Input Data
 
-Our next subtask is to **read** properly **the input** data from the console. We will do that in the familiar way, but this time we will **combine two** separate functions – one for **reading** a line from the console and another one for its **conversion** into a numeric data type:
+Our next sub-task is to **read** properly **the input** data from the console. We will do that in the familiar way, but this time we will **combine two** separate functions – one for **reading** a line from the console and another one for its **conversion** into a numeric data type:
 
 ![](/assets/chapter-8-2-images/03.Flowers-03.png)
 

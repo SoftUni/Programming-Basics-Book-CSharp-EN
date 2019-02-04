@@ -26,7 +26,7 @@ We can see from the explanation that **the input data** will come from only one 
 
 ![](/assets/chapter-6-2-images/03.Stop-01.png)
 
-We can **divide** the figure into **3 parts** – upper, middle and lower. **The upper part** contains two subparts – first row and rows in which the sign widens. **The first row** is made of a beginning **`.`**, middle part **`_`** and an end **`.`**. After looking at the examples we can say that the beginning is **`n + 1`** columns wide so it is good to write this **value** in a separate **variable**.
+We can **divide** the figure into **3 parts** – upper, middle and lower. **The upper part** contains two sub-parts – first row and rows in which the sign widens. **The first row** is made of a beginning **`.`**, middle part **`_`** and an end **`.`**. After looking at the examples we can say that the beginning is **`n + 1`** columns wide so it is good to write this **value** in a separate **variable**.
 
 ![](/assets/chapter-6-2-images/03.Stop-02.png)
 		

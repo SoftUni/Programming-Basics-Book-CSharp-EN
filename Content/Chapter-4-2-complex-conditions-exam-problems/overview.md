@@ -39,7 +39,7 @@ switch (selector)
 }
 ```
 
-The structure consists of а `selector` (an expression that calculates a particular value) + multiple `case` labels followed by commands, ending in a `break`. The selector type can be an integer, string or enum.
+The structure consists of a `selector` (an expression that calculates a particular value) + multiple `case` labels followed by commands, ending in a `break`. The selector type can be an integer, string or enumeration (enum).
 
 ## Exam Problems
 

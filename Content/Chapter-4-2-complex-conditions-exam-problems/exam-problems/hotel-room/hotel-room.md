@@ -49,7 +49,7 @@ We will read the input data and do the calculations according to the provided pr
 
 ### Processing the Input Data
 
-According to the task requirements we expect to read two lines of input data: **the month in which the stay is planned** (first line), and **the number of stays** (seond line).
+According to the task requirements we expect to read two lines of input data: **the month in which the stay is planned** (first line), and **the number of stays** (second line).
 
 Let's process and store the input data in the appropriate parameters:
 

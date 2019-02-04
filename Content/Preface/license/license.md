@@ -6,4 +6,4 @@ The book is published and distributed **on paper** by SoftUni and you can buy a 
 
 The **source code** of the book can be found in GitHub: https://github.com/SoftUni/Programming-Basics-Book-CSharp-EN.
 
-International Standard Book Number ISBN: **TODO**.
+International Standard Book Number ISBN: **978-619-00-0902-3**.

@@ -7,7 +7,7 @@ There are cases in practice when we need a method to return more than one elemen
 Let's examine an example declaring of a variable of **`ValueTuple`** type:
 
 ```csharp
-var personInfo = (name: "Steeve", age: 27, "Bulgaria");
+var personInfo = (name: "Steve", age: 27, "Bulgaria");
 ```
 
 To make it easier when declaring, we use the keyword **`var`**, and in the brackets we list **the names of the values we want**, followed by **the values themselves**. Let's see what the variable **`personInfo`** contains in debug mode:

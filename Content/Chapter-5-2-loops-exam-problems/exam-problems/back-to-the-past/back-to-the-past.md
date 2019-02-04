@@ -1,6 +1,6 @@
 # Problem: Back to the Past
 
-Ivancho is **18 years old** and receives an inheritance that consists of **X** money and а **time machine**. He decides **to return to 1800**, but does not know **if the money** will **be enough** to live without working. Write **a program that calculates** if Ivancho **will have enough money** to not have to work until a particular year (inclusive). Assuming that **for every even** (1800, 1802, etc.) year he **will spend 12 000 dollars**. For **every odd one** (1801, 1803, etc.) he will spend **12 000 + 50 * [the age he will have reached in the given year]**.
+Ivan is **18 years old** and receives an inheritance that consists of **X** money and a **time machine**. He decides **to return to 1800**, but does not know **if the money** will **be enough** to live without working. Write **a program that calculates** if Ivan **will have enough money** to not have to work until a particular year (inclusive). Assuming that **for every even** (1800, 1802, etc.) year he **will spend 12 000 dollars**. For **every odd one** (1801, 1803, etc.) he will spend **12 000 + 50 * [the age he will have reached in the given year]**.
 
 ## Input Data
 
@@ -61,11 +61,11 @@ The method to solve this task is no different than the previous ones, so we star
 
 ![](/assets/chapter-5-2-images/03.Back-to-the-past-01.png)
 
-The requirements say that Ivancho is 18 years old, so when declaring the variable **`years`** we assign it an initial value of **18**. We read the other variables from the console.
+The requirements say that Ivan is 18 years old, so when declaring the variable **`years`** we assign it an initial value of **18**. We read the other variables from the console.
 
 ## Iterating through the Years
 
-Using a **`for` loop**, we will iterate through all years. We **start from 1800** – the year in that Ivancho returns, and we reach the **year until which he must live in the past**. We check in the loop if the current year is **even** or **odd**. We do this by **division with remainder** (**`%`**) by 2. If the year is **even**, we subtract from **`heritage`** **12000**, and if is **odd**, we subtract from **`heritage`** **12000 + 50 * (years)**.
+Using a **`for` loop**, we will iterate through all years. We **start from 1800** – the year in that Ivan returns, and we reach the **year until which he must live in the past**. We check in the loop if the current year is **even** or **odd**. We do this by **division with remainder** (**`%`**) by 2. If the year is **even**, we subtract from **`heritage`** **12000**, and if is **odd**, we subtract from **`heritage`** **12000 + 50 * (years)**.
 
 ![](/assets/chapter-5-2-images/03.Back-to-the-past-02.png)
 

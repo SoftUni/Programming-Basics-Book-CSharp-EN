@@ -37,7 +37,7 @@ How to **build algorithmic thinking**?
 
 The current book develops the **beginner level of algorithmic thinking**, but it's not enough to make you a good programmer. To become good at this profession you have to add **logical thinking and problem solving skills**, beyond the range of this book. For example, working with **data structures** \(arrays, lists, matrices, hash-tables, binary trees\) and basic **algorithms** \(searching, sorting, searching in tree structures, recursion, etc.\).
 
-**Algorithmic thinking skill** can be seriously developed at the beginner courses for software engineers in SoftUni \(see [curriculum](https://softuni.bg/curriculum)\) as well as in specialized algorithmic courses [data structures](https://softuni.bg/opencourses/data-structures) and [algorightms](https://softuni.bg/opencourses/algorithms).
+**Algorithmic thinking skill** can be seriously developed at the beginner courses for software engineers in SoftUni \(see [curriculum](https://softuni.bg/curriculum)\) as well as in specialized algorithmic courses [data structures](https://softuni.bg/opencourses/data-structures) and [algorithms](https://softuni.bg/opencourses/algorithms).
 
 As you can guess **the programming language doesn't matter** for the development of algorithmic thinking. To think logically is a universal skill, and it's not related only to programming. Because of the well developed logical thinking it's believed that programmers are smart people, and that a stupid person can't become a programmer.
 
@@ -45,7 +45,7 @@ As you can guess **the programming language doesn't matter** for the development
 
 **Fundamental knowledge and skills** for programming, software development, software engineering and computer science form around 25% of the developer's minimum skills to start a job. Here are the more important of these skills and knowledge:
 
-* **basic mathematical concepts** related to programming: coordinate systems, vectors and matrices, discrete and non-discrete mathematical functions, state automats and state machines, combinatorics and statistics concepts, algorithm complexity, mathematical modeling and others
+* **basic mathematical concepts** related to programming: coordinate systems, vectors and matrices, discrete and non-discrete mathematical functions, state automata and state machines, combinatorics and statistics concepts, algorithm complexity, mathematical modeling and others
 * **programming skills** – code writing, working with data, using conditional statements and loops, working with arrays, lists and associative arrays, strings and text processing, working with streams and files, using programming interfaces \(APIs\), working with debugger, etc.
 * **data structures and algorithms** – lists, trees, hash-tables, graphs, search, sorting, recursion, binary search trees, etc.
 * **object-oriented programming** \(OOP\) – working with classes, objects, inheritance, polymorphism, abstraction, interfaces, data encapsulation, exceptions management, design pattern
@@ -58,7 +58,7 @@ As you can guess **the programming language doesn't matter** for the development
 * **mobile technologies** – mobile apps, Android and iOS development, mobile user interface \(UI\), calling server logic 
 * **embedded systems** – microcontrollers, digital and analog input and output control, sensor access, peripheral management
 * **operating systems** – working with operating systems \(Linux, Windows, etc.\), installation, configuration and basic system administration, process management, memory, file system, users, multitasking, virtualization and containers
-* **parallel programming and asynchrony** – thread management, asynchronous tasks, promises, common resources, and access synchronization
+* **parallel and asynchronous programming** – thread management, asynchronous tasks, promises, common resources, and access synchronization
 * **software engineering** – source control systems, development management, task planning and management, software development methodologies, software requirements and prototypes, software design, software architectures, software documentation
 * **software testing** – unit testing, test-driven development, QA engineering, error reporting and error tracking, automation testing, build processes and continuous integration
 
@@ -70,7 +70,7 @@ To start working as a programmer, only **basic knowledge in the areas listed abo
 
 ## Skill \#4 – Programming Languages and Software Technologies \(25%\)
 
-**Programming languages and software development technologies** form around 25% of a programmer's skills. They have the largest learning content, but they change very fast over time. If we look at the **job offers** in the software industry they usually mention words like the ones bellow, but in the job offers they secretly mention **the three main skills**: coding, thinking algorithmically and knowing the fundamentals of computer science and software engineering.
+**Programming languages and software development technologies** form around 25% of a programmer's skills. They have the largest learning content, but they change very fast over time. If we look at the **job offers** in the software industry they usually mention words like the ones bellow, but in the job offers they secretly mention **the three main skills**: coding, algorithmic thinking and knowing the fundamentals of computer science and software engineering.
 
 For those clearly technological skills **the programming language does matter**
 
@@ -87,7 +87,7 @@ Here are some commonly used software development stacks which software companies
 * **C++** + OOP + STL + Boost + native development + databases + HTTP + other languages
 * **Swift** + MacOS + iOS + Cocoa + Cocoa Touch + XCode + HTTP + REST + other languages
 
-If the words above look scary and absolutely incomprehensible, then you are at the very beginning of your career and you need **many years of learning** until you reach the profession of a "software engineer". Do not worry, every programmer goes through one or several technology stacks and needs to study **a set of interconnected technologies**, but the bottom line is **the ability to write programming logic \(coding\)**, and the skill **to think algorithmically** \(to solve programming problems\). It's not possible without them!
+If the words above look scary and absolutely incomprehensible, then you are at the very beginning of your career and you need **many years of learning** until you reach the profession of a "software engineer". Do not worry, every programmer goes through one or several technology stacks and needs to study **a set of interconnected technologies**, but the bottom line is **the ability to write programming logic \(coding\)**, and the skill of **algorithmic thinking** \(to solve programming problems\). It's not possible without them!
 
 ## The Programming Language Doesn't Matter!
 
@@ -100,5 +100,5 @@ Indeed, **the programming language almost does not matter**, you just have to le
 
 Only when you start working with a specific technology into a software project you will need **a specific programming language**, knowledge in particular programming libraries \(APIs\), frameworks and software technologies \(front-end UI technologies, back-end technologies, ORM technologies, etc.\). Keep calm, you will learn them, all programmers are learning them, but first you need to learn the foundation: **to program and do it well**.
 
-This book uses the C\# language, but it is not required and can be replaced with Java, JavaScript, Python, PHP, C ++, Ruby, Swift, Go, Kotlin, or any other language. To be a **software developer**, you need to learn **coding** \(20%\), learn to **think algorithmically**, and **solve problems** \(30%\), to have **fundamental knowledge of programming and computer science** \(25%\) and to master a **specific programming language and the technologies around it** \(25%\). Be patient, for a year or two all this can be mastered on a good starting level, as long as you are serious.
+This book uses the C\# language, but it is not required and can be replaced with Java, JavaScript, Python, PHP, C ++, Ruby, Swift, Go, Kotlin, or any other language. To be a **software developer**, you need to learn **coding** \(20%\), learn **algorithmic thinking**, and **solve problems** \(30%\), to have **fundamental knowledge of programming and computer science** \(25%\) and to master a **specific programming language and the technologies around it** \(25%\). Be patient, for a year or two all this can be mastered on a good starting level, as long as you are serious.
 

@@ -21,7 +21,7 @@ Print on the console **all integer numbers**, result of the above mentioned calc
 
 | Input | Output | Comments |
 | --- | --- | --- |
-|132|129 126 123<br>120 119 121<br>123 120 119<br>121 123 120|(1 + 3) = 4 и (1 + 2) = 3 &rarr; 4 lines with 3 numbers in each<br>Input number 132 <br>132 &rarr; division by 3 &rarr; 132 - 3 =<br>= 129 &rarr; division by 3 &rarr; 129 - 3 = <br>= 126 &rarr; division by 3 &rarr; 126 - 3 = <br>= 123 &rarr; division by 3 &rarr; 123 - 3 = <br>= 120 &rarr; division by 5 &rarr; 120 - 1 = <br>..... 121 &rarr; neither by 5, nor 3 &rarr; 121 + 2 = 123|
+|132|129 126 123<br>120 119 121<br>123 120 119<br>121 123 120|(1 + 3) = 4 and (1 + 2) = 3 &rarr; 4 lines with 3 numbers in each<br>Input number 132 <br>132 &rarr; division by 3 &rarr; 132 - 3 =<br>= 129 &rarr; division by 3 &rarr; 129 - 3 = <br>= 126 &rarr; division by 3 &rarr; 126 - 3 = <br>= 123 &rarr; division by 3 &rarr; 123 - 3 = <br>= 120 &rarr; division by 5 &rarr; 120 - 1 = <br>..... 121 &rarr; neither by 5, nor 3 &rarr; 121 + 2 = 123|
 
 | Input | Output | Comments |
 | --- | --- | --- |

@@ -29,7 +29,7 @@ while b ≠ 0
   var oldB = b;
   b = a % b;
   a = oldB;
-print а;
+print a;
 ```
 
 ## Example: Greatest Common Divisor (GCD)

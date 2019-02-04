@@ -1,6 +1,6 @@
 # More Complex Logical Conditions
 
-Sometimes the conditions may be **very complex**, so they can require a long boolean expression or a sequence of conditions. Let's take a look at a few examples.
+Sometimes the conditions may be **very complex**, so they can require a long bool expression or a sequence of conditions. Let's take a look at a few examples.
 
 ## Example: Point on a Rectangle Side
 
@@ -26,7 +26,7 @@ The previous evaluation might be simplified in the following way:
 
 ![](/assets/chapter-4-images/06.Point-on-rectangle-border-03.png)
 
-The second way with the additional boolean variables is longer, but much more understandable than the first one, isn't it? We recommend when you write boolean conditions to make them **easy to read and understand**, instead of making them short. Use additional variables with meaningful names, if needed. The names of the boolean variables have to hint what the value that is kept inside them represents.
+The second way with the additional Boolean (bool) variables is longer, but much more understandable than the first one, isn't it? We recommend when you write Boolean conditions to make them **easy to read and understand**, instead of making them short. Use additional variables with meaningful names, if needed. The names of the bool variables have to hint what the value that is kept inside them represents.
 
 What remains is to finish writing the code to print “**Inside / Outside**”, if the point is not onto any of the sides of the rectangle.
 
@@ -82,7 +82,7 @@ Write a **program** that reads the name of a **city** (string) and the volume of
 
 | Input | Output | Input | Output | Input | Output |
 |-----|-----|-----|-----|-----|-----|
-|Sofia<br>1500|120.00|Plovdiv<br>499.99|27.50|Kaspichan<br>-50|error|
+|Sofia<br>1500|120.00|Plovdiv<br>499.99|27.50|Paris<br>-50|error|
 
 ### Solution
 

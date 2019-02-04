@@ -10,7 +10,7 @@ First we have learned **what is programming** – **giving commands, written in 
 
 Let's get started with the **exercises**. You didn't forget that programming is learned by writing a lot of code and solving problems, did you? Let's solve a few problems to confirm what we have learned.
 
-* [Problem: Console Application “Expression”](https://legacy.gitbook.com/book/software-university-foundation/programming-basics-csharp-en/edit#)
+* [Problem: Console Application “Expression”](/Content/Chapter-1-first-steps-in-programming/exercises-first-steps-in-coding/expression.md)
 * [Problem: Numbers from 1 to 20](/Content/Chapter-1-first-steps-in-programming/exercises-first-steps-in-coding/numbers-1-to-20.md)
 * [Problem: A Triangle Made Out of 55 Stars](/Content/Chapter-1-first-steps-in-programming/exercises-first-steps-in-coding/triangle-of-stars.md)
 * [Problem: Calculate Rectangle Area](/Content/Chapter-1-first-steps-in-programming/exercises-first-steps-in-coding/rectangle-area.md)

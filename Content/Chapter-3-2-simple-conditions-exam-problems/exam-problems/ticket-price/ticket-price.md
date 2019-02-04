@@ -11,7 +11,7 @@ Write a program that reads the number of **kilometers n** and **period of the da
 
 **Two lines** are read from the console:
 * The first line contains a number **n** – number of kilometers – an integer in the range of [**1 … 5000**].
-* The second line contains the word “**day**” or “**night**” – travelling during the day or during the night. 
+* The second line contains the word “**day**” or “**night**” – traveling during the day or during the night. 
 
 ## Output Data
 

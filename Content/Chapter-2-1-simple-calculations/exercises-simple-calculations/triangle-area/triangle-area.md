@@ -4,8 +4,8 @@ Write a program that reads from the console **a side and height of a triangle** 
 
 ## Sample Input and Output
 
-|       Input           |         Output         |
-|--------------------|---------------------|
+|       Input          |         Output        |
+|----------------------|-----------------------|
 | 20 <br>30            | Triangle area = 300   |
 | 15 <br>35            | Triangle area = 262.5 |
 | 7.75 <br>8.45        | Triangle area = 32.74 |

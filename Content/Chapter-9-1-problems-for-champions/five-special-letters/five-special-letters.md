@@ -5,7 +5,7 @@ Two numbers are given: **start** and **end**. Write a program that **generates a
 **The weight of one letter** is calculated as follows:
 
 ```csharp 
-weight('а') = 5;
+weight('a') = 5;
 weight('b') = -12;
 weight('c') = 47;
 weight('d') = 7;
@@ -82,7 +82,7 @@ and **for each digit we take the letter from the particular position.** This way
 
 ![](/assets/chapter-9-images/03.Five-special-letters-04.png)
 
-**Another way:** we can convert the digits to letters by using their arrangement in the ASCII table. The expression 'а' + i will give us the result 'a' in case i = 0, 'b' in case i = 1, 'c' in case i = 2, etc.
+**Another way:** we can convert the digits to letters by using their arrangement in the ASCII table. The expression 'a' + i will give us the result 'a' in case i = 0, 'b' in case i = 1, 'c' in case i = 2, etc.
 
 This way we already have generated all 5-letter combinations and can proceed with the following part of the task.
 

@@ -4,7 +4,7 @@ We have **n integer numbers** within the range of [**1 … 1000**]. Some percent
 
 **Example**: we have n = **20** numbers: 53, 7, 56, 180, 450, 920, 12, 7, 150, 250, 680, 2, 600, 200, 800, 799, 199, 46, 128, 65. We get the following distribution and visualization:
                           
-| **Group**   | **Numbers**                                       | **Numbers Count** | **Percent**                     |
+| **Group**   | **Numbers**                                     | **Numbers Count** | **Percent**                  |
 |-------------|-------------------------------------------------|:---------------|---------------------------------|
 | < 200       | 53, 7, 56, 180, 12, 7, 150, 2, 199, 46, 128, 65 | 12             | p1 = 12 / 20 * 100 = 60.00%     |
 | 200 … 399   | 250, 200                                        | 2              | p2 = 2 / 20 * 100 = 10.00%      |

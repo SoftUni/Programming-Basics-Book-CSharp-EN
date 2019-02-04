@@ -4,7 +4,7 @@ Write a C# console program that **reads** from the console **an integer N** and 
 
 ## Sample Input and Output
 
-| Input  |    Outup   	| Input  |    Output   	| Input  |    Output   	| 
+| Input  |    Output   	| Input  |    Output   	| Input  |    Output   	| 
 |-----|-----------|-----|-----------|-----|----------|
 |  3  	|<code>\*\*\*</code><br><code>\*&nbsp;\*</code><br><code>\*\*\*</code>|  4  |<code>\*\*\*\*</code><br><code>\*&nbsp;&nbsp;\*</code><br><code>\*&nbsp;&nbsp;\*</code><br><code>\*\*\*\*</code>| 5  	|<code>\*\*\*\*\*</code><br><code>\*&nbsp;&nbsp;&nbsp;\*</code><br><code>\*&nbsp;&nbsp;&nbsp;\*</code><br><code>\*&nbsp;&nbsp;&nbsp;\*</code><br><code>\*\*\*\*\*</code>|
 

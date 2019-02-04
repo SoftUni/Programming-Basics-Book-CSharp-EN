@@ -72,7 +72,7 @@ In this case after the number we add `:f2`, which will limit the number to 2 dig
 The conditional `if`** construction** contains the following elements:
 
 * Keyword `if`
-* **A boolean expression** \(condition\)
+* **A Boolean expression** \(condition\)
 * **Body** of the conditional construction
 * Optional: `else`** clause**
 
