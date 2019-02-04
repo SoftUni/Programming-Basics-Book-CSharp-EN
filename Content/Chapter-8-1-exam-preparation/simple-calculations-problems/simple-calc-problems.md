@@ -70,10 +70,10 @@ Construction workers have to transfer a total of **x bricks**. **Workers** are *
 
 ### Input
 
-The console reads **3 integers** (one per line):
-- **The number of bricks x** is read from the first row.
-- **The number of workers w** is read from the second row
-- **The capacity of the trolley m** is read from the third row.
+At the console **3 integers** are given, one per line:
+ * **The number of bricks x** is read from the first line.
+ * **The number of workers w** is read from the second line
+ * **The capacity of the trolley m** is read from the third line.
 
 All input numbers are integers in the range [**1 … 1000**].
 

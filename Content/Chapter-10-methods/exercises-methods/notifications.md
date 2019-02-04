@@ -1,6 +1,6 @@
 # Problem: Notifications
 
-Write a program, which takes an integer **`n`** and on the next rows prints **`n`** **messages** (for each message read a few lines). Each message starts with **`messageType`**: **`success`**, **`warning`** or **`error`**:
+Write a program, which takes an integer **`n`** and on the next lines prints **`n`** **messages** (for each message read a few lines). Each message starts with **`messageType`**: **`success`**, **`warning`** or **`error`**:
 - When **`messageType`** is **`success`** read **`operation`** + **`message`** (each on a new line).
 - When **`messageType`** is **`warning`** read only **`message`**.
 - When **`messageType`** is **`error`** read **`operation`** + **`message`** + **`errorCode`** (each on a new line).

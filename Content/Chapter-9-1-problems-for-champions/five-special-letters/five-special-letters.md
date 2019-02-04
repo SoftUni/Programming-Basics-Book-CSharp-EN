@@ -1,6 +1,6 @@
 # Problem: Five Special Letters
 
-Two numbers are given: **start** and **end**. Write a program that **generates all combinations of 5 letters**, each among the sets of **`{'a', 'b', 'c', 'd', 'e'}`** so that the weight of these 5 letters is a number in the range **`[start … end]`**, inclusive. Print them in alphabetical order, in a row, separated by a space.
+Two numbers are given: **start** and **end**. Write a program that **generates all combinations of 5 letters**, each among the sets of **`{'a', 'b', 'c', 'd', 'e'}`** so that the weight of these 5 letters is a number in the range **`[start … end]`**, inclusive. Print them in alphabetical order, in a single row, separated by a space.
 
 **The weight of one letter** is calculated as follows:
 
@@ -34,7 +34,7 @@ Input data will always be valid and will always be in the format described. No n
 
 ## Output Data
 
-The result should be printed on the console as a sequence of strings, **arranged in alphabetical order**. Each string must be separated from the next one by a single space. If the weight of any of the 5 letter strings does not exist within the specified interval, print "**No**".
+The result should be printed on the console as a sequence of strings, **arranged in alphabetical order**. Each string must be separated from the next one by a single space. If the weight of any of the 5 letter strings does not exist within the specified range, print "**No**".
 
 ## Constraints
 
@@ -66,7 +66,7 @@ As every problem, we start the solution by **reading and processing the input da
 
 ![](/assets/chapter-9-images/03.Five-special-letters-01.png)
 
-We have several main points in the problem – **generating all combinations** with a length of 5 including the 5 letters, **removing repeating letters** and **calculating weight** for a simplified word. The answer will consist of every word whose weight is within the given interval **`[firstNumber, secondNumber]`**.
+We have several main points in the problem – **generating all combinations** with a length of 5 including the 5 letters, **removing repeating letters** and **calculating weight** for a simplified word. The answer will consist of every word whose weight is within the given range **`[firstNumber, secondNumber]`**.
 
 ### Generating All Combinations
 
@@ -118,13 +118,13 @@ Whether a word needs to be printed is determined by its weight. We need a condit
 
 **Be careful** not to print the word with unique letters. It was only needed to calculate the weight!
 
-The words are **separated with an interval** and we'll accumulate them in an intermediate variable **`result`**, which is defined as an empty string at the beginning.
+The words are **separated with a space** and we'll accumulate them in an intermediate variable **`result`**, which is defined as an empty string at the beginning.
 
 ![](/assets/chapter-9-images/03.Five-special-letters-09.png)
 
 ### Final Touches
 
-The condition is met **unless we do not have a single word in the entered interval**. In order to find out if we have found a word, we can simply check whether the string **`result`** has its initial value (i.e., an empty string), if it does, we print **`No`**, otherwise we print the whole string without the last interval (using the **`.Trim ()`**) method.
+The condition is met **unless we do not have a single word in the entered range**. In order to find out if we have found a word, we can simply check whether the string **`result`** has its initial value (i.e., an empty string), if it does, we print **`No`**, otherwise we print the whole string without the last space (using the **`.Trim ()`**) method.
 
 ![](/assets/chapter-9-images/03.Five-special-letters-10.png)
 

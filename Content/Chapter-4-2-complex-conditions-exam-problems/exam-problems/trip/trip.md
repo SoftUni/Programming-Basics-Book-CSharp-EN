@@ -23,12 +23,12 @@ The input data will be read from the console and will consist of **two lines**:
 
 ## Output Data
 
-**Two rows** must be printed in the console.
+**Two lines** must be printed in the console.
 
-- On the **first** row – "**Somewhere in {destination}**" among "**Bulgaria**", "**Balkans**" and "**Europe**".
-- On the **second** row – "{**Vacation type**} – {**Amount spent**}".
-  - The **Vacation** can be in a "**Camp**" or "**Hotel**".
-  - The **Amount** must be **rounded up to the second digit after the decimal point**.
+* On the **first** line – "**Somewhere in {destination}**" among "**Bulgaria**", "**Balkans**" and "**Europe**".
+* On the **second** line – "{**Vacation type**} – {**Amount spent**}".
+  * The **Vacation** can be in a "**Camp**" or "**Hotel**".
+  * The **Amount** must be **rounded up to the second digit after the decimal point**.
 
 ## Sample Input and Output
 
@@ -46,7 +46,7 @@ Typically, as for the other tasks, we can separate the solution into the followi
 
 ### Processing the Input Data
 
-While reading carefully the requirements, we understand that we expect **two** rows of input data. The first parameter is a **real number**, for which we need to pick an appropriate variable type. For higher level of calculation accuracy we can pick **`decimal`** as a variable for the budget and – **`string`** for the season. 
+While reading carefully the requirements, we understand that we expect **two** lines of input data. The first parameter is a **real number**, for which we need to pick an appropriate variable type. For higher level of calculation accuracy we can pick **`decimal`** as a variable for the budget and – **`string`** for the season. 
 
 ![](/assets/chapter-4-2-images/02.Trip-01.png)
 

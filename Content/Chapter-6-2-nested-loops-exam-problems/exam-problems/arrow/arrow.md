@@ -22,7 +22,7 @@ Print a vertical arrow on the console, in which "**`#`**" (number sign) marks th
 
 ## Hints and Guidelines
 
-From the explanation we see that **the input data** will be read from one row only, which will contain **an integer** within the range [**3 … 1000**]. This is why we will use **a variable** of **`int`** type.
+From the explanation we see that **the input data** will be read from one input line only, which will contain **an integer** within the range [**3 … 1000**]. This is why we will use **a variable** of **`int`** type.
 
 ![](/assets/chapter-6-2-images/04.Arrow-01.png)
 		

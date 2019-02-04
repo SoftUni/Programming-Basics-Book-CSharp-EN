@@ -65,11 +65,11 @@ When declaring methods you must follow the **sequence** of its base elements –
 
 After we have declared a method, its **implementation (body)** follows. In the body of the method we write down **the algorithm**, by which it solves a problem, i.e. the body contains the code (program block), which applies the method's **logic**. In the shown example we are calculating the area of a square, which is **`num * num`**. 
 
-When declaring a variable in the body of a method, it is called a **local** variable of the method. The area where this variable exists and can be used starts from the row where we have declared it and reaches the closing curly bracket `}` of the body of the method. This area is called **variable scope**.
+When declaring a variable in the body of a method, it is called a **local** variable of the method. The area where this variable exists and can be used starts from the line where we have declared it and reaches the closing curly bracket `}` of the body of the method. This area is called **variable scope**.
 
 ## Calling Methods
 
-**Calling** a method means **starting to execute the code**, which is in **the body of the method**. This happens by writing its **name**, followed by parentheses **`()`** and the sign **`;`** to end the row. If the method needs input data, it is given in the parentheses **`()`**, and the succession of the parameters should be the same as the one of the given parameters when declaring the method. Here is an example:
+**Calling** a method means **starting to execute the code**, which is in **the body of the method**. This happens by writing its **name**, followed by parentheses **`()`** and the sign **`;`** to end the line. If the method needs input data, it is given in the parentheses **`()`**, and the succession of the parameters should be the same as the one of the given parameters when declaring the method. Here is an example:
 
 ![](/assets/chapter-10-images/03.Invoking-methods-01.png)
 

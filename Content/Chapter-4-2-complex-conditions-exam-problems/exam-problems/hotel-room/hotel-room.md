@@ -18,17 +18,17 @@ The following **discounts** are also offered:
 
 ## Input Data
 
-The input data is read from the **console** and contains **exactly two rows**:
+The input data is read from the **console** and contains **exactly two lines**:
 
-- The **first** row contains the **month** – **May**, **June**, **July**, **August**, **September** or **October**.
-- The **second** row is the **number of stays** – **integer within the range** [**0 … 200**].
+- The **first** line contains the **month** – **May**, **June**, **July**, **August**, **September** or **October**.
+- The **second** line is the **number of stays** – **integer within the range** [**0 … 200**].
 
 ## Output Data
 
-**Print** the following **two rows** in the console:
+**Print** the following **two lines** on the console:
 
-- On the **first row**: "**Apartment: { price for the whole stay } lv**".
-- On the **second row**: "**Studio: { price for the whole stay } lv**".
+- On the **first line**: "**Apartment: { price for the whole stay } lv**".
+- On the **second line**: "**Studio: { price for the whole stay } lv**".
 
 **The price for the whole stay must be formatted up to two symbols after the decimal point**.
 

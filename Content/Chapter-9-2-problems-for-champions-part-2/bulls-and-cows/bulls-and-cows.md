@@ -18,17 +18,17 @@ If there are **no suggested numbers** that match the criteria provided from the 
 
 ## Input Data
 
-The input data is read from the console. The input consists of 3 rows:
-* The first row contains **the secret number**.
-* The second row contains **the number of bulls**.
-* The third row contains **the number of cows**.
+The input data is read from the console. The input consists of 3 text lines:
+ * The first line contains **the secret number**.
+ * The second line contains **the number of bulls**.
+ * The third line contains **the number of cows**.
 
 The input data will always be valid. There is no need to verify them.
 
 ## Output Data
 
 The output data must be printed on the console.
-The output must consist of **a single row** – **all suggested numbers**, space separated.
+The output must consist of **a single line**, holding **all suggested numbers**, space separated.
 If there are **no suggested numbers** that match the criteria provided from the console, we must **print “No”**.
 
 ## Constraints
@@ -62,10 +62,10 @@ We will solve the problem in a few steps:
 
 ### Reading the Input Data
 
-We have 3 rows for the input of our task:
-* **Secret number**.
-* **Number of** desired **bulls**.
-* **Number of** desired **cows**.
+We have 3 lines in the input data:
+ * **Secret number**.
+ * **Number of** desired **bulls**.
+ * **Number of** desired **cows**.
 
 Reading the input data is trivial:
 

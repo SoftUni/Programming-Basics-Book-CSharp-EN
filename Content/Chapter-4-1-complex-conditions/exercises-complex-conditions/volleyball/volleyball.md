@@ -4,10 +4,9 @@ Vladi is a student, lives in Sofia and goes to his hometown from time to time. H
 Write a program that calculates **how many times Vladi has played volleyball** through the year. **Round the result** down to the nearest whole number (e.g. 2.15 -> 2; 9.95 -> 9).
 
 The input data is read from the console:
-
-* The first row contains the word “**leap**” (leap year) or “**normal**” (a normal year with 365 days).
-* The second row contains the integer **p** – the count of holidays in the year (which are not Saturday or Sunday).
-* The third row contains the integer **h** – the count of weekends, in which Vladi travels to his hometown.
+ * The first line contains the word “**leap**” (leap year) or “**normal**” (a normal year with 365 days).
+ * The second line contains the integer **p** – the count of holidays in the year (which are not Saturday or Sunday).
+ * The third line contains the integer **h** – the count of weekends, in which Vladi travels to his hometown.
 
 ## Sample Input and Output
 

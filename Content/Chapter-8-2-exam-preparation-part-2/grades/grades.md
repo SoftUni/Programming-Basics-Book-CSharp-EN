@@ -4,18 +4,18 @@ Write a program that **calculates statistics for grades** in an exam. At the beg
 
 ## Input Data
 
-Read from the console a **sequence of numbers, each on a separate row**:
-* On the first row – **the number of students who attended the exam** – an integer within the range [**1 … 1000**].
-* For **each individual student** on a separate row – **the grade on the exam** – a real number within the range [**2.00 … 6.00**].
+Read from the console a **sequence of numbers, each on a separate line**:
+ * On the first line – **the number of students who attended the exam** – an integer within the range [**1 … 1000**].
+ * For **each individual student** on a separate line – **the grade on the exam** – a real number within the range [**2.00 … 6.00**].
 
 ## Output Data
 
-Print on the console **5 rows** that contain the following information:
-* "Top students: {percentage of students with grade of 5.00 or more}%".
-* "Between 4.00 and 4.99: {between 4.00 and 4.99 included}%".
-* "Between 3.00 and 3.99: {between 3.00 and 3.99 included}%".
-* "Fail: {less than 3.00}%".
-* "Average: {average grade}".
+Print on the console **5 lines** that hold the following information:
+ * "Top students: {percentage of students with grade of 5.00 or more}%".
+ * "Between 4.00 and 4.99: {between 4.00 and 4.99 included}%".
+ * "Between 3.00 and 3.99: {between 3.00 and 3.99 included}%".
+ * "Fail: {less than 3.00}%".
+ * "Average: {average grade}".
 
 The results must be **formatted up to the second symbol** after the decimal point.
 

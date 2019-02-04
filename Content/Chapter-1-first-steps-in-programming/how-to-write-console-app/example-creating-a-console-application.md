@@ -29,7 +29,7 @@ Here is how our program should look like in Visual Studio:
 
 ![](/assets/chapter-1-images/01.Hello-csharp-04.png)
 
-The command `Console.WriteLine("Hello C#")` in the C\# language means to execute printing \(`WriteLine(…)`\) in the console \(`Console`\) and to print the text message `Hello C#`, which we have to surround by quotation marks, in order to clarify that this is a text. In the end of each command in the C\# language the symbol `;` is being put and it says that the command ends in that place \(it doesn't continue on the next row\).
+The command `Console.WriteLine("Hello C#")` in the C\# language means to execute printing (`WriteLine(…)`) in the console (`Console`) and to print the text message `Hello C#`, which we have to surround by quotation marks, in order to clarify that this is a text. In the end of each command in the C\# language the symbol `;` is being put and it says that the command ends in that place (it doesn't continue on the next line).
 
 This command is very typical in programming: we say a given **object** should be found \(in this case the console\) and some **action** should be executed upon it \(in this case it is printing something that is given inside the brackets\). More technically explained, we call the method `WriteLine(…)` from the class `Console` and give as a parameter to it a text literal `"Hello C#"`.
 
@@ -47,7 +47,7 @@ Actually, the output from the program is the following text message:
 Hello C#
 ```
 
-The message "**Press any key to continue . . .**" is written additionally on the bottom row in the Visual Studio console after the program ends, in order to push us to see the result from the execution and to press a button to close the console.
+The message "**Press any key to continue . . .**" is displayed additionally on the last line on the console after the program ends, in order to push us to see the result from the execution and to press a key to close the console.
 
 ## Testing the Program in the Judge System
 

@@ -1,6 +1,6 @@
 # Problem: The Min Number
 
-Write a program that inputs **n integers** (**n** > 0) and finds **the min** number among them. First enter the number of integers **n**, then **n** numbers more, one on each row. 
+Write a program that inputs **n integers** (**n** > 0) and finds **the min** number among them. First enter the number of integers **n**, then **n** numbers additionally, one per line. 
 
 ## Sample Input and Output
 

@@ -1,18 +1,18 @@
 # Lab: Web Application "Sumator" (Calculator)
 
-Now we are going to write something even more complex, but also more interesting: a web application that **calculates the sum of two numbers**. By **entering two numbers** in the first two text fields and pressing the \[**Calculate**\] button, **their sum is being calculated** and the result is shown in the third text field.
+Now we are going to write something even more complex, but also more interesting: a web application that **calculates the sum of two numbers**. By **entering two numbers** in the first two text fields and pressing the [**Calculate**] button, **their sum is being calculated** and the result is shown in the third text field.
 
-Pay attention that we are creating **a Web-based application**. This is an application that is available through a web browser, just like your favorite email or news website. The web application is going to have a server side \(back-end\), which is written in the C\# language with the ASP.NET MVC technology, and a client side \(front-end\), which is written in the HTML language \(this is a language for visualization of information in a web browser\).
+Pay attention that we are creating **a Web-based application**. This is an application that is available through a web browser, just like your favorite email or news website. The web application is going to have a server side (back-end), which is written in the C\# language with the ASP.NET MVC technology, and a client side (front-end), which is written in the HTML language (this is a language for visualization of information in a web browser).
 
 The **Web application** is expected to look similarly to the following:
 
 ![](/assets/chapter-1-images/08.Numbers-sum-web-01.png)
 
-As a difference compared to console applications, which read and write the data in the form of a text in the console, web applications have **a web-based user interface**. Web applications **are being loaded from some Internet address** \(URL\) through a standard web browser. Users write input data in a page, visualized from the web browser, the data is processed on a web server and the results are shown again in a page of the web browser. For our web application we are going to use **the ASP.NET MVC technology**, which allows creating of **web applications with the programming language C\#** in the development environment **Visual Studio**.
+As a difference compared to console applications, which read and write the data in the form of a text in the console, web applications have **a web-based user interface**. Web applications **are being loaded from some Internet address** (URL) through a standard web browser. Users write input data in a page, visualized from the web browser, the data is processed on a web server and the results are shown again in a page of the web browser. For our web application we are going to use **the ASP.NET MVC technology**, which allows creating of **web applications with the programming language C\#** in the development environment **Visual Studio**.
 
 ## Creating a New ASP.NET MVC Project
 
-In Visual Studio we create **a new C\# project of type „ASP.NET Web Application“** with name **WebApp**:
+In Visual Studio we create **a new C\# project of type “ASP.NET Web Application”** with name **WebApp**:
 
 ![](/assets/chapter-1-images/08.Numbers-sum-web-02.png)
 
@@ -53,4 +53,3 @@ The application is ready. We can start it with \[**Ctrl+F5**\] and test whether 
 Does it look scary? **Don't be afraid!** We have a lot more to learn, to reach the level of knowledge and skills to write web-based applications freely like in the example above, as well as much bigger and much more complex ones. If you don't succeed, there is nothing to worry about, keep moving on. After some time you will remember with a smile how incomprehensible and exiting your first collision with web programming was. If you have problems with the example above, **watch the video** at the beginning of this chapter. The application is built live there, step by step with a lot of explanations. Or ask in **the SoftUni forum**: [https://softuni.bg/forum](https://softuni.bg/forum).
 
 The purpose of both of the above examples \(graphical desktop application and web application\) is not to teach you, but to make you dive a little deeper into programming, **to enhance your interest** towards software development and to inspire you to learn hard. **You have a lot to learn yet**, but it's interesting, isn't it?
-

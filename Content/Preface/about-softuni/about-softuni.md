@@ -21,7 +21,7 @@ This **programming book** accompanies the free programming lessons for beginners
 Keep in mind some **specifics about SoftUni judge**:
 
 * For each task the **judge system keeps the best score you had**. Therefore if you upload a solution with wrong code or lower score compared to the previous one, the system won't take away your points.
-* The output of your program is **compared** by the system to a strictly expected result. Every **unnecessary symbol, missing comma or interval** may lead to 0 points on a particular test. The **output** that the judge expects is **described in the requirements of every task** and **nothing else should be added**. 
+* The output of your program is **compared** by the system to a strictly expected result. Every **unnecessary symbol, missing comma or space** may lead to 0 points on a particular test. The **output** that the judge expects is **described in the requirements of every task** and **nothing else should be added**. 
 * **Example:** If the output requires to print a number \(ex. `25`\), do not display any descriptive messаges such as `The result is: 25`, just print as it is required, i.e. only the number.
 
   The SoftUni judge system is **available any time** via its website: [https://judge.softuni.bg](https://judge.softuni.bg).

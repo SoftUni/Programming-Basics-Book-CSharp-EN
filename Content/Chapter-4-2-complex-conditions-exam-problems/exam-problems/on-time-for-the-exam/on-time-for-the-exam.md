@@ -6,27 +6,24 @@ Write a program that inputs the exam starting time and the time of student's arr
 
 ## Input Data
 
-Read the following **four integers** (one on each row) from the console:
-
-- The first row contains **exam starting time (hours)** – an integer from 0 to 23.
-- The second row contains **exam starting time (minutes)** – an integer from 0 to 59.
-- The third row contains **hour of arrival** – an integer from 0 to 23.
-- The fourth row contains **minutes of arrival** – an integer from 0 to 59.
+Read the following **four integers** (one on each line) from the console:
+ * The first line contains **exam starting time (hours)** – an integer from 0 to 23.
+ * The second line contains **exam starting time (minutes)** – an integer from 0 to 59.
+ * The third line contains **hour of arrival** – an integer from 0 to 23.
+ * The fourth line contains **minutes of arrival** – an integer from 0 to 59.
 
 ## Output Data
 
-Print the following on the first row:
+Print the following on the first line on the console:
+ * "**Late**", if the student arrives **later** compared to the exam starting time.
+ * "**On time**", if the student arrives **exactly** at the exam starting time or up to 30 minutes earlier.
+ * "**Early**", if the student arrives more than 30 minutes **before** the exam starting time.
 
-- "**Late**", if the student arrives **later** compared to the exam starting time.
-- "**On time**", if the student arrives **exactly** at the exam starting time or up to 30 minutes earlier.
-- "**Early**", if the student arrives more than 30 minutes **before** the exam starting time.
-
-If the student arrives with more than one minute difference compared to the exam starting time, print on the next row:
-
-- "**mm minutes before the start**" for arriving less than an hour earlier.
-- "**hh:mm hours before the start**" for arriving 1 hour or more earlier. Always print minutes using 2 digits, for example "1:05".
-- "**mm minutes after the start**" for arriving more than an hour late.
-- "**hh:mm hours after the start**" for arriving late with 1 hour or more. Always print minutes using 2 digits, for example "1:03".
+If the student arrives with more than one minute difference compared to the exam starting time, print on the next line:
+ * "**mm minutes before the start**" for arriving less than an hour earlier.
+ * "**hh:mm hours before the start**" for arriving 1 hour or more earlier. Always print minutes using 2 digits, for example "1:05".
+ * "**mm minutes after the start**" for arriving more than an hour late.
+ * "**hh:mm hours after the start**" for arriving late with 1 hour or more. Always print minutes using 2 digits, for example "1:03".
 
 ## Sample Input and Output
 
@@ -44,7 +41,7 @@ If the student arrives with more than one minute difference compared to the exam
 
 ## Processing the Input Data
 
-According to the assignment, we expect **four** rows containing different **integers** to be passed. Examining the provided parameters, we can use the **`int`** type, as it is suitable for the expected values. We simultaneously **read** the input data and **parse** the string value to the selected data type for **integer**.
+According to the assignment, we expect **four** lines containing different **integers** to be passed. Examining the provided parameters, we can use the **`int`** type, as it is suitable for the expected values. We simultaneously **read** the input data and **parse** the string value to the selected data type for **integer**.
 
 ![](/assets/chapter-4-2-images/01.On-time-for-the-exam-01.png)
 
@@ -99,7 +96,7 @@ Finally, what remains is to print the result in the console. According to the re
 
 Actually, for the purposes of the task, printing the result **in the console** can be done on a much earlier stage – during the calculations. This, however, is not a very good practice. **Why?**
 
-Let's examine the idea that our code is not 10 rows, but 100 or 1000! One day, printing the result will not be done in the console, but will be written in a **file** or displayed as a **web application**. Then, how many places in the code you will make changes at, due to such a correction? Are you sure you won't miss some places?
+Let's examine the idea that our code is not 10 lines, but 100 or 1000! One day, printing the result will not be done in the console, but will be written in a **file** or displayed as a **web application**. Then, how many places in the code you will make changes at, due to such a correction? Are you sure you won't miss some places?
 
 <table><tr><td><img src="/assets/alert-icon.png" style="max-width:50px" /></td>
 <td>Always consider the code that contains logical calculations as a separate part, different from the part that processes the input and output data. It has to be able to work regardless of how the data is passed to it and where the result will be displayed.</td></tr></table>

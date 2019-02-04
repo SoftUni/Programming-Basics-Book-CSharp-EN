@@ -1,6 +1,6 @@
 # Problem: Triangle of 55 Stars
 
-Write a C\# console program that **prints a triangle made of 55 stars** on 10 rows:
+Write a C\# console program that **prints a triangle made of 55 stars** on 10 lines:
 
 ```
 *

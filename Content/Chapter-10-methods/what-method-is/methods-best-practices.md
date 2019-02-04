@@ -20,6 +20,6 @@ When the title line of the method is **too long**, it is recommended to divide i
 
 ![](/assets/chapter-10-images/13.Calculate-triangle-area-01.png)
 
-Another good practice when writing code is **to leave an empty row** between the methods, after loops and conditional statements. Also try to **abstain** from writing **long lines and complicated expressions**. With time you will see that this makes the readability better and saves time. 
+Another good practice when writing code is **to leave an empty line** between the methods, after loops and conditional statements. Also try to **abstain** from writing **long lines and complicated expressions**. With time you will see that this makes the readability better and saves time. 
 
 It is also recommended to always **use curly brackets for the bodies of conditional statements and loops**. The brackets not only improve readability, but also reduce the possibility to make a mistake and the program to run incorrectly.

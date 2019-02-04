@@ -1,6 +1,6 @@
 # Example: Numbers from 1 to 100
 
-Write a program that **prints the numbers from 1 to 100**. The program does not accept input and prints the numbers from 1 to 100 sequentially, one on each row.
+Write a program that **prints the numbers from 1 to 100**. The program does not accept input and prints the numbers from 1 to 100 sequentially, each on a separate line.
 
 ## Hints and Guidelines
 

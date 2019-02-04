@@ -4,7 +4,7 @@ In programming it is often required **to perform a block of commands multiple ti
 
 ![](/assets/chapter-5-images/00.For-loop-01.png)
 
-The loop starts with the `for`** operator** and passes through all values for a particular variable in a given interval, for example the numbers from 1 to 10 \(included\), and for each value it performs a series of commands.
+The loop starts with the `for`** operator** and passes through all values for a particular variable in a given range, for example the numbers from 1 to 10 \(included\), and for each value it performs a series of commands.
 
 Upon declaring the loop you can specify a **start value** and an **end value**. **The body of the loop** is usually enclosed in curly brackets `{ }` and represents a block of one or multiple commands. The figure below shows the structure of a `for`** loop**:
 

@@ -22,7 +22,7 @@ Print on the console **n** text rows, depicting **the fort** exactly as in the e
 
 ## Reading the Input Data
 
-We can see from the explanation that **the input data** will be only one row which will contain **an integer** within the range [**3 … 1000**]. Therefore we will use **a variable** of **`int`** type.
+We can see from the explanation that **the input data** will be only one line which will contain **an integer** within the range [**3 … 1000**]. Therefore we will use **a variable** of **`int`** type.
 
 ![](/assets/chapter-6-2-images/01.Draw-fort-01.png)
 

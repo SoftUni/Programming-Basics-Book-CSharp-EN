@@ -23,13 +23,13 @@ Bonny is very pretty, but not as wise, so she will need our help to master the p
 
 ## Input Data
 
-The input data contains one row that is passed from the console. It contains a **mathematical expression for calculation**. The row **always ends with the "=" symbol**. The **"="** symbol means **end of the mathematical expression**.
+The input data consists of a single text line, passed from the console. It contains a **mathematical expression for calculation**. The line **always ends with the "=" symbol**. The **"="** symbol means **end of the mathematical expression**.
 
 The input data is always valid and always in the described format. No need to validate it.
 
 ## Output Data
 
-The output data must be printed on the console. The output consists of one row – the output of the **calculated mathematical expression**.
+The output data must be printed on the console. The output consists of one line – the output of the **calculated mathematical expression**.
 
 The output must be **rounded up to the second digit after the decimal point**.
 
@@ -54,7 +54,7 @@ As usual, we will first read and process the input, after that we will solve the
 
 ### Reading the Input Data
 
-The input data will consist of exactly one row read from the console. Here we have **two ways** to process the input. The first way is by **reading the entire row using the `Console.ReadLine()` command** and accessing each symbol (**`char`**) of the row via a **`foreach` loop**. The second one is by **reading the input symbol by symbol using the `Console.Read()` command** and processing each symbol.
+The input data will consist of exactly one text line read from the console. Here we have **two ways** to process the input. The first way is by **reading the entire line using the `Console.ReadLine()` command** and accessing each symbol (**`char`**) of the line via a **`foreach` loop**. The second one is by **reading the input symbol by symbol using the `Console.Read()` command** and processing each symbol.
 
 We will use the second option to solve the problem.
 

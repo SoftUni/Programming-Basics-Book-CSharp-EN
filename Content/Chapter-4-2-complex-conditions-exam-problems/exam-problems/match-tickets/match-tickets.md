@@ -17,15 +17,14 @@ The football fans **have a shared budget**, and the **number of people** in the 
 
 ## Input Data
 
-The input data is read from the **console** and contains **exactly 3 rows**:
-
-- The **first** row contains the **budget** – real number within the range [**1 000.00 … 1 000 000.00**].
-- The **second** row contains the **category** – "**VIP**" or "**Normal**".
-- The **third** row contains the **number of people in the group** – an integer within the range [**1 … 200**].
+The input data is read from the **console** and contains **exactly 3 lines**:
+ * The **first** line contains the **budget** – real number within the range [**1 000.00 … 1 000 000.00**].
+ * The **second** line contains the **category** – "**VIP**" or "**Normal**".
+ * The **third** line contains the **number of people in the group** – an integer within the range [**1 … 200**].
 
 ## Output Data
 
-**Print the following** in the console as **one row**:
+**Print the following** on the console as **one line**:
 
 - If the **budget is sufficient**:
   - "**Yes! You have {N} leva left.**" – where **N is the amount of remaining money** for the group.

@@ -4,11 +4,11 @@ Write a program that calculates **what is the distance passed by a car (in kilom
 
 ## Input Data
 
-**4 rows** are read from the console:
-* **The initial speed in km/h** – an integer within the range [**1 … 300**].
-* **The first time frame in minutes** – an integer within the range [**1 … 1000**].
-* **The second time frame in minutes** – an integer within the range [**1 … 1000**].
-* **The third time frame in minutes** – an integer within the range [**1 … 1000**].
+**4 lines** are read from the console:
+ * **The initial speed in km/h** – an integer within the range [**1 … 300**].
+ * **The first time frame in minutes** – an integer within the range [**1 … 1000**].
+ * **The second time frame in minutes** – an integer within the range [**1 … 1000**].
+ * **The third time frame in minutes** – an integer within the range [**1 … 1000**].
 
 ## Output Data
 
@@ -45,7 +45,7 @@ We use the following **function** to **read** the data from the **console**:
 
 ![](/assets/chapter-8-2-images/01.Distance-01.png)
 
-By definition, **the input data** is introduced as **four** separate rows. This is why we need to execute **the previous** code **four** times in total.
+By definition, **the input data** is given as **four** separate lines. This is why we need to execute **the previous** code **four** times in total.
 
 ![](/assets/chapter-8-2-images/01.Distance-02.png)
 

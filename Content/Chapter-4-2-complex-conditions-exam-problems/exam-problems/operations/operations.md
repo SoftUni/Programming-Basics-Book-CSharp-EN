@@ -4,7 +4,7 @@ Write a program that reads **two integers (n1 and n2)** and an **operator** that
 
 ## Input Data
 
-**3 rows** are read from the console:
+**3 lines** are read from the console:
 
 - **N1** – **integer** within the range [**0 … 40 000**].
 - **N2** – **integer** within the range [**0 … 40 000**].
@@ -12,7 +12,7 @@ Write a program that reads **two integers (n1 and n2)** and an **operator** that
 
 ## Output Data
 
-Print **one row** in the console:
+Print the output as a **single line** on the console:
 
 - If the operation is **summing up**, **subtraction** or **multiplying**:
   - **"{N1} {operator} {N2} = {output} – {even/odd}"**.
@@ -38,11 +38,11 @@ Print **one row** in the console:
 
 ## Hints and Guidelines
 
-The problem is not complex, but there are a lot of code rows to write.
+The problem is not complex, but there are a lot of code lines to write.
 
 ### Processing the Input Data
 
-Upon reading the requirements, we understand that we expect **three** rows of input data. The first **two** rows pass **integers** (within the specified range), and the third row – **an arithmetical symbol**. 
+Upon reading the requirements, we understand that we expect **three** lines of input data. The first **two** lines enter two **integers** (within the specified range), and the third line – **an arithmetical symbol**. 
 
 ![](/assets/chapter-4-2-images/03.Operations-01.png)
 

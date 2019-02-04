@@ -12,11 +12,11 @@ There are **n** integers **a1, a2, …, an** given. Calculate the sums:
 
 ### Input
 
-The input data is read from the console. The first row is an integer **n (0 ≤ n ≤ 1000)**. On the next **n** rows we read **n** integers in the range [**-1000 … 1000**]: **a1, a2, …, an**.
+The input data is read from the console. The first line holds an integer **n (0 ≤ n ≤ 1000)**. On the next **n** lines we read **n** integers in the range [**-1000 … 1000**]: **a1, a2, …, an**.
 
 ### Output
 
-On the console we should print 3 rows containing the 3 sums in a format such as in the example.
+On the console we should print 3 lines containing the 3 sums in a format such as in the example.
 
 ### Sample Input and Output
 
@@ -55,7 +55,7 @@ A series of **n** numbers is given: **a1**, **a2**, **…**, **an**. Calculate *
 
 ### Input
 
-The input data is read from the console. The first row is an integer **n** (**0 ≤ n ≤ 1000**). On the following **n** lines we read **n** integers in the range [**-1000 … 1000**]: **a1**, **a2**, **…**, **an**.
+The input data is read from the console. The first line holds an integer **n** (**0 ≤ n ≤ 1000**). On the following **n** lines we read **n** integers in the range [**-1000 … 1000**]: **a1**, **a2**, **…**, **an**.
 
 #### Output
 

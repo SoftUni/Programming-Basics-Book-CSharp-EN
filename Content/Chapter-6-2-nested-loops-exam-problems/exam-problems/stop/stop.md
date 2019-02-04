@@ -8,7 +8,7 @@ The input is **an integer N** within the range [**3 … 1000**].
 
 ## Output Data
 
-Print on the console text rows, which depict **the warning sign STOP**, as in the examples.
+Print on the console text lines, which depict **the warning sign STOP**, as in the examples.
 
 ## Sample Input and Output
 
@@ -22,7 +22,7 @@ Print on the console text rows, which depict **the warning sign STOP**, as in th
 
 ## Hints and Guidelines
 
-We can see from the explanation that **the input data** will be taken from only one row which contains **an integer** within the range [**3 … 1000**]. Therefore we will use **a variable** of **`int`** type.
+We can see from the explanation that **the input data** will come from only one line which contains **an integer** within the range [**3 … 1000**]. Therefore we will use **a variable** of **`int`** type.
 
 ![](/assets/chapter-6-2-images/03.Stop-01.png)
 

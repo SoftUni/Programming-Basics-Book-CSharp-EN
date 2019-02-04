@@ -4,14 +4,14 @@ Write a program that prints on the console **all combinations of 3 letters** wit
 
 ## Input Data
 
-The input is read from the **console** and contains **exactly 3 rows**:
-* A small letter from the English alphabet for a beginning of the range – between **'a'** and **'z'**.
-* A small letter from the English alphabet for the end of the range – between the **first letter** and **'z'**.
-* A small letter from the English alphabet – from **'a'** to **'z'** – as the combinations containing this letter are skipped.
+The input is read from the **console** and contains **exactly 3 lines**:
+ * A small letter from the English alphabet for a **beginning of the range** – between **'a'** and **'z'**.
+ * A small letter from the English alphabet for the **end of the range** – between the **first letter** and **'z'**.
+ * A small letter from the English alphabet – from **'a'** to **'z'** – as the combinations containing this letter are **skipped**.
 
 ## Output Data
 
-Print on one row **all combinations** corresponding to the requirements, followed by **their number**, separated by an interval.
+Print on a single line **all combinations** corresponding to the requirements, followed by **their number**, separated by a space.
 
 ## Sample Input and Output
 
@@ -29,7 +29,7 @@ Print on one row **all combinations** corresponding to the requirements, followe
 
 ### Reading the Input Data
 
-By requirements, for the last task we have input data on **3 rows**, which are represented by one symbol of the **ASCII table** ([http://www.asciitable.com/](http://www.asciitable.com/)). We could use an already **defined function** in C#, by converting the input data into **`char`** data type, as follows:
+By requirements, we have input data on **3 lines**, each of which is represented by one symbol of the **ASCII table** ([http://www.asciitable.com](http://www.asciitable.com)). We could use an already **defined function** in C#, by converting the input data into **`char`** data type, as follows:
 
 ![](/assets/chapter-8-2-images/06.Letters-01.png)
 
@@ -41,7 +41,7 @@ The easiest and most efficient way is to use a **loop**, by passing through **al
 
 ![](/assets/chapter-8-2-images/06.Letters-02.png)
 
-The result of running the code is all letters from **а** to **z** included, printed on a single row and separated by intervals. Does this look like the end result of our task? We must find a **way** to print **3 symbols**, as required, instead of **1**. Running such a program very much looks like a slot machine. We often win in slots, if we arrange a few identical symbols on a row. Let's say that the machine has space for three symbols. When we **stop** on a particular **symbol** on the first place, the other two places will **continue** rolling symbols among all possible ones. In our case, **all possible symbols** are the letters from the starting to the end one, entered by the user, and the solution of our program is identical to the way a slot machine works.
+The result of running the code is all letters from **а** to **z** included, printed on a single line and separated by spaces. Does this look like the end result of our task? We must find a **way** to print **3 symbols**, as required, instead of **1**. Running such a program very much looks like a slot machine. We often win in slots, if we arrange a few identical symbols on a row. Let's say that the machine has space for three symbols. When we **stop** on a particular **symbol** on the first place, the other two places will **continue** rolling symbols among all possible ones. In our case, **all possible symbols** are the letters from the starting to the end one, entered by the user, and the solution of our program is identical to the way a slot machine works.
 
 ### Printing Combination of Three Symbols
 
@@ -49,7 +49,7 @@ We use a **loop** that runs through **all symbols** from the starting to the end
 
 ![](/assets/chapter-8-2-images/06.Letters-03.png)
 
-Let's not forget that we also need to print the **total number of valid combinations** that we have found, and they must be printed on the **same row**, separated by an interval.
+Let's not forget that we also need to print the **total number of valid combinations** that we have found, and they must be printed on the **same line**, separated by a space.
 
 ## Testing in the Judge System
 

@@ -17,7 +17,7 @@ The following 7 lines must be read from the console:
 
 ## Output Data
 
-The following must be printed on the console in **one row**:
+The following must be printed on the console as a **single line**:
 
 * If the money **is sufficient**:
    * “{Remaining funds} lv left.”

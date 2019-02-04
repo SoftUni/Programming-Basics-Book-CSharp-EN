@@ -70,7 +70,7 @@ But the second one contains a detail that we need to take into consideration. Th
 
 > On each of the following lines there will be a particular command. After you read the command **"mall.Enter"**, on each of the following lines you will be given strings containing information regarding the purchases / actions that Lina wants to perform.
 
-This is where we need to take into consideration the fact that from the **second row on, we need to start reading commands**, but **only after we read** the command **"mall.Enter"**, we must start processing them. How can we do this? Using a **`while`** or a **`do-while`** loop is a good option. Here is an exemplary solution of how **to skip** all commands before processing the command **"mall.Enter"**:
+This is where we need to take into consideration the fact that from the **second input line on, we need to start reading commands**, but **only after we read** the command **"mall.Enter"**, we must start processing them. How can we do this? Using a **`while`** or a **`do-while`** loop is a good option. Here is an exemplary solution of how **to skip** all commands before processing the command **"mall.Enter"**:
 
 ![](/assets/chapter-9-2-images/01.Passion-days-02.png)
 

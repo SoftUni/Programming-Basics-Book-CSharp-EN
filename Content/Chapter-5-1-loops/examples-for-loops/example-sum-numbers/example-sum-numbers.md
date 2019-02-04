@@ -1,10 +1,9 @@
 # Problem: Summing up Numbers
 
 Write a program that **inputs `n` integers and sums them up**.
-
-* On the first row of the input, enter the number of integers **`n`**.
-* Enter one number on each of the following **`n`** rows.
-* Sum up the numbers and finally print the result.
+ * The first line of the input holds the number of integers **`n`**.
+ * Each of the following **`n`** lines holds an integer for summing.
+ * Sum up the numbers and finally print the result.
 
 ## Sample Input and Output
 

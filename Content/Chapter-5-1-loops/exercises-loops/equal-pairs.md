@@ -4,7 +4,7 @@ There are **2 \* n numbers**. The first and the second number form a **pair**, t
 
 In case the value is the same, print **"Yes, value=…" + the value**, otherwise, print the **maximum difference** between two neighboring pairs in the following format: **"No, maxdiff=…" + the maximum difference**. 
 
-The input consists of the number **n**, followed by **2*n integers**, all of them one per row.
+The input consists of the number **n**, followed by **2*n integers**, all of them one per line.
 
 ## Sample Input and Output
 
