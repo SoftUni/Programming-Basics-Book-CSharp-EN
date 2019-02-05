@@ -2,9 +2,9 @@
 
 In the present chapter we will get familiar how to **repeat blocks of commands**, also known in software development as "**loops**". We will write a number of **loops** using the `for` operator in its simplest form. Finally, we will solve series of practical problems that require repeating of series of actions, using loops.
 
-## Video
+## Video: Chapter Overview
 
-Watch a video lesson on this chapter here: [https://www.youtube.com/watch?v=Xjwjk9yS4uw](https://www.youtube.com/watch?v=Xjwjk9yS4uw).
+Watch a video lesson to review what will we learn in this chapter: https://youtu.be/GIE2smfXg2g.
 
 ## Introduction by Examples
 
@@ -47,7 +47,7 @@ for (int i = 0; i < n; i++)
 Console.WriteLine("Sum = {0}", sum);
 ```
 
-Run the above code example: https://repl.it/@nakov/for-loop-sum-n-numbers-csharp.
+Run the above code example: [https://repl.it/@nakov/for-loop-sum-n-numbers-csharp](https://repl.it/@nakov/for-loop-sum-n-numbers-csharp).
 
 The **output** from the above example may look like this \(when we enter 3 numbers: `10`, `20` and `30`\):
 
