@@ -60,6 +60,10 @@ Write a program that **reads** from the console a **fruit** (banana / apple / â€
 |----|----|----|----|
 |grapes<br>Saturday<br>0.5|2.10|tomato<br>Monday<br>0.5|error|
 
+### Video: Fruit Store
+
+Watch the video to learn how to solve the "Fruit Store" problem: https://youtu.be/6vZZzil9xBU.
+
 ### Solution
 
 ![](/assets/chapter-4-images/07.Fruit-shop-01.png)
