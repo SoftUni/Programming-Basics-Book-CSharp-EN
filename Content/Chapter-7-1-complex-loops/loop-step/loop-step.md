@@ -48,7 +48,7 @@ We can solve the problem in the following way:
 
 ### Video: Numbers N...1
 
-Watch this video lesson to learn how to print the numbers from N down to 1 \(in reverse order\) using a for loop: https://youtu.be/LGPZ-ug3qh0.
+Watch this video lesson to learn how to print the numbers from N down to 1 \(in reverse order\) using a for loop: [https://youtu.be/LGPZ-ug3qh0](https://youtu.be/LGPZ-ug3qh0).
 
 ### Testing in the Judge System
 
@@ -61,6 +61,10 @@ In the following example, we will look at using the usual step with size of 1, c
 Write a program that prints the numbers from **1 to 2^n** \(two in power of n\). For example, **if n = 10**, the result will be: **1, 2, 4, 8, 16, 32, 64, 128, 256, 512, 1024**.
 
 ![](/assets/chapter-7-images/03.Numbers-1-to-2^n-01.png)
+
+### Video: Numbers 1 ... 2^n
+
+Watch this video lesson to learn how to iterate over the number from 1 to 2^n using a for-loop: https://youtu.be/B2k\_yx3EV0I.
 
 ### Testing in the Judge System
 
