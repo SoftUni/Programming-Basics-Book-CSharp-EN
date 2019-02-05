@@ -11,20 +11,22 @@ Watch a video lesson on this chapter here: [https://www.youtube.com/watch?v=Xjwj
 In programming we can **execute a block of code multiple times** using a simple **for-loop** like this:
 
 ```csharp
-for (int i = 0; i < 5; i++)
+for (int i = 1; i <= 5; i++)
 {
     Console.WriteLine(i);
 }
 ```
 
-The above code prints the numbers 0, 1, ..., 4. The output is as follows:
+Run the above code example: [https://repl.it/@nakov/for-loop-1-to-5-csharp](https://repl.it/@nakov/for-loop-1-to-5-csharp).
+
+The above code prints the numbers 1, 2, ..., 5. The output is as follows:
 
 ```
-0
 1
 2
 3
 4
+5
 ```
 
 We can **enter multiple numbers from the console** and process them using loops like this:
@@ -45,7 +47,9 @@ for (int i = 0; i < n; i++)
 Console.WriteLine("Sum = {0}", sum);
 ```
 
-The output from the above example may look like this \(when we enter 3 numbers: `10`, `20` and `30`\):
+Run the above code example: https://repl.it/@nakov/for-loop-sum-n-numbers-csharp.
+
+The **output** from the above example may look like this \(when we enter 3 numbers: `10`, `20` and `30`\):
 
 ```
 3
