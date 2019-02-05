@@ -44,5 +44,5 @@ If we **enter **`3200`** as input**, the output will be as follows:
 Size too big: 3200
 ```
 
-
+Let's explain in greater detail how to use **simple `if-else` conditions** in C\#.
 
