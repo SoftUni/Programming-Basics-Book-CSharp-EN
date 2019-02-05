@@ -1,5 +1,5 @@
 gitbook.events.bind("page.change", function() {
-	let runCodeLinks = $("p:contains('тествате примера онлайн:') a");
+	let runCodeLinks = $("p:contains('Run the above code example:') a");
 	for (let link of runCodeLinks) {
 		if (typeof(link.href) == "string" && link.href.startsWith("https://repl.it/")) {
 			// A repl.it link is found --> check for code box above it
@@ -32,3 +32,6 @@ gitbook.events.bind("page.change", function() {
 		}
 	}
 });
+
+// Sample usage: put the below text in your Markdown book source code:
+// Run the above code example: [https://repl.it/@nakov/Scrypt](https://repl.it/@nakov/Scrypt).
