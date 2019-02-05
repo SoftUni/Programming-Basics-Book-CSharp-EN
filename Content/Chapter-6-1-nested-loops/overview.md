@@ -8,21 +8,60 @@ Watch a video lesson on this chapter here: [https://www.youtube.com/watch?v=x7zX
 
 ## Introduction by Examples
 
-In programming **loops can be nested**, which means that in a loop we can put another loop. This is an example of **nested for-loops**, which are used to draw a square of stars:
+In programming **loops can be nested**, which means that in a loop we can put another loop. This is an example of **nested for-loops**, which are used to draw a square of `n` rows, each holding `n` times the chars `=-`:
 
-TODO
+```csharp
+int n = int.Parse(Console.ReadLine());
+for (int row = 1; row <= n; row++)
+{
+    for (int col = 1; col <= n; col++)
+    {
+        Console.Write("=-");
+    }
+    Console.WriteLine();
+}
+```
 
-TODO
+If we run the above code and enter `5` as input, the **output** will be as follows:
 
-TODO
+```
+5
+=-=-=-=-=-
+=-=-=-=-=-
+=-=-=-=-=-
+=-=-=-=-=-
+=-=-=-=-=-
+```
 
-TODO
+Using a combination of **calculations**, **conditional statements** and **nested loops**, we can implement **more complex logic**. For example, we can draw a rhombus of stars as follows:
 
-TODO
+```csharp
+int n = 10;
+for (int row = 1; row < n; row++)
+{
+    var spaces = Math.Abs(n / 2 - row);
+    var stars = n/2 - spaces;
+    for (int col = 1; col <= spaces; col++)
+        Console.Write(" ");
+    for (int col = 1; col <= stars; col++)
+        Console.Write("* ");
+    Console.WriteLine();
+}
+```
 
-TODO
+The above code will print on the console the following **output**:
 
-TODO
+```
+    *
+   * *
+  * * *
+ * * * *
+* * * * *
+ * * * *
+  * * *
+   * *
+    *
+```
 
-
+Let's explain in greater detail how to use **nested loops** to implement more complex login in our C\# programs.
 
