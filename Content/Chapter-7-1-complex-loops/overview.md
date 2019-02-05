@@ -9,9 +9,9 @@ Once we have learned what loops are and what **the **`for`** loops** serve for, 
 
 In the current chapter, we will also understand what the `break` operator is and **how** to **break** a loop. Also, using the `try-catch` construction, we will learn to keep track of **errors** during our program's execution.
 
-## Video
+## Video: Chapter Overview
 
-Watch a video lesson on this chapter here: [https://www.youtube.com/watch?v=IovQ8OTnYuQ](https://www.youtube.com/watch?v=IovQ8OTnYuQ).
+Watch a video lesson to review what shall we learn in this chapter: https://youtu.be/J18RgaaMi7U.
 
 ## Introduction by Examples
 
@@ -39,9 +39,9 @@ Console.WriteLine(factorial);
 // Output: 120
 ```
 
-Run the above code example: https://repl.it/@nakov/while-loop-factorial-csharp.
+Run the above code example: [https://repl.it/@nakov/while-loop-factorial-csharp](https://repl.it/@nakov/while-loop-factorial-csharp).
 
-Another example of loops is the **`do-while` loop**.  It repeats a code block while a conditions holds. For example, we can calculate the minimum number **k**, such that $$2^k$$ &gt; 1,000,000,000, using the code below:
+Another example of loops is the `do-while`** loop**.  It repeats a code block while a conditions holds. For example, we can calculate the minimum number **k**, such that $$2^k$$ &gt; 1,000,000,000, using the code below:
 
 ```csharp
 int num = 1, count = 0;
@@ -56,7 +56,7 @@ Console.WriteLine("2^{0} = {1}", count, num);
 
 Run the above code example: [https://repl.it/@nakov/do-while-loop-power-of-2-calculation-csharp](https://repl.it/@nakov/do-while-loop-power-of-2-calculation-csharp).
 
-Sometime in programming we don't know in advance how many times to repeat a loop, neither we have a clear loop condition, so we may use **infinite loop with exit condition** inside the loop. For example, we want to print the first 5 results, matching certain condition, calculated inside a loop. We use **infinite loop** and exit it using **the `break` operator**:
+Sometime in programming we don't know in advance how many times to repeat a loop, neither we have a clear loop condition, so we may use **infinite loop with exit condition** inside the loop. For example, we want to print the first 5 results, matching certain condition, calculated inside a loop. We use **infinite loop** and exit it using **the **`break`** operator**:
 
 ```csharp
 int value = 0, min = 100000, count = 0;
@@ -73,7 +73,7 @@ while (true)
 }
 ```
 
-Run the above code example: https://repl.it/@nakov/infinite-loop-with-break-csharp.
+Run the above code example: [https://repl.it/@nakov/infinite-loop-with-break-csharp](https://repl.it/@nakov/infinite-loop-with-break-csharp).
 
 Let's get into details on how to use `for`** loops with a step**, how to use `while`** loops**, how to use `do-while`** loops** and how to design a program logic, based on **infinite loops with a **`break`.
 
