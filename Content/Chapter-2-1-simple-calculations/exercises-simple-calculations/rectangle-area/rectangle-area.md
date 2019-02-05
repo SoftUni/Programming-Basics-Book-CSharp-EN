@@ -12,6 +12,10 @@ A **rectangle** is defined by the **coordinates** of both of its opposite corner
 |30<br>40<br>70<br>-10                 |2000<br>180         |
 |600.25<br>500.75<br>100.50<br>-200.5  |350449.6875<br>2402 |
 
+## Video: Rectangle Area
+
+Watch the video lesson about calculating rectangle area: https://youtu.be/IHb_Tz-EVT4.
+
 ## Testing in the Judge System
 
 Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/504#6](https://judge.softuni.bg/Contests/Practice/Index/504#6).
