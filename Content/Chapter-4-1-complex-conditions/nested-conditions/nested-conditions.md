@@ -16,6 +16,12 @@ if (condition1)
 }
 ```
 
+## Video: Nested Conditional Statements
+
+Watch a video lesson about the nested if-conditions: https://youtu.be/4ugMAlkQAMo.
+
+## Deep Nesting
+
 Nesting of **more than three conditional statements** inside each other is not considered a good practice and **has to be avoided**, mostly through optimization of the structure/the algorithm of the code and/or by using another type of conditional statement, which we are going to examine below in this chapter.
 
 ## Example: Titles According to Age and Sex
