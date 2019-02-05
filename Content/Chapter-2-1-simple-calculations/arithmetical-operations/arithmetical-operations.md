@@ -4,7 +4,7 @@ Let's examine the basic **arithmetic operations** in programming. We can add, su
 
 ## Video: Arithmetic Operators
 
-Watch a video lesson about the arithmetic operators in C\#: [https://youtu.be/XOtEuEUbA4M](https://youtu.be/XOtEuEUbA4M).
+Watch a video lesson about the arithmetic operators: [https://youtu.be/XOtEuEUbA4M](https://youtu.be/XOtEuEUbA4M).
 
 ## Summing up Numbers \(Operator +\)
 
