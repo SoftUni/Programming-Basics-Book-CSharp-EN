@@ -12,6 +12,8 @@ Let's summarize what we learned in this chapter of the book:
 * **Calculations with numbers** and using the suitable  **arithmetic operators** \[+, -, \*, /, \(\)\]: `var sum = 5 + 3;`
 * **Printing a text by placeholders** on the console: `Console.WriteLine("{0} + {1} = {2}", 3, 5, 3 + 5);`
 
+Watch the following video lesson to summarize what we learned in this chapter: https://youtu.be/Zv\_c-M\_7Gyw.
+
 ## The Exercises
 
 We have a lot of practical work. Solve these exercises to learn how to work with variables and data types, reading and writing on the console, using data and calculations:
@@ -30,3 +32,6 @@ We have a lot of practical work. Solve these exercises to learn how to work with
 * [Problem: Console Converter – USD to BGN](/Content/Chapter-2-1-simple-calculations/exercises-simple-calculations/usd-to-bgn/usd-to-bgn.md)
 * [Problem: \* Console Currency Converter](/Content/Chapter-2-1-simple-calculations/exercises-simple-calculations/currency-converter/currency-converter.md)
 * [Problem:  \*\* Date Calculations](/Content/Chapter-2-1-simple-calculations/exercises-simple-calculations/1000-days-after-birth/1000-days-after-birth.md)
+
+
+
