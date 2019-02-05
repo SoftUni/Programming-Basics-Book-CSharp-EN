@@ -80,6 +80,10 @@ Calculate the price by the given **city** (string), **product** (string) and **q
 |-------|-------|-------|-------|
 |beer<br>Sofia<br>6|7.2|water<br>Plovdiv<br>3|2.1|
 
+### Video
+
+Watch this video to learn how to solve this problem: https://youtu.be/kU_ru7GK-Mg.
+
 ### Solution
 
 We **convert** all of the letters into **lower register** using the function **`.ToLower()`**, in order to compare products and cities **no matter** what the letters are – small or capital ones.
