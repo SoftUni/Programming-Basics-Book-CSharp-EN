@@ -1,6 +1,12 @@
 # The System Console
 
-Simply called "**console**", the "system console", also the "computer console", represents the tool by which we give the computer commands in a text format and get the results from their execution again as a text.
+Simply called "**console**", the "system console", the "system **terminal**", also the "computer console", represents the tool by which we **give the computer commands** in a text format and **get the results** from their execution again as a text.
+
+## Video: The System Console
+
+Watch a video lesson about the system console here: [https://youtu.be/ehHnNu6M55M](https://youtu.be/ehHnNu6M55M).
+
+## The System Console Explained
 
 Generally the **system console** represents a text terminal, which means that it accepts and visualizes just **text** without any graphical elements like buttons, menus, etc. It usually looks like a black colored window like this one:
 

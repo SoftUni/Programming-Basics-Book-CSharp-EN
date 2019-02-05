@@ -8,9 +8,25 @@ var num = int.Parse(Console.ReadLine());
 
 The above line of C\# code **reads an integer** from the first line on the console.
 
+## Video: Reading from the Console
+
+Watch a video lesson about reading from the system console here: [https://youtu.be/WPlQ5HYBGJQ](https://youtu.be/WPlQ5HYBGJQ).
+
+## Video: Reading Integers from the Console
+
+Watch a video lesson about reading integer numbers from the system console here: [https://youtu.be/3TC2F-ffw34](https://youtu.be/3TC2F-ffw34).
+
 ## Example: Calculating a Square Area Using Side A
 
-For example, let us look at the following program, which reads an integer from the console, multiplies it by itself \(squares it\) and prints the result from the multiplication. This way we can calculate the square area by the given length of the side:
+For example, let us look at the following program, which **reads an integer from the console**, multiplies it by itself \(**squares **it\) and **prints the result** from the multiplication.
+
+### Video: Calculating a Square Area
+
+Watch a video lesson about calculating square area: [https://youtu.be/gdYTotTFVgA](https://youtu.be/gdYTotTFVgA).
+
+### Code: Calculating a Square Area
+
+This code demonstrates how we can calculate the **square area** by the given length of the side:
 
 ```csharp
 Console.Write("a = ");              
@@ -41,3 +57,4 @@ The next command `var area = a * a;` keeps in a new variable `area` the result o
 The next command `Console.Write("Square area = ");` prints the given text without going to the next line. Again, use  `Console.Write(…)`, and not `Console.WriteLine(…)`, and this way the cursor stays on the same line in order to print the calculated area of the square afterwards.
 
 The last command `Console.WriteLine(area);` prints the calculated value of the variable `area`.
+

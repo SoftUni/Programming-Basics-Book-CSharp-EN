@@ -8,9 +8,9 @@ In this chapter we are going to get familiar with the following concepts and pro
 * How to **print** output \(a number\) on the console?
 * How to do simple **arithmetic operations**: add, subtract, multiply, divide, string concatenation?
 
-## Video
+## Video: Chapter Overview
 
-Watch a video lesson on this chapter here: [https://youtu.be/0f7c9RIZGaE](https://www.youtube.com/watch?v=0f7c9RIZGaE).
+Watch a video lesson about what shall we learn in this chapter here: [https://youtu.be/NXbFJw\_NstA](https://youtu.be/NXbFJw_NstA).
 
 ## Introduction by Examples
 
@@ -24,7 +24,7 @@ Console.Write("Meters = ");
 Console.WriteLine(meters);
 ```
 
-Run the above code example: https://repl.it/@nakov/foots-to-meters-csharp.
+Run the above code example: [https://repl.it/@nakov/foots-to-meters-csharp](https://repl.it/@nakov/foots-to-meters-csharp).
 
 The above program **enters a number** and **converts** its value from **foots** to **meters**. This is a **sample output** from the above code, when the user enters `5` as input:
 
@@ -41,7 +41,7 @@ Console.WriteLine($"Circle radius = {radius}");
 Console.WriteLine($"Circle area = {Math.PI * radius * radius}");
 ```
 
-Run the above code example: https://repl.it/@nakov/circle-area-csharp.
+Run the above code example: [https://repl.it/@nakov/circle-area-csharp](https://repl.it/@nakov/circle-area-csharp).
 
 The **$ syntax** replaces all expressions in curly brackets with their values. The output from the above code is:
 
