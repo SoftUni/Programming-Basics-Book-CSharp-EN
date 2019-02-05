@@ -24,6 +24,8 @@ static void Main()
 }
 ```
 
+Run the above code example: [https://repl.it/@nakov/triangle-of-letters-csharp](https://repl.it/@nakov/triangle-of-letters-csharp).
+
 The above code produces the following **output**:
 
 ```
@@ -40,7 +42,7 @@ The above **method** \(named piece of code\) `PrintLetter(letter, count)` prints
 
 Let's get into details how methods are **defined**, how methods are **invoked**, how methods accept **parameters** \(input values\) and how methods return **results** \(output values\).
 
-Methods can **return values**, e.g.
+Methods can take parameters and can **return values**, e.g.
 
 ```csharp
 static double CalcCircleArea(double radius)
@@ -55,12 +57,14 @@ static void Main()
 }
 ```
 
-The output from the above code is:
+Run the above code example: [https://repl.it/@nakov/circle-area-methods-csharp](https://repl.it/@nakov/circle-area-methods-csharp).
+
+The output from the above code is like this:
 
 ```
 r = 5, area = 78.5398163397448
 r = 2.8, area = 24.630086404144
 ```
 
-
+Let's get into details on how to **define, invoke and use methods** in C\#, how to take and pass **parameters** and to **return values**.
 
