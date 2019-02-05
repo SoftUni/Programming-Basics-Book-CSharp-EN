@@ -47,9 +47,9 @@ Here's a sample implementation of the algorithm using a `while`** loop**:
 
 ![](/assets/chapter-7-images/06.Numbers-in-range-1..100-01.png)
 
-## Video: Numbers in the Range \[1..100\]
+### Video: Numbers in the Range \[1..100\]
 
-Watch this video lesson to learn how to enter a number in the range \[1...100\]: https://youtu.be/8W-CIbF4cdA.
+Watch this video lesson to learn how to enter a number in the range \[1...100\]: [https://youtu.be/8W-CIbF4cdA](https://youtu.be/8W-CIbF4cdA).
 
 ### Testing in the Judge System
 
