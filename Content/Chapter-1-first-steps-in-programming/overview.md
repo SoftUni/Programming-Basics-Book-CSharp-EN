@@ -10,8 +10,4 @@ In this chapter, we are going to find out **what programming is** in its core an
 
 ## Video
 
-<div class="video-player">
-  Watch a video lesson on this chapter here: <a target="_blank"
-  href="https://www.youtube.com/watch?v=LgT10WCBw0M">
-  https://www.youtube.com/watch?v=LgT10WCBw0M</a>.
-</div>
+Watch a video lesson on this chapter here: https://www.youtube.com/watch?v=LgT10WCBw0M.
