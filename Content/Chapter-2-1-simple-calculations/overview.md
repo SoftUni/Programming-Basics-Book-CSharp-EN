@@ -31,11 +31,20 @@ Foots = 5
 Meters = 1.524
 ```
 
-In C\# we can **read a text line** from the console using `Console.ReadLine()` and we can convert the text to a floating-point number using `double.Parse(text)`. We can **print text and numbers** using text formatting as follows:
+In C\# we can **read a text line** from the console using `Console.ReadLine()` and we can convert the text to a floating-point number using `double.Parse(text)`. We can **print text and numbers** using the **$ text formatting** as follows:
 
 ```
-
+var radius = 1.25;
+Console.WriteLine($"Circle radius = {radius}");
+Console.WriteLine($"Circle area = {Math.PI * radius * radius}");
 ```
 
+The **$ syntax** replaces all expressions in curly brackets with their values and the output from the above code is:
 
+```
+Circle radius = 1.25
+Circle area = 4.90873852123405
+```
+
+Let's explain in greater detail how to use the **console**, how to **enter numbers** and text and how to perform simple **calculations** and **format and print text** and expressions on the console in C\#.
 
