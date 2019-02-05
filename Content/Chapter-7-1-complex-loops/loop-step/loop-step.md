@@ -64,7 +64,7 @@ Write a program that prints the numbers from **1 to 2^n** \(two in power of n\).
 
 ### Video: Numbers 1 ... 2^n
 
-Watch this video lesson to learn how to iterate over the number from 1 to 2^n using a for-loop: https://youtu.be/B2k\_yx3EV0I.
+Watch this video lesson to learn how to iterate over the number from 1 to 2^n using a for-loop: [https://youtu.be/B2k\_yx3EV0I](https://youtu.be/B2k_yx3EV0I).
 
 ### Testing in the Judge System
 
@@ -81,6 +81,10 @@ Here is how we can solve the problem:
 * In **the body of the loop**: we print the value of the current number and **increase the current number **`num`** 4 times** \(according to the problem's description\).
 
 ![](/assets/chapter-7-images/04.Even^2-01.png)
+
+### Video: Even Powers of 2
+
+Watch this lesson to learn how to print the even powers of 2 using a for loop: https://youtu.be/H8t4HGn\_Ap4.
 
 ### Testing in the Judge System
 
