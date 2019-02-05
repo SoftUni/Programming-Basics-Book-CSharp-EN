@@ -10,7 +10,19 @@ Watch a video lesson on this chapter here: [https://www.youtube.com/watch?v=x7zX
 
 In programming **loops can be nested**, which means that in a loop we can put another loop. This is an example of **nested for-loops**, which are used to draw a square of stars:
 
+TODO
 
+TODO
+
+TODO
+
+TODO
+
+TODO
+
+TODO
+
+TODO
 
 
 
