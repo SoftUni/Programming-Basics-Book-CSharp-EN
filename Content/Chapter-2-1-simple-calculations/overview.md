@@ -24,6 +24,8 @@ Console.Write("Meters = ");
 Console.WriteLine(meters);
 ```
 
+Run the above code example: https://repl.it/@nakov/foots-to-meters-csharp.
+
 The above program **enters a number** and **converts** its value from **foots** to **meters**. This is a **sample output** from the above code, when the user enters `5` as input:
 
 ```
@@ -33,11 +35,13 @@ Meters = 1.524
 
 In C\# we can **read a text line** from the console using `Console.ReadLine()` and we can convert the text to a floating-point number using `double.Parse(text)`. We can **print text and numbers** using the **$ text formatting** syntax as follows:
 
-```
+```csharp
 var radius = 1.25;
 Console.WriteLine($"Circle radius = {radius}");
 Console.WriteLine($"Circle area = {Math.PI * radius * radius}");
 ```
+
+Run the above code example: https://repl.it/@nakov/circle-area-csharp.
 
 The **$ syntax** replaces all expressions in curly brackets with their values. The output from the above code is:
 
