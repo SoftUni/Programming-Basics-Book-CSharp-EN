@@ -52,6 +52,10 @@ Here are some examples of composite numbers:
 <td>We can optimize the algorithm instead of checking it to <code><strong>n-1</strong></code>, to check divisors to <code><strong>√n</strong></code>. Think what is the reason for that.</td>
 </tr></table>
 
+## Video: Prime Numbers
+
+Watch this video lesson to learn how to find the prime numbers in the range [1...n]: https://youtu.be/4lWOaPWKf0I.
+
 ## Example: Check for Prime Number. Break Operator
 
 Check if a number **n** is prime. We will do this by checking if **n** is divisible by the numbers between 2 and √n.
