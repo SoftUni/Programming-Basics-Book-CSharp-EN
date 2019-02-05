@@ -4,7 +4,7 @@ The next type of loops that we will get familiar with are called `while`** loops
 
 ## Video: While Loop
 
-Watch this video lesson to learn how to use the while-loop in C\#: https://youtu.be/Jqnxl6k1V9w.
+Watch this video lesson to learn how to use the while-loop in C\#: [https://youtu.be/Jqnxl6k1V9w](https://youtu.be/Jqnxl6k1V9w).
 
 ## While Loop – Explanation
 
@@ -46,6 +46,10 @@ To solve the problem, we can use the following algorithm:
 Here's a sample implementation of the algorithm using a `while`** loop**:
 
 ![](/assets/chapter-7-images/06.Numbers-in-range-1..100-01.png)
+
+## Video: Numbers in the Range \[1..100\]
+
+Watch this video lesson to learn how to enter a number in the range \[1...100\]: https://youtu.be/8W-CIbF4cdA.
 
 ### Testing in the Judge System
 
