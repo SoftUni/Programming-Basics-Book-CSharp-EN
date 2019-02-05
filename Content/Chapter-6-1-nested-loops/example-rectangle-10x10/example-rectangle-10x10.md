@@ -6,6 +6,10 @@ Print on the console a rectangle made out of **10 x 10** stars.
 |---|---|
 |(none)|<code>\*\*\*\*\*\*\*\*\*\*</code><br><code>\*\*\*\*\*\*\*\*\*\*</code><br><code>\*\*\*\*\*\*\*\*\*\*</code><br><code>\*\*\*\*\*\*\*\*\*\*</code><br><code>\*\*\*\*\*\*\*\*\*\*</code><br><code>\*\*\*\*\*\*\*\*\*\*</code><br><code>\*\*\*\*\*\*\*\*\*\*</code><br><code>\*\*\*\*\*\*\*\*\*\*</code><br><code>\*\*\*\*\*\*\*\*\*\*</code><br><code>\*\*\*\*\*\*\*\*\*\*</code>|
 
+## Video: Rectangle of 10 x 10 Stars
+
+Watch this video lesson to learn how to print a rectangle of 10 x 10 stars on the console using nested for-loops: https://youtu.be/XNsgT4yqw_s.
+
 ## Hints and Guidelines
 
 ![](/assets/chapter-6-images/01.Rectangle-of-10-x-10-stars-01.png)
