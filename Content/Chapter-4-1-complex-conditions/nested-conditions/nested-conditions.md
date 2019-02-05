@@ -42,6 +42,10 @@ Depending on **age** (decimal number and **gender** (**m** / **f**), print a per
 |----|----|----|----|
 |25<br>f|Ms.|13.5<br>m|Master|
 
+### Video: Personal Titles
+
+Watch this video to learn how to solve this problem: https://youtu.be/7WiBbMOAc7Q.
+
 ### Solution
 
 We should notice that the **output** of the program **depends on a few things**. **First** we have to check what is the entered **gender** and **then** check the **age**. Respectively, we are going to use **a few** **`if-else`** blocks. These blocks will be **nested**, meaning from **the result** of the first, we are going to **define** which one of the **others** to execute.
