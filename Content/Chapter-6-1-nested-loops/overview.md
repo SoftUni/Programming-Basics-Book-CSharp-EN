@@ -22,6 +22,8 @@ for (int row = 1; row <= n; row++)
 }
 ```
 
+Run the above code example: https://repl.it/@nakov/nested-for-loops-draw-square-csharp.
+
 If we run the above code and enter `5` as input, the **output** will be as follows:
 
 ```
@@ -48,6 +50,8 @@ for (int row = 1; row < n; row++)
     Console.WriteLine();
 }
 ```
+
+Run the above code example: https://repl.it/@nakov/nested-for-loops-draw-rhombus-csharp.
 
 The above code will print on the console the following **output**:
 
