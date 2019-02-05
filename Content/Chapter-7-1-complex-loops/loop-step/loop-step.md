@@ -4,7 +4,7 @@ In the **"Repetitions \(Loops\)"** chapter we learned how the `for` loop works a
 
 ## Video: Loop with a Step
 
-Watch this video lesson to learn how to use for-loops with a custom step: https://youtu.be/QZDpWHcb7dE.
+Watch this video lesson to learn how to use for-loops with a custom step: [https://youtu.be/QZDpWHcb7dE](https://youtu.be/QZDpWHcb7dE).
 
 ## Loop with a Step – Explanation
 
@@ -45,6 +45,10 @@ We can solve the problem in the following way:
 * In **the body of the loop**, we print the value of the current step.
 
 ![](/assets/chapter-7-images/02.Numbers-n-to-1-01.png)
+
+### Video: Numbers N...1
+
+Watch this video lesson to learn how to print the numbers from N down to 1 \(in reverse order\) using a for loop: https://youtu.be/LGPZ-ug3qh0.
 
 ### Testing in the Judge System
 
