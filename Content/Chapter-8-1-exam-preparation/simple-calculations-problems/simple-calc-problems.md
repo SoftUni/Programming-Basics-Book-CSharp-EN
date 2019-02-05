@@ -64,7 +64,7 @@ The only thing left is to print the area on the console.
 Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/516#0](https://judge.softuni.bg/Contests/Practice/Index/516#0).
 
 
-## Problem: Transferring Bricks
+## Problem: Moving Bricks
 
 Construction workers have to transfer a total of **x bricks**. **Workers** are **w** and work simultaneously. They transport the bricks in trolleys, each with a **capacity of m** bricks. Write a program that reads the integers **x**, **w**, and **m**, and calculates **what is the minimum number of courses** the the workers need to do to transport the bricks.
 

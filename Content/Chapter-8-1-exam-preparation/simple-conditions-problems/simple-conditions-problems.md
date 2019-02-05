@@ -67,7 +67,7 @@ Finally, we print **the distance** previously found.
 Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/516#2](https://judge.softuni.bg/Contests/Practice/Index/516#2).
 
 
-## Problem: Point in Figure
+## Problem: Point in a Figure
 
 Write a program that checks whether a point (with coordinates **x** and **y**) is **inside** or **outside** the following figure:
  
