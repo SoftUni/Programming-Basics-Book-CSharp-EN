@@ -12,6 +12,10 @@ The logical "**AND**" (operator **`&&`**) means a few conditions have to be **fu
 |-----|-----|-----|
 |true<br>true<br>false<br>false|true<br>false<br>true<br>false|true<br>false<br>false<br>false|
 
+### Video: Logical "AND"
+
+Watch this video to learn how to use logical "AND" in programming: https://youtu.be/V86_z8GWarM.
+
 ### How the && Operator Works?
 
 The **`&&`** operator accepts **a couple of Boolean** (conditional) statements, which have a **`true`** or **`false`** value, and returns **one** bool statement as a **result**. Using it **instead** of a couple of nested **`if`** blocks, makes the code **more readable**, **ordered** and **easy** to maintain. But how does it **work**, when we put a **few** conditions one after another? As we saw above, the logical **"AND"** returns **`true`**, **only** when it accepts as **arguments statements** with value **`true`**. Respectively, when we have a **sequence** of arguments, the logical "AND" **checks** either until one of the arguments is **over**, or until it **meets** an argument with value **`false`**. 
@@ -65,6 +69,10 @@ At school the teacher says: "John or Peter should clean the board". To fulfill t
 |a|b|a &#124;&#124; b|
 |:-----:|:-----:|:-----:|
 |true<br>true<br>false<br>false|true<br>false<br>true<br>false|true<br>true<br>true<br>false|
+
+### Video: Logical "OR"
+
+Watch this video to learn how to use logical "OR" in programming: https://youtu.be/e6i-2E66RNU.
 
 ### How the || Operator Works?
 
