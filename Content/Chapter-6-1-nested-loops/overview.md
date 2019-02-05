@@ -2,9 +2,9 @@
 
 In the current chapter we will be looking at **nested loops** and how to use `for` loops to **draw** various **figures on the console**, that contain symbols and signs, ordered in rows and columns on the console. We will use **single** and **nested loops** \(loops that are in other loops\), **calculations** and **checks**, in order to print on the console simple and not so simple figures by previously given sizes.
 
-## Video
+## Video: Nested Loops
 
-Watch a video lesson on this chapter here: [https://www.youtube.com/watch?v=x7zXRCpkebo](https://www.youtube.com/watch?v=x7zXRCpkebo).
+Watch a video lesson to learn what we will learn in this chapter: https://youtu.be/sbmhyr1Yz7U.
 
 ## Introduction by Examples
 
@@ -22,7 +22,7 @@ for (int row = 1; row <= n; row++)
 }
 ```
 
-Run the above code example: https://repl.it/@nakov/nested-for-loops-draw-square-csharp.
+Run the above code example: [https://repl.it/@nakov/nested-for-loops-draw-square-csharp](https://repl.it/@nakov/nested-for-loops-draw-square-csharp).
 
 If we run the above code and enter `5` as input, the **output** will be as follows:
 
@@ -51,7 +51,7 @@ for (int row = 1; row < n; row++)
 }
 ```
 
-Run the above code example: https://repl.it/@nakov/nested-for-loops-draw-rhombus-csharp.
+Run the above code example: [https://repl.it/@nakov/nested-for-loops-draw-rhombus-csharp](https://repl.it/@nakov/nested-for-loops-draw-rhombus-csharp).
 
 The above code will print on the console the following **output**:
 
