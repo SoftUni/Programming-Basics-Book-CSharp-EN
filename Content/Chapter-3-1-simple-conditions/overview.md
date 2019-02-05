@@ -25,20 +25,20 @@ else
 
 When executed, the above code will **enter a decimal number **and will **check its value **several times. Depending on the above **conditions**, it will display different messages. Examples are shown below.
 
-If we **enter `-20` as input**, the output will be as follows:
+If we **enter **`-20`** as input**, the output will be as follows:
 
 ```
 Negative size: -20
 ```
 
-If we **enter `150` as input**, the output will be as follows:
+If we **enter **`150`** as input**, the output will be as follows:
 
 ```
 Size accepted: 150
 Area: 22500
 ```
 
-If we **enter `3200` as input**, the output will be as follows:
+If we **enter **`3200`** as input**, the output will be as follows:
 
 ```
 Size too big: 3200
