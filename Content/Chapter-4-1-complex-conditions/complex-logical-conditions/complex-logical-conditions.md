@@ -1,4 +1,4 @@
-# More Complex Logical Conditions
+# More Complex Conditions – Examples
 
 Sometimes the conditions may be **very complex**, so they can require a long bool expression or a sequence of conditions. Let's take a look at a few examples.
 
