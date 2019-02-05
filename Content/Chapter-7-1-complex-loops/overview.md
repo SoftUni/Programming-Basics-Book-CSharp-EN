@@ -13,7 +13,7 @@ In the current chapter, we will also understand what the **`break`** operator is
 
 Watch a video lesson on this chapter here: https://www.youtube.com/watch?v=IovQ8OTnYuQ.
 
-## Introduction by Example
+## Introduction by Examples
 
 **Loops** repeat a piece of code many times while a condition holds and usually changes the so called "loop variable" after each iteration. Example of a `for` loop from 10 down to 0, using a **step -2**:
 
