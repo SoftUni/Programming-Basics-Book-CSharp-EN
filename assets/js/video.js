@@ -1,5 +1,5 @@
 gitbook.events.bind("page.change", function() {
-	let videoLinks = $("p:contains('video lesson') a, div.video-player a");
+	let videoLinks = $("p:contains('video') a, div.video-player a");
 	for (let link of videoLinks) {
         let regex = /youtube\.com\/watch\?v=([a-zA-Z0-9_-]+).*|youtu\.be\/([a-zA-Z0-9_-]+).*/gi;
         let matches = regex.exec(link.href);
