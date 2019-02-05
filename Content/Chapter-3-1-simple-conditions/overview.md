@@ -23,6 +23,8 @@ else
 }
 ```
 
+Run the above code example: https://repl.it/@nakov/size-checker-if-else-csharp.
+
 When executed, the above code will **enter a decimal number **and will **check its value **several times. Depending on the above **conditions**, it will display different messages. Examples are shown below.
 
 If we **enter **`-20`** as input**, the output will be as follows:
@@ -44,5 +46,5 @@ If we **enter **`3200`** as input**, the output will be as follows:
 Size too big: 3200
 ```
 
-Let's explain in greater detail how to use **simple `if-else` conditions** in C\#.
+Let's explain in greater detail how to use **simple **`if-else`** conditions** in C\#.
 

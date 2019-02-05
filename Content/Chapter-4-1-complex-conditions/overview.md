@@ -26,6 +26,8 @@ else
     Console.WriteLine($"Invalid size (a={a}, b={b})");
 ```
 
+Run the above code example: https://repl.it/@nakov/nested-if-else-conditions-csharp.
+
 The above code performs a **series of checks** using nested `if-else` conditional statements and logical operators like `&&` \(logical **AND**\) to check the input data for the following 4 cases:
 
 * Size out of range \(one of the sides is negative or bigger than 100\).
@@ -33,5 +35,5 @@ The above code performs a **series of checks** using nested `if-else` conditiona
 * Middle size \(1000 &lt; area &lt; 5000\)
 * Small size \(area &lt;= 1000\)
 
-Let's explain in greater detail how to use **complex and nested `if-else` conditions** in C\#.
+Let's explain in greater detail how to use **complex and nested **`if-else`** conditions** in C\#.
 
