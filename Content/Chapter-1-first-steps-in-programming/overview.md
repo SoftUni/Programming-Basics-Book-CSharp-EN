@@ -21,6 +21,8 @@ Coding means to write **commands** for the computer, e.g.
 Console.WriteLine("Welcome to coding");
 ```
 
+Run the above code example: [https://repl.it/@nakov/welcome-to-coding-csharp](https://repl.it/@nakov/SHA3-256-hello-in-Python).
+
 When **executed**, the above command prints the following text:
 
 ```
@@ -34,6 +36,8 @@ var size = 5;
 Console.WriteLine("Size = " + size);
 Console.WriteLine("Area = " + size * size);
 ```
+
+Run the above code example: https://repl.it/@nakov/square-area-csharp.
 
 The **result** \(output\) from the above program is as follows:
 
