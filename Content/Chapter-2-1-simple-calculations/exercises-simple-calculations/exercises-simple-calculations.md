@@ -4,7 +4,7 @@ Let's strengthen the knowledge gained throughout this chapter with a few **more 
 
 ## What We Learned in This Chapter?
 
-Let's summarize what we learned in this chapter of the book:
+Let's summarize what we learned in this chapter:
 
 * **Inserting a text**: `var str = Console.ReadLine();`
 * **Inserting an integer**: `var num = int.Parse(Console.ReadLine());`
@@ -12,7 +12,9 @@ Let's summarize what we learned in this chapter of the book:
 * **Calculations with numbers** and using the suitable  **arithmetic operators** \[+, -, \*, /, \(\)\]: `var sum = 5 + 3;`
 * **Printing a text by placeholders** on the console: `Console.WriteLine("{0} + {1} = {2}", 3, 5, 3 + 5);`
 
-Watch the following video lesson to summarize what we learned in this chapter: https://youtu.be/Zv\_c-M\_7Gyw.
+## Video: Chapter Summary
+
+Watch the following video to summarize what we learned in this chapter: [https://youtu.be/Zv\_c-M\_7Gyw](https://youtu.be/Zv_c-M_7Gyw).
 
 ## The Exercises
 
