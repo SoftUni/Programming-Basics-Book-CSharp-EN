@@ -1,12 +1,16 @@
 # Reading Floating Point Numbers From the Console
 
-To read a **floating-point number** from the console use the following command:
+To read a **floating-point number** \(fractional number, non-integer\) from the console use the following command:
 
 ```csharp
 var num = double.Parse(Console.ReadLine());
 ```
 
 The above C\# code first reads a **text line** from the console, then converts \(parses\) it to a **floating-point number**.
+
+## Video: Reading Floating-Point Numbers
+
+Watch a video lesson about how to read floating-point numbers: [https://youtu.be/H2waLeIW70A](https://youtu.be/H2waLeIW70A).
 
 ## Example: Converting Inches into Centimeters
 
