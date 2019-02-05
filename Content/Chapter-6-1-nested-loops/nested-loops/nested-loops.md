@@ -7,6 +7,10 @@ Nested loops is a construction where **in the body of one loop** \(outer one\) *
 * When reaching the the set value for **ending the loop**, the program goes back one step up and continues executing the previous \(outer\) loop. The controlling variable of the outer loop changes with one step, a check is made to see if the condition for ending the loop is met and **a new execution of the nested \(inner\) loop is started**.
 * This is repeated until the variable of the outer loop meets the condition to **end the loop**.
 
+## Video: Nested Loops
+
+Watch this video to learn the concepts of nested loops: https://youtu.be/Sj49u6XlzXU.
+
 ## Nested Loops – Examples
 
 Here is an **example** that illustrates nested loops. The aim is again to print a rectangle made of `n` \*_ _`n` stars, in which for each row a loop iterates from **1** to `n`, and for each column a nested loop is executed from **1** to \*`n`:
