@@ -34,6 +34,12 @@ Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/514#7
 
 Sum up the digits of a **positive** integer **n**. For example, if **n = 5634**, the result will be: 5 + 6 + 3 + 4 = **18**.
 
+### Video: Sum of Digits
+
+Watch this video lesson to learn how to sum the digits of given integer: https://youtu.be/sbzlzdoEbFc.
+
+### Hints and Guidelines
+
 We can use the following idea to solve the problem:
 
    * We create the variable **`n`**, to which we assign a value equal to the number entered by the user.
