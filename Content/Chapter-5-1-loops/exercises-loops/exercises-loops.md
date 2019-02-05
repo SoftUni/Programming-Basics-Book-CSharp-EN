@@ -12,6 +12,10 @@ We can read a sequence of `n` numbers from the console this way:
 
 ![](/assets/chapter-5-images/00.For-loop-03.png)
 
+## Video: Chapter Summary
+
+Watch this video to review what we leaned in this chapter: [https://youtu.be/4G\_oSUcx9ko](https://youtu.be/4G_oSUcx9ko).
+
 ## Blank Solution in Visual Studio
 
 Before starting with the exercises, we will create a **Visual Studio solution** with the idea to hold the code for each exercises problem in a **separate C\# project** inside the solution.
@@ -35,3 +39,6 @@ Now it's time to start working on the problems:
 * [Problem: Element Equal to the Sum of the Rest](/Content/Chapter-5-1-loops/exercises-loops/half-sum-element.md)
 * [Problem: Even / Odd Positions](/Content/Chapter-5-1-loops/exercises-loops/even-odd-positions.md)
 * [Problem: Equal Pairs](/Content/Chapter-5-1-loops/exercises-loops/equal-pairs.md)
+
+
+

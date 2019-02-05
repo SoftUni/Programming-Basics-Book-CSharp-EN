@@ -46,7 +46,7 @@ switch (selector)
 
 ## Video: Chapter Summary
 
-Watch this video to review what we leaned in this chapter: https://youtu.be/QOhyJXZ0HHQ.
+Watch this video to review what we leaned in this chapter: [https://youtu.be/QOhyJXZ0HHQ](https://youtu.be/QOhyJXZ0HHQ).
 
 ## The Exercises
 
