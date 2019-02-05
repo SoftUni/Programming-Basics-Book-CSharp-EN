@@ -52,3 +52,15 @@ Square area = 20.25
 
 The `$` prefix before a string in C\# enables the so called "**string interpolation**": replacing all expressions, staying in curly brackets `{ }` in the text with their values.
 
+Using the **dollar string interpolation syntax**, the last example can be rewritten like this:
+
+```csharp
+var firstName = Console.ReadLine();
+var lastName = Console.ReadLine();
+var age = int.Parse(Console.ReadLine());
+var town = Console.ReadLine();
+Console.WriteLine($"You are {firstName} {lastName}, a {age}-years old person from {town}.");
+```
+
+Play with the above code and test it in the judge system: [https://judge.softuni.bg/Contests/Practice/Index/504\#3](https://legacy.gitbook.com/book/software-university-foundation/programming-basics-csharp-en/edit#).
+
