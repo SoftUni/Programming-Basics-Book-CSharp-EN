@@ -88,6 +88,10 @@ Write a **program** that reads the name of a **city** (string) and the volume of
 |-----|-----|-----|-----|-----|-----|
 |Sofia<br>1500|120.00|Plovdiv<br>499.99|27.50|Paris<br>-50|error|
 
+### Video: Trade Fees
+
+Watch the video about the "Trade Fees" problem and its solution: https://youtu.be/QqKBLJ4JzJ0.
+
 ### Solution
 
 When reading the input, we could convert the city into small letters (with the function **`.ToLower()`**). Initially we set the commission fee to **`-1`**. It will be changed if the city and the price range are found in the table of commissions.
