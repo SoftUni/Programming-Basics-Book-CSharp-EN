@@ -10,6 +10,10 @@ Write a program that takes a positive integer **n** and draws on the console **a
 |---|---|---|---|
 |5|<code>+ - - - +</code><br><code>&#124; - - - &#124;</code><br><code>&#124; - - - &#124;</code><br><code>&#124; - - - &#124;</code><br><code>+ - - - +</code>|6|<code>+ - - - - +</code><br><code>&#124; - - - - &#124;</code><br><code>&#124; - - - - &#124;</code><br><code>&#124; - - - - &#124;</code><br><code>&#124; - - - - &#124;</code><br><code>+ - - - - +</code>|
 
+## Video: Square Frame
+
+Watch this video lesson to learn how to print a square frame on the console using nested loops: https://youtu.be/LS2uqvggfSA.
+
 ## Hints and Guidelines
 
 We can solve the problem in the following way:
