@@ -4,8 +4,4 @@ In the current chapter we will be looking at **nested loops** and how to use **`
 
 ## Video
 
-<div class="video-player">
-  Watch a video lesson on this chapter here: <a target="\_blank"
-  href="https://www.youtube.com/watch?v=x7zXRCpkebo">
-  https://www.youtube.com/watch?v=x7zXRCpkebo</a>.
-</div>
+Watch a video lesson on this chapter here: https://www.youtube.com/watch?v=x7zXRCpkebo.

@@ -4,6 +4,4 @@ In this chapter, we will discuss the **conditional statements in the C # languag
 
 ## Video
 
-<div class="video-player">
-  Watch the video lesson from this chapter here: <a target="_blank" href="https://www.youtube.com/watch?v=uwW_ueaOt7M">https://www.youtube.com/watch?v=uwW_ueaOt7M</a>.
-</div>
+Watch the video lesson from this chapter here: https://www.youtube.com/watch?v=uwW_ueaOt7M.

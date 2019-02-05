@@ -1,6 +1,6 @@
 # Chapter 6.2. Nested Loops – Exam Problems
 
-In the previous chapter we introduced **nested loops** and how to use them to **draw** different kinds of **figures on the console**. We learned how to print figures with different sizes, thinking of an appropriate logic to construct them using **single and nested**`for` loops in combination with various calculations and program logic:
+In the previous chapter we introduced **nested loops** and how to use them to **draw** different kinds of **figures on the console**. We learned how to print figures with different sizes, thinking of an appropriate logic to construct them using **single and nested** `for` loops in combination with various calculations and program logic:
 
 ```csharp
 for (var r = 1; r <= 5; r++)

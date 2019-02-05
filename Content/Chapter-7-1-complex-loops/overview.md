@@ -11,15 +11,12 @@ In the current chapter, we will also understand what the **`break`** operator is
 
 ## Video
 
-<div class="video-player">
-  Watch a video lesson on this chapter here: <a target="_blank"
-  href="https://www.youtube.com/watch?v=IovQ8OTnYuQ">
-  https://www.youtube.com/watch?v=IovQ8OTnYuQ</a>.
-</div>
+Watch a video lesson on this chapter here: https://www.youtube.com/watch?v=IovQ8OTnYuQ.
 
 ## Introduction by Example
 
 **Loops** repeat a piece of code many times while a condition holds and usually changes the so called "loop variable" after each iteration. Example of a `for` loop from 10 down to 0, using a **step -2**:
+
 ```csharp
 for (int i = 10; i >= 0; i-=2)
     Console.Write(i + " ");
@@ -27,6 +24,7 @@ for (int i = 10; i >= 0; i-=2)
 ```
 
 Another example is a `do-while` loop, that calculates the minimum number **k**, such that 2<sup>**k**</sup> > 1,000,000,000:
+
 ```csharp
 int num = 1, count = 0;
 do

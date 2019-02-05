@@ -23,3 +23,6 @@ Let's examine a **real exam topic**, the problems it contains and their solution
 * [Problem: Grades](/Content/Chapter-8-2-exam-preparation-part-2/grades/grades.md)
 * [Problem: Christmas Hat](/Content/Chapter-8-2-exam-preparation-part-2/christmas-hat/christmas-hat.md)
 * [Problem: Letters Combination](/Content/Chapter-8-2-exam-preparation-part-2/letters-combinations/letters-combinations.md)
+
+
+

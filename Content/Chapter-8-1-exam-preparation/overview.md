@@ -4,11 +4,7 @@ In **the present chapter** we will examine a few **problems** with a level of **
 
 ## Video
 
-<div class="video-player">
-  Watch a video lesson on this chapter here: <a target="_blank"
-  href="https://www.youtube.com/watch?v=Cw-75W5Az4I">
-  https://www.youtube.com/watch?v=Cw-75W5Az4I</a>.
-</div>
+Watch a video lesson on this chapter here: https://www.youtube.com/watch?v=Cw-75W5Az4I.
 
 ## "Programming Basics" Practical Exam
 

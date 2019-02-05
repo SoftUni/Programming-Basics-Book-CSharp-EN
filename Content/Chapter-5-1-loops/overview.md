@@ -4,9 +4,4 @@ In the present chapter we will get familiar with **repetitions of group of comma
 
 ## Video
 
-<div class="video-player">
-  Watch a video lesson on this chapter here: <a target="_blank"
-  href="https://www.youtube.com/watch?v=Xjwjk9yS4uw">
-  https://www.youtube.com/watch?v=Xjwjk9yS4uw</a>.
-</div>
-
+Watch a video lesson on this chapter here: https://www.youtube.com/watch?v=Xjwjk9yS4uw.
