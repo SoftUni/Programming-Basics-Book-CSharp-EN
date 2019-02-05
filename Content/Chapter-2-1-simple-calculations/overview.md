@@ -14,7 +14,7 @@ Watch a video lesson on this chapter here: [https://youtu.be/0f7c9RIZGaE](https:
 
 ## Introduction by Examples
 
-Computer programs can **enter data** from the **console**, perform **calculations** and **print the results** on the console. This is a simple example of C\# program that converts between foots and meters:
+Computer programs can **enter data** from the **console**, perform **calculations** and **print the results** on the console. This is a simple example of C\# program that **converts **from **foots** to **meters**:
 
 ```csharp
 Console.Write("Foots = ");              
@@ -24,14 +24,14 @@ Console.Write("Meters = ");
 Console.WriteLine(meters);
 ```
 
-The above program **enters a number** \(e.g. `5`\) and **converts** its value from **foots** to **meters**. This is a **sample output** from the above code, when the user enters `5` as input:
+The above program **enters a number** and **converts** its value from **foots** to **meters**. This is a **sample output** from the above code, when the user enters `5` as input:
 
 ```
 Foots = 5
 Meters = 1.524
 ```
 
-In C\# we can **read a text line** from the console using `Console.ReadLine()` and we can convert the text to a floating-point number using `double.Parse(text)`. We can **print text and numbers** using the **$ text formatting** as follows:
+In C\# we can **read a text line** from the console using `Console.ReadLine()` and we can convert the text to a floating-point number using `double.Parse(text)`. We can **print text and numbers** using the **$ text formatting** syntax as follows:
 
 ```
 var radius = 1.25;
@@ -39,7 +39,7 @@ Console.WriteLine($"Circle radius = {radius}");
 Console.WriteLine($"Circle area = {Math.PI * radius * radius}");
 ```
 
-The **$ syntax** replaces all expressions in curly brackets with their values and the output from the above code is:
+The **$ syntax** replaces all expressions in curly brackets with their values. The output from the above code is:
 
 ```
 Circle radius = 1.25
