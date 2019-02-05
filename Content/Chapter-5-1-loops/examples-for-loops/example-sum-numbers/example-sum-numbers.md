@@ -15,6 +15,10 @@ Write a program that **inputs `n` integers and sums them up**.
 | 1<br>999 | 999 | 
 | 0 | 0 |
 
+## Video: Summing Numbers
+
+Watch this video to learn how to sum numbers in for-loop: https://youtu.be/t7PAichwl7k.
+
 ## Hints and Guidelines
 
 We can solve the problem with summing up numbers in the following way:
