@@ -6,6 +6,10 @@ We need to create **a graphical application** \(GUI application\) that calculate
 
 This exercise goes beyond the material learned in this book and its purpose is not to teach you how to program GUI applications, but to strengthen your interest in software development. Let's get to work.
 
+## Video: GUI Converter from BGN to EUR
+
+Watch the following video lesson to learn how to build the Windows Forms based GUI application to convert BGN to EUR: https://youtu.be/xWbDjzLsu9U.
+
 ## Creating a New C\# Project
 
 We add to the existing Visual Studio solution one more project. This time we create a **Windows Forms** application with C\# named "**BGN-to-EUR-Converter**":
