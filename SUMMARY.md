@@ -101,7 +101,7 @@
   * [Problem: Operations with Numbers](Content/Chapter-4-2-complex-conditions-exam-problems/exam-problems/operations/operations.md)
   * [Problem: Game Tickets](Content/Chapter-4-2-complex-conditions-exam-problems/exam-problems/match-tickets/match-tickets.md)
   * [Problem: Hotel Room](Content/Chapter-4-2-complex-conditions-exam-problems/exam-problems/hotel-room/hotel-room.md)
-* [5.1. Repetitions \(Loops\)](Content/Chapter-5-1-loops/overview.md)
+* [5.1. Loops \(Repetitions\)](Content/Chapter-5-1-loops/overview.md)
   * [For Loops – Concepts](Content/Chapter-5-1-loops/for-loop/for-loop.md)
     * [Example: Numbers from 1 to 100](Content/Chapter-5-1-loops/for-loop/for-loop/example-numbers-from-1-to-100.md)
     * [Example: Numbers Ending by 7](Content/Chapter-5-1-loops/for-loop/for-loop/example-numbers-ending-by-7.md)
