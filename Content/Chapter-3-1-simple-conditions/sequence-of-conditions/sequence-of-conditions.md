@@ -22,9 +22,9 @@ else
 }
 ```
 
-## Videos: Series of If-Else Checks
+## Video: Series of If-Else Checks
 
-Watch the video about the if-else checks: https://youtu.be/PUvf7gtKSz4.
+Watch the video about the if-else checks: [https://youtu.be/PUvf7gtKSz4](https://youtu.be/PUvf7gtKSz4).
 
 ## Example: Digits in English
 
