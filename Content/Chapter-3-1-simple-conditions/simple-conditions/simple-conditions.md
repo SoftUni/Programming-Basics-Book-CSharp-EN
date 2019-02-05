@@ -9,9 +9,13 @@ if (condition)
 }
 ```
 
+## Video: Simple If Conditions
+
+Watch the video lesson about the simple if-conditions: https://youtu.be/M-G4nOaVDVA.
+
 ## Example: Excellent Grade
 
-We read the grade from the console and check if it's excellent (**`≥ 5.50`**).
+We read the grade from the console and check if it's excellent \(`≥ 5.50`\).
 
 ![](/assets/chapter-3-images/01.Excellent-result-01.png)
 
@@ -19,5 +23,6 @@ Test the code from the example locally. Try entering different grades, for examp
 
 ### Testing in the Judge System
 
-Test your solution from the example here:
-[https://judge.softuni.bg/Contests/Practice/Index/506#0](https://judge.softuni.bg/Contests/Practice/Index/506#0).
+Test your solution from the example here:  
+[https://judge.softuni.bg/Contests/Practice/Index/506\#0](https://judge.softuni.bg/Contests/Practice/Index/506#0).
+
