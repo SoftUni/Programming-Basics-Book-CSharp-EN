@@ -44,6 +44,10 @@ switch (selector)
 }
 ```
 
+## Video: Chapter Summary
+
+Watch this video to review what we leaned in this chapter: https://youtu.be/QOhyJXZ0HHQ.
+
 ## The Exercises
 
 Solve the exercises below to learn how to work with nested and more complex conditions:
@@ -51,4 +55,6 @@ Solve the exercises below to learn how to work with nested and more complex cond
 * [Problem: Cinema](/Content/Chapter-4-1-complex-conditions/exercises-complex-conditions/volleyball/problem-cinema.md)
 * [Problem: Volleyball](/Content/Chapter-4-1-complex-conditions/exercises-complex-conditions/volleyball/volleyball.md)
 * [Problem: \* Point in the Figure](/Content/Chapter-4-1-complex-conditions/exercises-complex-conditions/point-in-the-figure/point-in-the-figure.md)
+
+
 
