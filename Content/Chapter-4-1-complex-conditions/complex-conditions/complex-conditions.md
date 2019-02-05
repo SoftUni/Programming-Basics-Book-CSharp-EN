@@ -121,6 +121,10 @@ Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/508#3
 
 The operator **`!`** accepts as an **argument** a bool variable and **returns** its value.
 
+### Video: Logical "NOT"
+
+Watch this video to learn how to use logical "NOT" in programming: https://youtu.be/4U7w2ZSAAW4.
+
 ### Example: Invalid Number
 
 A given **number is valid** if it is in the range [**100 … 200**] or it is **0**. Do a validation for an **invalid** number.
