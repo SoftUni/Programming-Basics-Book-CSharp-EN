@@ -36,4 +36,4 @@ Console.WriteLine("2^{0} = {1}", count, num);
 // Output: 2^30 = 1073741824
 ```
 
-Let's get into details on how to use `for` loops with a step, how to use `while` loops, how to use `do-while` loops and how to design a program logic, based on infinite loops with a `break`.
+Let's get into details on how to use **`for` loops with a step**, how to use **`while` loops**, how to use **`do-while` loops** and how to design a program logic, based on **infinite loops with a `break`**.
