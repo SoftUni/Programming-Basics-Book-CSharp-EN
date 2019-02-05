@@ -46,7 +46,7 @@ The above **program** \(sequence of commands\) consists of 3 commands:
 
 1. Defines a variable `size` and stores an integer value `5` in it.
 2. Prints the value of the variable `a`, along with some text.
-3. Calculates and prints the value of the expression `a * a `.
+3. Calculates and prints the value of the expression `a * a`.
 
-Let's explain in greater detail what is **programming**, what is programing **language**, how to write **commands** and simple **programs** in the **C\#** language.
+Let's explain in greater detail what is **programming**, what is programing **language**, how to write **commands** and simple **programs** in the **C\#** language, using the Visual Studio development environment.
 
