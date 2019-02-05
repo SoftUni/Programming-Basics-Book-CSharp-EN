@@ -14,6 +14,10 @@ Write a program that takes an integer **n** (1 ≤ **n** ≤ 100) and prints a d
 |---|---|---|---|---|---|
 |7|<code>---\*---</code><br><code>--\*-\*--</code><br><code>-\*---\*-</code><br><code>\*-----\*</code><br><code>-\*---\*-</code><br><code>--\*-\*--</code><br><code>---\*---</code><br>|8|<code>---\*\*---</code><br><code>--\*--\*--</code><br><code>-\*----\*-</code><br><code>\*------\*</code><br><code>-\*----\*-</code><br><code>--\*--\*--</code><br><code>---\*\*---</code><br>|9|<code>----\*----</code><br><code>---\*-\*---</code><br><code>--\*---\*--</code><br><code>-\*-----\*-</code><br><code>\*-------\*</code><br><code>-\*-----\*-</code><br><code>--\*---\*--</code><br><code>---\*-\*---</code><br><code>----\*----</code>|
 
+## Video: Draw a Diamond
+
+Watch this video lesson to learn how to print a diamond on the console using nested loops: https://youtu.be/Z8crtxDztBk.
+
 ## Hints and Guidelines
 
 What we know from the problem explanation is that the diamond is with size **`n` x `n`**.
