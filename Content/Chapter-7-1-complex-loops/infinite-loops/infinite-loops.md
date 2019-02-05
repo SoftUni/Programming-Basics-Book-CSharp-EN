@@ -2,6 +2,10 @@
 
 So far, we were introduced to various types of loops, learning what structures they have and how they are applied. Now, we need to understand what an **infinite loop** is, when it occurs, and how we can **break** it using the **`break`** operator.
 
+## Video: Infinite Loops with Break
+
+Watch this video lesson to learn how to use infinite loops, along with the `break` operator: https://youtu.be/rpez6b9TpdA.
+
 ## Infinite Loop – Explanation
 
 We call an infinite loop one that **repeats infinitely** the performance of its body. In **`while`** and **`do-while`** loops the end check is a conditional expression that **always** returns **`true`**. Infinite **`for`** occurs when there is **no condition to end the loop**.
