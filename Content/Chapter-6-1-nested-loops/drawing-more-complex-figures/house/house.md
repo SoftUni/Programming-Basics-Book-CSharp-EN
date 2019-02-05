@@ -10,6 +10,10 @@ Write a program that takes a number **n** (2 ≤ **n** ≤ 100) and prints **a h
 |---|---|---|---|
 |5|<code>--\*--</code><br><code>-\*\*\*-</code><br><code>\*\*\*\*\*</code><br><code>&#124;\*\*\*&#124;</code><br><code>&#124;\*\*\*&#124;</code>|8|<code>---\*\*---</code><br><code>--\*\*\*\*--</code><br><code>-\*\*\*\*\*\*-</code><br><code>\*\*\*\*\*\*\*\*</code><br><code>&#124;\*\*\*\*\*\*&#124;</code><br><code>&#124;\*\*\*\*\*\*&#124;</code><br><code>&#124;\*\*\*\*\*\*&#124;</code><br><code>&#124;\*\*\*\*\*\*&#124;</code><br>|
 
+## Video: Draw a House
+
+Watch this video lesson to learn how to print a house on the console using nested loops: https://youtu.be/ExjxRM0vXW4.
+
 ## Hints and Guidelines
 
 We understand from the problem explanation that the house is with size of **`n` x `n`**. What we see from the example input and output is that:
