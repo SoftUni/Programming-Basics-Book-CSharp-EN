@@ -8,6 +8,10 @@ Print the numbers 1 … n in a table as in the examples below.
 |--------|-----|-------|-----|
 |3|1 2 3<br>2 3 2<br>3 2 1|4|1 2 3 4<br>2 3 4 3<br>3 4 3 2<br>4 3 2 1|
 
+## Video: Table with Numbers
+
+Watch this video lesson to learn how to print a table of numbers like the shown above using nested loops: https://youtu.be/DVf7riptCwA.
+
 ## Hints and Guidelines
 
 We can solve the problem using **two nested loops** and little calculations inside them:
