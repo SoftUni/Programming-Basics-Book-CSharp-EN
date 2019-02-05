@@ -23,6 +23,10 @@ switch (selector)
 }
 ```
 
+## Video: Switch-Case
+
+Watch the video to learn how to use the switch-case conditional statement: https://youtu.be/mGJOc4xx5Ho.
+
 ## Example: Day of the Week
 
 Let's write a program that prints **the day of the week** (in English) depending on the **given number** (1 … 7) or "**Error!**" if an invalid input is given.
