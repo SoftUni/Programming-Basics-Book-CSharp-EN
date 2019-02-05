@@ -114,7 +114,7 @@
     * [Problem: Min Number](Content/Chapter-5-1-loops/examples-for-loops/example-min-number/example-min-number.md)
     * [Problem: Left and Right Sum](Content/Chapter-5-1-loops/examples-for-loops/example-left-and-right-sum/example-left-and-right-sum.md)
     * [Problem: Even / Odd Sum](Content/Chapter-5-1-loops/examples-for-loops/example-even-odd-sum/example-even-odd-sum.md)
-    * [Problem: Summing up Vowels](Content/Chapter-5-1-loops/examples-for-loops/example-vowels-sum/example-vowels-sum.md)
+    * [Problem: Sum of Vowels](Content/Chapter-5-1-loops/examples-for-loops/example-vowels-sum/example-vowels-sum.md)
     * [Problem: Element Equal to the Sum of the Rest](Content/Chapter-5-1-loops/exercises-loops/half-sum-element.md)
     * [Problem: Even / Odd Positions](Content/Chapter-5-1-loops/exercises-loops/even-odd-positions.md)
     * [Problem: Equal Pairs](Content/Chapter-5-1-loops/exercises-loops/equal-pairs.md)
