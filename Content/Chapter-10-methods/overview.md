@@ -40,3 +40,27 @@ The above **method** \(named piece of code\) `PrintLetter(letter, count)` prints
 
 Let's get into details how methods are **defined**, how methods are **invoked**, how methods accept **parameters** \(input values\) and how methods return **results** \(output values\).
 
+Methods can **return values**, e.g.
+
+```csharp
+static double CalcCircleArea(double radius)
+{
+    return Math.PI * radius * radius;
+}
+
+static void Main()
+{
+    Console.WriteLine("r = {0}, area = {1}", 5, CalcCircleArea(5));
+    Console.WriteLine("r = {0}, area = {1}", 2.8, CalcCircleArea(2.8));
+}
+```
+
+The output from the above code is:
+
+```
+r = 5, area = 78.5398163397448
+r = 2.8, area = 24.630086404144
+```
+
+
+
