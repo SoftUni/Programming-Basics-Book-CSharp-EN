@@ -13,3 +13,40 @@ In this chapter, we are going to find out **what programming is** in its core an
 
 Watch a video lesson on this chapter here: [https://youtu.be/LgT10WCBw0M](https://www.youtube.com/watch?v=LgT10WCBw0M).
 
+## Introduction by Example
+
+Coding means to write **commands** for the computer, e.g.
+
+```csharp
+Console.WriteLine("Welcome to coding");
+```
+
+When **executed**, the above command prints the following text:
+
+```
+Welcome to coding
+```
+
+Several commands can be written as a sequence, called "**computer program**":
+
+```csharp
+var size = 5;
+Console.WriteLine("Size = " + size);
+Console.WriteLine("Area = " + size * size);
+```
+
+The **result** \(output\) from the above program is as follows:
+
+```
+Size = 5
+Area = 25
+```
+
+The above **program** \(sequence of commands\) consists of 3 commands:
+
+1. Defines a variable `size` and stores an integer value `5` in it.
+2. Prints the value of the variable `a`, along with some text.
+3. Calculates and prints the value of the expression `a * a `.
+
+Let's explain in greater detail what is **programming**, what is programing **language**, how to write **commands** and simple **programs** in the **C\#** language.
+
