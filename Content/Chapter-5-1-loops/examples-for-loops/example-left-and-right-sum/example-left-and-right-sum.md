@@ -8,6 +8,10 @@ Write a program that converts **2 \* n integers** and checks whether **the sum o
 | --- | --- | --- | --- | 
 | 2<br>10<br>90<br>60<br>40 | Yes, sum = 100 | 2<br>90<br>9<br>50<br>50 | No, diff = 1 |
 
+## Video: Left and Right Sum
+
+Watch this video lesson to learn how to find calculate the left and the right sum and their difference: https://youtu.be/s_uAuqTnC8w.
+
 ## Hints and Guidelines
 
 We will first input the number **n**, after that the first **n** numbers (**left** half) and sum them up. We will then proceed with inputting more **n** numbers (**the right** half) and sum them up. We calculate the **difference** between the sums by absolute value: **`Math.Abs(leftSum - rightSum)`**. If the difference is **0**, print **"Yes" + the sum**, otherwise print **"No" + the difference**.
