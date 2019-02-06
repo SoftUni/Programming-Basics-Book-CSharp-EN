@@ -11,9 +11,9 @@ In the current chapter, we will also understand what the `break` operator is and
 
 ## Video: Chapter Overview
 
-Watch a video lesson to review what shall we learn in this chapter: https://youtu.be/J18RgaaMi7U.
+Watch a video lesson to review what shall we learn in this chapter: [https://youtu.be/J18RgaaMi7U](https://youtu.be/J18RgaaMi7U).
 
-## Introduction by Examples
+## Introduction to More Complex Loops by Examples
 
 **Loops** repeat a piece of code many times while a condition holds and usually changes the so called "**loop variable**" after each iteration. The loop variable using a **certain step**, e.g. 5 or -2. Example of a `for` loop from 10 down to 0, using a **step -2**:
 

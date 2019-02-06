@@ -2,11 +2,11 @@
 
 In the current chapter we will be looking at **nested loops** and how to use `for` loops to **draw** various **figures on the console**, that contain symbols and signs, ordered in rows and columns on the console. We will use **single** and **nested loops** \(loops that are in other loops\), **calculations** and **checks**, in order to print on the console simple and not so simple figures by previously given sizes.
 
-## Video: Nested Loops
+## Video: Chapter Overview
 
-Watch a video lesson to learn what we will learn in this chapter: https://youtu.be/sbmhyr1Yz7U.
+Watch a video lesson to learn what we will learn in this chapter: [https://youtu.be/sbmhyr1Yz7U](https://youtu.be/sbmhyr1Yz7U).
 
-## Introduction by Examples
+## Introduction to Nested Loops by Examples
 
 In programming **loops can be nested**, which means that in a loop we can put another loop. This is an example of **nested for-loops**, which are used to draw a square of `n` rows, each holding `n` times the chars `=-`:
 
