@@ -37,6 +37,10 @@ Print on the console **the area of the triangle**.
 |----|----|----|----|
 |4<br>1<br>-1<br>-3<br>3<br>-3|8|![](/assets/chapter-8-1-images/01.Triangle-area-02.png)|The side of the triangle **a** = 3 - (-1) = **4**<br>The height of the triangle **h** = 1 - (-3) = **4**<br>Triangle area **S** = a \* h / 2 = 4 \* 4 / 2 = **8**|
 
+### Video: Triangle Area
+
+Watch the video lesson about solving the triangle area problem: https://youtu.be/m2O8_rcNHtA.
+
 ### Reading the Input Data
 
 It is important in such types of tasks where some coordinates are given to pay attention to **the order** in which they are submitted, and to properly understand which of the coordinates we will use and how. In this case, the input is in order **x1, y1, x2, y2, x3, y3**. If we do not follow this sequence, the solution becomes wrong. First we write the code that reads the input data:
@@ -94,6 +98,10 @@ Print on the console **the minimum number of courses** needed to transport the b
 | Input | Output | Comments |
 |----|----|----|
 |5<br>12<br>30|1|We have **5** workers, each transporting **30** bricks per course. In total, workers are transporting **150** bricks per course. In order to transport **5** bricks, only **1** course is sufficient (although incomplete, with only 5 bricks).|
+
+### Video: Triangle Area
+
+Watch the video lesson about solving the "Moving Bricks" problem: https://youtu.be/NuPQ0EPYjsI.
 
 ### Reading the Input Data and Calculate Bricks per Course
 
