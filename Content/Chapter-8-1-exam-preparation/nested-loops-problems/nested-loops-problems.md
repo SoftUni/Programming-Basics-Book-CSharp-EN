@@ -25,6 +25,10 @@ The output contains all **numbers in batches of four**, in ascending order, one 
 | --- | --- | --- | --- |
 |5<br>7|No|10<br>13|10 11 12 13|
 
+### Video: Increasing 4 Numbers
+
+Watch the video lesson about solving the "Increasing 4 Numbers" problem: https://youtu.be/2DuNHqmbP5Y.
+
 ### Reading the Input Data
 
 We will read the input data from the console. We also create the additional variable **`count`**, which will keep track of **existing number ranges**.
@@ -89,11 +93,17 @@ Two numbers, one per line, are entered from the console:
 | --- | --- |
 |3<br>36|(-3, -3) (3, 3) -> 36|
 
-### Reading the Input Data and Sample Idea for the Solution
+### Video: Generating Rectangles
+
+Watch the video lesson about solving the "Generating Rectangles" problem: https://youtu.be/gk1IOpMXpCc.
+
+### Reading the Input Data
 
 Read the input data from the console. We will also create a **counter**, which will store the number of rectangles found.
 
 ![](/assets/chapter-8-1-images/12.Generating-rectangles-01.png)
+
+### Sample Idea for the Solution
 
 It is very important to be able to imagine the problem before we begin to solve it. In our case it is required to search for rectangles in a coordinate system. The thing we know is that the **left point** will always have the coordinate **`x`, smaller** than **the right** one. Accordingly, **the upper one** will always have a smaller **`y`** coordinate than **the lower one**. To find all the rectangles, we'll have to create **a loop** similar to the previous problem, but this time, **not every next loop** will start from **the next number** because some of **the coordinates** can be equal (for example **`left`** and **`top`**).
 
