@@ -36,6 +36,10 @@ Print the result on the console:
 | --- | --- | --- |
 |1<br>-2<br>3|out<br>2|![](/assets/chapter-8-1-images/03.Point-on-segment-03.png)|
 
+### Video: Point on a Segment
+
+Watch the video lesson about solving the "Point on a Segment" problem: https://youtu.be/isrSHqLvV90.
+
 ### Reading the Input Data
 
 We read the input from the console.
@@ -92,6 +96,10 @@ Print on the console "**in**" or "**out**" – whether the point is **inside** o
 | Input | Output | Input | Output |
 |----|----|----|----|
 |11<br>-5|out|11<br>2|out|
+
+### Video: Point in a Figure
+
+Watch the video lesson about solving the "Point in a Figure" problem: https://youtu.be/SzxHyZVdhEo.
 
 ### Hints and Guidelines
 

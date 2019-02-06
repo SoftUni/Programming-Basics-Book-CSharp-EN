@@ -99,7 +99,7 @@ Print on the console **the minimum number of courses** needed to transport the b
 |----|----|----|
 |5<br>12<br>30|1|We have **5** workers, each transporting **30** bricks per course. In total, workers are transporting **150** bricks per course. In order to transport **5** bricks, only **1** course is sufficient (although incomplete, with only 5 bricks).|
 
-### Video: Triangle Area
+### Video: Moving Bricks
 
 Watch the video lesson about solving the "Moving Bricks" problem: https://youtu.be/NuPQ0EPYjsI.
 
