@@ -6,7 +6,7 @@ In the present chapter we will get familiar how to **repeat blocks of commands**
 
 Watch a video lesson to review what will we learn in this chapter: [https://youtu.be/GIE2smfXg2g](https://youtu.be/GIE2smfXg2g).
 
-## Introduction to SImple Loops by Examples
+## Introduction to Simple Loops by Examples
 
 In programming we can **execute a block of code multiple times** using a simple **for-loop** like this:
 
