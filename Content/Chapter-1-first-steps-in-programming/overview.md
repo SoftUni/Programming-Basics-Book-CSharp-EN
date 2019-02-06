@@ -9,11 +9,11 @@ In this chapter, we are going to find out **what programming is** in its core an
 * We will learn how to check the correctness of the solutions from this book in **the Judge system of SoftUni**.
 * We will get to know some of the **typical mistakes**, which are often made during code writing and how to prevent doing them.
 
-## Video
+## Video: Chapter Overview
 
 Watch a video lesson on this chapter here: [https://youtu.be/LgT10WCBw0M](https://www.youtube.com/watch?v=LgT10WCBw0M).
 
-## Introduction by Examples
+## Introduction To Coding by Examples
 
 Coding means to write **commands** for the computer, e.g.
 
@@ -37,7 +37,7 @@ Console.WriteLine("Size = " + size);
 Console.WriteLine("Area = " + size * size);
 ```
 
-Run the above code example: https://repl.it/@nakov/square-area-csharp.
+Run the above code example: [https://repl.it/@nakov/square-area-csharp](https://repl.it/@nakov/square-area-csharp).
 
 The **result** \(output\) from the above program is as follows:
 
