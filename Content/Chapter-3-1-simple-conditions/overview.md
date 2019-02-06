@@ -4,9 +4,9 @@ In this chapter, we will discuss the **conditional statements in the C \# langua
 
 ## Video: Chapter Overview
 
-Watch the video lesson about what we will learn in this chapter: https://youtu.be/sstA00rIWk0.
+Watch the video lesson about what we will learn in this chapter: [https://youtu.be/sstA00rIWk0](https://youtu.be/sstA00rIWk0).
 
-## Introduction by Examples
+## Introduction to Simple Conditions by Examples
 
 In programming we can **check conditions** and execute different blocks of code depending on the check. This is typically performed using the `if-else` constructs:
 
