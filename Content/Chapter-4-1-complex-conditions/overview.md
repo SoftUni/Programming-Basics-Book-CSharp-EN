@@ -4,9 +4,9 @@ In the **current** chapter, we are going to examine the **nested conditional sta
 
 ## Video: Chapter Overview
 
-Watch this video to see what will you learn in this chapter: https://youtu.be/qvbVrKXxsu0.
+Watch this video to see what will you learn in this chapter: [https://youtu.be/qvbVrKXxsu0](https://youtu.be/qvbVrKXxsu0).
 
-## Introduction by Examples
+## Introduction to Complex Conditions by Examples
 
 **Conditional statements can be nested**, i.e. we can put `if-else` inside another `if-else` statement. Conditions in the `if` constructions can be complex, e.g. use **logical "AND"** or **logical "OR"**. Example:
 
