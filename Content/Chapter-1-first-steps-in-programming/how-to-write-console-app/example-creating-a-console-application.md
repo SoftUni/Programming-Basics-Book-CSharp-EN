@@ -70,7 +70,7 @@ In the table with the sent solutions the judge system is going to show one of th
 
 ### How to Register in SoftUni Judge?
 
-Use your credentials \(username + password\) for the site softuni.bg. If you don't have a SoftUni registration, create one. It takes only a minute – a standard registration in an Internet site.
+Use your credentials \(username + password\) for the site **softuni.org**. If you don't have a SoftUni registration, create one. It takes only a minute – a standard registration in an Internet site.
 
 ## Testing the Programs That Play Notes
 

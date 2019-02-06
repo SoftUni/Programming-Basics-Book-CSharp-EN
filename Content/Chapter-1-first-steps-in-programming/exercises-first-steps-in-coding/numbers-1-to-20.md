@@ -21,5 +21,5 @@ Inside the `static void Main()` method write 20 commands `Console.WriteLine(…)
 
 Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/503\#2](https://judge.softuni.bg/Contests/Practice/Index/503#2).
 
-Now think whether we can write the program **a smarter way**, so we don't repeat the same command 20 times. Seek out information on the Internet about "[**for loop C\#**](https://www.google.bg/search?q=for+loop+C%23&oq=for+loop+C%23)".
+Now think whether we can write the program **a smarter way**, so we don't repeat the same command 20 times. Seek out information on the Internet about "[**for loop C\#**](https://www.google.com/search?q=for+loop+C%23&oq=for+loop+C%23)".
 

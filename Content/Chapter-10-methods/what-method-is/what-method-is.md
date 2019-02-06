@@ -79,7 +79,7 @@ A method can also be called from **the body of another method**, which is **not*
 
 ![](/assets/chapter-10-images/03.Invoking-methods-03.png)
 
-There is also a possibility for the method to be called in **its own body**. This is called **recursion** and you can find more information about it in [Wikipedia](https://bg.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BA%D1%83%D1%80%D1%81%D0%B8%D1%8F) or you can search on your own in the Internet.
+There is also a possibility for the method to be called in **its own body**. This is called **recursion** and you can find more information about it in [Wikipedia](https://en.wikipedia.org/wiki/Recursion) or you can search on your own in the Internet.
 
 It is important to know that if a method is declared in a class, it can be called before the line, on which it has been declared.
 
