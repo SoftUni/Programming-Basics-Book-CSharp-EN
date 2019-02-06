@@ -12,7 +12,7 @@ In this chapter we are going to get familiar with the following concepts and pro
 
 Watch a video lesson about what shall we learn in this chapter here: [https://youtu.be/NXbFJw\_NstA](https://youtu.be/NXbFJw_NstA).
 
-## Introduction To Simple Calculations by Examples
+## Introduction to Simple Calculations by Examples
 
 Computer programs can **enter data** from the **console**, perform **calculations** and **print the results** on the console. This is a simple example of C\# program that **converts **from **foots** to **meters**:
 

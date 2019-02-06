@@ -13,7 +13,7 @@ In this chapter, we are going to find out **what programming is** in its core an
 
 Watch a video lesson on this chapter here: [https://youtu.be/LgT10WCBw0M](https://www.youtube.com/watch?v=LgT10WCBw0M).
 
-## Introduction To Coding by Examples
+## Introduction to Coding by Examples
 
 Coding means to write **commands** for the computer, e.g.
 
