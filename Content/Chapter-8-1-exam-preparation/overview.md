@@ -4,7 +4,7 @@ In **the present chapter** we will examine a few **problems** with a level of **
 
 ## Video: Chapter Overview
 
-Watch a video about what shall you learn in this chapter: https://youtu.be/t0eqL0SzIR4.
+Watch a video about what shall you learn in this chapter: [https://youtu.be/t0eqL0SzIR4](https://youtu.be/t0eqL0SzIR4).
 
 ## "Programming Basics" Practical Exam
 
@@ -25,7 +25,7 @@ The course **"Programming Basics"** ends with a **practical exam**. There are **
 
 ## Video: The Practical Exam Explained
 
-Watch this video to learn more about the practical exam, the problems, the evaluation and the automated judge system: https://youtu.be/KPFk980HWhw.
+Watch this video to learn more about the practical exam, the problems, the evaluation and the automated judge system: [https://youtu.be/KPFk980HWhw](https://youtu.be/KPFk980HWhw).
 
 ## The Problems
 

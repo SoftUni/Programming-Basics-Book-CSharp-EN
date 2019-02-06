@@ -178,6 +178,7 @@
   * [Simple Loops – Problems](Content/Chapter-8-1-exam-preparation/simple-loops-problems/simple-loops-problems.md)
   * [Drawing Figures – Problems](Content/Chapter-8-1-exam-preparation/drawing-figures-problems/drawing-figures-problems.md)
   * [Nested Loops – Problems](Content/Chapter-8-1-exam-preparation/nested-loops-problems/nested-loops-problems.md)
+  * [Summary](Content/Chapter-8-1-exam-preparation/simple-calculations-problems/summary.md)
 * [8.2. Practical Exam Preparation – Part II](Content/Chapter-8-2-exam-preparation-part-2/overview.md)
   * [Problem: Distance](Content/Chapter-8-2-exam-preparation-part-2/distance/distance.md)
   * [Problem: Changing Tiles](Content/Chapter-8-2-exam-preparation-part-2/change-tiles/change-tiles.md)
