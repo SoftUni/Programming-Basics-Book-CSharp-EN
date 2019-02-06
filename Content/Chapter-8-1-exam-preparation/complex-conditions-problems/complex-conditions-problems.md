@@ -27,6 +27,10 @@ Print a single line containing the date after 5 days in the format **day.month**
 | --- | --- | --- | --- |
 |25<br>1|30.01|26<br>02|3.03|
 
+### Video: Date After 5 Days
+
+Watch the video lesson about solving the "Date After 5 Days" problem: https://youtu.be/01FEQP6r_xk.
+
 ### Reading and Processing the Input Data
 
 We take the input from the console.
@@ -84,6 +88,10 @@ The console reads **three integers**, one per line. The numbers are in the range
 | Input | Output | Input | Output |
 | --- | --- | --- | --- |
 |1<br>1<br>5|No|2<br>6<br>3|No|
+
+### Video: Sum of 3 Numbers
+
+Watch the video lesson about solving the "Sum of 3 Numbers" problem: https://youtu.be/7NwKXOtbWXc.
 
 ### Reading the Input Data
 
