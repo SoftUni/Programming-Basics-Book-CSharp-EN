@@ -1,4 +1,4 @@
-# Problem: Summing up Vowels
+# Problem: Sum of Vowels
 
 Write a program that inputs **text** (string), calculates and prints **the sum of the values of vowels** according to the table below:
 
@@ -12,6 +12,10 @@ Write a program that inputs **text** (string), calculates and prints **the sum o
 | --- | --- | --- | --- |
 | hello | 6<br>(e+o = 2+4 = 6) | bamboo | 9<br>(a+o+o = 1+4+4 = 9) |
 | hi | 3<br>(i = 3) | beer | 4<br>(e+e = 2+2 = 4) |
+
+## Video: Sum of Vowels
+
+Watch this video lesson to learn how to sum the vowels of given text: https://youtu.be/9hi9G3vRA0U.
 
 ## Hints and Guidelines
 

@@ -24,6 +24,10 @@ On the console we should print 3 lines containing the 3 sums in a format such as
 | --- | --- | --- | --- | --- | --- |
 |2<br>3<br>5<br>|sum1 = 3<br>sum2 = 5<br>sum3 = 0|4<br>7<br>-2<br>6<br>12|sum1 = 19<br>sum2 = -2<br>sum3 = 6|5<br>3<br>5<br>2<br>7<br>8|sum1 = 10<br>sum2 = 13<br>sum3 = 2| 
 
+### Video: Sums with Step of 3
+
+Watch the video lesson about solving the "Sums with Step of 3" problem: https://youtu.be/bRHFuNNBmZc.
+
 ### Reading the Input Data
 
 We will take **the count of numbers** from the console and declare **starting values** of the three sums.

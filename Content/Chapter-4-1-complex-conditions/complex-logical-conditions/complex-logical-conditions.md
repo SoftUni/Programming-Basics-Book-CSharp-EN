@@ -1,4 +1,4 @@
-# More Complex Logical Conditions
+# More Complex Conditions â€“ Examples
 
 Sometimes the conditions may be **very complex**, so they can require a long bool expression or a sequence of conditions. Let's take a look at a few examples.
 
@@ -60,6 +60,10 @@ Write a program that **reads** from the console a **fruit** (banana / apple / â€
 |----|----|----|----|
 |grapes<br>Saturday<br>0.5|2.10|tomato<br>Monday<br>0.5|error|
 
+### Video: Fruit Store
+
+Watch the video to learn how to solve the "Fruit Store" problem: https://youtu.be/6vZZzil9xBU.
+
 ### Solution
 
 ![](/assets/chapter-4-images/07.Fruit-shop-01.png)
@@ -83,6 +87,10 @@ Write a **program** that reads the name of a **city** (string) and the volume of
 | Input | Output | Input | Output | Input | Output |
 |-----|-----|-----|-----|-----|-----|
 |Sofia<br>1500|120.00|Plovdiv<br>499.99|27.50|Paris<br>-50|error|
+
+### Video: Trade Fees
+
+Watch the video about the "Trade Fees" problem and its solution: https://youtu.be/QqKBLJ4JzJ0.
 
 ### Solution
 

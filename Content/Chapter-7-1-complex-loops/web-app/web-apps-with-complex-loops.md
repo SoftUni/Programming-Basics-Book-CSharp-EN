@@ -4,7 +4,14 @@ Now we know how to repeat a group of actions using **loops**. Let's do something
 
 ## Problem: Web Application "Fruits Game"
 
-**Description**: Develop an **ASP.NET MVC Web Application** – a game in which the player **shoots fruits**, arranged in a table. Successfully hit fruits disappear and the player gets points for each target fruit. When you hit a **dynamite**, the fruits explode and the game ends \(as in Fruit Ninja\).  
+**Description**: Develop an **ASP.NET MVC Web Application** – a game in which the player **shoots fruits**, arranged in a table. Successfully hit fruits disappear and the player gets points for each target fruit. When you hit a **dynamite**, the fruits explode and the game ends \(as in Fruit Ninja\).
+
+### Video: Fruits Game – ASP.NET MVC Web App
+
+Watch this video lesson to learn how to build an ASP.NET MVC Web application "Fruits Game": https://youtu.be/inCr6SpHWC0.
+
+### Fruits Game Explained
+
 Shooting is done by columns, top to bottom or bottom to top, and the location of impact \(the column under fire\) is set by scroll bar. Because of the inaccuracy of the scroller, the player is not quite sure which column they are going to shoot. So every shot has a chance not to hit and this makes the game more interesting \(like the sling in Angry Birds\).
 
 Our game should look like this:

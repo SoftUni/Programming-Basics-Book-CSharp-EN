@@ -8,6 +8,10 @@ Print **the numbers 1 … n in a pyramid** as in the examples below. On the firs
 |-----|----------------------|-----|---------------|----------|------------------------------|
 |7    |1<br>2 3<br>4 5 6<br>7|5    |1<br>2 3<br>4 5|10        |1<br>2 3<br>4 5 6<br>7 8 9 10 |
 
+## Video: Pyramid of Numbers
+
+Watch this video lesson to learn how to draw a pyramid of numbers using nested loops and the `break` operator: https://youtu.be/SWU-gQa31QI.
+
 ## Hints and Guidelines
 
 We can solve the problem with **two nested loops** (by rows and columns) with printing in them and leaving when the last number is reached. Here is the idea, written in more details:

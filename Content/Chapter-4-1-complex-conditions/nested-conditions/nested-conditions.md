@@ -16,6 +16,12 @@ if (condition1)
 }
 ```
 
+## Video: Nested Conditional Statements
+
+Watch a video lesson about the nested if-conditions: https://youtu.be/4ugMAlkQAMo.
+
+## Deep Nesting
+
 Nesting of **more than three conditional statements** inside each other is not considered a good practice and **has to be avoided**, mostly through optimization of the structure/the algorithm of the code and/or by using another type of conditional statement, which we are going to examine below in this chapter.
 
 ## Example: Titles According to Age and Sex
@@ -35,6 +41,10 @@ Depending on **age** (decimal number and **gender** (**m** / **f**), print a per
 | Input | Output | Input | Output |
 |----|----|----|----|
 |25<br>f|Ms.|13.5<br>m|Master|
+
+### Video: Personal Titles
+
+Watch this video to learn how to solve this problem: https://youtu.be/7WiBbMOAc7Q.
 
 ### Solution
 
@@ -69,6 +79,10 @@ Calculate the price by the given **city** (string), **product** (string) and **q
 | Input | Output | Input | Output |
 |-------|-------|-------|-------|
 |beer<br>Sofia<br>6|7.2|water<br>Plovdiv<br>3|2.1|
+
+### Video
+
+Watch this video to learn how to solve this problem: https://youtu.be/kU_ru7GK-Mg.
 
 ### Solution
 

@@ -6,13 +6,13 @@ Let's look at how to **draw figures** using **nested loops** with more complex l
 
 Before starting, let's review what we learned in this chapter.
 
-We became acquainted with the **`new string`** constructor:
+We became acquainted with the `new string` constructor:
 
 ```csharp
 string printMe = new string('*', 5);
 ```
 
-We learned to draw figures with nested **`for`** loops:
+We learned to draw figures with nested `for` loops:
 
 ```csharp
 for (var r = 1; r <= 5; r++)
@@ -24,8 +24,12 @@ for (var r = 1; r <= 5; r++)
 }
 ```
 
-## The Problems 
-   
+## Video: Chapter Summary
+
+Watch this video to review what we leaned in this chapter: [https://youtu.be/tj4s3BOijO4](https://youtu.be/tj4s3BOijO4).
+
+## The Problems
+
 We will work on the following set of practical problems:
 
 * [Problem: Rhombus of Stars](/Content/Chapter-6-1-nested-loops/nested-loops/example-rhombus-of-stars.md)
@@ -33,3 +37,6 @@ We will work on the following set of practical problems:
 * [Problem: Sunglasses](/Content/Chapter-6-1-nested-loops/drawing-more-complex-figures/sunglasses/sunglasses.md)
 * [Problem: House](/Content/Chapter-6-1-nested-loops/drawing-more-complex-figures/house/house.md)
 * [Problem: Diamond](/Content/Chapter-6-1-nested-loops/drawing-more-complex-figures/diamond/diamond.md)
+
+
+

@@ -2,7 +2,7 @@
 
 Fibonacci's numbers in mathematics form a sequence that looks like this:  **1, 1, 2, 3, 5, 8, 13, 21, 34, …**.
 
-**The formula** to form the sequence is:
+**The formula** to form the Fibonacci sequence is:
 
 ```csharp
 F0 = 1
@@ -21,6 +21,10 @@ Fn = Fn-1 + Fn-2
 | 1 | 1 |  |
 
 Enter **an integer** number **n** and calculate the **n-number of Fibonacci**.
+
+## Video: Fibonacci Numbers
+
+Watch this video lesson to learn how to calculate the Fibonacci numbers: https://youtu.be/1ZR0ZBFzB3c.
 
 ## Hints and Guidelines
 

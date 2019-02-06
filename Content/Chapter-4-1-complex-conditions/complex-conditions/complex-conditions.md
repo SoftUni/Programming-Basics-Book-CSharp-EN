@@ -12,6 +12,10 @@ The logical "**AND**" (operator **`&&`**) means a few conditions have to be **fu
 |-----|-----|-----|
 |true<br>true<br>false<br>false|true<br>false<br>true<br>false|true<br>false<br>false<br>false|
 
+### Video: Logical "AND"
+
+Watch this video to learn how to use logical "AND" in programming: https://youtu.be/V86_z8GWarM.
+
 ### How the && Operator Works?
 
 The **`&&`** operator accepts **a couple of Boolean** (conditional) statements, which have a **`true`** or **`false`** value, and returns **one** bool statement as a **result**. Using it **instead** of a couple of nested **`if`** blocks, makes the code **more readable**, **ordered** and **easy** to maintain. But how does it **work**, when we put a **few** conditions one after another? As we saw above, the logical **"AND"** returns **`true`**, **only** when it accepts as **arguments statements** with value **`true`**. Respectively, when we have a **sequence** of arguments, the logical "AND" **checks** either until one of the arguments is **over**, or until it **meets** an argument with value **`false`**. 
@@ -66,6 +70,10 @@ At school the teacher says: "John or Peter should clean the board". To fulfill t
 |:-----:|:-----:|:-----:|
 |true<br>true<br>false<br>false|true<br>false<br>true<br>false|true<br>true<br>true<br>false|
 
+### Video: Logical "OR"
+
+Watch this video to learn how to use logical "OR" in programming: https://youtu.be/e6i-2E66RNU.
+
 ### How the || Operator Works?
 
 We have already learned what the logical**"OR" represents**. But how is it actually being achieved? Just like with the logical **"AND"**, the program **checks** from left to right **the arguments** that are given. In order to obtain **`true`** from the expression, it is necessary for **just one** argument to have a **`true`** value. Respectively, the checking **continues** until an **argument** with **such** value is met or until the arguments **are over**.
@@ -113,6 +121,10 @@ Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/508#3
 
 The operator **`!`** accepts as an **argument** a bool variable and **returns** its value.
 
+### Video: Logical "NOT"
+
+Watch this video to learn how to use logical "NOT" in programming: https://youtu.be/4U7w2ZSAAW4.
+
 ### Example: Invalid Number
 
 A given **number is valid** if it is in the range [**100 … 200**] or it is **0**. Do a validation for an **invalid** number.
@@ -144,4 +156,3 @@ if (x < 0) || ((x >= 5) && (x <= 10)) || (x > 20)
     ...
 }
 ```
-

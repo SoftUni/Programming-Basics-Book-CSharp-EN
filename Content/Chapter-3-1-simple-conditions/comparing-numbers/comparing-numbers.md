@@ -11,6 +11,10 @@ In programming, we can compare values using the following **operators**:
 
 When compared, the result is a Boolean value **true** or **false**, depending on whether the result of the comparison is true or false.
 
+## Video: Comparing Numbers
+
+Watch the video lesson about comparing numbers: https://youtu.be/KTdqDWg7Wf8.
+
 ## Examples for Comparing Numbers
 
 ![](/assets/chapter-3-images/00.Comparing-numbers-01.png)

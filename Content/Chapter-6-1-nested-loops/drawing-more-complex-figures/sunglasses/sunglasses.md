@@ -10,6 +10,10 @@ Write a program that takes an integer **n** (3 ≤ n ≤ 100) and prints sunglas
 |---|---|
 |5|<code>\*\*\*\*\*\*\*\*\*\*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*\*\*\*\*\*\*\*\*\*</code><br><code>\*////////\*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*////////\*</code><br><code>\*////////\*&#124;&#124;&#124;&#124;&#124;\*////////\*</code><br><code>\*////////\*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*////////\*</code><br><code>\*\*\*\*\*\*\*\*\*\*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*\*\*\*\*\*\*\*\*\*</code><br>|
 
+## Video: Sunglasses
+
+Watch this video lesson to learn how to print sunglasses on the console using nested loops: https://youtu.be/MTQhIdgno4k.
+
 ## Printing the Top and Bottom Rows
 
 From the examples we can see that the sunglasses can be divided into **three parts** – upper, middle and lower one. A part of the code with which the problem can be solved is given below.

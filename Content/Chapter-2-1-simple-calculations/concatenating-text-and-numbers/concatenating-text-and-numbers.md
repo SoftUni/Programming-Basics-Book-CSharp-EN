@@ -10,7 +10,13 @@ var str = firstName + " " + lastName + " @ " + age;
 Console.WriteLine(str);  // Maria Ivanova @ 19
 ```
 
-Here is another **example**:
+## Video: Concatenating Text and Numbers
+
+Watch a video lesson about concatenating text and numbers: [https://youtu.be/vPI-V2NG\_CU](https://youtu.be/vPI-V2NG_CU).
+
+## Examples: Concatenating Text and Numbers
+
+Here is another **example** of concatenating text and numbers:
 
 ```csharp
 var a = 1.5;

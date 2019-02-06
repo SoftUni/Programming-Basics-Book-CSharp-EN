@@ -1,10 +1,14 @@
 # Arithmetic Operations
 
-Let's examine the basic **arithmetic operations** in programming.
+Let's examine the basic **arithmetic operations** in programming. We can add, subtract, multiply and divide numbers using the operators `+`, `-`, `*` and `/`.
+
+## Video: Arithmetic Operators
+
+Watch a video lesson about the arithmetic operators: [https://youtu.be/XOtEuEUbA4M](https://youtu.be/XOtEuEUbA4M).
 
 ## Summing up Numbers \(Operator +\)
 
-We can **sum** up numbers using the **`+`** operator:
+We can **sum** up numbers using the `+` operator:
 
 ```csharp
 var a = 5;
@@ -14,7 +18,7 @@ var sum = a + b; // the result is 12
 
 ### Subtracting Numbers \(Operator -\)
 
-**Subtracting** numbers is done using the **`-`** operator:
+**Subtracting** numbers is done using the `-` operator:
 
 ```csharp
 var a = int.Parse(Console.ReadLine());
@@ -29,7 +33,7 @@ Here is the result of the execution of this program \(with numbers 10 and 3\):
 
 ## Multiplying Numbers \(Operator \*\)
 
-For **multiplication** of numbers we use the **`*`** operator:
+For **multiplication** of numbers we use the `*` operator:
 
 ```csharp
 var a = 5;
@@ -39,7 +43,7 @@ var product = a * b; // 35
 
 ## Dividing Numbers \(Operator /\)
 
-**Dividing** numbers is done using the **`/`** operator. It works differently with **integers** and **floating point numbers**.
+**Dividing** numbers is done using the `/` operator. It works differently with **integers** and **floating point numbers**.
 
 * When we divide two integers, an **integer division** is applied and the obtained output is without its fractional part. Example: 11 / 3 = 3.
 * When we divide two numbers and at least one of them is a float number, a **floating division** is applied and the obtained result is a float number, just like in math. Example 11 / 4.0 = 2.75.  When it cannot be done with exact precision, the result is being rounded, for example 11.0 / 3 = 3.66666666666667.
@@ -89,3 +93,6 @@ When printing the values  **∞** and **-∞**, the console output may be `?`, b
 -?
 NaN
 ```
+
+
+

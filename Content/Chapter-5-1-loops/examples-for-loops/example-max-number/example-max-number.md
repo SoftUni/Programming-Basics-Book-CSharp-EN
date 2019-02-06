@@ -1,6 +1,6 @@
-# Problem: The Max Number
+# Problem: Max Number
 
-Write a program that enters **n integers** (**n** > 0) and finds **the max number** among them. The first line of the input, specifies the number of integers **n**. The next **n** lines holds the integers, one per line. Examples:
+Write a program that enters **n integers** (**n** > 0) and finds **the max number** among them (the largest number). The first line of the input, specifies the number of integers **n**. The next **n** lines holds the integers, one per line. Examples:
 
 ## Sample Input and Output
 
@@ -11,6 +11,10 @@ Write a program that enters **n integers** (**n** > 0) and finds **the max numbe
 | 4<br>45<br>-20<br>7<br>99<br> | 99 | 
 | 1<br>999 | 999 |
 | 2<br>-1<br>-2 | -1 |
+
+## Video: Largest Number
+
+Watch this video lesson to learn how to find the largest number among a sequence of number: https://youtu.be/KErfOdOuezE.
 
 ## Hints and Guidelines
 

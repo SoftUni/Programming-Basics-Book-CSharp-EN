@@ -8,6 +8,10 @@ var expr = (3 + 5) * (4 – 2);
 
 The standard rule for priorities of arithmetic operations is applied: **multiplying and dividing are always done before adding and subtracting**. In case of an **expression in brackets, it is calculated first**, but we already know all of that from school math.
 
+## Video: Numerical Expressions
+
+Watch a video lesson about numerical expressions: [https://youtu.be/6MPxlOCsPdw](https://youtu.be/6MPxlOCsPdw).
+
 ## Example: Calculating Trapezoid Area
 
 Let's write a program that inputs the lengths of the two bases of a trapezoid and its height \(one floating point number per line\) and calculates the **area of the trapezoid** by the standard math formula:

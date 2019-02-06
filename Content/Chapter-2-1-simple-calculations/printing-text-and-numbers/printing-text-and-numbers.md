@@ -1,6 +1,22 @@
 # Printing Text and Numbers
 
-In C\#, when printing a text, numbers and other data on the console, **we can join them** by using templates `{0}`, `{1}`, `{2}` etc. In programming, these templates are called **placeholders**.
+In C\#, when printing a text, numbers and other data on the console, **we can join them** by using templates `{0}`, `{1}`, `{2}` etc. In programming, these templates are called **placeholders**. This is a simple example:
+
+```csharp
+Console.WriteLine("{0} + {1} = {2}", 3, 5, 3+5);
+```
+
+The placeholders `{0}`, `{1}` and `{2}` are replaced by the expressions, given after the text. The result from the above code is:
+
+```
+3 + 5 = 8
+```
+
+## Video: Printing Text and Numbers
+
+Watch a video lesson about how to print text and numbers together on the console: [https://youtu.be/tSTwwaQpy9g](https://youtu.be/tSTwwaQpy9g).
+
+## Example: Printing Text and Numbers
 
 ```csharp
 var firstName = Console.ReadLine();
@@ -11,11 +27,11 @@ Console.WriteLine("You are {0} {1}, a {2}-years old person from {3}.",
   firstName, lastName, age, town);
 ```
 
-Here is the **result** we are going to obtain after the execution of this example:
+This is the **result** we are going to obtain after the execution of this example:
 
 ![](/assets/chapter-2-images/00.Placeholders-01.jpg)
 
-Notice how every variable should be passed in the **order, in which we want it to be printed**. Practically, the template \(**placeholder**\) **accepts variables of each type**.
+Notice how every variable should be passed in the **order, in which we want it to be printed**. Practically, the template \(**placeholder**\) **accepts variables of any type**.
 
 It is possible for a template to be used **multiple times** and it is not necessary for the templates to be numbered sequentially. Here is an **example**:
 

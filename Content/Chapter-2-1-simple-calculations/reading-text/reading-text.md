@@ -11,6 +11,10 @@ By default the `Console.ReadLine(…)` method returns a **text result** – a te
 * After you read a text from the console, additionally, you can **parse the text** to an integer by `int.Parse(…)` or a floating-point number by `double.Parse(…)`.
 * If parsing to a number is not done, **each number** will simply be **text**, and we **cannot do** arithmetic operations with it.
 
+## Video: Reading Text from the Console
+
+Watch a video lesson about how to read text from the console: [https://youtu.be/0tzvEdWxZ1k](https://youtu.be/0tzvEdWxZ1k).
+
 ## Example: Greeting by Name
 
 Let's write a program that asks the user for their **name** and salutes them with the text "**Hello, &lt;**_**name&gt;**_**!**".
