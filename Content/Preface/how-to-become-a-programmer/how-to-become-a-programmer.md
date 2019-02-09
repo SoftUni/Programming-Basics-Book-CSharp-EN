@@ -8,7 +8,7 @@ There are **4 main skill groups** where all programmers must have. Most of these
 
 * coding \(20%\)
 * algorithmic thinking \(30%\)
-* fundamental understanding of the profession \(25%\)
+* computer science and software engineering concepts \(25%\)
 * languages and software technologies \(25%\)
 
 ## Skill \#1 – Coding \(20%\)
@@ -41,7 +41,7 @@ The current book develops the **beginner level of algorithmic thinking**, but it
 
 As you can guess **the programming language doesn't matter** for the development of algorithmic thinking. To think logically is a universal skill, and it's not related only to programming. Because of the well developed logical thinking it's believed that programmers are smart people, and that a stupid person can't become a programmer.
 
-## Skill \# 3 – Fundamental Understanding of the Profession \(25%\)
+## Skill \# 3 – Computer Science and Software Engineering Concepts \(25%\)
 
 **Fundamental knowledge and skills** for programming, software development, software engineering and computer science form around 25% of the developer's minimum skills to start a job. Here are the more important of these skills and knowledge:
 
