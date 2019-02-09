@@ -1,6 +1,6 @@
 # The Free Book "Programming Basics with C#"
 
-The **free** book "**Programming Basics with C#**" introduces the readers to writing **programming code** at beginner level (variables and data, conditional statements, loops and methods) using the **C#** language.
+The **free** book "**Programming Basics with C#**" introduces the readers to writing **programming code** at beginner level (variables and data, conditional statements, loops and methods) using the **C#** language. It combines **video** lessons, **code examples** and a lot of practical **coding exercises** to ensure efficient learning.
 
 > **Warning**: the translation of this book from its original Bulgarian language version is **not completed**.
 >
@@ -33,6 +33,14 @@ The **free** book "**Programming Basics with C#**" introduces the readers to wri
 Download the book "Programming Basics with C#" in PDF format:
 * <a href="#">Programming-Basics-CSharp-v2019.pdf</a> (still not ready)
 
+Brief information about this edition:
+ * Title: **Programming Basics with C#**
+ * Authors: **Svetlin Nakov & Team**
+ * ISBN: **978-619-00-0902-3**
+ * Edition: **Faber Publishing, Sofia, 2019**
+ * License: **CC-BY-SA**
+ * Source code: https://github.com/SoftUni/Programming-Basics-Book-CSharp-EN
+
 This book is available in several versions in different programming languages:
  * [Programming Basics with C# (Bulgarian)](https://csharp-book.softuni.bg)
  * [Programming Basics with C# (English)](https://csharp-book.softuni.org)
@@ -41,13 +49,5 @@ This book is available in several versions in different programming languages:
  * [Programming Basics with Python (Bulgarian)](https://python-book.softuni.bg)
  * [Programming Basics with C++ (Bulgarian)](https://cpp-book.softuni.bg)
  * [Programming Basics with PHP (Bulgarian)](https://php-book.softuni.bg)
-
-Brief information about this edition:
- * Title: **Programming Basics with C#**
- * Authors: **Svetlin Nakov & Team**
- * ISBN: **978-619-00-0902-3**
- * Edition: **Faber Publishing, Sofia, 2019**
- * License: **CC-BY-SA**
- * Source code: https://github.com/SoftUni/Programming-Basics-Book-CSharp-EN
 
 Enjoy reading and do not forget to **sign up** for the [**Practical Free Course "Programming Basics"**](https://softuni.org) coming together with this book, because **programming is learned by practice**, code writing and solving many, many problems, not just by reading!
