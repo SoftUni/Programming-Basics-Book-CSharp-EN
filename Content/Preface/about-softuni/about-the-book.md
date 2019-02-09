@@ -4,7 +4,7 @@ The book "**Programming Basics with C#**" has a long story behind, involving man
 
 ## The Story of This Book
 
-The general head of the project for creating the **free programming book for beginners** with an open-source code is **[Dr. Svetlin Nakov](http://www.nakov.com)**. He is the main ideologist and founder of the learning content of the **[course "Programming Basics" in SoftUni](https://softuni.bg/courses/programming-basics)**, which was used as the basis of the book. 
+The general head of the project for creating the **free programming book for beginners** with an open-source code is **[Dr. Svetlin Nakov](https://nakov.com)**. He is the main ideologist and founder of the learning content of the free training **[course "Programming Basics" in SoftUni](https://softuni.bg/courses/programming-basics)**, which was used as the basis of the book. 
 
 Everything started with the mass **free basic programming courses** that have been conducted in the whole country since 2014, when the "SoftUni" initiative was launched. At the beginning these courses had larger range and covered more theory, but in 2016 Dr. Svetlin Nakov completely revised, updated and simplified the whole method of teaching, strongly emphasizing on practice. This is how the core of the **learning content of this book was created**.
 
@@ -27,16 +27,6 @@ Book cover design: Marina Shideroff.
  * English translation lead and editor: [Nelly Karaivanova](https://www.linkedin.com/in/nelly-karaivanova-a1a17a4b).
  * Translators: Bilyana Borislavova, Kalina Milanova, Karina Cholakova, Marieta Petrova, Mirela Damyanova, Petko Dyankov.
 
-## The Book to Help Teachers
-
-If you are a **teacher in programming**, informatics or IT, or you want **to teach programming**, this book gives you more than well-structured teaching material with many examples and tasks. **Free**, additionally to the book you get quality educational content for teaching in school, in **Bulgarian**, according to the school requirements:
-
-* **Presentations** \(PowerPoint slides\) for each studied topic, compliant to the 45-minute classes in schools – free.
-* Well-developed home and classroom **exercises** with detailed requirements and exemplary input and output – free.
-* **Automated system for checking exercises** and homework submissions (online judge system), which is used by thousands of students – also free.
-* **Video tutorials** with methodological guidance from the **free course for programming teachers**, which is conducted regularly by the SoftUni Foundation.
-
-All these **free teaching resources** can be found on the SoftUni Foundation website, along with the training content for all programming and software courses. Download them free here: [http://softuni.foundation/projects/applied-software-developer-profession/](http://softuni.foundation/projects/applied-software-developer-profession/).
 
 ## Official Book Web Site
 
@@ -46,7 +36,7 @@ The book **Programming Basics with C#** is available for free at the following w
 
 This is the **official book site** and any new version will be uploaded there. The book is mirrored in the other programming languages mentioned on the website.
 
-## The Book in Other Programming Languages: Java, JavaScript, C++, Python, PHP, Ruby
+## The Book in Other Programming Languages: Java, JavaScript, Python, C++, PHP
 
 This book on programming for beginners is available in several programming languages \(or is in the process of being adapted for them\):
 
