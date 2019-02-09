@@ -78,7 +78,7 @@ The book has an **official Facebook page** where you can track the news about th
 
 <p align="center"><strong><a href="https://facebook.com/IntroProgrammingBooks/">fb.com/IntroProgrammingBooks</a></strong></p>
 
-## Error Reporting
+## Reporting Bugs
 
 If you find **defects**, inaccuracies or bugs in the book, you can report them in the official bug tracker of the project:
 
