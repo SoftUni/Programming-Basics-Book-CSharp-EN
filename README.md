@@ -40,6 +40,7 @@ Brief information about this edition:
  * Edition: **Faber Publishing, Sofia, 2019**
  * License: **CC-BY-SA**
  * Source code: https://github.com/SoftUni/Programming-Basics-Book-CSharp-EN
+ * All authors, editors, translators and contributors: 
 
 This book is available in several versions in different programming languages:
  * [Programming Basics with C# (Bulgarian)](https://csharp-book.softuni.bg)

@@ -27,7 +27,6 @@ Book cover design: Marina Shideroff.
  * English translation lead and editor: [Nelly Karaivanova](https://www.linkedin.com/in/nelly-karaivanova-a1a17a4b).
  * Translators: Bilyana Borislavova, Kalina Milanova, Karina Cholakova, Marieta Petrova, Mirela Damyanova, Petko Dyankov.
 
-
 ## Official Book Web Site
 
 The book **Programming Basics with C#** is available for free at the following web address:
