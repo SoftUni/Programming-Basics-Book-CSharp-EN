@@ -93,7 +93,7 @@ If the words above look scary and absolutely incomprehensible, then you are at t
 
 As it already became clear, **the difference between programming languages** and more specifically between the skills of developers in different languages and technologies forms around **10-20% of the skills**.
 
-* All programmers have around **80-90% of the same skills** that do not depend on the language! These are the skills to program and develop software, that are very similar in different programming languages and development technologies.
+* All programmers have around **80-90% of the same skills** that do not depend on the programming language! These are the skills to program and to design and develop software, that are very similar in different programming languages and development technologies.
 * The more languages and technologies you know, the faster you will learn new ones, and the less you will feel the difference between them.
 
 Indeed, **the programming language almost does not matter**, you just have to learn to program, and this starts with **coding** \(this book\) goes on in the more complex **programming concepts** \(like data structures, algorithms, OOP and FP\) and includes the use of **fundamental knowledge and skills for software development, software engineering and computer science**.
