@@ -53,8 +53,8 @@ As you can guess **the programming language doesn't matter** for the development
 * **databases** – relational and non-relational databases, database modeling \(tables and links between them\), SQL query language, object-relational mapping \(ORM\), transactions and transaction management
 * **network programming** – network protocols, network communication, TCP/IP, concepts, tools and technologies from computer networks
 * **client-server** interaction, peer to peer communication, back-end technologies, front-end technologies, MVC architectures
-* **technology for server \(back-end\) development** – Web server architecture, HTTP protocol, MVC architecture, REST architecture, web development frameworks, templating engines
-* **web front-end technologies \(client development\)** – HTML, CSS, JS, HTTP, DOM, AJAX, communication with back-end, calling REST API, front-end frameworks, basic design and UX \(user experience\) concepts
+* **technologies for server development** **\(back-end\) **– Web server architecture, HTTP protocol, MVC architecture, REST architecture, web development frameworks, templating engines
+* **front-end technologies \(client-side development\)** – HTML, CSS, JS, HTTP, DOM, AJAX, communication with back-end, calling REST API, front-end frameworks, basic design and UX \(user experience\) concepts
 * **mobile technologies** – mobile apps, Android and iOS development, mobile user interface \(UI\), calling server logic 
 * **embedded systems** – microcontrollers, digital and analog input and output control, sensor access, peripheral management
 * **operating systems** – working with operating systems \(Linux, Windows, etc.\), installation, configuration and basic system administration, process management, memory, file system, users, multitasking, virtualization and containers
