@@ -46,7 +46,7 @@ As you can guess **the programming language doesn't matter** for the development
 **Fundamental knowledge and skills** for programming, software development, software engineering and computer science form around 25% of the developer's minimum skills to start a job. Here are the more important of these skills and knowledge:
 
 * **basic mathematical concepts** related to programming: coordinate systems, vectors and matrices, discrete and non-discrete mathematical functions, state automata and state machines, combinatorics and statistics concepts, algorithm complexity, mathematical modeling and others
-* **programming skills** – code writing, working with data, using conditional statements and loops, working with arrays, lists and associative arrays, strings and text processing, working with streams and files, using programming interfaces \(APIs\), working with debugger, etc.
+* **programming skills** – code writing, working with data, using conditional statements and loops, working with arrays, lists and associative arrays, strings and text processing, working with streams and files, using programming interfaces \(APIs\), working with IDE, debugger, developer tools, etc.
 * **data structures and algorithms** – lists, trees, hash-tables, graphs, search, sorting, recursion, binary search trees, etc.
 * **object-oriented programming** \(OOP\) – working with classes, objects, inheritance, polymorphism, abstraction, interfaces, data encapsulation, exceptions management, design pattern
 * **functional programming** \(FP\) – working with lambda functions, higher order functions, functions that return a function as a result, closure, etc.
