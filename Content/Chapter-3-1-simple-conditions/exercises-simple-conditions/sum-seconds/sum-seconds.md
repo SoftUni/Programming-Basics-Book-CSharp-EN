@@ -28,4 +28,4 @@ First we sum up the three numbers to get the total result in seconds. Since **1 
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/506#6](https://judge.softuni.bg/Contests/Practice/Index/506#6).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/506#6](https://judge.softuni.org/Contests/Practice/Index/506#6).

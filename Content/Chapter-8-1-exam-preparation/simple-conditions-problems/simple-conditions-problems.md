@@ -68,7 +68,7 @@ Finally, we print **the distance** previously found.
 
 ### Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/516#2](https://judge.softuni.bg/Contests/Practice/Index/516#2).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/516#2](https://judge.softuni.org/Contests/Practice/Index/516#2).
 
 
 ## Problem: Point in a Figure
@@ -126,4 +126,4 @@ When printing the message, we will check whether any of the variables has accept
 
 ### Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/516#3](https://judge.softuni.bg/Contests/Practice/Index/516#3).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/516#3](https://judge.softuni.org/Contests/Practice/Index/516#3).

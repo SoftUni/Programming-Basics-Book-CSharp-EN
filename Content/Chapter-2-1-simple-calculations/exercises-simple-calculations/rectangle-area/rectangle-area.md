@@ -18,4 +18,4 @@ Watch the video lesson about calculating rectangle area: https://youtu.be/IHb_Tz
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/504#6](https://judge.softuni.bg/Contests/Practice/Index/504#6).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/504#6](https://judge.softuni.org/Contests/Practice/Index/504#6).

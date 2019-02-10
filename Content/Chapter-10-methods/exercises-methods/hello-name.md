@@ -14,4 +14,4 @@ Define a method **`PrintName(string name)`** and implement it, after which read 
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/594#7](https://judge.softuni.bg/Contests/Practice/Index/594#7).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/594#7](https://judge.softuni.org/Contests/Practice/Index/594#7).

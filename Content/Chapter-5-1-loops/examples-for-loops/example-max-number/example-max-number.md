@@ -24,4 +24,4 @@ We will first enter one number **`n`** (the number of integers that are about to
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/510#4](https://judge.softuni.bg/Contests/Practice/Index/510#4).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/510#4](https://judge.softuni.org/Contests/Practice/Index/510#4).

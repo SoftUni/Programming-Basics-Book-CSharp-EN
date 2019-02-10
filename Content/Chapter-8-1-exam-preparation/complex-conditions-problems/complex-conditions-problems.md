@@ -63,7 +63,7 @@ The only thing that remains is to print the result on the console. It is importa
 
 ### Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/516#4](https://judge.softuni.bg/Contests/Practice/Index/516#4).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/516#4](https://judge.softuni.org/Contests/Practice/Index/516#4).
 
 
 ## Problem: Sums of 3 Numbers
@@ -122,4 +122,4 @@ Similarly, we will supplement the other two cases. The full code and output of t
 
 ### Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/516#5](https://judge.softuni.bg/Contests/Practice/Index/516#5).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/516#5](https://judge.softuni.org/Contests/Practice/Index/516#5).

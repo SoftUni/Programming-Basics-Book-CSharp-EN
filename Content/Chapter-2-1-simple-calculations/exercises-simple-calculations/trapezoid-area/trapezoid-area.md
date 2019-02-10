@@ -18,5 +18,5 @@ The code in the picture is purposely blurred, in order for you to give it a thou
 
 ## Testing in the Judge System
 
-Test your solution here:  [https://judge.softuni.bg/Contests/Practice/Index/504\#4](https://judge.softuni.bg/Contests/Practice/Index/504#4).
+Test your solution here:  [https://judge.softuni.org/Contests/Practice/Index/504\#4](https://judge.softuni.org/Contests/Practice/Index/504#4).
 

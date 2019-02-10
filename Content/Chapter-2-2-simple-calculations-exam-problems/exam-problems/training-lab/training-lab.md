@@ -74,4 +74,4 @@ With **`Console.WriteLine(…)`** we print the result on the console.
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/505#0](https://judge.softuni.bg/Contests/Practice/Index/505#0).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/505#0](https://judge.softuni.org/Contests/Practice/Index/505#0).

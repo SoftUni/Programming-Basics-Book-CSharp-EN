@@ -32,4 +32,4 @@ Thus, when **`i + j = 2`**, the program will set the **`hasToEnd = true`** and e
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/514#11](https://judge.softuni.bg/Contests/Practice/Index/514#11).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/514#11](https://judge.softuni.org/Contests/Practice/Index/514#11).

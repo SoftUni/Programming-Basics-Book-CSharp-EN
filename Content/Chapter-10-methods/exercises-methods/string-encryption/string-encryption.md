@@ -42,4 +42,4 @@ In order to find the first and the last digit of the ASCII code, we will use the
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/594#14](https://judge.softuni.bg/Contests/Practice/Index/594#14).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/594#14](https://judge.softuni.org/Contests/Practice/Index/594#14).

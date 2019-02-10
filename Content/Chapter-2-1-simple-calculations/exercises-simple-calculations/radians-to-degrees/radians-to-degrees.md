@@ -13,4 +13,4 @@ Write a program, that reads **an angle in** [**radians**](https://en.wikipedia.o
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/504\#9](https://judge.softuni.bg/Contests/Practice/Index/504#9).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/504\#9](https://judge.softuni.org/Contests/Practice/Index/504#9).

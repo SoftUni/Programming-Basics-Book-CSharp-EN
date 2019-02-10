@@ -47,7 +47,7 @@ The result is:
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/504\#3](https://judge.softuni.bg/Contests/Practice/Index/504#3).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/504\#3](https://judge.softuni.org/Contests/Practice/Index/504#3).
 
 ## Using the Dollar String Interpolation
 
@@ -78,5 +78,5 @@ var town = Console.ReadLine();
 Console.WriteLine($"You are {firstName} {lastName}, a {age}-years old person from {town}.");
 ```
 
-Play with the above code and test it in the judge system: [https://judge.softuni.bg/Contests/Practice/Index/504\#3](https://legacy.gitbook.com/book/software-university-foundation/programming-basics-csharp-en/edit#).
+Play with the above code and test it in the judge system: [https://judge.softuni.org/Contests/Practice/Index/504\#3](https://legacy.gitbook.com/book/software-university-foundation/programming-basics-csharp-en/edit#).
 

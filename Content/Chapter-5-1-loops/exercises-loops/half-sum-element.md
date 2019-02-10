@@ -18,4 +18,4 @@ We must calculate the **sum** of all elements, find the **largest** of them and 
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/510#9](https://judge.softuni.bg/Contests/Practice/Index/510#9).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/510#9](https://judge.softuni.org/Contests/Practice/Index/510#9).

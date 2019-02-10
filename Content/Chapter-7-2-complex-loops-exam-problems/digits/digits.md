@@ -32,4 +32,4 @@ Solve the problem **by yourself**, using what you learned from the previous ones
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/515#4](https://judge.softuni.bg/Contests/Practice/Index/515#4).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/515#4](https://judge.softuni.org/Contests/Practice/Index/515#4).

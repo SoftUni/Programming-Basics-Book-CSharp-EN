@@ -92,4 +92,4 @@ The previous solution to the problem uses arrays to store the values. Arrays are
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/518#0](https://judge.softuni.bg/Contests/Practice/Index/518#0).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/518#0](https://judge.softuni.org/Contests/Practice/Index/518#0).

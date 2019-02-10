@@ -25,4 +25,4 @@ In **`ReadAndProcessMessage()`** read the type of message from the console and a
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/594#12](https://judge.softuni.bg/Contests/Practice/Index/594#12).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/594#12](https://judge.softuni.org/Contests/Practice/Index/594#12).

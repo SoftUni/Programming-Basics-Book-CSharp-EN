@@ -14,5 +14,5 @@ We can solve the problem by combining a `for`** loop** for passing through the n
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/510\#1](https://judge.softuni.bg/Contests/Practice/Index/510#1).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/510\#1](https://judge.softuni.org/Contests/Practice/Index/510#1).
 

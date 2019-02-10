@@ -62,4 +62,4 @@ If the condition returns **`false`**, we have to **print the difference** betwee
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/507#3](https://judge.softuni.bg/Contests/Practice/Index/507#3).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/507#3](https://judge.softuni.org/Contests/Practice/Index/507#3).

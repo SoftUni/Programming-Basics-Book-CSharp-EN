@@ -74,4 +74,4 @@ After we have checked the distance **conditions** and we have **calculated the p
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/507#0](https://judge.softuni.bg/Contests/Practice/Index/507#0).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/507#0](https://judge.softuni.org/Contests/Practice/Index/507#0).

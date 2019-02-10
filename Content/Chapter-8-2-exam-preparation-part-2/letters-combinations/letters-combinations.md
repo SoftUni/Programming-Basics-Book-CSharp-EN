@@ -53,4 +53,4 @@ Let's not forget that we also need to print the **total number of valid combinat
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/517#5](https://judge.softuni.bg/Contests/Practice/Index/517#5).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/517#5](https://judge.softuni.org/Contests/Practice/Index/517#5).

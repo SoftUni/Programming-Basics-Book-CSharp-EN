@@ -45,5 +45,5 @@ Example implementation:
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/514\#13](https://judge.softuni.bg/Contests/Practice/Index/514#13).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/514\#13](https://judge.softuni.org/Contests/Practice/Index/514#13).
 

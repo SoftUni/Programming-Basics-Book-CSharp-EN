@@ -78,7 +78,7 @@ What remains is to add a **condition that checks if the input number is greater 
 
 ### Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/514#9](https://judge.softuni.bg/Contests/Practice/Index/514#9).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/514#9](https://judge.softuni.org/Contests/Practice/Index/514#9).
 
 ## Example: Infinite Loop with Break
 
@@ -104,4 +104,4 @@ Note: Although the code above is correct, it will not work if the user enters **
 
 ### Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/514#10](https://judge.softuni.bg/Contests/Practice/Index/514#10).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/514#10](https://judge.softuni.org/Contests/Practice/Index/514#10).

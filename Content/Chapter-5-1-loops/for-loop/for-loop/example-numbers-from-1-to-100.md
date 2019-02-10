@@ -18,7 +18,7 @@ We can solve the problem using a `for`** loop** , via which we will pass through
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/510\#0](https://judge.softuni.bg/Contests/Practice/Index/510#0).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/510\#0](https://judge.softuni.org/Contests/Practice/Index/510#0).
 
 You should get **100 points** \(fully accurate solution\).
 

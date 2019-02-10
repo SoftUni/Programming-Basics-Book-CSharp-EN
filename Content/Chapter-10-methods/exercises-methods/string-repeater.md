@@ -18,4 +18,4 @@ Keep in mind that in C# concatenating strings in loops leads to bad productivity
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/594#9](https://judge.softuni.bg/Contests/Practice/Index/594#9).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/594#9](https://judge.softuni.org/Contests/Practice/Index/594#9).

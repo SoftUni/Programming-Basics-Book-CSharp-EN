@@ -130,4 +130,4 @@ The condition is met **unless we do not have a single word in the entered range*
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/518#2](https://judge.softuni.bg/Contests/Practice/Index/518#2).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/518#2](https://judge.softuni.org/Contests/Practice/Index/518#2).

@@ -97,4 +97,4 @@ Finally, if we have not found a date that is eligible, we will have a **`false`*
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/518#1](https://judge.softuni.bg/Contests/Practice/Index/518#1).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/518#1](https://judge.softuni.org/Contests/Practice/Index/518#1).

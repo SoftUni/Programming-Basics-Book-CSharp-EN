@@ -18,4 +18,4 @@ var min = GetMin(GetMin(num1, num2), num3);
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/594#8](https://judge.softuni.bg/Contests/Practice/Index/594#8).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/594#8](https://judge.softuni.org/Contests/Practice/Index/594#8).

@@ -18,4 +18,4 @@ The problem is **similar** to those for drawing **a rectangle** and **square**. 
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/512#3](https://judge.softuni.bg/Contests/Practice/Index/512#3).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/512#3](https://judge.softuni.org/Contests/Practice/Index/512#3).

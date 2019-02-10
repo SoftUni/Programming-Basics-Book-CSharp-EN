@@ -30,7 +30,7 @@ We can solve the problem using the following sequence of actions \(algorithm\):
 
 ### Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/514\#0](https://judge.softuni.bg/Contests/Practice/Index/514#0).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/514\#0](https://judge.softuni.org/Contests/Practice/Index/514#0).
 
 ## Example: Numbers N...1 in Reverse Order
 
@@ -52,7 +52,7 @@ Watch this video lesson to learn how to print the numbers from N down to 1 \(in 
 
 ### Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/514\#1](https://judge.softuni.bg/Contests/Practice/Index/514#1).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/514\#1](https://judge.softuni.org/Contests/Practice/Index/514#1).
 
 ## Example: Numbers from 1 to 2^n with a For Loop
 
@@ -68,7 +68,7 @@ Watch this video lesson to learn how to iterate over the number from 1 to 2^n us
 
 ### Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/514\#2](https://judge.softuni.bg/Contests/Practice/Index/514#2).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/514\#2](https://judge.softuni.org/Contests/Practice/Index/514#2).
 
 ## Example: Even Powers of 2
 
@@ -88,5 +88,5 @@ Watch this lesson to learn how to print the even powers of 2 using a for loop: h
 
 ### Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/514\#3](https://judge.softuni.bg/Contests/Practice/Index/514#3).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/514\#3](https://judge.softuni.org/Contests/Practice/Index/514#3).
 

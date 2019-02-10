@@ -22,4 +22,4 @@ We input the numbers one by one and calculate the two **sums** (of the numbers o
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/510#7](https://judge.softuni.bg/Contests/Practice/Index/510#7).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/510#7](https://judge.softuni.org/Contests/Practice/Index/510#7).

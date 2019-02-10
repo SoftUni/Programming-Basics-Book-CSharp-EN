@@ -104,4 +104,4 @@ If you worked accurately and wrote the program using the input data given in the
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/517#0](https://judge.softuni.bg/Contests/Practice/Index/517#0).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/517#0](https://judge.softuni.org/Contests/Practice/Index/517#0).

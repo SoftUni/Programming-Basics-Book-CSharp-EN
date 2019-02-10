@@ -12,5 +12,5 @@ Write a program for **conversion of US dollars** \(USD\) **into Bulgarian levs**
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/504\#10](https://judge.softuni.bg/Contests/Practice/Index/504#10).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/504\#10](https://judge.softuni.org/Contests/Practice/Index/504#10).
 

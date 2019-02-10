@@ -72,4 +72,4 @@ What remains is to perform **a few checks** regarding **the discounts** of the d
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/517#2](https://judge.softuni.bg/Contests/Practice/Index/517#2).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/517#2](https://judge.softuni.org/Contests/Practice/Index/517#2).

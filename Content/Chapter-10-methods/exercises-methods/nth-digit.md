@@ -14,4 +14,4 @@ In order to do the algorithm use a **`while`** loop, until the given number equa
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/594#10](https://judge.softuni.bg/Contests/Practice/Index/594#10).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/594#10](https://judge.softuni.org/Contests/Practice/Index/594#10).

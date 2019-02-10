@@ -17,4 +17,4 @@ We can use a series of **`if-else`** statements to examine the possible **11 cas
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/506#4](https://judge.softuni.bg/Contests/Practice/Index/506#4).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/506#4](https://judge.softuni.org/Contests/Practice/Index/506#4).

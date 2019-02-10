@@ -44,7 +44,7 @@ Try to write a wrong number, for example "**hello**". You will get an error mess
 
 ### Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/504\#0](https://judge.softuni.bg/Contests/Practice/Index/504#0).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/504\#0](https://judge.softuni.org/Contests/Practice/Index/504#0).
 
 ### How Does the Example Work?
 

@@ -56,4 +56,4 @@ We can find the end result by **calculating the total amount** that is needed to
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/517#1](https://judge.softuni.bg/Contests/Practice/Index/517#1).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/517#1](https://judge.softuni.org/Contests/Practice/Index/517#1).

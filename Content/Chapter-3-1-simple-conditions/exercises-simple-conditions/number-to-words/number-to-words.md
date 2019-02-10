@@ -16,4 +16,4 @@ First check for **one-digit numbers** and if the number is one-digit, print the 
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/506#15](https://judge.softuni.bg/Contests/Practice/Index/506#15).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/506#15](https://judge.softuni.org/Contests/Practice/Index/506#15).

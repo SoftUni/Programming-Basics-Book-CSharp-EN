@@ -18,5 +18,5 @@ Next, the solution should be tested locally using \[**Ctrl+F5**\] and by enterin
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/504\#3](https://judge.softuni.bg/Contests/Practice/Index/504#3).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/504\#3](https://judge.softuni.org/Contests/Practice/Index/504#3).
 

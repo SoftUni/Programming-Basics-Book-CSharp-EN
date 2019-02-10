@@ -24,4 +24,4 @@ When we are done with the implementation of the solution, we **run** the program
 ## Testing in the Judge System
 
 Test your solution here: 
-[https://judge.softuni.bg/Contests/Practice/Index/506#3](https://judge.softuni.bg/Contests/Practice/Index/506#3).
+[https://judge.softuni.org/Contests/Practice/Index/506#3](https://judge.softuni.org/Contests/Practice/Index/506#3).

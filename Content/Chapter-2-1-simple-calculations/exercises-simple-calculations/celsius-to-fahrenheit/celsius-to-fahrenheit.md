@@ -13,4 +13,4 @@ Write a program that reads **degrees on Celsius scale** \(°C\) and converts the
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/504\#8](https://judge.softuni.bg/Contests/Practice/Index/504#8).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/504\#8](https://judge.softuni.org/Contests/Practice/Index/504#8).

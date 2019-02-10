@@ -46,7 +46,7 @@ The next step is to read the input number and to call the new method from the bo
 
 ### Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/594#1](https://judge.softuni.bg/Contests/Practice/Index/594#1).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/594#1](https://judge.softuni.org/Contests/Practice/Index/594#1).
 
 ## Optional Parameters
 
@@ -92,7 +92,7 @@ In the end we print **the lower part** of the triangle, but this time the loop s
 
 ### Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/594#2](https://judge.softuni.bg/Contests/Practice/Index/594#2).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/594#2](https://judge.softuni.org/Contests/Practice/Index/594#2).
 
 ## Example: Draw a Filled Square
 
@@ -120,4 +120,4 @@ Finally, call the methods in the **`Main()`** method of the program in order to 
 
 ### Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/594#3](https://judge.softuni.bg/Contests/Practice/Index/594#3).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/594#3](https://judge.softuni.org/Contests/Practice/Index/594#3).

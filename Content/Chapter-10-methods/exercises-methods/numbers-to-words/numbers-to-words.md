@@ -29,4 +29,4 @@ The third special case is when the number formed by the last two digits of the i
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/594\#13](https://judge.softuni.bg/Contests/Practice/Index/594#13).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/594\#13](https://judge.softuni.org/Contests/Practice/Index/594#13).

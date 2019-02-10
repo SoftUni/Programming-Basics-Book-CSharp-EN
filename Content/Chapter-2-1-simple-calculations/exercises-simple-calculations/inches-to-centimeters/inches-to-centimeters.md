@@ -79,7 +79,7 @@ It is recommended to **change the settings of your computer** to use a **decimal
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/504#1](https://judge.softuni.bg/Contests/Practice/Index/504#1).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/504#1](https://judge.softuni.org/Contests/Practice/Index/504#1).
 
 The solution should be accepted as a completely correct one:
 

@@ -123,4 +123,4 @@ How can we do that? We will leave the answer to this question to the reader.
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/519#0](https://judge.softuni.bg/Contests/Practice/Index/519#0).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/519#0](https://judge.softuni.org/Contests/Practice/Index/519#0).

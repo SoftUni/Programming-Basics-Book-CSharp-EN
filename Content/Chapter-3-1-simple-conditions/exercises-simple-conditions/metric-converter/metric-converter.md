@@ -38,4 +38,4 @@ We read the input data, and we can add **`ToLower()`** function when we read the
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/506#7](https://judge.softuni.bg/Contests/Practice/Index/506#7).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/506#7](https://judge.softuni.org/Contests/Practice/Index/506#7).

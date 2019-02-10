@@ -24,4 +24,4 @@ Sample code (parts of the code are blurred with the purpose to stimulate your th
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/508#10](https://judge.softuni.bg/Contests/Practice/Index/508#10).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/508#10](https://judge.softuni.org/Contests/Practice/Index/508#10).

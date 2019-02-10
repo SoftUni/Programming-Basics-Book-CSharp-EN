@@ -18,5 +18,5 @@ First, we create a **new C\# console project** with name “Greeting” in the s
 
 ## Testing in the Judge System
 
-Test your solution here:  [https://judge.softuni.bg/Contests/Practice/Index/504\#2](https://judge.softuni.bg/Contests/Practice/Index/504#2).
+Test your solution here:  [https://judge.softuni.org/Contests/Practice/Index/504\#2](https://judge.softuni.org/Contests/Practice/Index/504#2).
 

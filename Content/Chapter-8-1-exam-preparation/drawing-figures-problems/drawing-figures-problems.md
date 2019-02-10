@@ -65,7 +65,7 @@ What remains is **to assemble the whole program** by first reading the input, pr
 
 ### Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/516#8](https://judge.softuni.bg/Contests/Practice/Index/516#8).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/516#8](https://judge.softuni.org/Contests/Practice/Index/516#8).
 
 
 ## Problem: Rectangle with Stars in the Center
@@ -122,4 +122,4 @@ Now, **in the body** of the loop let's add the **asterisks**. We'll check if we'
 
 ### Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/516#9](https://judge.softuni.bg/Contests/Practice/Index/516#9).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/516#9](https://judge.softuni.org/Contests/Practice/Index/516#9).

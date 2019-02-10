@@ -63,4 +63,4 @@ The **end result** is formed in the well know fashion – **up to the second sym
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/517#3](https://judge.softuni.bg/Contests/Practice/Index/517#3).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/517#3](https://judge.softuni.org/Contests/Practice/Index/517#3).

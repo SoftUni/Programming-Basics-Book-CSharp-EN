@@ -32,5 +32,5 @@ Note that if you enter and invalid number, e.g. "_asfd_", the program will crash
 
 ### Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/504\#1](https://judge.softuni.bg/Contests/Practice/Index/504#1).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/504\#1](https://judge.softuni.org/Contests/Practice/Index/504#1).
 

@@ -54,5 +54,5 @@ We will solve the problem through **Euclid's algorithm**:
 
 ### Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/514\#6](https://judge.softuni.bg/Contests/Practice/Index/514#6).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/514\#6](https://judge.softuni.org/Contests/Practice/Index/514#6).
 

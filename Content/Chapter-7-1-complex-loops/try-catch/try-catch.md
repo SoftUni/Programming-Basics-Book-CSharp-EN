@@ -59,5 +59,5 @@ The above program logic will repeat in an infinite loop the process of **enterin
 
 ### Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/514\#12](https://judge.softuni.bg/Contests/Practice/Index/514#12).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/514\#12](https://judge.softuni.org/Contests/Practice/Index/514#12).
 

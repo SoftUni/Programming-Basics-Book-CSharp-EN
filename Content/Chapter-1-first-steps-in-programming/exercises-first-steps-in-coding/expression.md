@@ -20,6 +20,6 @@ Start the program with [**Ctrl+F5**] and check if the result is the same as the 
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/503#1](https://judge.softuni.bg/Contests/Practice/Index/503#1).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/503#1](https://judge.softuni.org/Contests/Practice/Index/503#1).
 
 ![](/assets/chapter-1-images/02.Expression-03.png)

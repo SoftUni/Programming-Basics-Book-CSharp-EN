@@ -33,4 +33,4 @@ Solve the problem by yourself using what you learned from the previous two probl
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/515#3](https://judge.softuni.bg/Contests/Practice/Index/515#3).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/515#3](https://judge.softuni.org/Contests/Practice/Index/515#3).

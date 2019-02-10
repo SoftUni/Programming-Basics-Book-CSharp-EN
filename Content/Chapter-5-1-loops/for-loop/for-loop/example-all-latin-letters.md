@@ -14,5 +14,5 @@ It is good to know that the `for`** loops** don't only work with numbers. We can
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/510\#2](https://judge.softuni.bg/Contests/Practice/Index/510#2).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/510\#2](https://judge.softuni.org/Contests/Practice/Index/510#2).
 

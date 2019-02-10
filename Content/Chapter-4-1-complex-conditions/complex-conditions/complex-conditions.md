@@ -58,7 +58,7 @@ A point is internal for a given polygon, if the following four conditions are ap
 
 #### Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/508#2](https://judge.softuni.bg/Contests/Practice/Index/508#2).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/508#2](https://judge.softuni.org/Contests/Practice/Index/508#2).
 
 ## Logical "OR"
 
@@ -109,7 +109,7 @@ We have to use a few conditional statements with logical "**OR**" (**`||`**):
 
 #### Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/508#3](https://judge.softuni.bg/Contests/Practice/Index/508#3).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/508#3](https://judge.softuni.org/Contests/Practice/Index/508#3).
 
 ## Logical Negation (NOT)
 
@@ -143,7 +143,7 @@ A given **number is valid** if it is in the range [**100 … 200**] or it is **0
 
 #### Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/508#4](https://judge.softuni.bg/Contests/Practice/Index/508#4).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/508#4](https://judge.softuni.org/Contests/Practice/Index/508#4).
 
 ## The Parenthesis `()` Operator
 

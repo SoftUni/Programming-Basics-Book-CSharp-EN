@@ -19,4 +19,4 @@ In the current task it is better to work with **fractions** (not integers). The 
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/510#10](https://judge.softuni.bg/Contests/Practice/Index/510#10).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/510#10](https://judge.softuni.org/Contests/Practice/Index/510#10).

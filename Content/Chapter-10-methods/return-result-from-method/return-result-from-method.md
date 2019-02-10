@@ -84,7 +84,7 @@ The next step is to **call the new** method from the **`Main()`** method and to 
 
 ### Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/594#4](https://judge.softuni.bg/Contests/Practice/Index/594#4).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/594#4](https://judge.softuni.org/Contests/Practice/Index/594#4).
 
 ## Example: Math Power
 
@@ -106,4 +106,4 @@ After we have done the calculations, we have to only print the result in the **`
 
 ### Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/594#5](https://judge.softuni.bg/Contests/Practice/Index/594#5).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/594#5](https://judge.softuni.org/Contests/Practice/Index/594#5).

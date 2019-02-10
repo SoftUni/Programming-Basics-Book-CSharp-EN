@@ -21,7 +21,7 @@ Like the example above, we read the grade from the console and check if it's exc
 
 ### Testing in Judge System
 
-Test your solution from the example here: [https://judge.softuni.bg/Contests/Practice/Index/506#1](https://judge.softuni.bg/Contests/Practice/Index/506#1).
+Test your solution from the example here: [https://judge.softuni.org/Contests/Practice/Index/506#1](https://judge.softuni.org/Contests/Practice/Index/506#1).
 
 ## About the Curly Braces {} After If / Else
 
@@ -64,7 +64,7 @@ We can solve the problem with one **`if-else`** statement and the operator **`%`
 ### Testing in the Judge System
 
 Test your solution here:
-[https://judge.softuni.bg/Contests/Practice/Index/506#2](https://judge.softuni.bg/Contests/Practice/Index/506#2).
+[https://judge.softuni.org/Contests/Practice/Index/506#2](https://judge.softuni.org/Contests/Practice/Index/506#2).
 
 ## Example: The Larger Number
 
@@ -77,4 +77,4 @@ Our first task is to **read** the two numbers from the console. Then, with a sim
 ### Testing in the Judge System
 
 Test your solution here:
-[https://judge.softuni.bg/Contests/Practice/Index/506#3](https://judge.softuni.bg/Contests/Practice/Index/506#3).
+[https://judge.softuni.org/Contests/Practice/Index/506#3](https://judge.softuni.org/Contests/Practice/Index/506#3).

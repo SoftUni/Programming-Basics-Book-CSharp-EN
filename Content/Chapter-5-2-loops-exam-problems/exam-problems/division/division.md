@@ -82,4 +82,4 @@ Finally, you need to print the obtained results, by following the specified form
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/511#4](https://judge.softuni.bg/Contests/Practice/Index/511#4).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/511#4](https://judge.softuni.org/Contests/Practice/Index/511#4).

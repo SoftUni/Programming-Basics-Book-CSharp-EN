@@ -32,7 +32,7 @@ What remains is to finish writing the code to print “**Inside / Outside**”, 
 
 ### Testing in the Judge System
 
-After you finish writing the solution, you can test it here: [https://judge.softuni.bg/Contests/Practice/Index/508#5](https://judge.softuni.bg/Contests/Practice/Index/508#5).
+After you finish writing the solution, you can test it here: [https://judge.softuni.org/Contests/Practice/Index/508#5](https://judge.softuni.org/Contests/Practice/Index/508#5).
 
 ## Example: Fruit Shop
 
@@ -70,7 +70,7 @@ Watch the video to learn how to solve the "Fruit Store" problem: https://youtu.b
 
 ### Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/508#6](https://judge.softuni.bg/Contests/Practice/Index/508#6).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/508#6](https://judge.softuni.org/Contests/Practice/Index/508#6).
 
 ## Example: Trade Fees
 
@@ -101,7 +101,7 @@ To calculate the commission according to the city and volume of sales, we need a
 
 ### Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/508#7](https://judge.softuni.bg/Contests/Practice/Index/508#7).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/508#7](https://judge.softuni.org/Contests/Practice/Index/508#7).
 
 <table><tr><td><img src="/assets/alert-icon.png" style="max-width:50px" /></td>
 <td><b>It is a good practice</b> to use <b>blocks</b> that are <b>enclosed</b> with curly braces <b><code>{ }</code></b> after <b><code>if</code></b> and <b><code>else</code></b>. Also, it is recommended during writing to <b>move aside</b> the code <b>after <code>if</code> and <code>else</code></b> with a single tabulation <b>inward</b>, in order to make the code more easily readable.</td>

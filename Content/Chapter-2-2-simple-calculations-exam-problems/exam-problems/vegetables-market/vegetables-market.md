@@ -70,4 +70,4 @@ The task does not specify special output format, therefore, we just have to calc
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/505\#1](https://judge.softuni.bg/Contests/Practice/Index/505#1).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/505\#1](https://judge.softuni.org/Contests/Practice/Index/505#1).

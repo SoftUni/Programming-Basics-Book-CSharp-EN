@@ -65,7 +65,7 @@ The only thing left is to print the area on the console.
 
 ### Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/516#0](https://judge.softuni.bg/Contests/Practice/Index/516#0).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/516#0](https://judge.softuni.org/Contests/Practice/Index/516#0).
 
 
 ## Problem: Moving Bricks
@@ -125,4 +125,4 @@ Finally, we print the result on the console.
 
 ### Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/516#1](https://judge.softuni.bg/Contests/Practice/Index/516#1).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/516#1](https://judge.softuni.org/Contests/Practice/Index/516#1).

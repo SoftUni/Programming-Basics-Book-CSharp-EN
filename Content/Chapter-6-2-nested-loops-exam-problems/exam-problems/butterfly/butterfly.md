@@ -50,4 +50,4 @@ Now we need to print the lower wing, which is the same as the upper one.
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/513#1](https://judge.softuni.bg/Contests/Practice/Index/513#1).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/513#1](https://judge.softuni.org/Contests/Practice/Index/513#1).

@@ -18,4 +18,4 @@ How does the example work? We initialize **a loop with a variable `i = 1`**, whi
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/512#0](https://judge.softuni.bg/Contests/Practice/Index/512#0).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/512#0](https://judge.softuni.org/Contests/Practice/Index/512#0).

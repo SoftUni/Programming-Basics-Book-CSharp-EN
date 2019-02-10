@@ -141,4 +141,4 @@ We only have to print the results output. The description says that the percenta
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/511#0](https://judge.softuni.bg/Contests/Practice/Index/511#0).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/511#0](https://judge.softuni.org/Contests/Practice/Index/511#0).

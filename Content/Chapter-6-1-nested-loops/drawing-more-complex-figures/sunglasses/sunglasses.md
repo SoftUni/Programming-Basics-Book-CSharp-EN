@@ -30,4 +30,4 @@ When drawing **the middle** part we need to **check** if the row is **`(n-1) / 2
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/512#7](https://judge.softuni.bg/Contests/Practice/Index/512#7).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/512#7](https://judge.softuni.org/Contests/Practice/Index/512#7).

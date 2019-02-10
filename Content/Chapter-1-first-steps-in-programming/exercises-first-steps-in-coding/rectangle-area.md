@@ -30,5 +30,5 @@ Test your solution with a few examples. You have to get an output, similar to th
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/503\#4](https://judge.softuni.bg/Contests/Practice/Index/503#4).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/503\#4](https://judge.softuni.org/Contests/Practice/Index/503#4).
 

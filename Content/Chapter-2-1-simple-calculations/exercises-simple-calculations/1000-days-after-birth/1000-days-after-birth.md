@@ -19,4 +19,4 @@ Write a program that enters **a birth date** in format `dd-MM-yyyy` and calculat
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/504\#12](https://judge.softuni.bg/Contests/Practice/Index/504#12).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/504\#12](https://judge.softuni.org/Contests/Practice/Index/504#12).

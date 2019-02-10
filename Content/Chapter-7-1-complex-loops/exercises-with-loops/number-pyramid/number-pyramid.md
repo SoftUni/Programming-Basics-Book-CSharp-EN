@@ -35,4 +35,4 @@ Here is an example implementation:
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/514#14](https://judge.softuni.bg/Contests/Practice/Index/514#14).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/514#14](https://judge.softuni.org/Contests/Practice/Index/514#14).

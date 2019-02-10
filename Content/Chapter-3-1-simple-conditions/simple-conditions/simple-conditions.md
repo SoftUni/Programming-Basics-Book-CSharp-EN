@@ -24,5 +24,5 @@ Test the code from the example locally. Try entering different grades, for examp
 ### Testing in the Judge System
 
 Test your solution from the example here:  
-[https://judge.softuni.bg/Contests/Practice/Index/506\#0](https://judge.softuni.bg/Contests/Practice/Index/506#0).
+[https://judge.softuni.org/Contests/Practice/Index/506\#0](https://judge.softuni.org/Contests/Practice/Index/506#0).
 

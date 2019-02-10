@@ -57,7 +57,7 @@ Finally, we will check if **the counter** is equal to **0** and we will print "*
 
 ### Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/516#10](https://judge.softuni.bg/Contests/Practice/Index/516#10).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/516#10](https://judge.softuni.org/Contests/Practice/Index/516#10).
 
 
 ## Problem: Generating Rectangles
@@ -123,4 +123,4 @@ Finally, we print "**No**" if there are no such rectangles.
 
 ### Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/516#11](https://judge.softuni.bg/Contests/Practice/Index/516#11).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/516#11](https://judge.softuni.org/Contests/Practice/Index/516#11).

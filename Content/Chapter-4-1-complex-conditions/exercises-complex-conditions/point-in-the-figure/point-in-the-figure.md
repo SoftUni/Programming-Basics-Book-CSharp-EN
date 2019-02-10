@@ -48,4 +48,4 @@ An exemplary implementation of the described idea (parts of the code are blurred
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/508#12](https://judge.softuni.bg/Contests/Practice/Index/508#12).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/508#12](https://judge.softuni.org/Contests/Practice/Index/508#12).

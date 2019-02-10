@@ -49,4 +49,4 @@ If the **condition** that checks whether the number is equal with "stop" number 
 
 ## Testing in the Judge System
 
-Test your solution here:  [https://judge.softuni.bg/Contests/Practice/Index/515#2](https://judge.softuni.bg/Contests/Practice/Index/515#2).
+Test your solution here:  [https://judge.softuni.org/Contests/Practice/Index/515#2](https://judge.softuni.org/Contests/Practice/Index/515#2).

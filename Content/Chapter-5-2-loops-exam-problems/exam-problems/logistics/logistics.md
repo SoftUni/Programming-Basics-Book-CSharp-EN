@@ -90,4 +90,4 @@ Before we print the output, we need to **calculate the percentage of tonnes, tra
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/511#5](https://judge.softuni.bg/Contests/Practice/Index/511#5).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/511#5](https://judge.softuni.org/Contests/Practice/Index/511#5).

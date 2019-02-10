@@ -30,7 +30,7 @@ Here is a sample implementation of this idea:
 
 ### Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/514\#4](https://judge.softuni.bg/Contests/Practice/Index/514#4).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/514\#4](https://judge.softuni.org/Contests/Practice/Index/514#4).
 
 ## Example: Number in Range \[1 … 100\]
 
@@ -53,5 +53,5 @@ Watch this video lesson to learn how to enter a number in the range \[1...100\]:
 
 ### Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/514\#5](https://judge.softuni.bg/Contests/Practice/Index/514#5).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/514\#5](https://judge.softuni.org/Contests/Practice/Index/514#5).
 

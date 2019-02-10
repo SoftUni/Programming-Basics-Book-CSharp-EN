@@ -77,4 +77,4 @@ Finally we need to print out the results by checking **if the `heritage`** is en
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/511#2](https://judge.softuni.bg/Contests/Practice/Index/511#2).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/511#2](https://judge.softuni.org/Contests/Practice/Index/511#2).

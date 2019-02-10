@@ -16,4 +16,4 @@ Watch this video lesson to learn how to print a rectangle of 10 x 10 stars on th
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/512#1](https://judge.softuni.bg/Contests/Practice/Index/512#1).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/512#1](https://judge.softuni.org/Contests/Practice/Index/512#1).

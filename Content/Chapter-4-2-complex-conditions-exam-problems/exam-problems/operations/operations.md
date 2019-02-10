@@ -94,4 +94,4 @@ Finally, what remains is to print the calculated result on the console:
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/509#2](https://judge.softuni.bg/Contests/Practice/Index/509#2).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/509#2](https://judge.softuni.org/Contests/Practice/Index/509#2).

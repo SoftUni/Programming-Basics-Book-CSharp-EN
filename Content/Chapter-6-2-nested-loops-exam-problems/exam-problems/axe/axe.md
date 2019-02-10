@@ -52,4 +52,4 @@ For **the last row** of the figure we can use the three declared and initialized
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/513#4](https://judge.softuni.bg/Contests/Practice/Index/513#4).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/513#4](https://judge.softuni.org/Contests/Practice/Index/513#4).

@@ -59,5 +59,5 @@ The program logic from the above example **sequentially compares** the input num
 
 ### Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/506\#4](https://judge.softuni.bg/Contests/Practice/Index/506#4).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/506\#4](https://judge.softuni.org/Contests/Practice/Index/506#4).
 

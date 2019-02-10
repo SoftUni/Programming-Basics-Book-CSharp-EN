@@ -49,7 +49,7 @@ We need to create **five** **`for`** nested loops, one for each variable. To ens
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/515#0](https://judge.softuni.bg/Contests/Practice/Index/515#0).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/515#0](https://judge.softuni.org/Contests/Practice/Index/515#0).
 
 ## Did you Know That…?
 

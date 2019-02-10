@@ -28,4 +28,4 @@ A sample code (parts of the code are blurred on purpose to stimulate independent
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/508#11](https://judge.softuni.bg/Contests/Practice/Index/508#11).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/508#11](https://judge.softuni.org/Contests/Practice/Index/508#11).

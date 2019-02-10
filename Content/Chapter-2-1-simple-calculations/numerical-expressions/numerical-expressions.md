@@ -35,7 +35,7 @@ Trapezoid area = 17.5
 
 ### Testing in the Judge System
 
-Test your solution here : [https://judge.softuni.bg/Contests/Practice/Index/504\#4](https://judge.softuni.bg/Contests/Practice/Index/504#4).
+Test your solution here : [https://judge.softuni.org/Contests/Practice/Index/504\#4](https://judge.softuni.org/Contests/Practice/Index/504#4).
 
 ## Example: Circle Area and Perimeter
 
@@ -61,7 +61,7 @@ Let's test the program with **radius **`r = 10`:
 
 ### Testing in the Judge System
 
-Test your solution here:[https://judge.softuni.bg/Contests/Practice/Index/504\#5](https://judge.softuni.bg/Contests/Practice/Index/504#5).
+Test your solution here:[https://judge.softuni.org/Contests/Practice/Index/504\#5](https://judge.softuni.org/Contests/Practice/Index/504#5).
 
 ## Example: Rectangle Area in a Coordinate Plane
 
@@ -93,7 +93,7 @@ When the program is executed with the values from the coordinate system given in
 
 ### Testing in the Judge System
 
-Test your solution here:[https://judge.softuni.bg/Contests/Practice/Index/504\#6](https://judge.softuni.bg/Contests/Practice/Index/504#6).
+Test your solution here:[https://judge.softuni.org/Contests/Practice/Index/504\#6](https://judge.softuni.org/Contests/Practice/Index/504#6).
 
 ## Other Expressions
 

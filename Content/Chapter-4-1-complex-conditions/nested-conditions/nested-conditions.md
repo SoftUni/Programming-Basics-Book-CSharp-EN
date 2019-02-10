@@ -58,7 +58,7 @@ After reading the input data from the console, the following program logic shoul
 
 ### Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/508#0](https://judge.softuni.bg/Contests/Practice/Index/508#0).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/508#0](https://judge.softuni.org/Contests/Practice/Index/508#0).
 
 ## Example: Small Shop
 
@@ -92,4 +92,4 @@ We **convert** all of the letters into **lower register** using the function **`
 
 ### Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/508#1](https://judge.softuni.bg/Contests/Practice/Index/508#1).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/508#1](https://judge.softuni.org/Contests/Practice/Index/508#1).

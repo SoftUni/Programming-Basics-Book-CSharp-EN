@@ -14,7 +14,7 @@ This **programming book** accompanies the free programming lessons for beginners
 
 ## About the Automated Judge System
 
-**The SoftUni Judge system** \([https://judge.softuni.bg](https://judge.softuni.bg)\) is an automated Internet system for **checking the solutions of programming exercises via series of tests**. The submission and verification happens in **real time**: you submit the solution and within seconds you get an answer whether it is correct. Each **successfully** taken test gives you the points it gains. For a correct solution you get all the points for the particular task. For partially correct solution you get part of the points for the task. For a completely wrong solution you get 0 points.
+**The SoftUni Judge system** \([https://judge.softuni.org](https://judge.softuni.org)\) is an automated Internet system for **checking the solutions of programming exercises via series of tests**. The submission and verification happens in **real time**: you submit the solution and within seconds you get an answer whether it is correct. Each **successfully** taken test gives you the points it gains. For a correct solution you get all the points for the particular task. For partially correct solution you get part of the points for the task. For a completely wrong solution you get 0 points.
 
 **All problems from the current book are available for testing in SoftUni judge** and we strongly recommend to test them after you solve them to be sure you don't miss anything and that your solution works correctly according to the task requirements.
 
@@ -24,7 +24,7 @@ Keep in mind some **specifics about SoftUni judge**:
 * The output of your program is **compared** by the system to a strictly expected result. Every **unnecessary symbol, missing comma or space** may lead to 0 points on a particular test. The **output** that the judge expects is **described in the requirements of every task** and **nothing else should be added**. 
 * **Example:** If the output requires to print a number \(ex. `25`\), do not display any descriptive messages such as `The result is: 25`, just print as it is required, i.e. only the number.
 
-  The SoftUni judge system is **available any time** via its website: [https://judge.softuni.bg](https://judge.softuni.bg).
+  The SoftUni judge system is **available any time** via its website: [https://judge.softuni.org](https://judge.softuni.org).
 
   * To sign in use your authentication for the SoftUni website: [https://softuni.org](https://softuni.org).
   * Using the softuni system is **free** and it's not bound with the participation in SoftUni's courses.

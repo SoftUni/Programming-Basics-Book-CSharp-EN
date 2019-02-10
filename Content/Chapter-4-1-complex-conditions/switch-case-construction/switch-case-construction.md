@@ -47,7 +47,7 @@ Let's write a program that prints **the day of the week** (in English) depending
 
 ### Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/508#8](https://judge.softuni.bg/Contests/Practice/Index/508#8).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/508#8](https://judge.softuni.org/Contests/Practice/Index/508#8).
 
 ## Multiple Switch-Cases
 
@@ -94,4 +94,4 @@ We can solve the task with **`switch`**-**`case`** conditions with multiple labe
 
 ### Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/508#9](https://judge.softuni.bg/Contests/Practice/Index/508#9).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/508#9](https://judge.softuni.org/Contests/Practice/Index/508#9).

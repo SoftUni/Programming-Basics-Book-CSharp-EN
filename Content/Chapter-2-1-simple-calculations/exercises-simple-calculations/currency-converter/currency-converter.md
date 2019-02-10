@@ -19,4 +19,4 @@ Write a program for **conversion of money from one currency into another**. It h
  
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/504#11](https://judge.softuni.bg/Contests/Practice/Index/504#11).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/504#11](https://judge.softuni.org/Contests/Practice/Index/504#11).

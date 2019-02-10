@@ -28,4 +28,4 @@ To solve this problem we need to mentally **divide** **the rhombus** into **two 
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/512#5](https://judge.softuni.bg/Contests/Practice/Index/512#5).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/512#5](https://judge.softuni.org/Contests/Practice/Index/512#5).

@@ -22,4 +22,4 @@ From the examples we see that **the Christmas tree** can be **divided** into **t
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/512#6](https://judge.softuni.bg/Contests/Practice/Index/512#6).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/512#6](https://judge.softuni.org/Contests/Practice/Index/512#6).

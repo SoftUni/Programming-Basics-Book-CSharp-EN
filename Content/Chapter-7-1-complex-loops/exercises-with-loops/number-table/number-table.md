@@ -33,4 +33,4 @@ Here is a sample implementation of the described idea:
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/514#15](https://judge.softuni.bg/Contests/Practice/Index/514#15).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/514#15](https://judge.softuni.org/Contests/Practice/Index/514#15).

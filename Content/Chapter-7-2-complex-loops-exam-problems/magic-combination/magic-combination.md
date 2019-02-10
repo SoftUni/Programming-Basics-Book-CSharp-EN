@@ -64,4 +64,4 @@ As we can see, we can solve a problem using different types of loops. Of course,
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/515#1](https://judge.softuni.bg/Contests/Practice/Index/515#1).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/515#1](https://judge.softuni.org/Contests/Practice/Index/515#1).

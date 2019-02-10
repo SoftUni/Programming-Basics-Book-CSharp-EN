@@ -18,4 +18,4 @@ Add 15 minutes and check using a few conditions. If minutes are over 59, **incre
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/506#13](https://judge.softuni.bg/Contests/Practice/Index/506#13).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/506#13](https://judge.softuni.org/Contests/Practice/Index/506#13).

@@ -13,4 +13,4 @@ Write a program that reads from the console **a side and height of a triangle** 
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/504#7](https://judge.softuni.bg/Contests/Practice/Index/504#7).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/504#7](https://judge.softuni.org/Contests/Practice/Index/504#7).

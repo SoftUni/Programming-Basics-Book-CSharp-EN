@@ -50,7 +50,7 @@ Finally, we will print the result on the console in the required **format**.
 
 ### Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/516#6](https://judge.softuni.bg/Contests/Practice/Index/516#6).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/516#6](https://judge.softuni.org/Contests/Practice/Index/516#6).
 
 
 ## Problem: Sequence of Increasing Elements 
@@ -99,4 +99,4 @@ Finally, we print the length of **the longest** sequence found.
 
 ### Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/516#7](https://judge.softuni.bg/Contests/Practice/Index/516#7).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/516#7](https://judge.softuni.org/Contests/Practice/Index/516#7).

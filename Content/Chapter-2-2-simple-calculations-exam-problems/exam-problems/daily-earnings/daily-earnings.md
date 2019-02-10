@@ -67,4 +67,4 @@ Finally, we have to print the result on the console. We notice that **the number
 
 ## Testing in the Judge system
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/505#4](https://judge.softuni.bg/Contests/Practice/Index/505#4).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/505#4](https://judge.softuni.org/Contests/Practice/Index/505#4).

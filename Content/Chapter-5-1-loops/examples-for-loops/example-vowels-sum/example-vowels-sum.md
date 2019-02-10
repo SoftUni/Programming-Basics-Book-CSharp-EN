@@ -25,4 +25,4 @@ We read the input text **`s`**, null the sum and run a loop from **0** to **`s.L
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/510#8](https://judge.softuni.bg/Contests/Practice/Index/510#8).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/510#8](https://judge.softuni.org/Contests/Practice/Index/510#8).

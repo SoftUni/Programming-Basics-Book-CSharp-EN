@@ -21,4 +21,4 @@ Round the result up to the **third digit after the decimal point**.
 
 ## Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/506#12](https://judge.softuni.bg/Contests/Practice/Index/506#12).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/506#12](https://judge.softuni.org/Contests/Practice/Index/506#12).

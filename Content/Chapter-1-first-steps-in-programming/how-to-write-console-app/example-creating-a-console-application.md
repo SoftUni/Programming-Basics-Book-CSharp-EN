@@ -51,9 +51,9 @@ The message "**Press any key to continue . . .**" is displayed additionally on t
 
 ## Testing the Program in the Judge System
 
-Testing of the problems in this book is automated and is done through the Internet, using the **Judge System**: [https://judge.softuni.bg](https://judge.softuni.bg) website. The evaluation of the tasks is done immediately by the system. Each task goes through a sequence of tests, as every successfully passed test gives the points assigned for it. The tests that are applied to the tasks are hidden.
+Testing of the problems in this book is automated and is done through the Internet, using the **Judge System**: [https://judge.softuni.org](https://judge.softuni.org) website. The evaluation of the tasks is done immediately by the system. Each task goes through a sequence of tests, as every successfully passed test gives the points assigned for it. The tests that are applied to the tasks are hidden.
 
-We can test the above program here: [https://judge.softuni.bg/Contests/Practice/Index/503\#0](https://judge.softuni.bg/Contests/Practice/Index/503#0). We place the source code from the program in the black field and we choose **C\# code**, the way it is shown:
+We can test the above program here: [https://judge.softuni.org/Contests/Practice/Index/503\#0](https://judge.softuni.org/Contests/Practice/Index/503#0). We place the source code from the program in the black field and we choose **C\# code**, the way it is shown:
 
 ![](/assets/chapter-1-images/01.Hello-csharp-06.png)
 

@@ -28,7 +28,7 @@ Here is how we can specifically calculate factorial:
 
 ### Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/514#7](https://judge.softuni.bg/Contests/Practice/Index/514#7).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/514#7](https://judge.softuni.org/Contests/Practice/Index/514#7).
 
 ## Example: Summing Up Digits
 
@@ -59,4 +59,4 @@ We can use the following idea to solve the problem:
 
 ### Testing in the Judge System
 
-Test your solution here: [https://judge.softuni.bg/Contests/Practice/Index/514#8](https://judge.softuni.bg/Contests/Practice/Index/514#8).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/514#8](https://judge.softuni.org/Contests/Practice/Index/514#8).
