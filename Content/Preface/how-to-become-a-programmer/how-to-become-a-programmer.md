@@ -46,15 +46,15 @@ As you can guess **the programming language doesn't matter** for the development
 **Fundamental knowledge and skills** for programming, software development, software engineering and computer science form around 25% of the developer's minimum skills to start a job. Here are the more important of these skills and knowledge:
 
 * **basic mathematical concepts** related to programming: coordinate systems, vectors and matrices, discrete and non-discrete mathematical functions, state automata and state machines, combinatorics and statistics concepts, algorithm complexity, mathematical modeling and others
-* **programming skills** – code writing, working with data, using conditional statements and loops, working with arrays, lists and associative arrays, strings and text processing, working with streams and files, using programming interfaces \(APIs\), working with debugger, etc.
+* **programming skills** – code writing, working with data, using conditional statements and loops, working with arrays, lists and associative arrays, strings and text processing, working with streams and files, using programming interfaces \(APIs\), working with IDE, debugger, developer tools, etc.
 * **data structures and algorithms** – lists, trees, hash-tables, graphs, search, sorting, recursion, binary search trees, etc.
 * **object-oriented programming** \(OOP\) – working with classes, objects, inheritance, polymorphism, abstraction, interfaces, data encapsulation, exceptions management, design pattern
 * **functional programming** \(FP\) – working with lambda functions, higher order functions, functions that return a function as a result, closure, etc.
 * **databases** – relational and non-relational databases, database modeling \(tables and links between them\), SQL query language, object-relational mapping \(ORM\), transactions and transaction management
 * **network programming** – network protocols, network communication, TCP/IP, concepts, tools and technologies from computer networks
 * **client-server** interaction, peer to peer communication, back-end technologies, front-end technologies, MVC architectures
-* **technology for server \(back-end\) development** – Web server architecture, HTTP protocol, MVC architecture, REST architecture, web development frameworks, templating engines
-* **web front-end technologies \(client development\)** – HTML, CSS, JS, HTTP, DOM, AJAX, communication with back-end, calling REST API, front-end frameworks, basic design and UX \(user experience\) concepts
+* **technologies for server development** **\(back-end\) **– Web server architecture, HTTP protocol, MVC architecture, REST architecture, web development frameworks, templating engines
+* **front-end technologies \(client-side development\)** – HTML, CSS, JS, HTTP, DOM, AJAX, communication with back-end, calling REST API, front-end frameworks, basic design and UX \(user experience\) concepts
 * **mobile technologies** – mobile apps, Android and iOS development, mobile user interface \(UI\), calling server logic 
 * **embedded systems** – microcontrollers, digital and analog input and output control, sensor access, peripheral management
 * **operating systems** – working with operating systems \(Linux, Windows, etc.\), installation, configuration and basic system administration, process management, memory, file system, users, multitasking, virtualization and containers
@@ -93,12 +93,12 @@ If the words above look scary and absolutely incomprehensible, then you are at t
 
 As it already became clear, **the difference between programming languages** and more specifically between the skills of developers in different languages and technologies forms around **10-20% of the skills**.
 
-* All programmers have around **80-90% of the same skills** that do not depend on the language! These are the skills to program and develop software, that are very similar in different programming languages and development technologies.
+* All programmers have around **80-90% of the same skills** that do not depend on the programming language! These are the skills to program and to design and develop software, that are very similar in different programming languages and development technologies.
 * The more languages and technologies you know, the faster you will learn new ones, and the less you will feel the difference between them.
 
 Indeed, **the programming language almost does not matter**, you just have to learn to program, and this starts with **coding** \(this book\) goes on in the more complex **programming concepts** \(like data structures, algorithms, OOP and FP\) and includes the use of **fundamental knowledge and skills for software development, software engineering and computer science**.
 
 Only when you start working with a specific technology into a software project you will need **a specific programming language**, knowledge in particular programming libraries \(APIs\), frameworks and software technologies \(front-end UI technologies, back-end technologies, ORM technologies, etc.\). Keep calm, you will learn them, all programmers are learning them, but first you need to learn the foundation: **to program and do it well**.
 
-This book uses the C\# language, but it is not required and can be replaced with Java, JavaScript, Python, PHP, C ++, Ruby, Swift, Go, Kotlin, or any other language. To be a **software developer**, you need to learn **coding** \(20%\), learn **algorithmic thinking**, and **solve problems** \(30%\), to have **fundamental knowledge of programming and computer science** \(25%\) and to master a **specific programming language and the technologies around it** \(25%\). Be patient, for a year or two all this can be mastered on a good starting level, as long as you are serious.
+This book uses the C\# language, but it is not required and can be replaced with Java, JavaScript, Python, PHP, C++, Ruby, Swift, Go, Kotlin, or any other language. To be a **software developer**, you need to learn **coding** \(20%\), learn **algorithmic thinking**, and **solve problems** \(30%\), to have **fundamental knowledge of programming and computer science** \(25%\) and to master a **specific programming language and the technologies around it** \(25%\). Be patient, for a year or two all this can be mastered on a good starting level, as long as you are serious.
 
