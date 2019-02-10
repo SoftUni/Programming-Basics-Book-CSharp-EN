@@ -31,7 +31,7 @@ As we will explain later, **the programming language that we start with, does no
 
 ## Learning Resources: Code + Videos + Exercises + Judge
 
-This free coding book combines **video lessons**, text and **code examples** with explanations, practical **coding exercises** with hints and guidelines and an automated **judge system** for checking your solutions.
+This free coding book combines **video lessons**, text and **code examples** with explanations, practical **coding exercises** with hints and guidelines, **[presentation slides](https://github.com/SoftUni/Programming-Basics-Book-CSharp-EN/tree/master/resources/Presentation-Slides)** and an automated **[judge system](https://judge.softuni.org)** for checking your solutions.
 
 It is **more than a book** or tutorial. It is a carefully designed tool for learning programming by **a lot of practical coding**, suitable for beginners with no experience.
 
