@@ -21,7 +21,7 @@ Coding means to write **commands** for the computer, e.g.
 Console.WriteLine("Welcome to coding");
 ```
 
-Run the above code example: [https://repl.it/@nakov/welcome-to-coding-csharp](https://repl.it/@nakov/SHA3-256-hello-in-Python).
+Run the above code example: [https://repl.it/@nakov/welcome-to-coding-csharp](https://repl.it/@nakov/welcome-to-coding-csharp).
 
 When **executed**, the above command prints the following text:
 
