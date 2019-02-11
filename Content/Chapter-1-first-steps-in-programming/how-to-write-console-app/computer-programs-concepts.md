@@ -4,15 +4,66 @@ Let's start with the **concepts of computer programming**: computer programs, al
 
 ## What It Means "To Program"?
 
-**To program** means to give commands to the computer, for example "_to play a sound_", "_to print something on the screen_" or "_to multiply two numbers_". When the commands are one after another, they are called **a computer program**. The text of computer programs is called **a program code** \(or **a source code**, or even shorter – **code**\).
+**To program** means to **give commands** to the computer, for example "_to play a sound_", "_to print something on the screen_" or "_to multiply two numbers_". When the commands are one after another, they are called **a computer program**. The text of computer programs is called **a program code** \(or **a source code**, or even shorter – **code**\).
+
+Example of **command** for the computer:
+
+```csharp
+Console.WriteLine("Welcome to coding");
+```
+
+Run the above code example: [https://repl.it/@nakov/welcome-to-coding-csharp](https://repl.it/@nakov/welcome-to-coding-csharp).
+
+When **executed**, the above command prints the following text:
+
+```
+Welcome to coding
+```
 
 ## Computer Programs
 
-**Computer programs** represent **a sequence of commands** that are written in a previously chosen **programming language**, like C\#, Java, JavaScript, Python, Ruby, PHP, C, C++, Swift, Go or another. In order to write commands, we have to know **the syntax and the semantics of the language** which we are working with, in our case – **C\#**. This is why we are going to get familiar with the syntax and the semantics of the language C\#, and with programming generally, in the current book, by learning step by step code writing from the simpler to the more complex programming constructions.
+**Computer programs** represent **a sequence of commands** that are written in certain **programming language**, like C\#, Java, JavaScript, Python, C++, PHP, C, Ruby, Swift, Go or another.
+
+Example of **computer program** in C\#:
+
+```csharp
+using System;
+
+class SquareArea
+{
+    public static void Main()
+    {
+        var size = 5;
+        Console.WriteLine("Size = " + size);
+        Console.WriteLine("Area = " + size * size);
+    }
+}
+```
+
+Run the above code example: [https://repl.it/@nakov/square-area-csharp](https://repl.it/@nakov/square-area-csharp).
+
+The above program defines a **class `SquareArea`**, holding a **method `Main()`**, which holds a sequence of **3 commands**:
+
+1. Declaring and assigning a **variable**: `var size = 5;`
+2. Calculating and **printing** an **expression**: `Console.WriteLine("Size = " + size);`
+3. Calculating and **printing** an **expression**: `Console.WriteLine("Area = " + size * size);`
+
+The **result** \(output\) from the above program is as follows:
+
+```
+Size = 5
+Area = 25
+```
+
+In order to write commands, we have to know **the syntax and the semantics of the language** which we are working with, in our case – **C\#**. This is why we are going to get familiar with the syntax and the semantics of the language C\#, and with programming generally, in the current book, by learning step by step code writing from the simpler to the more complex programming constructions.
 
 ## Algorithms
 
-Computer programs usually execute some algorithm. **Algorithms** are a sequence of steps, necessary for the completion of a certain task and for gaining some expected result, something like a "recipe". For example, if we fry eggs, we follow some recipe \(an algorithm\): we warm up the oil in a pan, break the eggs inside it, wait for them to fry and move them away from the stove. Analogically, in programming **the computer programs execute algorithms**: a sequence of commands, necessary for the completion of a certain task. For example, to order a sequence of numbers in an ascending order, an algorithm is needed, in order to find the smallest number and print it, then find the smallest number among the rest and print it, and this is repeated until there are no more numbers.
+Computer programs usually execute some algorithm. **Algorithms** are a **sequence of steps**, necessary for the completion of a certain task and for gaining some expected result, something like a "recipe".
+
+For example, if we fry eggs, we follow some recipe \(an algorithm\): we warm up the oil in a pan, break the eggs inside it, wait for them to fry and move them away from the stove.
+
+Similarly, in programming **the computer programs execute algorithms**: a sequence of commands, necessary for the completion of a certain task. For example, to arrange a sequence of numbers in an ascending order, an algorithm is needed, e.g. find the smallest number and print it, then find the smallest number among the rest of the numbers and print it, and this is repeated until there are no more numbers left.
 
 For convenience when creating programs, for writing programming code, for execution of programs and other operations related to programming, we need a **development environment**, for example Visual Studio.
 
