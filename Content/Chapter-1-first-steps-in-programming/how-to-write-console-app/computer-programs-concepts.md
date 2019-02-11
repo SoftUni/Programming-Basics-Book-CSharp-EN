@@ -42,7 +42,7 @@ class SquareArea
 
 Run the above code example: [https://repl.it/@nakov/square-area-csharp](https://repl.it/@nakov/square-area-csharp).
 
-The above program defines a **class `SquareArea`**, holding a **method `Main()`**, which holds a sequence of **3 commands**:
+The above program defines a **class **`SquareArea`, holding a **method **`Main()`, which holds a sequence of **3 commands**:
 
 1. Declaring and assigning a **variable**: `var size = 5;`
 2. Calculating and **printing** an **expression**: `Console.WriteLine("Size = " + size);`
@@ -54,6 +54,8 @@ The **result** \(output\) from the above program is as follows:
 Size = 5
 Area = 25
 ```
+
+We shall **explain in details how to write programs in C\#**, why we need to define a **class** and why we need to define a **method** `Main()` a bit later. Now, assume that the C\# language requires all of the above code in order to execute a sequence of command.
 
 In order to write commands, we have to know **the syntax and the semantics of the language** which we are working with, in our case – **C\#**. This is why we are going to get familiar with the syntax and the semantics of the language C\#, and with programming generally, in the current book, by learning step by step code writing from the simpler to the more complex programming constructions.
 
@@ -101,7 +103,5 @@ The majority of software that we use daily, like a music player, a video player,
 
 As we have already mentioned, a program is **a sequence of commands**, otherwise said, it describes a sequence of calculations, evaluations, iterations and all kinds of similar operations, which aim to accomplish some kind of result.
 
-A program is written in a text format, and the text of the program is called **a source code**. It gets compiled into an **executable file** \(for example `Program.cs` gets compiled to `Program.exe`\) or it is **executed directly** from the .NET environment.
-
-The process of **compilation** of the code before its execution is used only in compiled languages like C\#, Java and C++. With **scripts and interpreted languages**, like JavaScript, Python and PHP, the source code gets executed step by step by an interpreter.
+A program is written in a text format, and the text of the program is called **a source code**. It gets compiled into an **executable file** \(for example `Program.cs` gets compiled to `Program.exe`\) or it is **executed directly** from the .NET environment.![](/assets/csharp-compilation-and-execution-diagram.png)The process of **compilation** of the code before its execution is used only in compiled languages like C\#, Java and C++. With **scripts and interpreted languages**, like JavaScript, Python and PHP, the source code gets executed step by step by an interpreter.
 
