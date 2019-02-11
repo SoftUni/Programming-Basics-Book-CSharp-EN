@@ -1,2 +1,0 @@
-Всички тестове от всички задачи от СофтУни курса "Programming Basics" са качени тук и може да се ползват за книгата:
-https://github.com/Software-University/Tests

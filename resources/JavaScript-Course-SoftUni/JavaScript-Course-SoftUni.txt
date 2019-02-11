@@ -1,2 +1,0 @@
-JS Basics course: https://softuni.bg/trainings/1683/programming-basics-with-javascript-may-2017
-http://svn.softuni.org/admin/svn/programming-basics/2017-05/Programming%20Basics%20JavaScript/
