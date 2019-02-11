@@ -79,7 +79,9 @@ Let's review some concepts from computer programming: programming languages, com
 
 ### Compilers
 
-**The compiler** translates the code from programming language to **machine code**, as for each of the constructions \(commands\) in the code it chooses a proper, previously prepared fragment of machine code and in the meantime it **checks the text of the program for errors**. Together, the compiled fragments comprise the program into a machine code, as the microprocessor of the computer expects it. After the program has been compiled, it can be executed directly from the microprocessor in cooperation with the operating system. With compiler-based programming languages **the compilation of the program** is done obligatory before its execution, and syntax errors \(wrong commands\) are found during compile time. Languages like C++, C\#, Java, Swift and Go work with a **compiler**.
+**The compiler** translates the code from programming language to **machine code**, as for each of the constructions \(commands\) in the code it chooses a proper, previously prepared fragment of machine code and in the meantime it **checks the text of the program for errors**. Together, the compiled fragments comprise the program into a machine code, as the microprocessor of the computer expects it. After the program has been compiled, it can be executed directly from the microprocessor in cooperation with the operating system. With compiler-based programming languages **the compilation of the program** is done obligatory before its execution, and syntax errors \(wrong commands\) are found during compile time. Languages like C++, C\#, Java, Swift and Go work with a **compiler**. This is how the compiler execution may look \(the console-based `dotnet` compiler\):
+
+
 
 ### Interpreters
 
