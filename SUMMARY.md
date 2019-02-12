@@ -60,7 +60,7 @@
 * [3.1. Simple Conditions](Content/Chapter-3-1-simple-conditions/overview.md)
   * [Comparing Numbers](Content/Chapter-3-1-simple-conditions/comparing-numbers/comparing-numbers.md)
   * [Simple If Conditions](Content/Chapter-3-1-simple-conditions/simple-conditions/simple-conditions.md)
-  * [If-Else Conditions](Content/Chapter-3-1-simple-conditions/if-else-conditions/if-else-conditions.md)
+  * [If-Else Conditions – Examples](Content/Chapter-3-1-simple-conditions/comparing-numbers/if-else-conditions-examples.md)
   * [Variable Scope](Content/Chapter-3-1-simple-conditions/variable-lifetime/variable-lifetime.md)
   * [Sequence of If-Else Conditions](Content/Chapter-3-1-simple-conditions/sequence-of-conditions/sequence-of-conditions.md)
   * [Debugging the Code](Content/Chapter-3-1-simple-conditions/debugging/debugging.md)
