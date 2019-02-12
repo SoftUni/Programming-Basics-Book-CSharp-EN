@@ -59,7 +59,7 @@
   * [Problem: Daily Earnings](Content/Chapter-2-2-simple-calculations-exam-problems/exam-problems/daily-earnings/daily-earnings.md)
 * [3.1. Simple Conditions](Content/Chapter-3-1-simple-conditions/overview.md)
   * [Comparing Numbers](Content/Chapter-3-1-simple-conditions/comparing-numbers/comparing-numbers.md)
-  * [Simple If Conditions](Content/Chapter-3-1-simple-conditions/simple-conditions/simple-conditions.md)
+  * [Simple If-Else Conditions](Content/Chapter-3-1-simple-conditions/simple-conditions/simple-conditions.md)
   * [If-Else Conditions – Examples](Content/Chapter-3-1-simple-conditions/comparing-numbers/if-else-conditions-examples.md)
   * [Variable Scope](Content/Chapter-3-1-simple-conditions/variable-lifetime/variable-lifetime.md)
   * [Sequence of If-Else Conditions](Content/Chapter-3-1-simple-conditions/sequence-of-conditions/sequence-of-conditions.md)
