@@ -17,7 +17,7 @@
     * [Problem: Numbers from 1 to 20](Content/Chapter-1-first-steps-in-programming/exercises-first-steps-in-coding/numbers-1-to-20.md)
     * [Problem: Triangle of 55 Stars](Content/Chapter-1-first-steps-in-programming/exercises-first-steps-in-coding/triangle-of-stars.md)
     * [Problem: Calculate Rectangle Area](Content/Chapter-1-first-steps-in-programming/exercises-first-steps-in-coding/rectangle-area.md)
-    * [\* Problem: A Square Made Out of Stars](Content/Chapter-1-first-steps-in-programming/exercises-first-steps-in-coding/square-of-stars.md)
+    * [\* Problem: Square of Stars](Content/Chapter-1-first-steps-in-programming/exercises-first-steps-in-coding/square-of-stars.md)
   * [Lab: Graphical and Web Applications](Content/Chapter-1-first-steps-in-programming/exercises-graphical-and-web-apps/exercises-graphical-and-web-apps.md)
     * [Lab: Graphical Application "Sumator"](Content/Chapter-1-first-steps-in-programming/exercises-graphical-and-web-apps/sumator-graphical/sumator-graphical.md)
     * [Lab: Web Application "Sumator"](Content/Chapter-1-first-steps-in-programming/exercises-graphical-and-web-apps/sumator-web/sumator-web.md)
