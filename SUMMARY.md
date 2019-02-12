@@ -64,7 +64,7 @@
   * [Variable Scope](Content/Chapter-3-1-simple-conditions/variable-lifetime/variable-lifetime.md)
   * [Sequence of If-Else Conditions](Content/Chapter-3-1-simple-conditions/sequence-of-conditions/sequence-of-conditions.md)
   * [Debugging the Code](Content/Chapter-3-1-simple-conditions/debugging/debugging.md)
-  * [Exercises: Simple Conditions](Content/Chapter-3-1-simple-conditions/exercises-simple-conditions/exercises-simple-conditions-part-2.md)
+  * [Exercises: Simple Conditions](Content/Chapter-3-1-simple-conditions/exercises-simple-conditions/exercises-simple-conditions.md)
     * [Problem: Excellent Grade](Content/Chapter-3-1-simple-conditions/exercises-simple-conditions/excellent-grade/excellent-grade.md)
     * [Problem: Excellent Grade or Not](Content/Chapter-3-1-simple-conditions/exercises-simple-conditions/excellent-grade-or-not/excellent-grade-or-not.md)
     * [Problem: Even or Odd](Content/Chapter-3-1-simple-conditions/exercises-simple-conditions/even-or-odd/even-or-odd.md)
