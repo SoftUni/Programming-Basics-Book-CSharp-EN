@@ -90,6 +90,8 @@
   * [Problem: Firm](Content/Chapter-3-2-simple-conditions-exam-problems/exam-problems/firm/firm.md)
 * [4.1. More Complex Conditions](Content/Chapter-4-1-complex-conditions/overview.md)
   * [Nested Conditions](Content/Chapter-4-1-complex-conditions/nested-conditions/nested-conditions.md)
+  * [Example: Personal Titles](Content/Chapter-4-1-complex-conditions/nested-conditions/example-personal-titles.md)
+  * [Example: Small Shop](Content/Chapter-4-1-complex-conditions/nested-conditions/example-small-shop.md)
   * [More Complex Conditions](Content/Chapter-4-1-complex-conditions/complex-conditions/complex-conditions.md)
   * [More Complex Logical Conditions](Content/Chapter-4-1-complex-conditions/complex-logical-conditions/complex-logical-conditions.md)
   * [Switch-Case Conditional Statement](Content/Chapter-4-1-complex-conditions/switch-case-construction/switch-case-construction.md)
