@@ -96,7 +96,7 @@
     * [Logical "AND"](Content/Chapter-4-1-complex-conditions/complex-conditions/complex-conditions/logical-and.md)
     * [Logical "OR"](Content/Chapter-4-1-complex-conditions/complex-conditions/complex-conditions/logical-or.md)
     * [Logical "NOT"](Content/Chapter-4-1-complex-conditions/complex-conditions/complex-conditions/logical-not.md)
-  * [More Complex Logical Conditions](Content/Chapter-4-1-complex-conditions/complex-logical-conditions/complex-logical-conditions.md)
+  * [Complex Conditions – Examples](Content/Chapter-4-1-complex-conditions/complex-logical-conditions/complex-logical-conditions.md)
   * [Switch-Case Conditional Statement](Content/Chapter-4-1-complex-conditions/switch-case-construction/switch-case-construction.md)
   * [Exercises: More Complex Conditions](Content/Chapter-4-1-complex-conditions/exercises-complex-conditions/exercises-complex-conditions.md)
     * [Problem: Cinema](Content/Chapter-4-1-complex-conditions/exercises-complex-conditions/volleyball/problem-cinema.md)
