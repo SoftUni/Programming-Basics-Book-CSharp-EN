@@ -1,6 +1,6 @@
 # Example: Triangle Made of Dollars
 
-Write a program that takes the number **n** and prints **a triangle made of dollars**.
+Write a program that takes an integer **n** and prints **a triangle made of dollars** of size **n**.
 
 |Input|Output|Input|Output|Input|Output
 |---|---|---|---|---|---|
