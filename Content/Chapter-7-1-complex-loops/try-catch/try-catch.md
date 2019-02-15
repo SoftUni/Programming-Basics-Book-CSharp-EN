@@ -4,7 +4,7 @@ The last thing we will get familiar with in this chapter is how to "capture" **w
 
 ## Video: Using Try-Catch
 
-Watch this video lesson to learn how to use the `try-catch` statement to enter a valid integer number in certain range: https://youtu.be/0WLRjNcSh3I.
+Watch this video lesson to learn how to use the `try-catch` statement to enter a valid integer number in certain range: [https://youtu.be/0WLRjNcSh3I](https://youtu.be/0WLRjNcSh3I).
 
 ## What is Try-Catch?
 
@@ -18,7 +18,7 @@ When the exception is **handled** and a piece of program logic recovers the prog
 
 ## The Try-Catch Construction
 
-The `try-catch` construction has different forms, but for now we will use the most basic of them:
+The `try-catch` construction in C\# has different forms, but for now we will use the most basic of them:
 
 ![](/assets/chapter-7-images/00.Try...catch-01.png)
 
