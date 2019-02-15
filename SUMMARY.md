@@ -2,7 +2,7 @@
 
 * [The Book "Programming Basics with C\#"](README.md)
 * [Preface](Content/Preface/overview.md)
-  * [About the Software University \(SoftUni\)](Content/Preface/about-softuni/about-softuni.md)
+  * [About SoftUni and SoftUni Judge](Content/Preface/about-softuni/about-softuni.md)
   * [How to Become a Software Developer?](Content/Preface/how-to-become-a-programmer/how-to-become-a-programmer.md)
   * [More About the Book](Content/Preface/about-softuni/about-the-book.md)
 * [1. First Steps in Programming](Content/Chapter-1-first-steps-in-programming/overview.md)
