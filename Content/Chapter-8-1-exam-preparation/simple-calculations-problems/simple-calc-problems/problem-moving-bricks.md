@@ -1,6 +1,6 @@
 # Problem: Moving Bricks
 
-The exam next problem is to calculate how many trolleys courses are needed to move given set of bricks (assuming the trolley has limited capacity).
+The next sample exam problem is to calculate how many trolleys courses are needed to move given set of bricks (assuming the trolley has limited capacity).
 
 ## Video: Moving Bricks
 
