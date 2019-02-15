@@ -203,6 +203,8 @@
     * [Problem: Perfect Diamond](Content/Chapter-8-1-exam-preparation/drawing-figures-problems/drawing-figures-problems/problem-perfect-diamond.md)
     * [Problem: Rectangle with Stars](Content/Chapter-8-1-exam-preparation/drawing-figures-problems/drawing-figures-problems/problem-rectangle-with-stars.md)
   * [Nested Loops – Problems](Content/Chapter-8-1-exam-preparation/nested-loops-problems/nested-loops-problems.md)
+    * [Problem: Increasing 4 Numbers](Content/Chapter-8-1-exam-preparation/nested-loops-problems/nested-loops-problems/problem-increasing-4-numbers.md)
+    * [Problem: Generating Rectangles](Content/Chapter-8-1-exam-preparation/nested-loops-problems/nested-loops-problems/problem-generating-rectangles.md)
   * [Exam Preparation – Summary](Content/Chapter-8-1-exam-preparation/summary/summary.md)
 * [8.2. Practical Exam Preparation – Part II](Content/Chapter-8-2-exam-preparation-part-2/overview.md)
   * [Problem: Distance](Content/Chapter-8-2-exam-preparation-part-2/distance/distance.md)
