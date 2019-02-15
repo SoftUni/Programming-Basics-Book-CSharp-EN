@@ -194,6 +194,8 @@
     * [Problem: Point on a Segment](Content/Chapter-8-1-exam-preparation/simple-conditions-problems/simple-conditions-problems/problem-point-on-a-segment.md)
     * [Problem: Point in a Figure](Content/Chapter-8-1-exam-preparation/simple-conditions-problems/simple-conditions-problems/problem-point-in-a-figure.md)
   * [Complex Conditions – Problems](Content/Chapter-8-1-exam-preparation/complex-conditions-problems/complex-conditions-problems.md)
+    * [Problem: Date After 5 Days](Content/Chapter-8-1-exam-preparation/complex-conditions-problems/complex-conditions-problems/problem-date-after-5-days.md)
+    * [Problem: Sums of 3 Numbers](Content/Chapter-8-1-exam-preparation/complex-conditions-problems/complex-conditions-problems/problem-sums-of-3-numbers.md)
   * [Simple Loops – Problems](Content/Chapter-8-1-exam-preparation/simple-loops-problems/simple-loops-problems.md)
   * [Drawing Figures – Problems](Content/Chapter-8-1-exam-preparation/drawing-figures-problems/drawing-figures-problems.md)
   * [Nested Loops – Problems](Content/Chapter-8-1-exam-preparation/nested-loops-problems/nested-loops-problems.md)
