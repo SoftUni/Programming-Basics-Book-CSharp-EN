@@ -2,6 +2,10 @@
 
 Let's look at how to **draw figures** using **nested loops** with more complex logic, for which we need to think more before coding.
 
+## Video: Chapter Summary
+
+Watch this video to review what we leaned in this chapter: [https://youtu.be/tj4s3BOijO4](https://youtu.be/tj4s3BOijO4).
+
 ## What We Learned in This Chapter?
 
 Before starting, let's review what we learned in this chapter.
@@ -23,10 +27,6 @@ for (var r = 1; r <= 5; r++)
    Console.WriteLine();
 }
 ```
-
-## Video: Chapter Summary
-
-Watch this video to review what we leaned in this chapter: [https://youtu.be/tj4s3BOijO4](https://youtu.be/tj4s3BOijO4).
 
 ## The Problems
 

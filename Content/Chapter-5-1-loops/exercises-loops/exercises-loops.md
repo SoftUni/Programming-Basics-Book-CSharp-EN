@@ -2,6 +2,10 @@
 
 Now that we are familiar with loops, it is time **to practice our newly acquired skills**, and as you know, this is achieved by a lot of code writing. Let's solve some **practical problems**.
 
+## Video: Chapter Summary
+
+Watch this video to review what we leaned in this chapter: [https://youtu.be/4G\_oSUcx9ko](https://youtu.be/4G_oSUcx9ko).
+
 ## What We Learned in This Chapter?
 
 We can repeat a code block using a `for`** loop**:
@@ -11,10 +15,6 @@ We can repeat a code block using a `for`** loop**:
 We can read a sequence of `n` numbers from the console this way:
 
 ![](/assets/chapter-5-images/00.For-loop-03.png)
-
-## Video: Chapter Summary
-
-Watch this video to review what we leaned in this chapter: [https://youtu.be/4G\_oSUcx9ko](https://youtu.be/4G_oSUcx9ko).
 
 ## Blank Solution in Visual Studio
 

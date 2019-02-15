@@ -2,6 +2,10 @@
 
 Welcome to the **exercises**. Now we are going to write a couple of console applications, by which we are going to make a few more steps into programming. After that we will show how we can program something more complex – programs with graphical user interface.
 
+## Video: Chapter Summary
+
+TODO
+
 ## What We Learned in This Chapter?
 
 First we have learned **what is programming** – **giving commands, written in a computer language**, which the machine understands and is able to execute. We understood what is **a computer program** – it represents a **sequence of commands**, arranged one after another. We got familiar with **the language for programming C\#** on a base level and how **to create simple console applications** with Visual Studio. We followed **the structure of the programming code in the C\# language**, as for example, the fact that commands are mainly given in the section `static void Main(string[] args)` between **the opening and closing curly parentheses**. We saw how to print with `Console.WriteLine(…)` and how to start our program with \[**Ctrl + F5**\]. We learned how to test our code in **SoftUni Judge**.
@@ -15,3 +19,6 @@ Let's get started with the **exercises**. You didn't forget that programming is 
 * [Problem: A Triangle Made Out of 55 Stars](/Content/Chapter-1-first-steps-in-programming/exercises-first-steps-in-coding/triangle-of-stars.md)
 * [Problem: Calculate Rectangle Area](/Content/Chapter-1-first-steps-in-programming/exercises-first-steps-in-coding/rectangle-area.md)
 * [Problem: A Square Made Out of Stars](/Content/Chapter-1-first-steps-in-programming/exercises-first-steps-in-coding/square-of-stars.md)
+
+
+

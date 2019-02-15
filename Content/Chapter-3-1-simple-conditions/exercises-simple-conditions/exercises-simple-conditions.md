@@ -2,6 +2,10 @@
 
 Now let's **practice** the lessons learned in this chapter about of conditional statements `if` and `if-else`. We will solve a few **practical exercises**.
 
+## Video: Chapter Summary
+
+Watch the following **video** to summarize what we learned in this chapter: [https://youtu.be/mdv28HD5qes](https://youtu.be/mdv28HD5qes).
+
 ## What We Learned in This Chapter?
 
 Let's summarize what we learned in this chapter:
@@ -50,10 +54,6 @@ else
     Console.WriteLine("The number `a` is smaller or equal than 20");
 }
 ```
-
-## Video: Chapter Summary
-
-Watch the following **video** to summarize what we learned in this chapter: [https://youtu.be/mdv28HD5qes](https://youtu.be/mdv28HD5qes).
 
 ## Empty Visual Studio Solution \(Blank Solution\)
 

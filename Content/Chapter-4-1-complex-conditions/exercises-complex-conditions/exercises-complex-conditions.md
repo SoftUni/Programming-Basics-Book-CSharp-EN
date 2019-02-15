@@ -2,6 +2,10 @@
 
 Now let's **exercise** our new skills with **complex conditions**. Let's solve a few practical tasks.
 
+## Video: Chapter Summary
+
+Watch this video to review what we leaned in this chapter: [https://youtu.be/QOhyJXZ0HHQ](https://youtu.be/QOhyJXZ0HHQ).
+
 ## What We Learned in This Chapter?
 
 Before proceeding ahead, let's remind ourselves about the new program constructs and techniques that we have learned in this chapter.
@@ -43,10 +47,6 @@ switch (selector)
         break;
 }
 ```
-
-## Video: Chapter Summary
-
-Watch this video to review what we leaned in this chapter: [https://youtu.be/QOhyJXZ0HHQ](https://youtu.be/QOhyJXZ0HHQ).
 
 ## The Exercises
 
