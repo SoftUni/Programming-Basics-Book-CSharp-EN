@@ -2,6 +2,10 @@
 
 In this chapter, we got familiar with some new types of loops that can perform repetitions with more complex programming logic. Let's solve a few **practical problems** using these new constructs.
 
+## Video: Chapter Summary
+
+Watch this video to review what we leaned in this chapter: [https://youtu.be/6Wrna8Q0LFA](https://youtu.be/6Wrna8Q0LFA).
+
 ## What We Learned in This Chapter?
 
 First, let's recall what we have learned.
@@ -54,10 +58,6 @@ catch
 }
 // If int.Parse(…) fails, the catch { … } block will execute
 ```
-
-## Video: Chapter Summary
-
-Watch this video to review what we leaned in this chapter: https://youtu.be/6Wrna8Q0LFA.
 
 ## The Exercises
 
