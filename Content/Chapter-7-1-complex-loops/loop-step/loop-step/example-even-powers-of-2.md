@@ -4,7 +4,7 @@ Print **the even** powers of **2** to **2^n**: **2^0, 2^2, 2^4, 2^8, …, 2^n**.
 
 ## Video: Even Powers of 2
 
-Watch this lesson to learn how to print the even powers of 2 using a for loop: [https://youtu.be/H8t4HGn\_Ap4](https://youtu.be/H8t4HGn_Ap4).
+Watch this video lesson to learn how to print the even powers of 2 using a for loop: [https://youtu.be/H8t4HGn\_Ap4](https://youtu.be/H8t4HGn_Ap4).
 
 ## Hints and Guidelines
 
