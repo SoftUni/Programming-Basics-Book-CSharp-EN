@@ -197,6 +197,8 @@
     * [Problem: Date After 5 Days](Content/Chapter-8-1-exam-preparation/complex-conditions-problems/complex-conditions-problems/problem-date-after-5-days.md)
     * [Problem: Sums of 3 Numbers](Content/Chapter-8-1-exam-preparation/complex-conditions-problems/complex-conditions-problems/problem-sums-of-3-numbers.md)
   * [Simple Loops – Problems](Content/Chapter-8-1-exam-preparation/simple-loops-problems/simple-loops-problems.md)
+    * [Problem: Sums with Step of 3](Content/Chapter-8-1-exam-preparation/simple-loops-problems/simple-loops-problems/problem-sums-with-step-of-3.md)
+    * [Problem: Increasing Elements ](Content/Chapter-8-1-exam-preparation/simple-loops-problems/simple-loops-problems/problem-increasing-elements.md)
   * [Drawing Figures – Problems](Content/Chapter-8-1-exam-preparation/drawing-figures-problems/drawing-figures-problems.md)
   * [Nested Loops – Problems](Content/Chapter-8-1-exam-preparation/nested-loops-problems/nested-loops-problems.md)
   * [Exam Preparation – Summary](Content/Chapter-8-1-exam-preparation/summary/summary.md)
