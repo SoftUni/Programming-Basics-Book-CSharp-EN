@@ -200,6 +200,8 @@
     * [Problem: Sums with Step of 3](Content/Chapter-8-1-exam-preparation/simple-loops-problems/simple-loops-problems/problem-sums-with-step-of-3.md)
     * [Problem: Increasing Elements ](Content/Chapter-8-1-exam-preparation/simple-loops-problems/simple-loops-problems/problem-increasing-elements.md)
   * [Drawing Figures – Problems](Content/Chapter-8-1-exam-preparation/drawing-figures-problems/drawing-figures-problems.md)
+    * [Problem: Perfect Diamond](Content/Chapter-8-1-exam-preparation/drawing-figures-problems/drawing-figures-problems/problem-perfect-diamond.md)
+    * [Problem: Rectangle with Stars](Content/Chapter-8-1-exam-preparation/drawing-figures-problems/drawing-figures-problems/problem-rectangle-with-stars.md)
   * [Nested Loops – Problems](Content/Chapter-8-1-exam-preparation/nested-loops-problems/nested-loops-problems.md)
   * [Exam Preparation – Summary](Content/Chapter-8-1-exam-preparation/summary/summary.md)
 * [8.2. Practical Exam Preparation – Part II](Content/Chapter-8-2-exam-preparation-part-2/overview.md)
