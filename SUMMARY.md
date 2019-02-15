@@ -186,6 +186,7 @@
   * [Problem: Special Numbers](Content/Chapter-7-2-complex-loops-exam-problems/special-numbers/special-numbers.md)
   * [Problem: Digits](Content/Chapter-7-2-complex-loops-exam-problems/digits/digits.md)
 * [8.1. Practical Exam Preparation – Part I](Content/Chapter-8-1-exam-preparation/overview.md)
+  * [The "Programming Basics" Exam](Content/Chapter-8-1-exam-preparation/simple-calculations-problems/the-programming-basics-exam.md)
   * [Simple Calculations – Problems](Content/Chapter-8-1-exam-preparation/simple-calculations-problems/simple-calc-problems.md)
   * [Simple Conditions – Problems](Content/Chapter-8-1-exam-preparation/simple-conditions-problems/simple-conditions-problems.md)
   * [Complex Conditions – Problems](Content/Chapter-8-1-exam-preparation/complex-conditions-problems/complex-conditions-problems.md)
