@@ -1,10 +1,10 @@
-# Example: Number in Range \[1 … 100\]
+# Example: Number in Range \[1…100\]
 
 Enter an integer in the range \[**1 … 100**\]. If the entered number is **invalid**, enter it **again**. In this case, an invalid number will be any number that **is not** within the specified range.
 
-## Video: Numbers in the Range \[1..100\]
+## Video: Numbers in the Range \[1…100\]
 
-Watch this video lesson to learn how to enter a number in the range \[1...100\]: [https://youtu.be/8W-CIbF4cdA](https://youtu.be/8W-CIbF4cdA).
+Watch this video lesson to learn how to enter a number in the range \[1…100\]: [https://youtu.be/8W-CIbF4cdA](https://youtu.be/8W-CIbF4cdA).
 
 ## Hints and Guidelines
 
