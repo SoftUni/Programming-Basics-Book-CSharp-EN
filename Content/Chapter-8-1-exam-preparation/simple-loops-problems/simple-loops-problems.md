@@ -6,6 +6,3 @@ Let's solve a few a **sample problems** with simple loops:
 
 * [Problem: Sums with Step of 3](/Content/Chapter-8-1-exam-preparation/simple-loops-problems/simple-loops-problems/problem-sums-with-step-of-3.md)
 * [Problem: Increasing Elements ](/Content/Chapter-8-1-exam-preparation/simple-loops-problems/simple-loops-problems/problem-increasing-elements.md)
-
-
-

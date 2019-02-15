@@ -6,6 +6,3 @@ Let's solve a few a **sample problems** with complex conditions:
 
 * [Problem: Date After 5 Days](/Content/Chapter-8-1-exam-preparation/complex-conditions-problems/complex-conditions-problems/problem-date-after-5-days.md)
 * [Problem: Sums of 3 Numbers](/Content/Chapter-8-1-exam-preparation/complex-conditions-problems/complex-conditions-problems/problem-sums-of-3-numbers.md)
-
-
-

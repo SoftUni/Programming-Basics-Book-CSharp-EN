@@ -6,6 +6,3 @@ Let's solve a few a **sample problems** with simple calculations:
 
 * [Problem: Triangle Area](/Content/Chapter-8-1-exam-preparation/simple-calculations-problems/simple-calc-problems/problem-triangle-area.md)
 * [Problem: Moving Bricks](/Content/Chapter-8-1-exam-preparation/simple-calculations-problems/simple-calc-problems/problem-moving-bricks.md)
-
-
-

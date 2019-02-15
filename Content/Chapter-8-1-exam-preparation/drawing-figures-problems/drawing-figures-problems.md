@@ -6,6 +6,3 @@ Let's solve a few a **sample problems** with nested loops \(and drawing figures\
 
 * [Problem: Perfect Diamond](/Content/Chapter-8-1-exam-preparation/drawing-figures-problems/drawing-figures-problems/problem-perfect-diamond.md)
 * [Problem: Rectangle with Stars](/Content/Chapter-8-1-exam-preparation/drawing-figures-problems/drawing-figures-problems/problem-rectangle-with-stars.md)
-
-
-
