@@ -1,4 +1,4 @@
-# Practical Exam Preparation – Chapter Summary
+# Practical Exam Preparation – Summary
 
 The "Programming Basics" **final exam** consists of **6 problems** for **4 hours**. Each of the exam problems will **cover** one of the **topics** studied in the previous chapters. The 6 problems are from the following **6 categories**:
 
@@ -11,5 +11,5 @@ The "Programming Basics" **final exam** consists of **6 problems** for **4 hours
 
 ## Video: Chapter Summary
 
-Watch a video about what we have learned in this chapter: https://youtu.be/p4J22J04K\_E.
+Watch a video about what we have learned in this chapter: [https://youtu.be/p4J22J04K\_E](https://youtu.be/p4J22J04K_E).
 
