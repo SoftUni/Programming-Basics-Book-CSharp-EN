@@ -15,7 +15,7 @@ Before proceeding to the next problem, we will get familiar with the definition 
 
 ## Video: Greatest Common Divisor \(GCD\)
 
-Watch the video lesson to learn about the Euclidean algorithm for calculating the GCD of given two integers: https://youtu.be/1-SEOWupvrA.
+Watch the video lesson to learn about the Euclidean algorithm for calculating the GCD of given two integers: [https://youtu.be/1-SEOWupvrA](https://youtu.be/1-SEOWupvrA).
 
 ## The Euclidean Algorithm
 
