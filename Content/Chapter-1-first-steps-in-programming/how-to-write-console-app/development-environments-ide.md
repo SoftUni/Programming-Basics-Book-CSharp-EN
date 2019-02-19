@@ -6,6 +6,10 @@ As it has already been said, in order to program we need an **Integrated Develop
 * If we program with Java, the environments **IntelliJ IDEA**, **Eclipse** or **NetBeans** are suitable.
 * If we write in Python, we can use the **PyCharm** environment.
 
+## Video: Installing and Running Visual Studio
+
+Watch a video lesson about how to install and run the Visual Studio IDE: [https://youtu.be/6AhALTJEagA](https://youtu.be/6AhALTJEagA).
+
 ## Installing Visual Studio
 
 We begin with the installation of the integrated environment **Microsoft Visual Studio **\(Community, version 2017, latest as of June 2017\).
