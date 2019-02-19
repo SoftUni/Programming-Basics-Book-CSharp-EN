@@ -2,6 +2,10 @@
 
 Let's start with the **concepts of computer programming**: computer programs, algorithms, programming languages, code compilation and execution.
 
+## Video: Computer Programs, Compilers, Interpreters
+
+Watch a video lesson about the concepts of programming, programs, compilers and interpreters here: https://youtu.be/U16C61p6m1k.
+
 ## What It Means "To Program"?
 
 **To program** means to **give commands** to the computer, for example "_to play a sound_", "_to print something on the screen_" or "_to multiply two numbers_". When the commands are one after another, they are called **a computer program**. The text of computer programs is called **a program code** \(or **a source code**, or even shorter – **code**\).
@@ -98,6 +102,4 @@ Some programming languages do not use a compiler and are being **interpreted dir
 For programming with **the C\# language** the most commonly used IDE is **Visual Studio**, which is developed and distributed freely by Microsoft and can be downloaded from: [https://www.visualstudio.com/downloads/](https://www.visualstudio.com/downloads/). Alternatives of Visual Studio are **Rider** \([https://www.jetbrains.com/rider/](https://www.jetbrains.com/rider/)\) and **MonoDevelop** / **Xamarin Studio** \([http://www.monodevelop.com](http://www.monodevelop.com)\) and **SharpDevelop** \([http://www.icsharpcode.net/OpenSource/SD/](http://www.icsharpcode.net/OpenSource/SD/)\). In the current book, we are going to use the development environment Visual Studio. This an example how a development IDE may look \(the Visual Studio IDE for C\#\):
 
 ![](/assets/chapter-1-images/01.Hello-csharp-04.png)
-
-
 
