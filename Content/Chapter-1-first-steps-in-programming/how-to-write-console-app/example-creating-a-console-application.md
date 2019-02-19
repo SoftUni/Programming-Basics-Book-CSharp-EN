@@ -1,6 +1,14 @@
 # Example: Creating a Console Application "Hello C\#"
 
-Let's create our first **console program** in Visual Studio. We already have Visual Studio and we can start it. Then, we create a new console project: \[**File**\] → \[**New**\] → \[**Project**\] → \[**Visual C\#**\] → \[**Windows**\] → \[**Console Application**\].
+Let's create our first **console program** in Visual Studio. We will start the Visual Studio IDE, will create a new console-based C\# project, will write a few lines of C\# code and will compile and run the program. Finally, we will submit our C\# code for evaluation in the automated Judge system.
+
+## Video: Console Application in Visual Studio
+
+Watch a video lesson about how to create a console app in Visual Studio: https://youtu.be/ecAXCjjk6Nw.
+
+## Console App in Visual Studio: Step by Step
+
+We already have Visual Studio and we can start it. Then, we create a new console project: \[**File**\] → \[**New**\] → \[**Project**\] → \[**Visual C\#**\] → \[**Windows**\] → \[**Console Application**\].
 
 ![](/assets/chapter-1-images/01.Hello-csharp-01.png)
 
@@ -29,7 +37,7 @@ Here is how our program should look like in Visual Studio:
 
 ![](/assets/chapter-1-images/01.Hello-csharp-04.png)
 
-The command `Console.WriteLine("Hello C#")` in the C\# language means to execute printing (`WriteLine(…)`) on the console (`Console`) and to print the text message `Hello C#`, which we have to surround by quotation marks, in order to clarify that this is a text. In the end of each command in the C\# language the symbol `;` is being put and it says that the command ends in that place (it doesn't continue on the next line).
+The command `Console.WriteLine("Hello C#")` in the C\# language means to execute printing \(`WriteLine(…)`\) on the console \(`Console`\) and to print the text message `Hello C#`, which we have to surround by quotation marks, in order to clarify that this is a text. In the end of each command in the C\# language the symbol `;` is being put and it says that the command ends in that place \(it doesn't continue on the next line\).
 
 This command is very typical in programming: we say a given **object** should be found \(in this case the console\) and some **action** should be executed upon it \(in this case it is printing something that is given inside the brackets\). More technically explained, we call the method `WriteLine(…)` from the class `Console` and give as a parameter to it a text literal `"Hello C#"`.
 
@@ -75,3 +83,4 @@ Use your credentials \(username + password\) for the site **softuni.org**. If yo
 ## Testing the Programs That Play Notes
 
 Now, after **you know how to run programs**, you can test your example programs that play musical notes. Have some fun, try these programs out. Try to change them and play with them. Change the command `Console.WriteLine("Hello C#");` with the command `Console.Beep(432, 500);` and start the program. Check if the sound of your computer is on and whether it's turned up. If you work in an online environment, you will not hear a sound, because the program is not executed on your computer, but elsewhere.
+
