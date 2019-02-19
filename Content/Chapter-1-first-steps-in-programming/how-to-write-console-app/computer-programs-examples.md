@@ -2,6 +2,10 @@
 
 Let's start with a few simple examples of short C\# programs.
 
+## Video: Computer Programs – Examples
+
+Watch a video lesson about the sample computer programs, explained below: https://youtu.be/TIwcDNJFid4.
+
 ## Example: A Program That Plays the Musical Note "A"
 
 Our **first program** is going to be a single **C\# command** that **plays the musical note** "A" \(432 Hz\) with a duration of half a second \(500 milliseconds\):
