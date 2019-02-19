@@ -2,6 +2,10 @@
 
 Write a C\# console program that **prints the numbers from 1 to 20** on separate lines on the console.
 
+## Video: Problem "Numbers from 1 to 20"
+
+Watch a video lesson to learn how to solve the "Numbers from 1 to 20" problem step by step: https://youtu.be/8Qne7CBM2SQ.
+
 ## Hints and Guidelines
 
 Create **a C\# console application** with name “`Nums1To20`”:
