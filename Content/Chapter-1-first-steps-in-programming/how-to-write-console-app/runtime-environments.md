@@ -2,6 +2,10 @@
 
 A program, in its essence, is a **sequence of instructions** that make the computer do a certain task. They are being entered by the programmer and **are being executed unconditionally by the machine**.
 
+## Video: Runtime Environments and Programming Languages
+
+Watch a video lesson about runtime environments and programming languages here: https://youtu.be/ziG5v36lSVk.
+
 ## Runtime Environments
 
 **Runtime environments** are needed by some languages to execute the compiled programs. For example, the compiled **C\#** programs are executed by the **.NET Core** runtime environment and the compiled **Java** programs are executed by **Java JRE** runtime environment. Other languages do not need compilation, but still require a runtime environment. For example the **Python** programs are executed by the **Python interpreter** and runtime environment and the **JavaScript** programs are executed by the **Node.js** runtime environment or by a **Web browser** \(which provides another JS runtime environment\).
