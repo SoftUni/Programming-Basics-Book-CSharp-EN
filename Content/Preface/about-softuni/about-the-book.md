@@ -2,6 +2,10 @@
 
 The book "**Programming Basics with C#**" has a long story behind, involving many contributors, developers and trainers, who share their knowledge and skills to **teach the new generation how to program**.
 
+## Video: Book Authors and Contributors
+
+Watch a video lesson about the trainers and contributors who developed this book and video course here: https://youtu.be/z_6I_mU0tv0.
+
 ## The Story of This Book
 
 The general head of the project for creating the **free programming book for beginners** with an open-source code is **[Dr. Svetlin Nakov](https://nakov.com)**. He is the main ideologist and founder of the learning content of the free training **[course "Programming Basics" in SoftUni](https://softuni.bg/courses/programming-basics)**, which was used as the basis of the book. 
