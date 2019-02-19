@@ -11,7 +11,7 @@ In this chapter, we are going to find out **what programming is** in its core an
 
 ## Video: Chapter Overview
 
-Watch a video lesson on this chapter here: **TODO**.
+Watch a video lesson about what we shall learn in this chapter here: https://youtu.be/6RVKMlXtWg4.
 
 ## Introduction to Coding by Examples
 
