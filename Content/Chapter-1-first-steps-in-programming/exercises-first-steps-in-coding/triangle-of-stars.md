@@ -15,9 +15,13 @@ Write a C\# console program that **prints a triangle made of 55 stars** on 10 li
 **********
 ```
 
+## Video: Problem "Triangle of 55 Stars"
+
+Watch a video lesson to learn how to solve the "Triangle of 55 Stars" problem step by step: https://youtu.be/BflTRoOQYLA.
+
 ## Hints and Guidelines
 
-Create **a new console C\# application** with name “**`TriangleOf55Stars`**”. Inside it, write code that prints the triangle of stars, for example through 10 commands, as the ones pointed out below:
+Create **a new console C\# application** with name “`TriangleOf55Stars`”. Inside it, write code that prints the triangle of stars, for example through 10 commands, as the ones pointed out below:
 
 ```csharp
 Console.WriteLine("*");
