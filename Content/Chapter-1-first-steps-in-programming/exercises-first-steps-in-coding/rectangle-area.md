@@ -10,6 +10,10 @@ Write a C\# program that **reads** from the console **two numbers, a and b**, **
 | 7 | 8 | 56 |
 | 12 | 5 | 60 |
 
+## Video: Problem "Rectangle Area"
+
+Watch a video lesson to learn how to solve the "Rectangle Area" problem step by step: https://youtu.be/6fwNJ5k9zTE.
+
 ## Hints and Guidelines
 
 Create a new **console C\# program**. To **read both of numbers**, use the following commands:
