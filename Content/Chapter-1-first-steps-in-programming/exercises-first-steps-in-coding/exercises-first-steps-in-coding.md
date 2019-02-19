@@ -4,7 +4,7 @@ Welcome to the **exercises**. Now we are going to write a couple of console appl
 
 ## Video: Chapter Summary
 
-TODO
+Watch the following video to summarize what we learned in this chapter: https://youtu.be/GstN43-eN2g.
 
 ## What We Learned in This Chapter?
 

@@ -4,7 +4,7 @@ Now we will review the **typical mistakes in the C\# programs** of the beginners
 
 ## Video: Typical Mistakes in C\# Programs
 
-Watch a video lesson about the typical mistakes in the C\# programs of the beginners: https://youtu.be/8XwM2AVC0wU.
+Watch a video lesson about the typical mistakes in the C\# programs of the beginners: [https://youtu.be/8XwM2AVC0wU](https://youtu.be/8XwM2AVC0wU).
 
 ## Writing Outside if the Main Method
 
