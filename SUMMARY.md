@@ -1,6 +1,6 @@
 # Summary
 
-* [The Book "Programming Basics with C\#"](README.md)
+* [Welcome](README.md)
 * [Preface](Content/Preface/overview.md)
   * [About SoftUni and SoftUni Judge](Content/Preface/about-softuni/about-softuni.md)
   * [How to Become a Software Developer?](Content/Preface/how-to-become-a-programmer/how-to-become-a-programmer.md)
