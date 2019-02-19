@@ -4,7 +4,7 @@ Let's start with a few simple examples of short C\# programs.
 
 ## Video: Computer Programs – Examples
 
-Watch a video lesson about the sample computer programs, explained below: https://youtu.be/TIwcDNJFid4.
+Watch a video lesson about the explained below sample computer programs: [https://youtu.be/TIwcDNJFid4](https://youtu.be/TIwcDNJFid4).
 
 ## Example: A Program That Plays the Musical Note "A"
 
