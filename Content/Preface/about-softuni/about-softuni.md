@@ -1,8 +1,16 @@
 # About the Software University \(SoftUni\)
 
-[The Software University \(SoftUni\)](https://softuni.org) is **the largest training center for software engineers in the South-Eastern Europe**. Tens of thousands of students pass through the university every year. SoftUni was founded in 2014, as a continuation of the hard work of [**Dr. Svetlin Nakov**](https://nakov.com) in building **skilled software professionals** by a practical, contemporary and high-quality education, that combines fundamental knowledge with modern software technologies and a lot of practice.[![](/assets/chapter-0-images/SoftUni-logo-small.png)](https://softuni.org)
+[The Software University \(SoftUni\)](https://softuni.org) is **the largest training center for software engineers in the South-Eastern Europe**. Tens of thousands of students pass through the university every year. SoftUni was founded in 2014, as a continuation of the hard work of [**Dr. Svetlin Nakov**](https://nakov.com) in training **skillful software engineering professionals** by a practical, contemporary and high-quality education, that combines fundamental knowledge with modern software technologies and a lot of practice.
+
+## Video: SoftUni and SoftUni Judge
+
+Watch a video lesson about SoftUni and SoftUni Judge here: [https://youtu.be/TDlDXnFCzoo](https://youtu.be/TDlDXnFCzoo).
+
+## The Software University
 
 The Software University provides **quality education**, **profession**, **job** and **diploma** for programmers, software engineers and IT professionals. SoftUni builds an extremely successful and strong **connection between education and industry** by collaboration with hundreds of software companies, provides job and internship of its students, creates quality professionals for the software industry and directly responds to the needs of employers via the training process.
+
+[![](/assets/chapter-0-images/SoftUni-logo-small.png)](https://softuni.org)
 
 ## Free Programming Courses at SoftUni
 

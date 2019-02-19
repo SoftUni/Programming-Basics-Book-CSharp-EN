@@ -2,6 +2,12 @@
 
 The book "**Programming Basics with C#**" introduces the readers with writing **programming code** at a beginners level (basic coding skills), working with **development environment** (IDE), using **variables** and data, **operators** and **expressions** , working with **console** (reading input data and printing output), using **conditional statements** (**`if`**, **`if-else`** , **`switch-case`**), **loops** (**`for`**, **`while`**, **`do-while`**, **`foreach`**) and **methods** (declaring and calling methods, passing parameters, and returning values).
 
+## Video: Book + Video Course Overview
+
+Watch a video lesson about what shall we learn in this book + video course here: https://youtu.be/H6TWSOhav9I.
+
+## More About this Book + Video Course
+
 The programming language **[C#](https://en.wikipedia.org/wiki/C_Sharp_\(programming_language\))** and the development environment **[Visual Studio](https://visualstudio.microsoft.com)** are used. All examples are given in C#, which is a modern, general purpose programming language, a good choice for beginners.
 
 The curriculum provides basic training for a deeper study of programming and prepares readers for the **entrance exam** in SoftUni.
