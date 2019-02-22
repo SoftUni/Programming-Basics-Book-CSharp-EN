@@ -6,7 +6,7 @@ Watch the promo video: https://youtu.be/_F606F3OgmQ.
 
 > This project is not entirely accomplished. Once we finish it, we will publish the book in PDF / MOBI / other formats.
 
-<img src = "/assets/CSharp-Programming-Basics-Book-Cover.png" alt = "Programming Basics with C# – book cover" readme-book-cover-image />
+<img src = "/assets/CSharp-Programming-Basics-Book-Cover.png" alt="Programming Basics with C# – book cover" class="readme-book-cover-image" />
 
  * [Preface](Content/Preface/overview.md)
  * [1. First Steps in Programming](Content/Chapter-1-first-steps-in-programming/overview.md)
