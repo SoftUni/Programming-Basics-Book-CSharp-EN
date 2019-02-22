@@ -26,7 +26,7 @@ The majority of software that we use daily, like a music player, a video player,
 
 **The .NET environment** is available as a free software with open source code for every modern operating system \(like Windows, Linux and Mac OS X\). It has two variations, **.NET Framework** \(the older one\) and **.NET Core** \(the newer one\), but none of that is essential when it comes to getting into programming. Let us focus on writing programs with the C\# language.
 
-## Compiling and Execution of C\# Programs
+## Compilation and Execution of C\# Programs
 
 As we have already mentioned, a program is **a sequence of commands**, otherwise said, it describes a sequence of calculations, evaluations, iterations and all kinds of similar operations, which aim to accomplish some kind of result.
 
