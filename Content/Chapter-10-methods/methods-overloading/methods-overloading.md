@@ -12,7 +12,7 @@ In this example the methods signature is its name (**`Print`**), and also its pa
 
 If our program has **methods with the same names**, but with **different signatures**, we can say that we have **method overloading**.
 
-## Overloading Methods in C#
+## Overloading Methods in C\#
 
 As we mentioned, if you use **the same name for several methods with different signatures**, this means that you are **overloading a method**. The code below shows how three different methods can use the same name, but have different signatures and execute different actions.
 
