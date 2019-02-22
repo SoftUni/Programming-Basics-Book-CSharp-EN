@@ -42,7 +42,7 @@ Let's first calculate **how much the monthly salary** of Ivan is. We do that by 
 
 **The working days** per month are given as **an integer**, therefore, we can declare a variable of **`int` type** to store their value. For both **the earned money** and **the exchange rate of dollar to lev**, we will obtain **a floating-point number**, therefore, we will use **`double`**. As **`double`** is the data type with **the higher scope**, and the output should also be **a floating-point number**, we use **`double`** for the other variables that we create as well. 
 
-### Reading the Input Data and Doing the Calculations
+### Reading the Input Data
 
 Again: after we have an idea on how to solve the problem and we have considered the data types that we are going to use, we can start **writing the program**. As in the previous tasks, we can divide the solution into three smaller tasks: 
 * **Reading the input from the console**.
@@ -52,6 +52,8 @@ Again: after we have an idea on how to solve the problem and we have considered 
 **We declare the variables** that we are going to use by trying to choose **meaningful names**. With **`Console.ReadLine(…)`** we read the input numbers from the console and we **convert** the input string to **`int`** or **`double`** with **`int/double.Parse(…)`**.
 
 ![](/assets/chapter-2-2-images/05.Daily-earnings-01.png)
+
+### Doing the Calculations
 
 We do the calculations:  
 
