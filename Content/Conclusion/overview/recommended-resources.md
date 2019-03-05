@@ -15,10 +15,11 @@ Here are some recommended **resources** that will be useful for your development
 * https://www.facebook.com/softuni.org – official **Facebook page of SoftUni**. By it you will learn regarding new courses, seminars and events related to programming and software development.
 * https://introprogramming.info – official website of the **books "Programming Basics"** with **C#** and **Java** by Dr. Svetlin Nakov and his team. The books examine in-depth programming basics, basic data structures and algorithms, object-oriented programming, and other basic skills, and are an excellent continuation for reading after the current book. However, **besides reading, you need to do intense code writing**, do not forget that!
 * https://stackoverflow.com – **Stack Overflow** is one of the **widest** discussion forums for programmers worldwide, where you will find assistance for any possible question in the world of programming. If you are fluent in English, look up at StackOverflow and ask your questions there.
+* https://www.udemy.com – **Udemy** is one of the biggest **marketplace** for technical trainings, offered free or at affordable prices.
 * https://www.meetup.com/find/tech/ – look for **tech meetups** around your city and involve in communities that you like. Most of the tech meetups are free and newbies are welcome.
 
 ## Good Luck to All!
 
 On behalf of the entire authors' team, we **wish you endless success in the profession and in your life**! We will be really happy if we have helped you get **passionate about programming** and we have inspired you to go bravely towards becoming a "software engineer", which will bring you a good job that you will work with pleasure, give you a quality life and prosperity, as well as amazing perspectives for development and possibilities for making impressive projects with inspiration and passion.
 
-<p align="right"><i>Sofia, May 21, 2017</i></p>
+<p align="right"><i>Sofia, March 5, 2019</i></p>
