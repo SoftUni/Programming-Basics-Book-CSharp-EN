@@ -49,7 +49,7 @@ Svetlin Nakov has 20+ years of technical background as software engineer, softwa
 
 Svetlin has been a **speaker** at hundreds of conferences, seminars, meetups, courses and other trainings in the United States, Singapore, Germany, Egypt, Bulgaria and other locations. He holds a **PhD **degree in computer science \(for his research on computational linguistics and machine learning\), several **medals** from the **International Informatics Olympiads** \(IOI\) and the Bulgarian **President’s award “John Atanasoff”**. He has been a part-time assistant professor / trainer in Sofia University, New Bulgarian University, the Technical University of Sofia, Ngee Ann Polytechnic \(Singapore\), Kingsland University \(USA\) and few others.
 
-Currently **Svetlin Nakov** together with his partners drive the global expansion of the largest training center for software engineers in Bulgaria and the region – the [**Software University**](https://softuni.org), where he inspires and **teaches hundred of thousands of young people** in computer science, software development, information technologies and digital skills, and gives them a profession and a job.
+Currently **Svetlin Nakov** together with his partners drive the global expansion of the largest training center for software engineers in the South-Eastern Europe and the region – the [**Software University**](https://softuni.org), where he inspires and **teaches hundred of thousands of young people** in computer science, software development, information technologies and digital skills, and gives them a profession and a job.
 
 ## Official Book Web Site
 
@@ -72,6 +72,14 @@ This book on programming for beginners is available in several programming langu
 * [Programming Basics with PHP \(Bulgarian\)](https://php-book.softuni.bg)
 
 If you prefer a different language, select it from the list above.
+
+## Video Course "Comprehensive Introduction to Programming with C#" in Udemy
+
+To reach more readers, the book authors recorded a 22-hours **free video course in Udemy**, which achieved thousands enrollments from 100+ countries:
+
+<p align="center"><strong><a href="https://www.udemy.com/comprehensive-introduction-to-programming-with-csharp/">Comprehensive Introduction to Programming with C#</a></strong></p>
+
+This book is an **official textbook** for this Udemy course and serves as detailed tutorial, extending the course content with additional topics and more detailed explanations.
 
 ## Discussion Forum for Your Questions
 
