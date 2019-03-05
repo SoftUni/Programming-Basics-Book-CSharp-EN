@@ -102,7 +102,7 @@
     * [Problem: Cinema](Content/Chapter-4-1-complex-conditions/exercises-complex-conditions/volleyball/problem-cinema.md)
     * [Problem: Volleyball](Content/Chapter-4-1-complex-conditions/exercises-complex-conditions/volleyball/volleyball.md)
     * [Problem: \* Point in the Figure](Content/Chapter-4-1-complex-conditions/exercises-complex-conditions/point-in-the-figure/point-in-the-figure.md)
-  * [Lab: Point in Rectangle](Content/Chapter-4-1-complex-conditions/graphical-app/graphical-app.md)
+  * [Lab: GUI App "Point in Rectangle"](Content/Chapter-4-1-complex-conditions/graphical-app/graphical-app.md)
 * [4.2. More Complex Conditions – Exam Problems](Content/Chapter-4-2-complex-conditions-exam-problems/overview.md)
   * [Problem: On Time for the Exam](Content/Chapter-4-2-complex-conditions-exam-problems/exam-problems/on-time-for-the-exam/on-time-for-the-exam.md)
   * [Problem: Trip](Content/Chapter-4-2-complex-conditions-exam-problems/exam-problems/trip/trip.md)
