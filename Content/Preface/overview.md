@@ -8,7 +8,7 @@ Watch a video lesson about what shall we learn in this book + video course here:
 
 ## More About this Book + Video Course
 
-The programming language **[C#](https://en.wikipedia.org/wiki/C_Sharp_\(programming_language\))** and the development environment **[Visual Studio](https://visualstudio.microsoft.com)** are used. All examples are given in C#, which is a modern, general purpose programming language, a good choice for beginners.
+The programming language **[C#](https://en.wikipedia.org/wiki/C_Sharp_%28programming_language%29)** and the development environment **[Visual Studio](https://visualstudio.microsoft.com)** are used. All examples are given in C#, which is a modern, general purpose programming language, a good choice for beginners.
 
 The curriculum provides basic training for a deeper study of programming and prepares readers for the **entrance exam** in SoftUni.
 
