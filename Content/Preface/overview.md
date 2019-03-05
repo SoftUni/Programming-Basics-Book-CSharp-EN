@@ -1,6 +1,6 @@
 # Preface
 
-The book "**Programming Basics with C#**" introduces the readers with writing **programming code** at a beginners level (basic coding skills), working with **development environment** (IDE), using **variables** and data, **operators** and **expressions**, working with **console** (reading input data and printing output), using **conditional statements** (**`if`**, **`if-else`** , **`switch-case`**), **loops** (**`for`**, **`while`**, **`do-while`**, **`foreach`**) and **methods** (declaring and calling methods, passing parameters, and returning values).
+The book "**Programming Basics with C#**" introduces the readers with writing **programming code** at a beginners level (basic coding skills), working with **development environment** (IDE), using **variables** and data, **operators** and **expressions**, working with the **console** (reading input data and printing output), using **conditional statements** (**`if`**, **`if-else`**, **`switch-case`**), **loops** (**`for`**, **`while`**, **`do-while`**, **`foreach`**) and **methods** (declaring and calling methods, passing parameters, and returning values).
 
 ## Video: Book + Video Course Overview
 
