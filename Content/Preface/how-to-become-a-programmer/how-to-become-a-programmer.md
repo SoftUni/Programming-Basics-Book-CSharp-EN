@@ -87,9 +87,9 @@ Here are some commonly used software development stacks which software companies
 
 * **C\#** + OOP + FP + classes from .NET + SQL Server databases + Entity Framework \(EF\) + ASP.NET MVC + HTTP + HTML + CSS + JS + DOM + jQuery
 * **JavaScript** \(JS\) + OOP + FP + databases + MongoDB or MySQL + HTTP + web programming + HTML + CSS + JS + DOM + jQuery + Node.js + Express + Angular or React
-* **Python** + OOP + FP + databases + MongoDB or MySQL + HTTP + web development + HTML + CSS + JS + DOM + jQuery + Django
+* **Python** + OOP + FP + databases + MongoDB or MySQL + HTTP + web development + HTML + CSS + JS + DOM + jQuery + Django or Flask
 * **Java** + Java API classes + OOP + FP + databases + MySQL + HTTP + web programming + HTML + CSS + JS + DOM + jQuery + JSP / Servlets + Spring MVC or Java EE / JSF
-* **PHP** + OOP + databases + MySQL + HTTP + web development + HTML + CSS + JS + DOM + jQuery + Laravel / Symfony or other MVC framework for PHP
+* **PHP** + OOP + databases + MySQL + HTTP + web development + HTML + CSS + JS + DOM + jQuery + Laravel or Symfony or other MVC framework for PHP
 * **C++** + OOP + STL + Boost + native development + databases + HTTP + other languages
 * **Swift** + MacOS + iOS + Cocoa + Cocoa Touch + XCode + HTTP + REST + other languages
 
@@ -104,7 +104,7 @@ As it already became clear, **the difference between programming languages** and
 
 Indeed, **the programming language almost does not matter**, you just have to learn to program, and this starts with **coding** \(this book\) goes on in the more complex **programming concepts** \(like data structures, algorithms, OOP and FP\) and includes the use of **fundamental knowledge and skills for software development, software engineering and computer science**.
 
-Only when you start working with a specific technology into a software project you will need **a specific programming language**, knowledge in particular programming libraries \(APIs\), frameworks and software technologies \(front-end UI technologies, back-end technologies, ORM technologies, etc.\). Keep calm, you will learn them, all programmers are learning them, but first you need to learn the foundation: **to program and do it well**.
+Only when you start working with a specific technology into a software project you will need **a specific programming language**, knowledge about particular programming libraries \(APIs\), frameworks and software technologies \(front-end UI technologies, back-end technologies, ORM technologies, etc.\). Keep calm, you will learn them, all programmers are learning them, but first you need to learn the foundation: **to program and do it well**.
 
 This book uses the C\# language, but it is not required and can be replaced with Java, JavaScript, Python, PHP, C++, Ruby, Swift, Go, Kotlin, or any other language. To be a **software developer**, you need to learn **coding** \(20%\), learn **algorithmic thinking**, and **solve problems** \(30%\), to have **fundamental knowledge of programming and computer science** \(25%\) and to master a **specific programming language and the technologies around it** \(25%\). Be patient, for a year or two all this can be mastered on a good starting level, as long as you are serious.
 
