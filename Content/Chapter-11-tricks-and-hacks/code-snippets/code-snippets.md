@@ -16,7 +16,7 @@ In this section we are going to show you how to **make your own code snippet**. 
 
 ![](/assets/chapter-11-images/01.Code-snippet-02.jpg)
 
-## Exploring the Existing Code Snippets for C\#
+## Exploring the Existing C# Code Snippets
 
 In the window that we opened we must choose **Language -&gt; CSharp**, and from the section **Locations -&gt; Visual C\#**. This is where all the existing snippets for **C\#** are located:
 
