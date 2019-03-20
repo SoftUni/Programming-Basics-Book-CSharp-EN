@@ -27,7 +27,7 @@ For anyone who hadn't passed [**the free course on Programming Basics in SoftUni
 
 The free course for beginners in SoftUni is suitable for **school students** (of age 10+), **university students** and **workers** having any other professions, who want to gain technical knowledge and check if programming is what they like to do and understand if they would like to develop in the software development field.
 
-**A new group starts each month.** The "Programming Basics" course at SoftUni is organized regularly using a number of different programming languages as basis. So, just check it out! The course is **free** and you can quit any time you like. **Signing up** for free on-site or online training is available via the **SoftUni application form**: [https://softuni.org](https://softuni.org).
+**A new group starts each month.** The "Programming Basics" course at SoftUni is organized regularly using a few different programming languages as basis. So, just check it out! The course is **free**, and you can quit any time you like. **Signing up** for free on-site or online training is available via the **SoftUni application form**: [https://softuni.org](https://softuni.org).
 
 ## Why Did We Choose C\#?
 
