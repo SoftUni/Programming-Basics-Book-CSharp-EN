@@ -43,7 +43,7 @@ It is **more than a book** or tutorial. It is a carefully designed tool for lear
 
 ## Programming Is Learned by a Lot of Writing, Not Reading!
 
-If someone thinks they will read a book and learn to program without writing code and solving problems, this is definitely a delusion. Programming needs **a lots of practice**, with code writing every day and solving hundreds, even thousands of problems, seriously and persistently for years.
+If someone thinks they will read a book and learn to program without writing code and solving problems, this is definitely a delusion. Programming needs **a lot of practice**, with code writing every day and solving hundreds, even thousands of problems, seriously and persistently for years.
 
 You need **to solve a lot of problems**, to make mistakes, to fix, to search for solutions and information from the Internet, to try, to experiment, to find better solutions, to get used to the code, syntax, the programming language, the development environment, to search for errors and debugging the broken code, the algorithmic thinking, breaking the problems into smaller parts, gaining experience and raising your skills every day, because when you learn to write code, this is only the **first step to the profession of the "software engineer"**. You have a lot to learn, really!
 
