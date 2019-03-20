@@ -77,7 +77,7 @@ If you prefer a different language, select it from the list above.
 
 ## Video Course "Comprehensive Introduction to Programming with C#" in Udemy
 
-To reach more readers, the book authors recorded a 22-hours **free video course in Udemy**, which achieved thousands enrollments from 100+ countries:
+To reach more readers, the book authors recorded a 22-hours **free video course in Udemy**, which achieved thousands of enrollments from 100+ countries:
 
 <p align="center"><strong><a href="https://www.udemy.com/comprehensive-introduction-to-programming-with-csharp/">Comprehensive Introduction to Programming with C#</a></strong></p>
 
