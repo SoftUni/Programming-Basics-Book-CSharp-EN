@@ -1,4 +1,4 @@
-# Examples: Square Made of Stars
+# Example: Square Made of Stars
 
 Print on the console a square made of **N x N** stars (use a space between the stars, staying on the same line):
 
