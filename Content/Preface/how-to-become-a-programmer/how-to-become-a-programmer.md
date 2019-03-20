@@ -38,7 +38,7 @@ The algorithmic \(logical, engineering, mathematical, abstract\) thinking forms 
 How to **build algorithmic thinking**?
 
 * Algorithmic thinking is developed by solving **multiple  programming \(1000+\) problems**, as diverse as possible. That is the recipe: solving thousands of practical problems, building algorithms and implementing the algorithms, along with debugging the issues that come up in the process. 
-* Sciences like physics, mathematics and identical ones helps a lot, but they are not mandatory! People with **engineering and technical skills** usually learn very easily to think logically, because they already **have the problem solving skill**, even if it is not algorithmic.
+* Sciences like physics, mathematics and identical ones helps a lot, but they are not mandatory! People with **engineering and technical skills** usually learn very easily to think logically, because they already **have problem solving skills**, even if it is not algorithmic.
 * The ability of **solving programming problems** \(for which algorithmic thinking is needed\) is extremely important for a programmer. Many companies test particularly this skill during their jobs interviews.
 
 The current book develops the **beginner level of algorithmic thinking**, but it's not enough to make you a good programmer. To become good at this profession you have to add **logical thinking and problem solving skills**, beyond the range of this book. For example, working with **data structures** \(arrays, lists, matrices, hash-tables, binary trees\) and basic **algorithms** \(searching, sorting, searching in tree structures, recursion, etc.\).
