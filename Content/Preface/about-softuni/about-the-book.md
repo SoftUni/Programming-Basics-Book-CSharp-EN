@@ -8,7 +8,7 @@ Watch a video lesson about the trainers and contributors who developed this book
 
 ## The Story of This Book
 
-The general head of the project for creating the **free programming book for beginners** with an open-source code is **[Dr. Svetlin Nakov](https://nakov.com)**. He is the main ideologist and founder of the learning content of the free training **[course "Programming Basics" in SoftUni](https://softuni.bg/courses/programming-basics)**, which was used as the basis of the book. 
+The general head of the project for creating the **free programming book for beginners** with an open-source code is **[Dr. Svetlin Nakov](https://nakov.com)**. He is the main ideologist and author of the learning content of the free training **[course "Programming Basics" in SoftUni](https://softuni.bg/courses/programming-basics)**, which was used as the basis of the book. 
 
 Everything started with the mass **free basic programming courses** that have been conducted in the whole country since 2014, when the "SoftUni" initiative was launched. At the beginning these courses had larger range and covered more theory, but in 2016 Dr. Svetlin Nakov completely revised, updated and simplified the whole method of teaching, strongly emphasizing on practice. This is how the core of the **learning content of this book was created**.
 
