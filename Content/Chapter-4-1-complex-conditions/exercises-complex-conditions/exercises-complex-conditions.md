@@ -4,7 +4,7 @@ Now let's **exercise** our new skills with **complex conditions**. Let's solve a
 
 ## Video: Chapter Summary
 
-Watch this video to review what we leaned in this chapter: [https://youtu.be/QOhyJXZ0HHQ](https://youtu.be/QOhyJXZ0HHQ).
+Watch this video to review what we learned in this chapter: [https://youtu.be/QOhyJXZ0HHQ](https://youtu.be/QOhyJXZ0HHQ).
 
 ## What We Learned in This Chapter?
 
@@ -55,6 +55,3 @@ Solve the exercises below to learn how to work with nested and more complex cond
 * [Problem: Cinema](/Content/Chapter-4-1-complex-conditions/exercises-complex-conditions/volleyball/problem-cinema.md)
 * [Problem: Volleyball](/Content/Chapter-4-1-complex-conditions/exercises-complex-conditions/volleyball/volleyball.md)
 * [Problem: \* Point in the Figure](/Content/Chapter-4-1-complex-conditions/exercises-complex-conditions/point-in-the-figure/point-in-the-figure.md)
-
-
-
