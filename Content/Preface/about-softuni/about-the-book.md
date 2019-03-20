@@ -71,7 +71,6 @@ This book on programming for beginners is available in several programming langu
 * [Programming Basics with JavaScript \(Bulgarian\)](https://js-book.softuni.bg)
 * [Programming Basics with Python \(Bulgarian\)](https://python-book.softuni.bg)
 * [Programming Basics with C++ \(Bulgarian\)](https://cpp-book.softuni.bg)
-* [Programming Basics with PHP \(Bulgarian\)](https://php-book.softuni.bg)
 
 If you prefer a different language, select it from the list above.
 
