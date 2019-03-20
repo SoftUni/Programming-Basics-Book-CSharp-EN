@@ -93,7 +93,7 @@ In this discussion forum you will get **proper response to any question associat
 
 Because of the big number of learners, you can find in the forum practically any **solution of any exercise, shared by your colleague**. Thousands of students already got the answer on the same exercise, so if you are late you can check the forum. Even though the exercises in "Programming Basics" are changing at some point, the sharing at SoftUni is always welcome and encouraged, that's why you will easily find solutions and guidance in any exercise.
 
-If you do have a specific question, for example if you spend many hours on a particular program and it doesn't start, you can always ask in the forum. You will be surprised how friendly are the SoftUni's forum participants. 
+If you do have a specific question, for example if you spend many hours on certain piece of code and it doesn't work correctly, you can always **ask in the forum**. You will be surprised how friendly are the SoftUni's forum participants.
 
 ## Official Facebook Page of the Book
 
