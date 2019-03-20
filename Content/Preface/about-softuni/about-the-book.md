@@ -61,7 +61,7 @@ The book **Programming Basics with C#** is available for free at the following w
 
 This is the **official book site** and any new version will be uploaded there. The book is mirrored in the other programming languages mentioned on the website.
 
-## The Book in Other Programming Languages: Java, JavaScript, Python, C++, PHP
+## The Book in Other Programming Languages: Java, JavaScript, Python, C++
 
 This book on programming for beginners is available in several programming languages \(or is in the process of being adapted for them\):
 
