@@ -10,7 +10,7 @@ Watch a video lesson about SoftUni and SoftUni Judge here: https://youtu.be/qO1c
 
 ## The 4 Essential Skills of the Software Developers
 
-There are **4 main skill groups** where all programmers must have. Most of these skills are resistant in time and are not influenced by the development in specific technologies \(that are changing constantly\). These are the skills that **any good programmer** has and to which every beginner has to strive:
+There are **4 main skill groups** where all programmers must have. Most of these skills are resistant in time and are not influenced by the development in specific technologies \(that are changing constantly\). These are the skills that **any good programmer** has and to which every beginner must strive:
 
 * **coding **\(20%\)
 * **algorithmic thinking** \(30%\)
