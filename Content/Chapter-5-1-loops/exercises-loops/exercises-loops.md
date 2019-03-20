@@ -4,7 +4,7 @@ Now that we are familiar with loops, it is time **to practice our newly acquired
 
 ## Video: Chapter Summary
 
-Watch this video to review what we leaned in this chapter: [https://youtu.be/4G\_oSUcx9ko](https://youtu.be/4G_oSUcx9ko).
+Watch this video to review what we learned in this chapter: [https://youtu.be/4G\_oSUcx9ko](https://youtu.be/4G_oSUcx9ko).
 
 ## What We Learned in This Chapter?
 
@@ -39,6 +39,3 @@ Now it's time to start working on the problems:
 * [Problem: Element Equal to the Sum of the Rest](/Content/Chapter-5-1-loops/exercises-loops/half-sum-element.md)
 * [Problem: Even / Odd Positions](/Content/Chapter-5-1-loops/exercises-loops/even-odd-positions.md)
 * [Problem: Equal Pairs](/Content/Chapter-5-1-loops/exercises-loops/equal-pairs.md)
-
-
-
