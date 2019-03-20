@@ -41,7 +41,7 @@ The video lessons for this book were recorded by:
 
 The entire project for creating this book, videos and teaching curriculum for beginners in programming is driven by **Svetlin Nakov** who inspired the other contributors to join this project and share their knowledge and skills.
 
-Dr. **Svetlin Nakov** \([https://nakov.com](https://nakov.com)\) is a passionate **software engineer**, inspirational **technical trainer** and tech **entrepreneur** from Bulgaria, experienced in broad range of languages, software technologies and platforms. He is co-founder of several highly successful **tech startups** and non-profit organizations. Svetlin is training, innovation and inspiration leader at [**SoftUni**](https://softuni.org) - the largest tech education provider in South-Eastern Europe.
+Dr. **Svetlin Nakov** \([https://nakov.com](https://nakov.com)\) is a passionate **software engineer**, inspirational **technical trainer** and tech **entrepreneur** from Bulgaria, experienced in broad range of languages, software technologies and platforms. He is co-founder of several highly successful **tech startups** and non-profit organizations. Svetlin is training, innovation and inspiration leader at [**SoftUni**](https://softuni.org) – the largest tech education provider in South-Eastern Europe.
 
 ![](/assets/chapter-0-images/Svetlin-Nakov-photo-face.jpg)
 
