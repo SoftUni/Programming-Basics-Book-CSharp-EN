@@ -4,7 +4,7 @@ Let's look at how to **draw figures** using **nested loops** with more complex l
 
 ## Video: Chapter Summary
 
-Watch this video to review what we leaned in this chapter: [https://youtu.be/tj4s3BOijO4](https://youtu.be/tj4s3BOijO4).
+Watch this video to review what we learned in this chapter: [https://youtu.be/tj4s3BOijO4](https://youtu.be/tj4s3BOijO4).
 
 ## What We Learned in This Chapter?
 
@@ -37,6 +37,3 @@ We will work on the following set of practical problems:
 * [Problem: Sunglasses](/Content/Chapter-6-1-nested-loops/drawing-more-complex-figures/sunglasses/sunglasses.md)
 * [Problem: House](/Content/Chapter-6-1-nested-loops/drawing-more-complex-figures/house/house.md)
 * [Problem: Diamond](/Content/Chapter-6-1-nested-loops/drawing-more-complex-figures/diamond/diamond.md)
-
-
-
