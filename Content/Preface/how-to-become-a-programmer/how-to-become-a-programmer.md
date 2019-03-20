@@ -76,12 +76,12 @@ To start working as a programmer, only **basic knowledge in the areas listed abo
 
 ## Skill \#4 – Programming Languages and Software Technologies \(25%\)
 
-**Programming languages and software development technologies** form around 25% of a programmer's skills. They have the largest learning content, but they change very fast over time. If we look at the **job offers** in the software industry they usually mention words like the ones bellow, but in the job offers they secretly mention **the three main skills**: coding, algorithmic thinking and knowing the fundamentals of computer science and software engineering.
+**Programming languages and software development technologies** form around 25% of a programmer's skills. They have the largest learning content, but they change very fast over time. If we look at the **job offers** in the software industry, they usually mention words like the ones below, but in the job offers they secretly mention **the three main skills**: coding, algorithmic thinking and knowing the fundamentals of computer science and software engineering.
 
 For those clearly technological skills **the programming language does matter**.
 
 * **Note**: only for these 25% of the profession the programming language does matter!
-* **For the rest 75% of the skills the programming language doesn't matter** and these skills are resistant in time and transportable between different languages and technologies.
+* **For the rest 75% of the skills the programming language doesn't matter**, and these skills are resistant in time and transportable between different languages and technologies.
 
 Here are some commonly used software development stacks which software companies are looking for \(as of Jan 2019\):
 
