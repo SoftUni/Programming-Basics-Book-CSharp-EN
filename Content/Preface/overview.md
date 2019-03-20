@@ -13,7 +13,7 @@ The programming language **[C#](https://en.wikipedia.org/wiki/C_Sharp_%28program
 The curriculum provides basic training for a deeper study of programming and prepares readers for the **entrance exam** in SoftUni.
 
 <table><tr><td><img src="/assets/alert-icon.png" style="max-width:50px" /></td>
-<td>This book only gives you  <b> the first steps to programming</b>. It covers very basic skills that you have to develop for years, in order to reach a high enough level and start working as a programmer</td></tr></table>
+<td>This book only gives you  <b> the first steps to programming</b>. It covers very basic skills that you must develop for years, in order to reach a high enough level and start working as a programmer</td></tr></table>
 
 This book is the official textbook for the free **Programming Basics** course for absolute beginners at the [**Software University (SoftUni)**](https://softuni.org).
 
