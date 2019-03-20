@@ -89,9 +89,9 @@ Ask your **questions about basic programming book** at the **SoftUni's forum**:
 
 <p align="center"><strong><a href="https://softuni.bg/forum">https://softuni.bg/forum</a></strong></p>
 
-In this discussion forum you will get **proper response to any question associated with the content of this book** also any other questions about programming. The SoftUni community is so big that you will get a response **within a few minutes**. All of the teachers, assistant and mentors at SoftUni also responds on your questions.
+In this discussion forum you will get **proper response to any question associated with the content of this book** also any other questions about programming. The SoftUni community is so big that you will get a response **within a few minutes**. The trainers, assistants and mentors at SoftUni also responds on your questions.
 
-Because of the big amount of learners, you can find in the forum practically any **solution of any exercise, shared by your colleague**. Thousands of students already got the answer on the same exercise, so if you are late you can check the forum. Even though the exercises in "Programming Basics" are changing at some point, the sharing at SoftUni is always welcome and encouraged, that's why you will easily find solutions and guidance in any exercise.
+Because of the big number of learners, you can find in the forum practically any **solution of any exercise, shared by your colleague**. Thousands of students already got the answer on the same exercise, so if you are late you can check the forum. Even though the exercises in "Programming Basics" are changing at some point, the sharing at SoftUni is always welcome and encouraged, that's why you will easily find solutions and guidance in any exercise.
 
 If you do have a specific question, for example if you spend many hours on a particular program and it doesn't start, you can always ask in the forum. You will be surprised how friendly are the SoftUni's forum participants. 
 
