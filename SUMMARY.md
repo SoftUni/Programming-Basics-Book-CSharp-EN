@@ -143,7 +143,7 @@
   * [Nested Loops](Content/Chapter-6-1-nested-loops/nested-loops/nested-loops.md)
     * [Example: Rectangle of 10 x 10 Stars](Content/Chapter-6-1-nested-loops/example-rectangle-10x10/example-rectangle-10x10.md)
     * [Example: Rectangle of N x N Stars](Content/Chapter-6-1-nested-loops/example-rectangle-NxN/example-rectangle-NxN.md)
-    * [Examples: Square of Stars](Content/Chapter-6-1-nested-loops/nested-loops/example-square-of-stars.md)
+    * [Example: Square of Stars](Content/Chapter-6-1-nested-loops/nested-loops/example-square-of-stars.md)
     * [Example: Triangle of Dollars](Content/Chapter-6-1-nested-loops/nested-loops/example-triangle-of-dollars.md)
     * [Example: Square Frame](Content/Chapter-6-1-nested-loops/nested-loops/example-square-frame.md)
   * [Exercises: Drawing Figures](Content/Chapter-6-1-nested-loops/drawing-more-complex-figures/drawing-more-complex-figures.md)
