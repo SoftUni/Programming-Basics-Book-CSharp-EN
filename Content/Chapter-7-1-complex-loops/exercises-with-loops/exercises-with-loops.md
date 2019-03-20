@@ -4,7 +4,7 @@ In this chapter, we got familiar with some new types of loops that can perform r
 
 ## Video: Chapter Summary
 
-Watch this video to review what we leaned in this chapter: [https://youtu.be/6Wrna8Q0LFA](https://youtu.be/6Wrna8Q0LFA).
+Watch this video to review what we learned in this chapter: [https://youtu.be/6Wrna8Q0LFA](https://youtu.be/6Wrna8Q0LFA).
 
 ## What We Learned in This Chapter?
 
@@ -66,6 +66,3 @@ We will work on the following exercises to practice the new loops from this chap
 * [Problem: Fibonacci Numbers](/Content/Chapter-7-1-complex-loops/exercises-with-loops/fibonacci-numbers/fibonacci-numbers.md)
 * [Problem: Numbers Pyramid](/Content/Chapter-7-1-complex-loops/exercises-with-loops/number-pyramid/number-pyramid.md)
 * [Problem: Numbers Table](/Content/Chapter-7-1-complex-loops/exercises-with-loops/number-table/number-table.md)
-
-
-
