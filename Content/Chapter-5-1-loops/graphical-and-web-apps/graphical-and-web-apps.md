@@ -1,4 +1,4 @@
-# Exercises: Turtle Graphics
+# Lab Exercises: Turtle Graphics
 
 Now, it is your time to draw a few figures with the turtle, using sequences of moves and rotations:
 
