@@ -95,7 +95,7 @@ Some programming languages do not use a compiler and are being **interpreted dir
 
 ### Development Environments \(IDE\)
 
-**An environment for development** \(Integrated Development Environment – **IDE**\) is an union of traditional tools for development of software applications. In the development environment we write code, compile and execute the programs. Development environments integrate in them **a text editor** for writing code, **a programming language**, **a compiler or an interpreter** and **a runtime environment** for executing programs, **a debugger** for tracking the program and seeking out errors, **tools for user interface design** and other tools and add-ons.
+**An environment for development** \(Integrated Development Environment – **IDE**\) is a combination of traditional tools for development of software applications. In the development environment we write code, compile and execute the programs. Development environments integrate in them **a text editor** for writing code, **a programming language**, **a compiler or an interpreter** and **a runtime environment** for executing programs, **a debugger** for tracking the program and seeking out errors, **tools for user interface design** and other tools and add-ons.
 
 **Environments for development** are convenient, because they integrate everything necessary for the development of the program, without the need to exit the environment. If we don't use an environment for development, we will have to write the code in a text editor, to compile it with a command on the console, to run it with another command on the console and to write more additional commands when needed, which is very time consuming. That is why most of the programmers use an IDE in their everyday work.
 
