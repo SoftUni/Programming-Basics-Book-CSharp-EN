@@ -40,7 +40,7 @@ Press the \[**Start Visual Studio**\] button and the main view of Visual Studio 
 
 ## Older Versions of Visual Studio
 
-You can use older versions of Visual Studio \(for example version 2015 or 2013 or even 2010 or 2005\), but **it is not recommended**, as they don't contain some of the newer options for development, and not all of the examples from the book will start.
+You can use older versions of Visual Studio \(for example version 2015 or 2013 or even 2010 or 2005\), but **it is not recommended**, as they don't contain some of the newer options for development, and not all the examples from the book will run the same way.
 
 ## Online Development Environments
 
