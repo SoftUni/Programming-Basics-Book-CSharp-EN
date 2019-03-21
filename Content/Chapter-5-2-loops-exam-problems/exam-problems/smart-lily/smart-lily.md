@@ -74,7 +74,7 @@ We also add the money from the sold toys to Lilly's savings.
 
 ## Formatting and Printing the Output
 
-Finally we need to print the obtained results, taking into account the formatting specified in the description, i.e. sum needs to be  **rounded up to 2 symbols after the decimal point**:
+Finally, we need to print the obtained results, considering the formatting specified in the description, i.e. sum needs to be  **rounded up to 2 symbols after the decimal point**:
 
 ![](/assets/chapter-5-2-images/02.Smart-lilly-05.png)
 
