@@ -36,7 +36,7 @@ The input data is read from the **console** and contains **exactly two lines**:
 
 | Input | Output | Comments |
 | --- | --- | --- |
-|May<br>15|Apartment: 877.50 lv.<br>Studio: 525.00 lv.| In **May**, in case of more than **14 stays**, the discount for a **studio is 30%** (50 – 15 = 35), and the **apartment – 10%** (65 – 6.5 =58.5).<br>The whole stay in the **apartment – 877.50** lv.<br>The whole stay **in the studio  – 525.00** lv.|
+|May<br>15|Apartment: 877.50 lv.<br>Studio: 525.00 lv.| In **May**, in case of more than **14 stays**, the discount for a **studio is 30%** (50 - 15 = 35), and for the **apartment is 10%** (65 - 6.5 = 58.5).<br>The whole stay in the **apartment: 877.50** lv.<br>The whole stay **in the studio: 525.00** lv.|
 
 | Input | Output |
 | --- | --- |
@@ -67,7 +67,7 @@ In general, there are different approaches and ways to apply the above condition
 
 ### Calculating Prices for Stay in May and October
 
-Let's start with the first group of months: **May** and **October**. For these two months **the price for stay is the same** for both types of accommodation – in a **studio** or in an **apartment**. Therefore, the only thing that remains is to apply an internal condition regarding the **number of stays**, and recalculate **the relevant price** (if needed).
+Let's start with the first group of months: **May** and **October**. For these two months **the price for stay is the same** for both types of accommodation – in a **studio** or in an **apartment**. Therefore, the only thing that remains is to apply an internal condition regarding the **number of stays** and recalculate **the relevant price** (if needed).
 
 ![](/assets/chapter-4-2-images/05.Hotel-room-03.png)
 
