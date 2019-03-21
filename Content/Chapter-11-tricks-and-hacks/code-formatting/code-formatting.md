@@ -19,7 +19,7 @@ if (someCondition)
 }
 ```
 
-You can see that the command **`Console.WriteLine(…)`** in the example is **offset by 4 white spaces (one tab)**, which is also recommended by **Microsoft**. Also if a given construction with curly brackets is offset by one tab, then **the curly brackets `{}`** must be in **the beginning of the construction**, as in the example below:
+You can see that the command **`Console.WriteLine(…)`** in the example is **offset by 4 white spaces (one tab)**, which is also recommended by **Microsoft**. If given construction with curly brackets is offset by one tab, then **the curly brackets `{}`** must be in **the beginning of the construction**, as in the example below:
 
 ```csharp
 if (someCondition)
@@ -42,7 +42,7 @@ The first thing that we see is **the curly brackets `{}`**. The first (opening) 
 
 The same rule applies for **the `for` loops and all other constructions with curly brackets `{}`**. Here are some more examples:
 
-Correct:
+**Correct**:
 ```csharp
 for (int i = 0; i < 5; i++)
 {
@@ -50,7 +50,7 @@ for (int i = 0; i < 5; i++)
 }
 ```
 
-Wrong:
+**Wrong**:
 ```csharp
 for(int i=0;i<5;i++){
 Console.WriteLine(i);
