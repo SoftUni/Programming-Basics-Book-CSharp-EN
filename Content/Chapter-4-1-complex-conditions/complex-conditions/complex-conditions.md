@@ -18,7 +18,7 @@ else if (!(speed > 30 || animal == "turtle"))
     Console.WriteLine("Slow move")
 ```
 
-We shall explain the logical **AND **\(`||`\), the logical logical **OR **\(`||`\), and the logical **NOT **\(`!`\) in the next few sections, along with examples and exercises:
+We shall explain the logical **AND **\(`||`\), the logical **OR **\(`||`\), and the logical **NOT **\(`!`\) in the next few sections, along with examples and exercises:
 
 * [Logical "AND"](/Content/Chapter-4-1-complex-conditions/complex-conditions/complex-conditions/logical-and.md)
 * [Logical "OR"](/Content/Chapter-4-1-complex-conditions/complex-conditions/complex-conditions/logical-or.md)
@@ -36,6 +36,3 @@ if (x < 0) || ((x >= 5) && (x <= 10)) || (x > 20)
     ...
 }
 ```
-
-
-
