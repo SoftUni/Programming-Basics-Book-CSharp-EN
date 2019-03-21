@@ -22,11 +22,11 @@ Print on the console **n** text rows, depicting **the fort** exactly as in the e
 
 ## Reading the Input Data
 
-We can see from the explanation that **the input data** will be only one line which will contain **an integer** within the range [**3 … 1000**]. Therefore we will use **a variable** of **`int`** type.
+We can see from the explanation that **the input data** will be only one line which will contain **an integer** within the range [**3 … 1000**]. Therefore, we will use **a variable** of **`int`** type.
 
 ![](/assets/chapter-6-2-images/01.Draw-fort-01.png)
 
-After we have declared and initialized the input data we must divide **the fort** into three parts:
+After we have declared and initialized the input data, we must divide **the fort** into three parts:
 * roof
 * body
 * base
@@ -59,7 +59,7 @@ In order to print **the roof**, we will use **`new string`**, which takes two pa
 
 ## Printing the Base of the Fort
 
-In order to draw the last but one row, which is a part of the base, we need to print a beginning **`|`**, middle part **`(white space)_(white space)`** and an end **`|`**. In order to do this we can use the already declared variables **`colSize`** and **`midSize`** again, because we can see from the examples that they are equal to the **`_`** in the roof.
+In order to draw the last but one row, which is a part of the base, we need to print a beginning **`|`**, middle part **`(white space)_(white space)`** and an end **`|`**. In order to do this, we can use the already declared variables **`colSize`** and **`midSize`** again, because we can see from the examples that they are equal to the **`_`** in the roof.
 
 ![](/assets/chapter-6-2-images/01.Draw-fort-06.png)
 
