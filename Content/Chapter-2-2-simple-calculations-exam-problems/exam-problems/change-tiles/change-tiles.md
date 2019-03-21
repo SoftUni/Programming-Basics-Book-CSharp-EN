@@ -8,7 +8,7 @@ Write a program that **reads the size of the ground, the tiles and the bench fro
 
 ## Input Data
 
-**5 numbers** are read from the console: 
+The input data comes as **5 numbers**, which are read from the console: 
 
 * **N – length** of **a side** of **the ground** within the range of [**1 … 100**].
 * **W – width** per **tile** within the range of [**0.1 … 10.00**].
