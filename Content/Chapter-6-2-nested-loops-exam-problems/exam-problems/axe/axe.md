@@ -4,7 +4,7 @@ Write a program that takes **an integer n** and draws an axe with size as shown 
 
 ## Input Data
 
-The input is **an integer `n`** within the range [**2..42**].
+The input is **an integer `n`** within the range [**2...42**].
 
 ## Output Data
 
