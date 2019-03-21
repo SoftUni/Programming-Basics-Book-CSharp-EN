@@ -1,4 +1,4 @@
-# Runtime Environments, Low and High Level Languages
+# Runtime Environments, Low-Level and High-Level Languages
 
 A program, in its essence, is a **sequence of instructions** that make the computer do a certain task. They are being entered by the programmer and **are being executed unconditionally by the machine**.
 
