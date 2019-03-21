@@ -13,7 +13,7 @@ A pool with **volume V** fills up via **two pipes**. **Each pipe has a certain f
 ## Output Data
 
 Print on the console **one of the two possible states**:
-* To what extent the pool has filled up and how many percent each pipe has contributed with. All percents must be formatted to an integer (without rounding).
+* To what extent the pool has filled up and how many percent each pipe has contributed with. All percent values must be formatted to an integer (without rounding).
   * "The pool is **[x]**% full. Pipe 1: **[y]**%. Pipe 2: **[z]**%."
 * If the pool has overflown – with how many liters it has overflown for the given time – a floating-point number. 
   * "For **[x]** hours the pool overflows with **[y]** liters."
