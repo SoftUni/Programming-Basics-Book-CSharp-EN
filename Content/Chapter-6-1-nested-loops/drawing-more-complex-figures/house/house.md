@@ -74,7 +74,7 @@ In this example the division isn't between two integers. "`f`" after a number sh
 
 ### Printing the Roof
 
-After we have calculated the length of the roof we make a loop from 0 to **`roofLength`**. On each iteration we will:
+After we have calculated the length of the roof, we make a loop from 0 to **`roofLength`**. On each iteration we will:
 * Calculate the number of **dashes** we need to draw. The number will be equal to **`(n - stars) / 2`**. We store it in a variable **`padding`**.
 
 ![](/assets/chapter-6-images/09.House-05.png)
