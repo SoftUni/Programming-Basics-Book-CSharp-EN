@@ -45,8 +45,8 @@ var product = a * b; // 35
 
 **Dividing** numbers is done using the `/` operator. It works differently with **integers** and **floating point numbers**.
 
-* When we divide two integers, an **integer division** is applied and the obtained output is without its fractional part. Example: 11 / 3 = 3.
-* When we divide two numbers and at least one of them is a float number, a **floating division** is applied and the obtained result is a float number, just like in math. Example 11 / 4.0 = 2.75.  When it cannot be done with exact precision, the result is being rounded, for example 11.0 / 3 = 3.66666666666667.
+* When we divide two integers, an **integer division** is applied, and the obtained output is without its fractional part. Example: 11 / 3 = 3.
+* When we divide two numbers and at least one of them is a float number, a **floating division** is applied, and the obtained result is a float number, just like in math. Example 11 / 4.0 = 2.75.  When it cannot be done with exact precision, the result is being rounded, for example 11.0 / 3 = 3.66666666666667.
 * The integer **division by 0** causes an **exception** during runtime \(runtime exception\).
 * Float numbers **divided by 0** do not cause an exception and the result is  **+/- infinity** or a special value  **NaN**. Example 5 / 0.0 = ∞.
 

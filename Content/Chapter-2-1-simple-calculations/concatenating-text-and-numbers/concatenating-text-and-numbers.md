@@ -25,7 +25,7 @@ var sum = "The sum is: " + a + b;
 Console.WriteLine(sum);  // The sum is: 1.52.5
 ```
 
-Did you notice **something strange**? Maybe you expected the numbers `a` and  `b` to be summed? Actually the concatenation works from right to left and the result above is absolutely correct. If we want to sum the numbers, we have to use **brackets**, in order to change the order of execution of the operations:
+Did you notice **something strange**? Maybe you expected the numbers `a` and  `b` to be summed? Actually, the concatenation works from right to left and the result above is absolutely correct. If we want to sum the numbers, we have to use **brackets**, in order to change the order of execution of the operations:
 
 ```csharp
 var a = 1.5;
