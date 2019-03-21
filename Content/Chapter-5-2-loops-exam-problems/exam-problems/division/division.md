@@ -71,7 +71,7 @@ Print on the console **3 lines**, each of them containing a percentage between 0
 
 ## Hints and Guidelines
 
-For the current and the next task you will need to write by yourself the program code, following the given guidelines.
+For the current and the next problem you will need to write by yourself the program code, following the given guidelines.
 
 The program that solves the current problem is similar to the one from the **Histogram** problem, which we reviewed earlier. That's why we can start declaring the required variables:
 Sample names of variables may be: **`n`** – count of numbers (that we need to read from the console) and **`divisibleBy2`**, **`divisibleBy3`**, **`divisibleBy4`** – helper variables that keeps the count of the numbers in the corresponding group.
