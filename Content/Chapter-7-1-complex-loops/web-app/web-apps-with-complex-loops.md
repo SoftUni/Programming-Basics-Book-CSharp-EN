@@ -12,7 +12,7 @@ Watch this video lesson to learn how to build an ASP.NET MVC Web application "Fr
 
 ### Fruits Game Explained
 
-Shooting is done by columns, top to bottom or bottom to top, and the location of impact \(the column under fire\) is set by scroll bar. Because of the inaccuracy of the scroller, the player is not quite sure which column they are going to shoot. So every shot has a chance not to hit and this makes the game more interesting \(like the sling in Angry Birds\).
+Shooting is done by columns, top to bottom or bottom to top, and the location of impact \(the column under fire\) is set by scroll bar. Because of the inaccuracy of the scroller, the player is not quite sure which column they are going to shoot. Thus, every shot has a chance not to hit and this makes the game more interesting \(like the sling in Angry Birds\).
 
 Our game should look like this:
 
@@ -32,7 +32,7 @@ Then we choose the type of web app "MVC":
 
 ## Create Controls
 
-Now we will create the controls for the game. The goal is to add **scrolling bars** by which the player is targeting, and a button for starting a **new game**. So we need to edit the file `Views/Home/Index.cshtml`. We delete everything in it and write the code from the picture:
+Now we will create the controls for the game. The goal is to add **scrolling bars** by which the player is targeting, and a button for starting a **new game**. We need to edit the file `Views/Home/Index.cshtml`. We delete everything in it and write the code from the picture:
 
 ![](/assets/chapter-7-images/15.Fruits-05.png)
 
@@ -49,9 +49,9 @@ The main action `Index ()` prepares the game field by recording in the `ViewBag`
 
 ## Generate Random Fruits
 
-We need to generate random fruits. To do this, we need to write a `GenerateRandomFruits()` method with the code from the image below. This code records in the matrix `fruits` names of different images and thus builds the playing field. Each cell of the table records one of the following values: `apple`**,**`banana`**, **`orange`**,**`kiwi`**, **`empty`** or  **`dynamite`. Next, to draw the corresponding image in the view, the text of the table will be merged with `.png` and this will give the name of the picture file that has to be inserted into the HTML page as part of the playing field. Filling in the playing field \(9 columns with 3 rows\) happens in the view `Index.cshtml` with two nested `for` loops \(for row and column\).
+We need to generate random fruits. To do this, we need to write a `GenerateRandomFruits()` method with the code from the image below. This code records in the matrix `fruits` names of different images and thus builds the playing field. Each cell of the table records one of the following values: `apple`**, **`banana`**, **`orange`**, **`kiwi`**, **`empty`** or  **`dynamite`. Next, to draw the corresponding image in the view, the text of the table will be merged with `.png` and this will give the name of the picture file that has to be inserted into the HTML page as part of the playing field. Filling in the playing field \(9 columns with 3 rows\) happens in the view `Index.cshtml` with two nested `for` loops \(for row and column\).
 
-In order to generate random fruit for each cell, a **random number** is generated between 0 and 8 \(see the class `Random` in .NET\). If the number is 0 or 1, we place `apple`, if it is between 2 and 3, we place `banana` and so on. If the number is 8, we place `dynamite`. So the fruits appear twice as often as the dynamite. Here's the code:
+In order to generate random fruit for each cell, a **random number** is generated between 0 and 8 \(see the class `Random` in .NET\). If the number is 0 or 1, we place `apple`, if it is between 2 and 3, we place `banana` and so on. If the number is 8, we place `dynamite`. Obviously, the fruits appear twice as often as the dynamite. Here's the code:
 
 ![](/assets/chapter-7-images/15.Fruits-07.png)
 
