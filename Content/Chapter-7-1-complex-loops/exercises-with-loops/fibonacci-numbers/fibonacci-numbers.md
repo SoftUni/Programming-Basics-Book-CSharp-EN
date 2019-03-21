@@ -17,8 +17,8 @@ Fn = Fn-1 + Fn-2
 | 10 | 89 | F\(11\) = F\(9\) + F\(8\) |
 | 5 | 8 | F\(5\) = F\(4\) + F\(3\) |
 | 20 | 10946 | F\(20\) = F\(19\) + F\(18\) |
-| 0 | 1 |  |
-| 1 | 1 |  |
+| 0 | 1 | By definition |
+| 1 | 1 | By definition |
 
 Enter **an integer** number **n** and calculate the **n-number of Fibonacci**.
 
