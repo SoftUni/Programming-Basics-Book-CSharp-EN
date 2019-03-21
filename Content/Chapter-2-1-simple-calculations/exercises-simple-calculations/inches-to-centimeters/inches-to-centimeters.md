@@ -33,7 +33,7 @@ To switch the mode to **automatically go to current project**, we right-click th
 
 ![](/assets/chapter-2-images/02.Inches-to-centimeters-06.png)
 
-A dialogue window will open and you will have to choose \[**Startup Project**\] -&gt; \[**Current Selection**\]:
+A dialog window will open, and you will have to choose \[**Startup Project**\] -&gt; \[**Current Selection**\]:
 
 ![](/assets/chapter-2-images/02.Inches-to-centimeters-07.png)
 
