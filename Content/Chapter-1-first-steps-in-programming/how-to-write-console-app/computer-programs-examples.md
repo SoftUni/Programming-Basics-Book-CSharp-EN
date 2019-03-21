@@ -27,7 +27,7 @@ for (i = 200; i <= 4000; i += 200)
 }
 ```
 
-In the example above we made the computer play one after another for a very short time \(100 milliseconds\) all of the notes with height 200, 400, 600 etc. Hz until they reach 4000 Hz. The result of the program is playing something like a **melody**.
+In the example above we made the computer play one after another for a very short time \(100 milliseconds\) all the notes with height 200, 400, 600 etc. Hz until they reach 4000 Hz. The result of the program is playing something like a **melody**.
 
 How do iterations \(cycles\) work in programming? We will learn that in the **chapter "**[**Loops**](/Content/Chapter-5-1-loops/overview.md)**"**, but for now just accept that we repeat some command many times.
 
