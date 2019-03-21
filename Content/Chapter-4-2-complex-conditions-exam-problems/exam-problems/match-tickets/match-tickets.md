@@ -37,11 +37,11 @@ The input data is read from the **console** and contains **exactly 3 lines**:
 
 | Input | Output | Explanations |
 | --- | --- | --- |
-|1000<br>Normal<br>1|Yes! You have 0.01 leva left.|**1 person : 75%** of the budget are spent on **transportation**.<br>**Remaining amount:** 1000 – 750 = **250**.<br>Category **Normal**: the ticket **price is 249.99 * 1 = 249.99**<br>249.99 < 250: **the person will have** 250 – 249.99 = **0.01** money left|
+|1000<br>Normal<br>1|Yes! You have 0.01 leva left.|**1 person: 75%** of the budget are spent on **transportation**.<br>**Remaining amount:** 1000 – 750 = **250**.<br>Category **Normal**: the ticket **price is 249.99 \* 1 = 249.99**<br>249.99 < 250: **the person will have** 250 - 249.99 = **0.01** money left|
 
 | Input | Output | Explanations |
 | --- | --- | --- |
-|30000<br>VIP<br>49|Not enough money! You need 6499.51 leva.|**49 persons: 40%** of the budget are spent on **transportation**.<br>Remaining amount: 30000 – 12000 = 18000.<br>Category **VIP**: the ticket **costs** 499.99 * 49.<br>**24499.510000000002** < 18000.<br>**The amount is not enough** 24499.51 - 18000 = **6499.51**|
+|30000<br>VIP<br>49|Not enough money! You need 6499.51 leva.|**49 persons: 40%** of the budget are spent on **transportation**.<br>Remaining amount: 30000 - 12000 = 18000.<br>Category **VIP**: the ticket **costs** 499.99 \* 49.<br>**24499.51** < 18000: **the amount is not enough**, more money needed: 24499.51 - 18000 = **6499.51**|
 
 ## Hints and Guidelines
 
