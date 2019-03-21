@@ -59,7 +59,7 @@ In the end, our loop may look like this:
 
 ![](/assets/chapter-9-images/02.Magic-dates-03.png)
 
-**Note**: we can achieve the same result with a **`for` loop**, the initialization of the date goes to the first part of **`for`**, the condition is preserved and the step is the increase by 1 day.
+**Note**: we can achieve the same result with a **`for` loop**: the **initialization** of the date goes to the first part of **`for`**, the **condition** is preserved and the** step** is the increase by 1 day.
 
 ### Calculating Date Weight
 
@@ -67,7 +67,7 @@ Each date consists of exactly **8 characters (digits)** – **2 for the day** (*
 
 ![](/assets/chapter-9-images/02.Magic-dates-04.png)
 
-Let's also explain one of the more interesting lines here. Let's take the second digit of the year for example (**`d6`**). We divide the year by 100, and we take a remainder of 10. What do we do? First we eliminate the last 2 digits of the year by dividing by 100 (Example: **`2018/100 = 20`**). With the remainder of 10, we take the last digit of the resulting number (**`20 % 10 = 0`**) and so we get 0, which is the second digit of 2018.
+Let's also explain one of the more interesting lines here. Let's take the second digit of the year for example (**`d6`**). We divide the year by 100, and we take a remainder of 10. What do we do? First, we eliminate the last 2 digits of the year by dividing by 100 (Example: **`2018/100 = 20`**). With the remainder of 10, we take the last digit of the resulting number (**`20 % 10 = 0`**) and so we get 0, which is the second digit of 2018.
 
 What remains is to do the calculation that will give us the magical weight of a given date. In order **not to write all multiplications** as shown in the example, we will simply apply a grouping. What we need to do is multiply each digit with those that follow it. Instead of typing **`d1 * d2 + d1 * d3 + … + d1 * d8`**, we can shorten this expression to **`d1 * (d2 + d3 + … + d8)`** for grouping when we have multiplication and summing up. Applying the same simplification for the other multiplications, we get the following formula:
 
