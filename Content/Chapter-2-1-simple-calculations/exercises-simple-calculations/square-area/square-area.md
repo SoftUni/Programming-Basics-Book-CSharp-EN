@@ -12,7 +12,7 @@ We create a **new project** in the existing Visual Studio solution. In the **Sol
 
 ![](/assets/chapter-2-images/01.Square-area-02.png)
 
-We already have a solution with one console application in it. What remains is to write the **code for solving this problem**. For this purpose we go to the main method's body `Main(string[] args)` and write the following code:
+We already have a solution with one console application in it. What remains is to write the **code for solving this problem**. For this purpose, we go to the main method's body `Main(string[] args)` and write the following code:
 
 ![](/assets/chapter-2-images/01.Square-area-03.png)
 
