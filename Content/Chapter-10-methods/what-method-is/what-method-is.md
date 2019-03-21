@@ -40,13 +40,13 @@ static void Main()
 
 So far we determined that methods help with **dividing larger programs into smaller parts**, which leads to **easier solving** of the problem in question. This makes our program not only better structured and easier to read, but more understandable as well.
 
-By using methods we **avoid repeating** code. **Repetition** is **bad** practice, because it **complicates maintaining** the program and leads to errors. If a certain part of our code can be found more than once in the program and we need to change it, the changes must be made in all of the repetitions of the code in question. There is a great probability to miss a spot where correction is needed, which would lead to incorrect behavior of the program. This is the reason why it is a **good practice** to use a certain fragment of code **more than once** in our program, to **define it as a separate method**.
+By using methods, we **avoid repeating** code. **Repetition** is **bad** practice, because it **complicates maintaining** the program and leads to errors. If a certain part of our code can be found more than once in the program and we need to change it, the changes must be made in all of the repetitions of the code in question. There is a great probability to miss a spot where correction is needed, which would lead to incorrect behavior of the program. This is the reason why it is a **good practice** to use a certain fragment of code **more than once** in our program, to **define it as a separate method**.
 
-Methods make it **possible** to use certain **code multiple** times. With solving more and more problems you will find that using already existing methods saves a lot of time and effort.
+Methods make it **possible** to use certain **code multiple** times. With solving more and more problems, you will find that using already existing methods saves a lot of time and effort.
 
 ## Declaring Methods
 
-In C# you can **declare** methods inside a class, i.e. between the opening **`{`** and closing **`}`** brackets of the class. Declaring is registering the method in the program, so that it can be recognized in the rest of it. The best known example is the **`Main(…)`** method, which we use in every program that we write.
+In C# you can **declare** methods inside a class, i.e. between the opening **`{`** and closing **`}`** brackets of the class. Declaring is registering the method in the program, so that it can be recognized in the rest of it. The best-known example is the **`Main(…)`** method, which we use in every program that we write.
 
 ![](/assets/chapter-10-images/02.Declaring-methods-01.png)
 
@@ -59,7 +59,7 @@ With the next example we will look at the mandatory elements in the declaration 
 * **Parameters list**. It is declared between the parentheses **`(`** and **`)`** that we write after its name. This is where we list all the **parameters** that the method will use. There can be **only one** parameter, **multiple** ones or it could be an **empty** list. If there aren't any parameters, we will write only the parentheses **`()`**. In this example we declare the parameter **`double num`**.
 * **`static`** declaration in the method description. For the moment you can accept that we write **`static`** always when we declare a method, and later when we get familiar with object-oriented programming (OOP), we will learn about the difference between **static methods** (shared for the whole class) and **methods of an object**, which work on the data of a certain instance of the class (object).
 
-When declaring methods you must follow the **sequence** of its base elements – first **type of the returned value**, then **method name** and in the end **list of parameters**, surrounded by parentheses **`()`**.
+When declaring methods, you must follow the **sequence** of its base elements – first **type of the returned value**, then **method name** and in the end **list of parameters**, surrounded by parentheses **`()`**.
 
 After we have declared a method, its **implementation (body)** follows. In the body of the method we write down **the algorithm**, by which it solves a problem, i.e. the body contains the code (program block), which applies the method's **logic**. In the shown example we are calculating the area of a square, which is **`num * num`**. 
 
@@ -67,7 +67,7 @@ When declaring a variable in the body of a method, it is called a **local** vari
 
 ## Calling Methods
 
-**Calling** a method means **starting to execute the code**, which is in **the body of the method**. This happens by writing its **name**, followed by parentheses **`()`** and the sign **`;`** to end the line. If the method needs input data, it is given in the parentheses **`()`**, and the succession of the parameters should be the same as the one of the given parameters when declaring the method. Here is an example:
+**Calling** a method means **starting to execute the code**, which is in **the body of the method**. This happens by writing its **name**, followed by parentheses **`()`** and the semicolon sign **`;`** to end the line. If the method needs input data, it is given in the parentheses **`()`**, and the succession of the parameters should be the same as the one of the given parameters when declaring the method. Here is an example:
 
 ![](/assets/chapter-10-images/03.Invoking-methods-01.png)
 
