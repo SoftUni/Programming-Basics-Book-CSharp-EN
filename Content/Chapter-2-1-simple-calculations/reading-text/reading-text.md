@@ -6,7 +6,7 @@ To read a **text** \(string\) from the console, again, we have to **declare a ne
 var str = Console.ReadLine();
 ```
 
-By default the `Console.ReadLine(…)` method returns a **text result** – a text line, read from the console.
+By default, the `Console.ReadLine(…)` method returns a **text result** – a text line, read from the console.
 
 * After you read a text from the console, additionally, you can **parse the text** to an integer by `int.Parse(…)` or a floating-point number by `double.Parse(…)`.
 * If parsing to a number is not done, **each number** will simply be **text**, and we **cannot do** arithmetic operations with it.
