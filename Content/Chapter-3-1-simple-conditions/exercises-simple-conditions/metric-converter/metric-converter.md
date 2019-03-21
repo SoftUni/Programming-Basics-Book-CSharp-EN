@@ -1,6 +1,6 @@
 # Problem: Metric Converter
 
-Write a program that **convert a distance** between the following **8 units of measure**: **`m`, `mm`,` cm`, `mi`, `in`, `km`,` ft `,` yd`**. Use the below table:
+Write a program that **convert a distance** between the following **8 units of measure**: **`m`, `mm`, `cm`, `mi`, `in`, `km`, `ft`, `yd`**. Use the below table:
 
 | Input measure | Output measure |
 | :-------------: | :--------------: |
