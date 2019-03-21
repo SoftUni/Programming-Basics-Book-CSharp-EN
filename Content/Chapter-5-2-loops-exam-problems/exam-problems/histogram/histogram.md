@@ -127,7 +127,7 @@ To make it even clearer, let's take a look at the following example:
 
 In this case **`n = 3`**.
 For the loop we have:
-- **`i = 0`** – we read the number 1, which is less than 200 and falls into the first group (**`p1`**), and increase the group count (**`cntP1`**) by 1.
+- **`i = 0`** – we read the number 1, which is less than 200 and falls into the first group (**`p1`**) and increase the group count (**`cntP1`**) by 1.
 - **`i = 1`** – we read the number 2, which again falls into the first group (**`p1`**) and increase its count (**`cntP1`**) again by 1.
 - **`i = 2`** – we read the number 999, which falls into the last group (**`p5`**), because its bigger than 800, and increase the count of the group (**`cntP5`**) with 1.
    
