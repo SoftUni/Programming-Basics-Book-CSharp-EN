@@ -8,7 +8,7 @@ First, we create a **new C\# console project** with name “Greeting” in the s
 
 ![](/assets/chapter-2-images/03.Greeting-by-name-01.png)
 
-**Next we have to write the code** of the program. If you have any difficulties, you can use the code from the example below:
+Next, **we have to write the code** of the program. If you have any difficulties, you can use the code from the example below:
 
 ![](/assets/chapter-2-images/03.Greeting-by-name-02.png)
 
