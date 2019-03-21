@@ -1,6 +1,6 @@
 # Example: Prime Number Checking
 
-The next problem we are going to solve is to **check whether given number is prime**. An integer is prime if it cannot be decomposed to a product of other numbers. For example 2, 5 and 19 are primes, while 9, 12 and 35 are composite.
+The next problem we are going to solve is to **check whether given number is prime**. An integer is prime if it cannot be decomposed to a product of other numbers. For example: 2, 5 and 19 are primes, while 9, 12 and 35 are composite.
 
 ## Video: Prime Number Checking
 
