@@ -38,7 +38,7 @@ We can **check if an integer is prime** following the definition: check if **n >
 
 The most popular **algorithm** to check if a number **n** is prime is by checking if **n** is divisible by the numbers between 2 and √n.
 
-The **the steps** of the "prime checking algorithm" are given below in bigger detail:
+The **steps** of the "prime checking algorithm" are given below in bigger detail:
    * We create the variable **`n`** to which we assign an integer taken from the console input.
    * We create an **`isPrime`** bool variable with an initial value **`true`**. We assume that a number is prime until proven otherwise.
    * We create a **`for`** loop in which we set an initial value 2 for the loop variable, for condition **the current value `<= √n`**. The loop step is 1.
