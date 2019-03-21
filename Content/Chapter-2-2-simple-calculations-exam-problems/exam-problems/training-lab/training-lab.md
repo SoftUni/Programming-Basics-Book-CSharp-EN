@@ -33,7 +33,7 @@ Try to solve the problem on your own first. If you do not succeed, go through th
 
 As with any programming task, **it is important to build an idea for its solution**, before having started to write code. Let's carefully go through the problem requirements. We have to write a program that calculates the number of working places in a training lab, where the number depends on the hall length and height. We notice that the provided input will be **in meters** and the information about how much space the working places and hallway take, will be **in centimeters**. To do the calculations, we will use the same measuring units, no matter whether we choose to convert length and height into centimeters or the other data in meters. The first option is used for the presented solution.  
 
-Next, we have to calculate **how many columns and how many rows** with desks will fit. We can calculate the columns by **subtracting the width by the necessary space for the hallway (100 cm) and divide the difference by 70 cm** (the length of a working place). We find the rows by **dividing the length by 120 cm**. Both operations can result in **a real number** with whole and fractional part but we have to **store only the whole part in a variable**. In the end, we multiply the number of rows by the number of columns and divide it by 3 (the lost places for entrance door and podium). This is how we calculate the needed value.
+Next, we have to calculate **how many columns and how many rows** with desks will fit. We can calculate the columns by **subtracting the width by the necessary space for the hallway (100 cm) and divide the difference by 70 cm** (the length of a working place). We find the rows by **dividing the length by 120 cm**. Both operations can result in **a real number** with whole and fractional part, but we have to **store only the whole part in a variable**. In the end, we multiply the number of rows by the number of columns and divide it by 3 (the lost places for entrance door and podium). This is how we calculate the needed value.
 
 ### Choosing Data Types
 
@@ -53,7 +53,7 @@ The first thing we have to do is read the input from the console. With **`Consol
 Let's move to the calculations. The special part here is that after having divided the numbers, we have to store only the whole part of the result in a variable. 
 
 <table><tr><td><img src="/assets/alert-icon.png" style="max-width:50px" /></td>
-<td><b>Search in Google!</b> Whenever we have an idea how to solve a particular problem but we do not know how to write it in C# or we are dealing with one that many other people have had before us, the easiest way to solve it is by looking for information on the Internet.</td>
+<td><b>Search in Google!</b> Whenever we have an idea how to solve a particular problem, but we do not know how to write it in C# or we are dealing with one that many other people have had before us, the easiest way to solve it is by looking for information on the Internet.</td>
 </tr></table>
 
 In this case, we can try with the following search: "[***c# get whole number part of double***](https://www.google.com/?q=c%23+get+whole+number+part+of+double)". One possible way is to use the method **`Math.Truncate(…)`** as it works with **`double`** data types. For the number of rows and columns we create variables of the same type.
