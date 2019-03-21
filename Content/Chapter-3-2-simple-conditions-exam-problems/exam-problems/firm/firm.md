@@ -2,7 +2,7 @@
 
 A firm **gets a request for creating a project for which** a certain number of hours **are needed**. The firm has **a certain number of days**. **During 10% of the days, the workers** are being trained and **cannot work** on the project. A normal **working day is 8 hours long**. The project is important for the firm and every worker must work on it with **overtime of 2 hours per day**. 
 
-**The hours** must be **rounded down to the nearest integer** (example -> **6.98 hours** are rounded to **6 hours**).
+**The hours** must be **rounded down to the nearest integer** (for example, **6.98 hours** are rounded to **6 hours**).
 
 Write a program that calculates whether **the firm can finish the project on time** and **how many hours more are needed or left**.
 
@@ -45,7 +45,7 @@ The next step is to calculate **the number of total working hours** by multiplyi
 
 ### Checking the Conditions and Printing Output Data
 
-After having done the calculations that are needed to find the value of **the working hours**, now we have to check whether these hours are **enough or some hours are left**.
+After having done the calculations that are needed to find the value of **the working hours**, now we have to check whether these hours are **enough**,  **or some hours are left**.
 
 If **the time is enough**, we print the result that is specified in the task requirements, which in this case is the difference between **the working hours and the hours needed** for finishing the project. 
 
