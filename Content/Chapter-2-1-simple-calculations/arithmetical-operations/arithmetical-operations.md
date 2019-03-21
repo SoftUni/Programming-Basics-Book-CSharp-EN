@@ -6,7 +6,7 @@ Let's examine the basic **arithmetic operations** in programming. We can add, su
 
 Watch a video lesson about the arithmetic operators: [https://youtu.be/XOtEuEUbA4M](https://youtu.be/XOtEuEUbA4M).
 
-## Summing up Numbers \(Operator +\)
+## Summing up Numbers: Operator +
 
 We can **sum** up numbers using the `+` operator:
 
@@ -16,7 +16,7 @@ var b = 7;
 var sum = a + b; // the result is 12
 ```
 
-### Subtracting Numbers \(Operator -\)
+## Subtracting Numbers: Operator -
 
 **Subtracting** numbers is done using the `-` operator:
 
@@ -31,7 +31,7 @@ Here is the result of the execution of this program \(with numbers 10 and 3\):
 
 ![](/assets/chapter-2-images/00.Subtracting-01.jpg)
 
-## Multiplying Numbers \(Operator \*\)
+## Multiplying Numbers: Operator \*
 
 For **multiplication** of numbers we use the `*` operator:
 
@@ -41,7 +41,7 @@ var b = 7;
 var product = a * b; // 35
 ```
 
-## Dividing Numbers \(Operator /\)
+## Dividing Numbers: Operator /
 
 **Dividing** numbers is done using the `/` operator. It works differently with **integers** and **floating point numbers**.
 
@@ -72,7 +72,7 @@ Console.WriteLine(a / 4);  // Integer result: 6
 Console.WriteLine(a / 0);  // Error: divide by 0
 ```
 
-### Dividing Floating Numbers
+### Dividing Floating-Point Numbers
 
 Let's look at a few examples for **floating division**. When we divide floating point numbers, the result is always a **float number** and the division never fails, and works correctly with the special values **+∞** and **-∞**:
 
@@ -93,6 +93,3 @@ When printing the values  **∞** and **-∞**, the console output may be `?`, b
 -?
 NaN
 ```
-
-
-
