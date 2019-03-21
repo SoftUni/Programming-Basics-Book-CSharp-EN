@@ -55,7 +55,7 @@ Only the final step is left: **calculating the commission fee** and subtracting 
 
 ### Solution
 
-After we have build an idea on how to solve the task and we have chosen the data structures that we are going to use, it is time to get to **writing the code**. As in the previous tasks, we can divide the solution into three smaller tasks:
+After we have built an idea on how to solve the task and we have chosen the data structures that we are going to use, it is time to get to **writing the code**. As in the previous tasks, we can divide the solution into three smaller tasks:
 * **Reading input from the console**.
 * **Doing the calculations**.
 * **Printing the output** on the console.
