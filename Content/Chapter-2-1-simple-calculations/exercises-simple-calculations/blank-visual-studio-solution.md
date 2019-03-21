@@ -2,7 +2,7 @@
 
 We start by creating an empty solution **\(Blank Solution\)** in Visual Studio. The solutions in Visual Studio combine **a group of projects**. This opportunity is **very convenient**, when we want to **work on a few projects** and switch quickly between them or we want to **unite logically a few interconnected projects**.
 
-In the current practical exercise we will use a **Blank Solution with a couple of projects** to organize the solutions of the tasks from the exercises – every task in a separate project and all of them in a common solution.
+In the current practical exercise, we will use a **Blank Solution with a couple of projects** to organize the solutions of the tasks from the exercises – every task in a separate project and all of them in a common solution.
 
 * We start Visual Studio
 * We create a new **Blank Solution:** \[**File**\] -&gt; \[**New**\] -&gt; \[**Project**\].
