@@ -41,7 +41,7 @@ Console.WriteLine(factorial);
 
 Run the above code example: [https://repl.it/@nakov/while-loop-factorial-csharp](https://repl.it/@nakov/while-loop-factorial-csharp).
 
-Another example of loops is the `do-while`** loop**.  It repeats a code block while a conditions holds. For example, we can calculate the minimum number **k**, such that $$2^k$$ &gt; 1,000,000,000, using the code below:
+Another example of loops is the `do-while`** loop**.  It repeats a code block while a condition holds. For example, we can calculate the minimum number **k**, such that $$2^k$$ &gt; 1,000,000,000, using the code below:
 
 ```csharp
 int num = 1, count = 0;
