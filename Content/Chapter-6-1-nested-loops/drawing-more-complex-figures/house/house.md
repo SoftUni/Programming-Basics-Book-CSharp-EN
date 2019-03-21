@@ -83,7 +83,7 @@ After we have calculated the length of the roof, we make a loop from 0 to **`roo
 
 ![](/assets/chapter-6-images/09.House-06.png)
 
-* Before the iteration is over we add 2 to **`stars`** (the number of **the stars**).
+* Before the iteration is over, we add 2 to **`stars`** (the number of **the stars**).
 
 ![](/assets/chapter-6-images/09.House-07.png)
 
