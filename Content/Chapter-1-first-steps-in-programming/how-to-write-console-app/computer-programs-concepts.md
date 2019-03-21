@@ -79,7 +79,7 @@ Let's review some concepts from computer programming: programming languages, com
 
 ### Programming Languages
 
-**A programming language** is an artificial language \(syntax for expression\), meant for **giving commands** that we want the computer to read, process and execute. Through programming languages we write sequences of commands \(**programs**\), which **define what the computer should do**. Examples of programming languages are: C\#, Java, JavaScript, Python, C, C++, PHP, Swift, Go and many others. These languages differ in their philosophy, syntax, purpose, programming constructions and execution environment. The execution of computer programs can be done with **a compiler** or with **an interpreter**.
+**A programming language** is an artificial language \(syntax for expression\), meant for **giving commands** that we want the computer to read, process and execute. Using programming languages, we write sequences of commands \(**programs**\), which **define what the computer should do**. Examples of programming languages are C#, Java, JavaScript, Python, C, C++, PHP, Swift, Go and many others. These languages differ in their philosophy, syntax, purpose, programming constructions and execution environment. The execution of computer programs can be done with **a compiler** or with **an interpreter**.
 
 ### Compilers
 
