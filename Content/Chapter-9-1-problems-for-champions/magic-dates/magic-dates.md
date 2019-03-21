@@ -6,7 +6,7 @@ Our task is to write a program that finds all **the magical dates – dates betw
 
 ## Input Data
 
-Input data should be read from the console. It consist of 3 lines:
+Input data should be read from the console. It consists of 3 lines:
 
    * The first line contains an integer: **start year**.
    * The second line contains an integer: **end year**.
