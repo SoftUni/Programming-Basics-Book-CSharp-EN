@@ -4,7 +4,7 @@ In the **current** chapter, we are going to examine the **nested conditional sta
 
 ## Video: Chapter Overview
 
-Watch this video to see what will you learn in this chapter: [https://youtu.be/qvbVrKXxsu0](https://youtu.be/qvbVrKXxsu0).
+Watch this video to see what you will learn in this chapter: [https://youtu.be/qvbVrKXxsu0](https://youtu.be/qvbVrKXxsu0).
 
 ## Introduction to Complex Conditions by Examples
 
