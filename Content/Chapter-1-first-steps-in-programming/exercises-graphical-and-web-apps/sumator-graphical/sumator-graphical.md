@@ -47,7 +47,7 @@ We try to run the application \[**Ctrl+F5**\]. It should start, but it should **
 
 ## Writing the Program Code
 
-Now it is time to write the code, which **sums the numbers** from the first two fields and **shows the result** in the third field. For this purpose we double click **the \[Calculate\] button**. The place, in which we write what is going to happen by clicking the button will be shown:
+Now it is time to write the code, which **sums the numbers** from the first two fields and **shows the result** in the third field. For this purpose, we double click **the \[Calculate\] button**. The place, in which we write what is going to happen by clicking the button will be shown:
 
 ![](/assets/chapter-1-images/07.Numbers-sum-08.png)
 
