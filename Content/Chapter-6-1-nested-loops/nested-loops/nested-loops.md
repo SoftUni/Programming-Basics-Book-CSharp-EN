@@ -1,6 +1,6 @@
 # Nested Loops – Concepts
 
-Nested loops is a construction where **in the body of one loop** \(outer one\) **another loop is run** \(inner one\). In each iteration of the outer loop, **the whole** inner loop is executed. This happens in the following way:
+A **nested loop** is a construction where **in the body of one loop** (outer one) **stays another loop** (inner one). In each iteration of the outer loop, **the whole** inner loop is executed. This happens in the following way:
 
 * When nested loops start executing, **the outer loop starts** first: the controlling variable is **initialized** and after a check for ending the loop the code in its body is executed.
 * After that, **the inner loop is executed**. The controlling variables start position is initialized, a check for ending the loop is made and the code in its body is executed.
@@ -22,4 +22,3 @@ If we enter `5` as input on the console, the above sample code will print the fo
 ![](/assets/chapter-6-images/00.Nested-loops-output.png)
 
 Let's look at the example above. After initializing **the first \(outer\) loop**, its **body**, which contains **the second \(nested\) loop** starts executing. By itself it prints on one row `n` number of stars. After **the inner** loop **finishes** executing at the first iteration of the outer one, **the first loop will continue**, i.e. it will print an empty row on the console. **After that**, the variable of **the first** loop will be **renewed** and the whole **second** loop will be executed again. The inner loop will execute as many times as the body of the outer loop executes, in this case `n` times.
-
