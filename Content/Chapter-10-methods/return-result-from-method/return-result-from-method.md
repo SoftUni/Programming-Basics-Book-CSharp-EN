@@ -4,7 +4,7 @@ We already examined methods that do a specific task, for example printing some t
 
 ## Types of Returned Values
 
-Up until now we saw some examples, in which when declaring methods we used the keyword **`void`**, which shows that the method **does not** return a result, but just executes a certain action.
+Up until now we saw some examples, in which when declaring methods, we used the keyword **`void`**, which shows that the method **does not** return a result, but just executes a certain action.
 
 ![](/assets/chapter-10-images/10.Return-types-01.png)
 
@@ -16,7 +16,7 @@ If we **replace** **`void`** by **a type** of some variable, this will tell the 
 
 ![](/assets/chapter-10-images/10.Return-types-02.png)
 
-We should note that **the result** returned by the method can be of **a type, compatible with the type of the returned value** of the method. For example if the declared type of the returned value is **`double`**, we can return a value of **`int`** type.
+We should note that **the result** returned by the method can be of **a type, compatible with the type of the returned value** of the method. For example, if the declared type of the returned value is **`double`**, we can return a value of **`int`** type.
 
 ## The "Return" Operator
 
@@ -50,7 +50,7 @@ After the **`return`** operator, there **should not** be any more lines of code 
 
 After a method is executed and returns a value, this value can be used in **multiple** ways.
 
-The first one is to **to assign the result as a value of a variable** of a compatible type:
+The first one is **to assign the result as a value of a variable** of a compatible type:
 
 ![](/assets/chapter-10-images/12.Return-value-01.png)
 
