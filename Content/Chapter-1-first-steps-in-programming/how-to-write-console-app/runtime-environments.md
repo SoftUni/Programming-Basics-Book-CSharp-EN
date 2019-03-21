@@ -16,9 +16,9 @@ There are different kinds of **programming languages**. Via languages of the low
 
 **Low level languages** manage the hardware directly and require a lot of effort and a large count of commands to do a single task. **Languages of higher level** require less code for a single task, but do not have a direct access to hardware. Application software is developed using such languages, for example web applications and mobile applications.
 
-The majority of software that we use daily, like a music player, a video player, a GPS program, etc., is written with **languages for application programming** that are high level, like C\#, Java, Python, C++, JavaScript, PHP and others.
+Most of the software that we use daily, like a music players, video players, GPS programs, etc., are written with **languages for application programming** that are high-level, like C#, Java, Python, C++, JavaScript, PHP and others.
 
-**C\# is a compiled language**, which means that we write commands that are being compiled before they're being executed. Exactly these commands, through a help program \(a compiler\), are being transformed into a file, which can be executed \(executable\). To write a language like **C\#** we need a text editor or a development environment and **.NET Runtime Environment** \(like .NET Core\).
+**C# is a compiled language**, which means that we write commands that are being compiled before they're being executed. Exactly these commands, through a help program \(a compiler\), are being transformed into a file, which can be executed \(executable\). To write a language like **C\#** we need a text editor or a development environment and **.NET Runtime Environment** \(like .NET Core\).
 
 ## **.NET Runtime Environment**
 
