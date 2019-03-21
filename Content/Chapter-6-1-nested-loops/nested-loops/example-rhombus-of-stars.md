@@ -16,7 +16,7 @@ Watch this video lesson to learn how to print a rhombus of stars on the console 
 
 ## Hints and Guidelines
 
-To solve this problem we need to mentally **divide** **the rhombus** into **two parts** – **upper** one, which **also** includes the middle row, and **lower** one. For **the printing** of each part we will use **two** separate loops, as we leave the reader to decide the dependency between **`n`** and the variables of the loops. For the first loop we can use the following guidelines:
+To solve this problem, we need to mentally **divide** **the rhombus** into **two parts** – **upper** one, which **also** includes the middle row, and **lower** one. For **the printing** of each part we will use **two** separate loops, as we leave the reader to decide the dependency between **`n`** and the variables of the loops. For the first loop we can use the following guidelines:
 
 * We print **`n-row`** white spaces.
 * We print **`*`**.

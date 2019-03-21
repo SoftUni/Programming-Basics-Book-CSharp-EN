@@ -24,7 +24,7 @@ When drawing the upper and lower rows we need to print **`2 * n`** stars, **`n`*
 
 ## Printing the Middle Rows
 
-When drawing **the middle** part we need to **check** if the row is **`(n-1) / 2 - 1`**, because in the examples we can see that in **this row** we need to print **pipes** instead of white spaces.
+When drawing **the middle** part, we need to **check** if the row is **`(n-1) / 2 - 1`**, because in the examples we can see that in **this row** we need to print **pipes** instead of white spaces.
 
 ![](/assets/chapter-6-images/08.Sunglasses-02.png)
 
