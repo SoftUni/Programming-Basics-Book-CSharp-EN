@@ -72,7 +72,7 @@ We have to catch the following **events** to write the C# code that will be exec
 *	The event **`Load`** of the form **`FormPointAndRectangle`** (it is called upon starting the application, before the main form is shown on the display).
 *	The event **`Resize`** of the form **`FormPointAndRectangle`** (it is called upon changing the size of the main form).
 
-All of the above mentioned events will execute the same action – **`Draw()`**, which will visualize the rectangle and the point and show whether it's inside, outside or onto one of the sides. The code must look like this: 
+All of the above-mentioned events will execute the same action – **`Draw()`**, which will visualize the rectangle and the point and show whether it's inside, outside or onto one of the sides. The code must look like this: 
 
 ```csharp
 private void buttonDraw_Click(object sender, EventArgs e)
