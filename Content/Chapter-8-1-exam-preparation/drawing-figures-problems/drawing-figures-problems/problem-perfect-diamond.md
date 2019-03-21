@@ -30,7 +30,7 @@ The diamond should be printed on the console as in the examples below.
 
 ## Hints and Guidelines
 
-In tasks for drawing figures, the most important thing to consider is **the sequence** in which we will draw. Which items are **repeated** and with what **steps**. We can clearly see that **the top and bottom** parts of the diamond are the **same**. The easiest way to solve the problem is by creating **a loop** that draws the **upper part**, and then another **one loop** that draws the **bottom part** (opposite to the top one).
+In tasks for drawing figures, the most important thing to consider is **the sequence** in which we will draw. Which items are **repeated** and with what **steps**? We can clearly see that **the top and bottom** parts of the diamond are the **same**. The easiest way to solve the problem is by creating **a loop** that draws the **upper part**, and then another **one loop** that draws the **bottom part** (opposite to the top one).
 
 ## Reading the Input Data
 
