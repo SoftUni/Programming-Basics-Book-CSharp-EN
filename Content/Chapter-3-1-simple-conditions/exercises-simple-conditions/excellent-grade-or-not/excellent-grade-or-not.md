@@ -13,7 +13,7 @@ The next exercise from this topic is to write a **console program** that **input
 
 ## Creating a New C# Project and Writing the Program Code
 
-First we create **a new C# console project** in the **Simple-Conditions** solution.
+First, we create **a new C# console project** in the **Simple-Conditions** solution.
 
   * We click on the solution in Solution Explorer and choose [**Add**] -> [**New Project**].
  
