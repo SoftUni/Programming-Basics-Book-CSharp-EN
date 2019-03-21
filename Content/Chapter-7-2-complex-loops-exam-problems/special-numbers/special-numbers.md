@@ -29,7 +29,7 @@ Print on the console **all special numbers**, separated by **space**.
 
 ## Hints and Guidelines
 
-Solve the problem by yourself using what you learned from the previous two problems. Keep in mind the difference between operators for **integer division ( __/__ )** and **division with reminder ( __%__ )** in C#.
+Solve the problem by yourself using what you learned from the previous two problems. Keep in mind the difference between operators for **integer division `/`** and **division with reminder `%`** in C#.
 
 ## Testing in the Judge System
 
