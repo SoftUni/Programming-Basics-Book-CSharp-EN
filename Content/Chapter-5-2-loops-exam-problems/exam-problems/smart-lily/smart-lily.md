@@ -36,14 +36,14 @@ Print on the console one single line:
 <td valign="top"><p><strong>For the first birthday</strong> she gets <strong>a toy</strong>; <strong>2nd</strong> -> <strong>10 lv</strong>; 3rd -> toy; <strong>4th</strong>  -> 10 + 10 = <strong>20 lv.</strong>; 5th -> toy; <strong>6th</strong> -> 20 + 10 = <strong>30 lv</strong>; 7th -> toy; <strong>8th</strong> -> 30 + 10 = <strong>40 lv</strong>; 9th -> toy; <strong>10th</strong> -> 40 + 10 = <strong>50 lv</strong>.<br>
 <strong>She has saved</strong> -> 10 + 20 + 30 + 40 + 50 = <strong>150 lv</strong>. She sold <strong>5 toys for 6 lv each = 30 lv</strong>.<br>
 <strong>Her brother took 1 lv 5 times = 5 lv</strong>. <strong>Remaining amount</strong> -> 150 + 30 – 5 = <strong>175 lv</strong>.
-<strong>175 &gt;= 170</strong> (price of the washing machine) <strong>she managed</strong> to buy it and is <strong>left</strong> with 175-170 = <strong>5 lv</strong>.
+<strong>175 &gt;= 170</strong> (price of the washing machine): <strong>she managed</strong> to buy it and is <strong>left</strong> with 175-170 = <strong>5 lv</strong>.
 </p></td>
 </tr>
 <tr>
 <td valign="top">21<br>1570.98<br>3</td>
 <td valign="top">No! 997.98</td>
-<td valign="top"><p><strong>She has saved 550 lv </strong>. <strong>She has sold</strong>  <strong>11 toys</strong> <strong>3 lv each</strong> = <strong>33 lv</strong>. Her brother <strong> has taken for 10 years 1 lv each year</strong> = <strong>10 lv</strong>. <strong>Remaining amount</strong> 550 + 33 – 10 = <strong>573 lv.</strong> <br>
-<strong>573 &lt; 1570.98</strong> – <strong>She did not manage to</strong> buy a washing machine. <strong>The insufficiency amount is</strong> 1570.98–573 = <strong>997.98 lv.</strong></p></td>
+<td valign="top"><p><strong>She has saved 550 lv. </strong> She has sold <strong>11 toys,</strong> <strong>3 lv each</strong> = <strong>33 lv</strong>. Her brother <strong> has taken for 10 years 1 lv each year</strong> = <strong>10 lv</strong>. <strong>Remaining amount</strong> 550 + 33 - 10 = <strong>573 lv.</strong> <br>
+<strong>573 &lt; 1570.98</strong>: <strong>she did not manage to</strong> buy a washing machine. <strong>The insufficiency amount is</strong> 1570.98 - 573 = <strong>997.98 lv.</strong></p></td>
 </tr>
 </tbody>
 </table>    
