@@ -9,7 +9,7 @@ Write a program that **inputs two words** and checks if they are the same. Do no
 | Hello<br>Hello | yes |
 | SoftUni<br>softuni | yes |
 | Soft<br>Uni | no |
-| beer<br>vodka | no |
+| banana<br>lemon | no |
 | HeLlO<br>hELLo | yes |
 
 ## Hints and Guidelines
