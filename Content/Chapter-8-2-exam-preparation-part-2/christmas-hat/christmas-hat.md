@@ -38,7 +38,7 @@ To **draw** the **dynamic** or the variable part of the figure, we will use a **
 
 <code>.......\*\*\*.......</code><br><code>......\*-\*-\*......</code><br><code>.....\*--\*--\*.....</code><br><code>....\*---\*---\*....</code><br><code>...\*----\*----\*...</code><br><code>..\*-----\*-----\*..</code><br><code>.\*------\*------\*.</code><br><code>\*-------\*-------\*</code>
 
-What remains is to execute the body of the loop, as **after each** drawing we **decrease** the number of dots by **1**, and **increase the number of dashes** by **1**. Let's not forget to draw one **star** between each of them.
+What remains is to execute the body of the loop, as **after each** drawing we **decrease** the number of dots by **1** and **increase the number of dashes** by **1**. Let's not forget to draw one **star** between each of them.
 The sequence of drawing in the body of the loop is the following:
 
 * Symbol string of dots
