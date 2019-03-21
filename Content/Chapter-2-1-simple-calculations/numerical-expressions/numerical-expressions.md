@@ -39,7 +39,7 @@ Test your solution here : [https://judge.softuni.org/Contests/Practice/Index/504
 
 ## Example: Circle Area and Perimeter
 
-Let's write a program that calculates **a circle area and perimeter** by reading its **radius r** .
+Let's write a program that calculates **a circle area and perimeter** by reading its **radius r**.
 
 Formulas:
 
@@ -109,6 +109,3 @@ var date = new DateTime(2017, 6, 14);
 var dateAfter5days = date.AddDays(5); // 14-Jun-17
 Console.WriteLine(dateAfter5days); // 19-Jun-17 00:00:00
 ```
-
-
-

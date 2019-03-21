@@ -33,6 +33,3 @@ var b = 2.5;
 var sum = "The sum is: " + (a + b);
 Console.WriteLine(sum);  // The sum is: 4
 ```
-
-
-
