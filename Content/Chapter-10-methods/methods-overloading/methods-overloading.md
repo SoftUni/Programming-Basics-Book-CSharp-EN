@@ -22,7 +22,7 @@ As we mentioned, if you use **the same name for several methods with different s
 
 It is important to say that **the returned type as a result** of the method **is not a part of its signature**. If the returned type was a part of the signature, then the compiler doesn't know which method exactly to call.
 
-Let's look at the following example – we have two methods with different return types. Despite that, Visual Studio shows that there is a mistake, because both of their signatures are the same. Therefore when trying to call a method named **`Print(…)`**, the compiler can't know which of the two methods to run.
+Let's look at the following example – we have two methods with different return types. Despite that, Visual Studio shows that there is a mistake, because both of their signatures are the same. Therefore, when trying to call a method named **`Print(…)`**, the compiler can't know which of the two methods to run.
 
 ![](/assets/chapter-10-images/17.Method-overloading-02.png)
 
@@ -46,7 +46,7 @@ Following the logic of the previous method we create another one with the same n
 
 ![](/assets/chapter-10-images/18.Greater-of-two-values-02.png)
 
-The next method we need to create will compare strings. The logic here is a bit different from the previous two methods because variables of **`string`** type can not be compared with the operators **`<`** and **`>`**. We will use the method **`CompareTo(…)`**, which returns a numerical value: larger than 0 (the compared object is larger), smaller than 0 (the compared object is smaller) and 0 (the two objects are the same).
+The next method we need to create will compare strings. The logic here is a bit different from the previous two methods because variables of **`string`** type cannot be compared with the operators **`<`** and **`>`**. We will use the method **`CompareTo(…)`**, which returns a numerical value: larger than 0 (the compared object is larger), smaller than 0 (the compared object is smaller) and 0 (the two objects are the same).
 
 ![](/assets/chapter-10-images/18.Greater-of-two-values-03.png)
 
