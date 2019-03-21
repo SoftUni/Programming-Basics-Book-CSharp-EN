@@ -70,7 +70,7 @@ int result = 3 / 2; // result 1
 
 If we want to round up, we need to use the method **`Math.Ceiling(…)`**:
 **`int result = (int)Math.Ceiling(3 / 2f);`**
-In this example the division isn't between two integers. "`f`" after a number shows that this number is of **`float`** type (a floating point number). The result of **`3 / 2f`** is **`1.5f`**. **`Math.Ceiling(…)`** rounds the division up. In this case **`1.5f`** will become 2. **`(int)`** is used so that we can transfer the type back to **`int`**.
+In this example the division isn't between two integers. "`f`" after a number shows that this number is of **`float`** type (a floating-point number). The result of **`3 / 2f`** is **`1.5f`**. **`Math.Ceiling(…)`** rounds the division up. In this case **`1.5f`** will become 2. **`(int)`** is used so that we can transfer the type back to **`int`**.
 
 ### Printing the Roof
 
