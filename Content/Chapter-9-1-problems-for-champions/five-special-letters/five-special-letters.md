@@ -20,7 +20,7 @@ weight(c1c2…cn) = 1 * weight(c1) + 2 * weight(c2) + … + n * weight(cn)
 
 **For example**, the weight of **`bcddc`** is calculated as follows:
 
-First **we remove the repeating letters** and get **`bcd`**. Then we apply the formula: **`1 * weight('b') + 2 * weight('c') + 3 * weight('d') = 1 * (-12) + 2 * 47 + 3 * 7 = 103`**.
+First, **we remove the repeating letters** and get **`bcd`**. Then we apply the formula: **`1 * weight('b') + 2 * weight('c') + 3 * weight('d') = 1 * (-12) + 2 * 47 + 3 * 7 = 103`**.
 
 **Another example**: ** **`weight("cadae") = weight("cade") = 1 * 47 + 2 * 5 + 3 * 7 + 4 * (-32) = -50`**.
 
@@ -70,7 +70,7 @@ We have several main points in the problem – **generating all combinations** w
 
 ### Generating All Combinations
 
-In order to generate **all combinations with length of 1** using 5 symbols, we would use a **loop from 0..4**, as we want each number of the loop to match one character. In order to generate **any combinations of length 2** using 5 characters (i.e. "aa", "ab", "ac", …, "ba", …), we would create **two nested loops each running through the digits from 0 to 4**, as we will once again make sure that each digit matches a specific character. We will repeat this step 5 times, so we will finally have 5 nested loops with indexes **`i1`**, **`i2`**, **`i3`**, **`i4`** and **`i5`**.
+In order to generate **all combinations with length of 1** using 5 symbols, we would use a **loop from 0 to 4**, as we want each number of the loop to match one character. In order to generate **any combinations of length 2** using 5 characters (i.e. "aa", "ab", "ac", …, "ba", …), we would create **two nested loops each running through the digits from 0 to 4**, as we will once again make sure that each digit matches a specific character. We will repeat this step 5 times, so we will finally have 5 nested loops with indexes **`i1`**, **`i2`**, **`i3`**, **`i4`** and **`i5`**.
 
 ![](/assets/chapter-9-images/03.Five-special-letters-02.png)
 
@@ -82,7 +82,7 @@ and **for each digit we take the letter from the particular position.** This way
 
 ![](/assets/chapter-9-images/03.Five-special-letters-04.png)
 
-**Another way:** we can convert the digits to letters by using their arrangement in the ASCII table. The expression 'a' + i will give us the result 'a' in case i = 0, 'b' in case i = 1, 'c' in case i = 2, etc.
+**Another way:** we can convert the digits to letters by using their arrangement in the ASCII table. The expression `'a' + i` return the result '**a**' in case **i** = 0, '**b**' in case **i** = 1, '**c**' in case **i** = 2, etc.
 
 This way we already have generated all 5-letter combinations and can proceed with the following part of the task.
 
@@ -90,7 +90,7 @@ This way we already have generated all 5-letter combinations and can proceed wit
 
 ### Removing Repetitive Letters
 
-Once we have the finished string, we have to remove all the repeating symbols. We will do this by adding **the letters from left to right in a new string and each time before adding a letter, we will check if it already exists** – if it does, we will skip it and if it is doesn't, we will add it. To begin with, we will add the first letter to the starting string.
+Once we have the finished string, we have to remove all the repeating symbols. We will do this by adding **the letters from left to right in a new string and each time before adding a letter, we will check if it already exists** – if it does, we will skip it and if it doesn't, we will add it. To begin with, we will add the first letter to the starting string.
 
 ![](/assets/chapter-9-images/03.Five-special-letters-05.png)
 
