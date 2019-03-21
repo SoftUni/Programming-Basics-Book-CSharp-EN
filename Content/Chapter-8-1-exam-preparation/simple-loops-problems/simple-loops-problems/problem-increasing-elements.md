@@ -12,7 +12,7 @@ A series of **n** numbers is given: **a1**, **a2**, **…**, **an**. Calculate *
 
 ## Input
 
-The input data is read from the console. The first line holds an integer **n** (**0 ≤ n ≤ 1000**). On the following **n** lines we read **n** integers in the range [**-1000 … 1000**]: **a1**, **a2**, **…**, **an**.
+The input data is read from the console. The first line holds an integer **n** (**0 ≤ n ≤ 1000**). On the following **n** lines we are given **n** integers in the range [**-1000 … 1000**]: **a1**, **a2**, **…**, **an**.
 
 ## Output
 
