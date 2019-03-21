@@ -1,6 +1,6 @@
 # Problem: Max Number
 
-Write a program that enters **n integers** (**n** > 0) and finds **the max number** among them (the largest number). The first line of the input, specifies the number of integers **n**. The next **n** lines holds the integers, one per line. Examples:
+Write a program that enters **n integers** (**n** > 0) and finds **the max number** among them (the largest number). The first line of the input, specifies the number of integers **n**. The next **n** lines hold the integers, one per line. Examples:
 
 ## Sample Input and Output
 
