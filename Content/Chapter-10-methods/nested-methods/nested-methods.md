@@ -14,7 +14,7 @@ Local functions can be declared inside every other method. When the C# compiler 
 
 With time and practice you will see that when you are writing code, you often need **methods that you only need once**, or the method you need gets very long. We said earlier that when a method contains too many lines of code it becomes hard to read and maintain.
 
-This is where local functions come in handy – they help us **declare a new method in another one** we already have, and it will be used only once. This helps making our code better ordered and **easier to read**, which helps for faster correction if there is an error in the code, and limits the possibility for mistakes when making changes in the program logic.
+This is where local functions come in handy – they help us **declare a new method in another one** we already have, and it will be used only once. This helps making our code better ordered and **easier to read**, which helps for faster correction if there is an error in the code and limits the possibility for mistakes when making changes in the program logic.
 
 ## Declaring Local Functions
 
