@@ -12,7 +12,7 @@ Watch the video about the for-loop statement: https://youtu.be/yzEamf5L1ZY.
 
 ## Syntax: For-Loop
 
-Upon declaring the loop you can specify a **start value** and an **end value**. **The body of the loop** is usually enclosed in curly brackets `{ }` and represents a block of one or multiple commands. The figure below shows the structure of a `for`** loop**:
+Upon declaring the loop, you can specify a **start value** and an **end value**. **The body of the loop** is usually enclosed in curly brackets `{ }` and represents a block of one or multiple commands. The figure below shows the structure of a `for`** loop**:
 
 ![](/assets/chapter-5-images/00.For-loop-02.png)
 

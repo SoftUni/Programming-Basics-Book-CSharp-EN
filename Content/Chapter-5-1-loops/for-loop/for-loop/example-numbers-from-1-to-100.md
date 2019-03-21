@@ -8,7 +8,7 @@ Watch the video lesson to learn how to print the numbers from 1 to 100 using a f
 
 ## Hints and Guidelines
 
-We can solve the problem using a `for`** loop** , via which we will pass through the numbers from 1 to 100 using the `i` variable, and print the numbers in the body of the loop:
+We can solve the problem using a `for`** loop**, via which we will pass through the numbers from 1 to 100 using the `i` variable, and print the numbers in the body of the loop:
 
 ![](/assets/chapter-5-images/01.Numbers-1-to-100-01.png)
 
