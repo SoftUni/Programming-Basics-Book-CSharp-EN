@@ -46,7 +46,7 @@ Typically, as for the other tasks, we can separate the solution into the followi
 
 ### Processing the Input Data
 
-While reading carefully the requirements, we understand that we expect **two** lines of input data. The first parameter is a **real number**, for which we need to pick an appropriate variable type. For higher level of calculation accuracy we can pick **`decimal`** as a variable for the budget and – **`string`** for the season. 
+While reading carefully the requirements, we understand that we expect **two** lines of input data. The first parameter is a **real number**, for which we need to pick an appropriate variable type. For higher level of calculation accuracy, we can pick **`decimal`** as a variable for the budget and – **`string`** for the season. 
 
 ![](/assets/chapter-4-2-images/02.Trip-01.png)
 
@@ -66,7 +66,7 @@ Similarly to the example in the previous task, we can initialize variables with 
 
 When examining once again the problem requirements, we notice that the main distribution of where the vacation will take place is determined by the **value of the budget**, i.e. our main logic is divided into two cases: 
 * If the budget is **less than** a particular value.
-* If it is **less than** another value, or is **more than** the specified border value. 
+* If it is **less than** another value or is **more than** the specified border value. 
 
 Based on the way we arrange the logical scheme (the order in which we will check the border values), we will have more or less conditions in the solution. **Why?**
 
@@ -82,7 +82,7 @@ Similarly to the example in the previous task, we can initialize variables with 
 
 When examining once again the problem requirements, we notice that the main distribution of where the vacation will take place is determined by the **value of the budget**, i.e. our main logic is divided into two cases: 
 * If the budget is **less than** a particular value.
-* If it is **less than** another value, or is **more than** the specified border value. 
+* If it is **less than** another value or is **more than** the specified border value. 
 
 Based on the way we arrange the logical scheme (the order in which we will check the border values), we will have more or less conditions in the solution. **Why?**
 
