@@ -1,6 +1,6 @@
 # Problem: \*\* Date Calculations – 1000 Days on the Earth
 
-Write a program that enters **a birth date** in format `dd-MM-yyyy` and calculates the date on which **1000 days** are turned since this birth date, and prints it in the same format.
+Write a program that enters **a birth date** in format `dd-MM-yyyy` and calculates the date on which **1000 days** are turned since this birth date and prints it in the same format.
 
 ## Sample Input and Output
 
