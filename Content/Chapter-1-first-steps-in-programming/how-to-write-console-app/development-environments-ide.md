@@ -16,7 +16,7 @@ We begin with the installation of the integrated environment **Microsoft Visual 
 
 The **Community** version of Visual Studio \(VS\) is distributed freely by Microsoft and can be downloaded from: [https://www.visualstudio.com/vs/community](https://www.visualstudio.com/vs/community). The installation is typical for Windows with \[**Next**\], \[**Next**\] and \[**Finish**\], but it's important to include the components for "**desktop development**" and "**ASP.NET**". It is not necessary to change the rest of the settings for the installation.
 
-The next lines describe in details **the steps for the installation of Visual Studio** \(version Community 2017\). After we download the installation file and start it, the following screen appears:
+The next lines describe in detail **the steps for the installation of Visual Studio** \(version Community 2017\). After we download the installation file and start it, the following screen appears:
 
 ![](/assets/chapter-1-images/00.visual-studio-1.png)
 
