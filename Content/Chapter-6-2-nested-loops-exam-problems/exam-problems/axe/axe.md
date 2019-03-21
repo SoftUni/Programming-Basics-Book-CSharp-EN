@@ -22,15 +22,15 @@ Print **an axe** on the console just as shown in the examples.
 
 ## Hints and Guidelines
 
-In order to solve the problem we first need to calculate **the dashes in the left**, **the middle dashes**, **the dashes in the right** and the whole length of the figure.
+In order to solve the problem, we first need to calculate **the dashes in the left**, **the middle dashes**, **the dashes in the right** and the whole length of the figure.
 
 ![](/assets/chapter-6-2-images/05.Axe-01.png)
 
-After we have declared and initialized **the variables**, we can begin drawing the figure by starting with **the upper part**. We can see from the examples what the structure of **the first row** is and we can create a loop, which runs **`n`** times. At each iteration of the loop **the middle dashes** increase by 1, and **the right dashes** decrease by 1.
+After we have declared and initialized **the variables**, we can begin drawing the figure by starting with **the upper part**. We can see from the examples what the structure of **the first row** is, and we can create a loop, which runs **`n`** times. At each iteration of the loop **the middle dashes** increase by 1, and **the right dashes** decrease by 1.
 
 ![](/assets/chapter-6-2-images/05.Axe-02.png)
 
-In order to use again **the variables** we created, in order to draw the handle of the axe, we need to decrease **the middle dashes** by 1, and we need to increase **the left dashes** by 1.
+In order to use again **the variables** that we created in order to draw the handle of the axe, we need to decrease **the middle dashes** by 1, and we need to increase **the left dashes** by 1.
 
 ![](/assets/chapter-6-2-images/05.Axe-03.png)
 
