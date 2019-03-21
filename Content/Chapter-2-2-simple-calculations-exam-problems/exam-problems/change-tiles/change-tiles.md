@@ -4,7 +4,7 @@
 
 Write a program that **reads the size of the ground, the tiles and the bench from the console**, and calculates how many tiles are needed to cover the ground and what is **the total time for replacing the tiles**. 
 
-**Example: ground with size 20 m.** has **area of 400 sq.m.**. **A bench** that is **1 m.** wide and **2 m.** long, has area of **2 sq.m.**. **One tile** is **5 m. wide, 4 m. long** and has **area of 20 sq.m.**. The space that needs to be covered is **400 – 2 = 398 sq.m.**. **398 / 20 = 19.90 tiles** are necessary. The **time** needed is **19.90 * 0.2 = 3.98 minutes.******
+**Example: ground with size 20 m** has **area of 400 m<sup>2</sup>**. **A bench** that is **1 m** wide and **2 m** long, has area of **2 m<sup>2</sup>**. **One tile** is **5 m wide** and **4 m long** and has **area of 20 m<sup>2</sup>**. The space that needs to be covered is **400 - 2 = 398 m<sup>2</sup>**. **398 / 20 = 19.90 tiles** are necessary. The **time** needed is **19.90 * 0.2 = 3.98 minutes.**
 
 ## Input Data
 
