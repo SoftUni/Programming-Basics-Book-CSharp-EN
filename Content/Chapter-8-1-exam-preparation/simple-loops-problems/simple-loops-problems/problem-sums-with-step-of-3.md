@@ -8,14 +8,14 @@ Watch the video lesson about solving the "Sums with Step of 3" problem: https://
 
 ## Problem Description
 
-There are **n** integers **a1, a2, …, an** given. Calculate the sums:
+We are given **n** integers: **a1, a2, …, an**. Calculate the sums:
  - **sum1 = a1 + a4 + a7** + … (the numbers are summed, starting from the first one with step of 3).
  - **sum2 = a2 + a5 + a8** + … (the numbers are summed, starting from the second one with step of 3).
  - **sum3 = a3 + a6 + a9** + … (the numbers are summed, starting from the third one with step of 3).
 
 ## Input
 
-The input data is read from the console. The first line holds an integer **n (0 ≤ n ≤ 1000)**. On the next **n** lines we read **n** integers in the range [**-1000 … 1000**]: **a1, a2, …, an**.
+The input data is read from the console. The first line holds an integer **n (0 ≤ n ≤ 1000)**. On the next **n** lines we are given **n** integers in the range [**-1000 … 1000**]: **a1, a2, …, an**.
 
 ## Output
 

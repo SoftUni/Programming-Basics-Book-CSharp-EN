@@ -50,7 +50,7 @@ We check if **the day** has not exceeded the number of days in the **month**. If
 
 ![](/assets/chapter-8-1-images/05.Date-after-5-days-04.png)
 
-After we have passed to the **next month**, this should be noted by increasing the initial one by 1. We need to check if it has not become greater than 12 and if it has, to adjust it. Because we can not skip more than **one month** when we increase by 5 days, the following check is enough.
+After we have passed to the **next month**, this should be noted by increasing the initial one by 1. We need to check if it has not become greater than 12 and if it has, to adjust it. Because we cannot skip more than **one month** when we increase by 5 days, the following check is enough.
 
 ![](/assets/chapter-8-1-images/05.Date-after-5-days-05.png)
 
