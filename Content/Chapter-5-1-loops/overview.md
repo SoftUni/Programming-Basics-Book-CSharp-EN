@@ -1,6 +1,6 @@
 # Chapter 5.1. Loops \(Repetitions\)
 
-In the present chapter we will get familiar how to **repeat blocks of commands**, also known in software development as "**loops**". We will write a number of **simple loops** using the `for` operator in its simplest form \(for i = 1...n\). Finally, we will solve series of practical problems that require repeating of series of actions, using loops.
+In the present chapter we will get familiar how to **repeat blocks of commands**, also known in software development as "**loops**". We will write a number of **simple loops** using the `for` operator in its simplest form (`for i = 1 … n`). Finally, we will solve series of practical problems that require repeating of series of actions, using loops.
 
 ## Video: Chapter Overview
 

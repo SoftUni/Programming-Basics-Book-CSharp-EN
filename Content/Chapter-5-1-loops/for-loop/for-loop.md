@@ -1,6 +1,6 @@
 # For Loops \(Repeating Code Blocks\)
 
-In programming it is often required **to perform a block of commands multiple times**. In order to do that, the so called **loops** are used. Let's examine an example of a `for`** loop** that passes sequentially through the numbers from 1 to 10 and prints them:
+In programming it is often required **to perform a block of commands multiple times**. In order to do that, the so-called **loops** are used. Let's examine an example of a `for`** loop** that passes sequentially through the numbers from 1 to 10 and prints them:
 
 ![](/assets/chapter-5-images/00.For-loop-01.png)
 
