@@ -8,7 +8,7 @@ Watch a video lesson about runtime environments and programming languages here: 
 
 ## Runtime Environments
 
-**Runtime environments** are needed by some languages to execute the compiled programs. For example, the compiled **C\#** programs are executed by the **.NET Core** runtime environment and the compiled **Java** programs are executed by **Java JRE** runtime environment. Other languages do not need compilation, but still require a runtime environment. For example the **Python** programs are executed by the **Python interpreter** and runtime environment and the **JavaScript** programs are executed by the **Node.js** runtime environment or by a **Web browser** \(which provides another JS runtime environment\).
+**Runtime environments** are needed by some languages to execute the compiled programs. For example, the compiled **C\#** programs are executed by the **.NET Core** runtime environment and the compiled **Java** programs are executed by **Java JRE** runtime environment. Other languages do not need compilation, but still require a runtime environment. For example, the **Python** programs are executed by the **Python interpreter** and runtime environment and the **JavaScript** programs are executed by the **Node.js** runtime environment or by a **Web browser** \(which provides another JS runtime environment\).
 
 ## Programming Languages: Low-Level and High-Level
 
