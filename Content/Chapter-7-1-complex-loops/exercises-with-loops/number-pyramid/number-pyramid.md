@@ -25,7 +25,7 @@ We can solve the problem with **two nested loops** (by rows and columns) with pr
       * **We print** the number **`num`** in the current cell of the table and **increase it by 1**.
       * We are checking for **`num > n`**. If **`num`** is greater than **`n`**, **we interrupt** the running of **the inner loop**.
    * We print **a blank line** to move to the next one.
-   * Again we check if **`num > n`**. If it is greater, **we interrupt our program** by **`break`**.
+   * Again, we check if **`num > n`**. If it is greater, **we interrupt our program** by **`break`**.
 
 ## Implementation of the Idea
 
