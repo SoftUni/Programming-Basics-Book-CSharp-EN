@@ -38,7 +38,7 @@ Print on the console **all magic numbers**, separated by **space**.
 
 In the previous chapter we reviewed other loop constructions. Let's look at the sample solution of the same problem using the **`while`** loop.
 
-First we need to store the **input magical number** in a suitable variable. Then we will initialize 6 variables – one for each of the six digits of **the searched numbers**. 
+First, we need to store the **input magical number** in a suitable variable. Then we will initialize 6 variables – one for each of the six digits of **the searched numbers**. 
 
 ![](/assets/chapter-7-exam-preparation-images/02.magic-numbers-2.png)
 
@@ -56,7 +56,7 @@ Then we will start writing **`while`** loops.
 
 ### Infinite While Loop
 
-Let's remove the **`if`** check from the innermost loop. Now, let's initialize each variable outside of the loops and delete the rows **`dx = 0`**. After we run the program we only get 10 results. Why? What if you use **`do-while`**? In this case this loop does not look appropriate, does it?Think why. Of course, you can solve the problem using an **infinite loop**.
+Let's remove the **`if`** check from the innermost loop. Now, let's initialize each variable outside of the loops and delete the rows **`dx = 0`**. After we run the program, we only get 10 results. Why? What if you use **`do-while`**? In this case this loop does not look appropriate, does it?Think why. Of course, you can solve the problem using an **infinite loop**.
 
 ![](/assets/chapter-7-exam-preparation-images/02.magic-numbers-4.png)
 
