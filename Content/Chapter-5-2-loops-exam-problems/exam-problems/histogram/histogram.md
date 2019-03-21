@@ -135,7 +135,7 @@ After reading the numbers in group **`p1`** we have 2 numbers, and in **`p5`** w
 
 ### Printing the Output
   
-We only have to print the results output. The description says that the percentages must be with **precision of two points after the decimal point**. To achieve this, write “:f2”: after the placeholder:
+We only have to print the results output. The description says that the percentages must be with **precision of two points after the decimal point**. To achieve this, write `:f2` after the placeholder:
 
 ![](/assets/chapter-5-2-images/01.Histogram-06.png)
 
