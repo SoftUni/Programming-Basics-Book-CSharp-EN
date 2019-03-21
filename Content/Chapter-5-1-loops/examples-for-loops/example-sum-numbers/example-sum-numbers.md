@@ -24,7 +24,7 @@ Watch this video to learn how to sum numbers in for-loop: https://youtu.be/t7PAi
 We can solve the problem with summing up numbers in the following way:
 - We read the input number **`n`**.
 - We initially start with a sum **`sum = 0`**.
-- We run a loop from 1 to **`n`**. On each step of the loop, we read the a number **`num`** and add it to the sum **`sum`**.
+- We run a loop from 1 to **`n`**. On each step of the loop, we read the number **`num`** and add it to the sum **`sum`**.
 - Finally, we print the calculated amount **`sum`**.
 
 Below is the source code for the solution:
