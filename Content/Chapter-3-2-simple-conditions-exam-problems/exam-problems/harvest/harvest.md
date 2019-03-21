@@ -1,16 +1,16 @@
 # Problem: Harvest
 
-In a **vineyard with area X square meters**, **40% of the harvest goes for wine production**. **Y kilograms of grapes** are extracted from **1 sq.m. vineyard**. **2,5 kg of grapes** are needed for **1 liter of wine**. **The wanted quantity of wine** for sale is **Z liters**. 
+In a **vineyard with area X square meters**, **40% of the harvest goes for wine production**. **Y kilograms of grapes** are extracted from **1 $$m^2$$ vineyard**. **2,5 kg of grapes** are needed for **1 liter of wine**. **The wanted quantity of wine** for sale is **Z liters**. 
 
 Write **a program** that **calculates how much wine can be produced** and **whether** that quantity **is enough**. **If it is enough, the rest is divided between the vineyard workers equally**. 
 
 ## Input Data
 
 The input data is read from the console and consists of **exactly 4 lines**: 
-* First line: **X sq.m is the vineyard – an integer in the range of** [**10 … 5000**].
-* Second line: **Y grapes for one sq.m. – an integer in the range of** [**0.00 … 10.00**].
-* Third line: **Z needed liters of wine – an integer in the range of** [**10 … 600**].
-* Fourth line: **number of workers – an integer in the range of** [**1 … 20**].
+* First line: **X $$m^2$$ – the vineyard size** – an integer in the range of [**10 … 5000**].
+* Second line: **Y grapes for one $$m^2$$** – an integer in the range of [**0.00 … 10.00**].
+* Third line: **Z needed liters of wine** – an integer in the range of [**10 … 600**].
+* Fourth line: **number of workers** – an integer in the range of [**1 … 20**].
 
 ## Output Data
 
@@ -34,11 +34,13 @@ The following has to be printed on the console:
 
 In order to solve the problem, we will read the input data. Then, we will write a few conditional statements and do some calculations. Finally, we will print the result.
 
-### Processing the Input Data and Doing the Calculations
+### Processing the Input Data
 
-First we have to **check** what **the input data** will be, so that we can choose what **variables** we will use. 
+First, we have to **check** what **the input data** will be, so that we can choose what **variables** we will use. 
 
 ![](/assets/chapter-3-2-images/04.Harvest-01.png)
+
+### Performing the Calculations
 
 To solve the problem, based on **the input data**, we have to **calculate** how many **liters of wine** will be produced. From the task requirements, we see that in order to **calculate** the quantity of **wine in liters**, we firstly have to find **the quantity of grapes in kilograms**, which will be get from the harvest. For that, we will **declare** a **variable** that keeps a **value**, equal to **40%** of the result from the **multiplication** of the vineyard area by the quantity of grapes, which is extracted from 1 sq. m.
 
