@@ -1,4 +1,4 @@
-# Reading Floating Point Numbers From the Console
+# Reading Floating Point Numbers from the Console
 
 To read a **floating-point number** \(fractional number, non-integer\) from the console use the following command:
 
