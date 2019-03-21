@@ -87,7 +87,7 @@ Then we check if the count of the patients for the day (**`currentPatients`**) i
  
 If the count of patients **is not greater**, increase only the variable **`treatedPatients`** with the count of patients for the day (**`currentPatients`**).
 
-Finally we need to print the count of treated and count of untreated patients.
+Finally, we need to print the count of treated and count of untreated patients.
 
 ## Testing in the Judge System
 
