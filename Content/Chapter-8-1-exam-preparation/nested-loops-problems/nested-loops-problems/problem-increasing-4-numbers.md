@@ -8,7 +8,7 @@ Watch the video lesson about solving the "Increasing 4 Numbers" problem: https:/
 
 ## Problem Description
 
-For a pair of numbers **a** and **b** generate all four number **n1, n2, n3, n4,** for which **a ≤ n1 < n2 < n3 < n4 ≤ b**.
+For given pair of numbers **a** and **b** generate all four number **n1, n2, n3, n4,** for which **a ≤ n1 < n2 < n3 < n4 ≤ b**.
 
 In combinatorics such a selection of subset from given set (or range) is called "[**combination**](https://en.wikipedia.org/wiki/Combination)", so the problem is essence is to **generate all combinations of 4 elements from given range of integers**.
 
