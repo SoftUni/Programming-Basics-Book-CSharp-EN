@@ -37,7 +37,7 @@ Here is how our program should look like in Visual Studio:
 
 ![](/assets/chapter-1-images/01.Hello-csharp-04.png)
 
-The command `Console.WriteLine("Hello C#")` in the C\# language means to execute printing \(`WriteLine(…)`\) on the console \(`Console`\) and to print the text message `Hello C#`, which we have to surround by quotation marks, in order to clarify that this is a text. In the end of each command in the C\# language the symbol `;` is being put and it says that the command ends in that place \(it doesn't continue on the next line\).
+The command `Console.WriteLine("Hello C#")` in the C\# language means to execute printing \(`WriteLine(…)`\) on the console \(`Console`\) and to print the text message `Hello C#`, which we should surround by quotation marks, in order to clarify that this is a text. In the end of each command in the C\# language the symbol `;` is being put and it says that the command ends in that place \(it doesn't continue on the next line\).
 
 This command is very typical in programming: we say a given **object** should be found \(in this case the console\) and some **action** should be executed upon it \(in this case it is printing something that is given inside the brackets\). More technically explained, we call the method `WriteLine(…)` from the class `Console` and give as a parameter to it a text literal `"Hello C#"`.
 
@@ -74,7 +74,7 @@ In the table with the sent solutions the judge system is going to show one of th
 * **Points count** \(between 0 and 100\), when the submitted code is compiled successfully \(there are no syntax errors\) and can be tested.
   * When the **solution is correct** all of the tests are marked in green and we get **100 points**.
   * When the **solution is incorrect** some of the tests are marked in red and we get incomplete or 0 points.
-* When the program is incorrect we will get **an error message** upon compiling.
+* When the program is incorrect, we will get **an error message** upon compiling.
 
 ### How to Register in SoftUni Judge?
 
