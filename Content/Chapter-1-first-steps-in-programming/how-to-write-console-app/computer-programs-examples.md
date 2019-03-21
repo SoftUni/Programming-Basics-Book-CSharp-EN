@@ -33,7 +33,7 @@ How do iterations \(cycles\) work in programming? We will learn that in the **ch
 
 ## Example: A Program That Converts USD to EUR
 
-Let's take a look at another simple program that reads from the user some **amount** of money in U.S. Dollars \(USD\), an integer, converts it into **Euro** \(EUR\) by **dividing it** by the Euro's rate and **prints** the obtained result. This is a program of 3 consecutive commands:
+Let's look at another simple program that reads from the user some **amount** of money in U.S. Dollars \(USD\), an integer, converts it into **Euro** \(EUR\) by **dividing it** by the Euro's rate and **prints** the obtained result. This is a program of 3 consecutive commands:
 
 ```csharp
 var dollars = int.Parse(Console.ReadLine());
