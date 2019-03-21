@@ -22,7 +22,7 @@ The `try-catch` construction in C\# has different forms, but for now we will use
 
 ![](/assets/chapter-7-images/00.Try...catch-01.png)
 
-We have a piece of code \(sequence of commands\) inside the `try` block. If this code **runs normally** \(without errors\), all the commands in the `try` blocks are executed. If some of the commands in the `try` block **throw and exception** \(in case of an error\), the code execution is stopped and the `catch` block is executed. In this case we say that we **catch** and **handle** the error \(exception\).
+We have a piece of code \(sequence of commands\) inside the `try` block. If this code **runs normally** \(without errors\), all the commands in the `try` blocks are executed. If some of the commands in the `try` block **throw and exception** \(in case of an error\), the code execution is stopped, and the `catch` block is executed. In this case we say that we **catch** and **handle** the error \(exception\).
 
 In the next task, we will see how to handle a situation where a user enters a non-numeric input \(for example, a `string` instead of an `int`\) by `try-catch`.
 
@@ -53,11 +53,10 @@ The solution should **work in all cases**: whether we are entering integer numbe
 The above program logic will repeat in an infinite loop the process of **entering a value until a valid even integer is entered**.
 
 * The `int.Parse()` method will **throw an exception** in case of an invalid integer. 
-* In case of a valid integer, the program will check if it is even. In this case a "_success_" message is shown and the **loop is stopped** using `break`. 
-* In case of an odd integer, an **error message** is shown and the **loop repeats again**. 
-* In case of an exception \(error during the number parsing\), an **error message** is shown and the **loop repeats again**.
+* In case of a valid integer, the program will check if it is even. In this case a "_success_" message is shown, and the **loop is stopped** using `break`. 
+* In case of an odd integer, an **error message** is shown, and the **loop repeats again**. 
+* In case of an exception \(error during the number parsing\), an **error message** is shown, and the **loop repeats again**.
 
 ### Testing in the Judge System
 
 Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/514\#12](https://judge.softuni.org/Contests/Practice/Index/514#12).
-
