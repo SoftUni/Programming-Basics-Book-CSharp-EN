@@ -25,7 +25,7 @@ Now we have a solution with one console application in it. What remains is to wr
 
 ## Writing the Program Code
 
-For this purpose we go into the body of the **`Main (string [] args)`** method and write the following code:
+For this purpose, we go into the body of the **`Main (string [] args)`** method and write the following code:
 
 ![](/assets/chapter-3-images/09.Excellent-result-03.png)
 
