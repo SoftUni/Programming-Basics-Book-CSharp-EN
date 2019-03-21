@@ -1,6 +1,6 @@
 # Problem: Stop Number
 
-Write a program that prints on the console all numbers from **N** to **M**, that are **divisible by 2** and **3 without reminder **, in **reversed order**. We will read one more "stop" number from the console – **S**. If any of the numbers divisible by 2 and 3 **is equal to the stop number, it should not be printed** and the program should end. **Otherwise print all numbers up to N**, that meet the condition.
+Write a program that prints on the console all numbers from **N** to **M**, that are **divisible by 2** and **3 without reminder**, in **reversed order**. We will read one more "stop" number from the console – **S**. If any of the numbers divisible by 2 and 3 **is equal to the stop number, it should not be printed**, and the program should end. **Otherwise print all numbers up to N**, that meet the condition.
 
 ## Input Data
 
@@ -37,13 +37,13 @@ The problem can be divided into **four** logical parts:
 
 **First** part is ordinary – we read **three** integer numbers from the console, so we will use **`int`**.
 
-We have already seen examples of the **second** part – initialization of the **`for`** loop. It is a bit **tricky** – the explanation mentions that the numbers have to be printed in **reversed order**. This means that the **initial** value of the variable **`i`** will be **bigger**, and from the examples we can see that it is **M**. So the **final** value of **`i`** should be **N**. The fact that we will print the results in reversed order and the values of **`i`**, suggests that the step would be **decreased by 1**.
+We have already seen examples of the **second** part – initialization of the **`for`** loop. It is a bit **tricky** – the explanation mentions that the numbers have to be printed in **reversed order**. This means that the **initial** value of the variable **`i`** will be **bigger**, and from the examples we can see that it is **M**. Thus, the **final** value of **`i`** should be **N**. The fact that we will print the results in reversed order and the values of **`i`**, suggests that the step would be **decreased by 1**.
 
 ![](/assets/chapter-7-exam-preparation-images/04.stop-number-1.png)
 
 After we have initialized the **`for`** loop, it is time for the **third** part of the problem – **checking** the condition if the given **number is divisible both by 2 and 3 without reminder**. We will do this using one simple **`if`** condition that we will leave to the reader to do by themselves.
 
-Another **tricky** part of this problem is that apart from the above check we need to do **another** one – whether the **number is equal to the "stop" number** entered from the console on the third line. To do this check, the previous one has to be passed. For this reason we will add another **`if`** statement that we will **nest in the previous one**. If the condition is **true**, we need to stop the program from printing. We can do this using a **`break`** operator, and it will lead us **out** of the **`for`** loop.
+Another **tricky** part of this problem is that apart from the above check we need to do **another** one – whether the **number is equal to the "stop" number** entered from the console on the third line. To do this check, the previous one has to be passed. For this reason, we will add another **`if`** statement that we will **nest in the previous one**. If the condition is **true**, we need to stop the program from printing. We can do this using a **`break`** operator, and it will lead us **out** of the **`for`** loop.
  
 If the **condition** that checks whether the number is equal with "stop" number returns a **`false`** result, our program should **continue to print**. This covers the **fourth and last** part of our program.
 
