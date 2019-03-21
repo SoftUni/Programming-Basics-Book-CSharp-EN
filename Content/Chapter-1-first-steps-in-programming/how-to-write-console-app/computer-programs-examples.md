@@ -47,5 +47,4 @@ We examined **three examples of computer programs**: a single command, series of
 
 ## How to Write a Console Application?
 
-As a next step, let's pass through **the steps of creating and executing a computer program** that reads and writes its data from and on the **text console** \(a window for entering and printing text\). These programs are called "**console programs**". But before that, we have to **install and prepare the development environment**, in which we are going to write and run the C\# programs from this book and the exercises in it.
-
+As a next step, let's pass through **the steps of creating and executing a computer program** that reads and writes its data from and on the **text console** \(a window for entering and printing text\). These programs are called "**console programs**". But before that, we should **install and prepare the development environment**, in which we are going to write and run the C\# programs from this book and the exercises in it.
