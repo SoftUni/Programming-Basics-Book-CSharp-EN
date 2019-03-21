@@ -25,7 +25,7 @@ Test your solution here:
 
 Write a program that reads from the console **two integers** and prints **the larger** of them. Print "**Greater number: **" + **the bigger number**.
 
-The **input** somes as two numbers, each on a separate line. Sample input:
+The **input** comes as two numbers, each on a separate line. Sample input:
 
 ```
 3
