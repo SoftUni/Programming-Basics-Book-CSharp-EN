@@ -51,4 +51,3 @@ Circle area = 4.90873852123405
 ```
 
 Let's explain in greater detail how to use the **console**, how to **enter numbers** and text and how to perform simple **calculations** and **format and print text** and expressions on the console in C\#.
-
