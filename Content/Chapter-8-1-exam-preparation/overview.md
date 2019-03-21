@@ -5,4 +5,3 @@ In **the present chapter** we will examine a few **problems** with a level of **
 ## Video: Chapter Overview
 
 Watch a video about what shall you learn in this chapter: [https://youtu.be/t0eqL0SzIR4](https://youtu.be/t0eqL0SzIR4).
-

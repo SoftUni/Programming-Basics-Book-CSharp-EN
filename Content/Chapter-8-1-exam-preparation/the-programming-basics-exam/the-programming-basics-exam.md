@@ -9,8 +9,6 @@ The course **"Programming Basics"** finishes with a **practical exam**. There ar
 * Problem with **nested loops** \(e.g. drawing a 2D figure on the console\)
 * Problem with **nested loops** and **more complex logic** \(loops and checks together\)
 
-
-
 ## Video: The Practical Exam Explained
 
 Watch this video to learn more about the practical exam, the problems, the evaluation and the automated judge system: [https://youtu.be/KPFk980HWhw](https://youtu.be/KPFk980HWhw).

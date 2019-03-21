@@ -3,7 +3,7 @@
 Write a program that reads from the console 1 integer within the range [**100 … 999**], and then prints it a predefined number of times – modifying it before each print, as follows:
 - If the number is divisible by **5** without reminder, **subtract** from it **its first digit**.
 - If the number is divisible by **3** without reminder, **subtract** from it **its second digit**
-- If none of the above mentioned conditions is valid, **add** to it **its third digit**.
+- If none of the above-mentioned conditions is valid, **add** to it **its third digit**.
 
 Print on the console **N lines**, and each line has **M numbers**, that are result of the above actions.
 - N = sum of the first and second digit of the number.
@@ -15,7 +15,7 @@ The input is read from the **console** and is an integer within the range  [**10
 
 ## Output Data
 
-Print on the console **all integer numbers**, result of the above mentioned calculations in the respective number of rows and columns as in the examples. 
+Print on the console **all integer numbers**, result of the above-mentioned calculations in the respective number of rows and columns as in the examples. 
 
 ## Sample Input and Output
 
