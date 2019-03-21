@@ -1,6 +1,6 @@
 # Recommended Resources for Developers
 
-A **huge amount of resources** are available on the Web for developers: online trainings, courses, tutorials, books, interactive training sites, etc.
+A **huge amount of resources** is available on the Web for developers: online trainings, courses, tutorials, books, interactive training sites, etc.
 
 We can not mention all of them, because they change over the time and because the list might be huge. What we recommend is to **join the developer communities** in your region, because this will help you a lot when you study.
 
