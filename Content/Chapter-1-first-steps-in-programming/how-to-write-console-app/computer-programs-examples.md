@@ -14,7 +14,7 @@ Our **first program** is going to be a single **C\# command** that **plays the m
 Console.Beep(432, 500);
 ```
 
-In a short time we will find out how we can execute this command and hear the sound of the note, but for now let's just look at what the commands in programming represent. Let's get to know a couple more examples.
+A bit later we will find out how we can execute this command and hear the sound of the note, but for now let's just look at what the commands in programming represent. Let's get to know a couple more examples.
 
 ## Example: A Program That Plays a Sequence of Musical Notes
 
