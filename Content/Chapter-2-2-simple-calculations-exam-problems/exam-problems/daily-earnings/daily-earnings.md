@@ -1,6 +1,8 @@
 # Problem: Daily Earnings
 
-Ivan is a programmer in an **American company** and he **works** at home **approximately N days per month** by earning **approximately M dollars per day**. At the end of the year, Ivan **gets a bonus**, which **equals 2.5 of his monthly salaries. 25% of his annual salary goes for taxes**. Write a program that calculates **what is the amount of Ivan's net average earnings in leva per day**, as he spends them in Bulgaria. It is accepted that **one year has exactly 365 days. The exchange rate of dollar** to lev will be **read from the console**. 
+Ivan is a programmer in an **American company**, and he **works** at home **approximately N days per month** by earning **approximately M dollars per day**. At the end of the year, Ivan **gets a bonus**, which **equals 2.5 of his monthly salaries**. In addition, **25% of his annual salary goes for taxes**.
+
+Write a program that calculates **what is the amount of Ivan's net average earnings in leva per day**, as he spends them in Bulgaria. It is accepted that **one year has exactly 365 days. The exchange rate of dollar** to lev will be **read from the console**. 
 
 ## Input Data
 
