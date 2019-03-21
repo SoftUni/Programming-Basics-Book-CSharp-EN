@@ -22,11 +22,11 @@ Print on the console text lines, which depict **the warning sign STOP**, as in t
 
 ## Hints and Guidelines
 
-We can see from the explanation that **the input data** will come from only one line which contains **an integer** within the range [**3 … 1000**]. Therefore we will use **a variable** of **`int`** type.
+We can see from the explanation that **the input data** will come from only one line which contains **an integer** within the range [**3 … 1000**]. Therefore, we will use **a variable** of **`int`** type.
 
 ![](/assets/chapter-6-2-images/03.Stop-01.png)
 
-We can **divide** the figure into **3 parts** – upper, middle and lower. **The upper part** contains two sub-parts – first row and rows in which the sign widens. **The first row** is made of a beginning **`.`**, middle part **`_`** and an end **`.`**. After looking at the examples we can say that the beginning is **`n + 1`** columns wide so it is good to write this **value** in a separate **variable**.
+We can **divide** the figure into **3 parts** – upper, middle and lower. **The upper part** contains two sub-parts – first row and rows in which the sign widens. **The first row** is made of a beginning **`.`**, middle part **`_`** and an end **`.`**. After looking at the examples we can say that the beginning is **`n + 1`** columns wide, so it is good to write this **value** in a separate **variable**.
 
 ![](/assets/chapter-6-2-images/03.Stop-02.png)
 		
@@ -34,7 +34,7 @@ We must also create a second **variable**, in which we will keep **the value** o
 
 ![](/assets/chapter-6-2-images/03.Stop-03.png)
 		
-After we have declared and initialized the two variables we can print the first row on the console.
+After we have declared and initialized the two variables, we can print the first row on the console.
 
 ![](/assets/chapter-6-2-images/03.Stop-04.png)
 
@@ -54,7 +54,7 @@ In each following iteration **the beginning** and **the end** decrease by 1, and
 
 ![](/assets/chapter-6-2-images/03.Stop-07.png)
 		
-**The lower part** of the figure, in which the width of the sign **decreases**, can be done by creating another **loop**, which runs **`n`** times. The structure of a row is – a beginning **`.`** + **`\\`**, middle part **`_`** and an end **`//`** + **`.`**. The number of **the dots** in the first iteration should be 0 and in each following one it **increases** by one. Therefore we can say that the size of **the dots in the lower part of the figure** equals **`i`**.
+**The lower part** of the figure, in which the width of the sign **decreases**, can be done by creating another **loop**, which runs **`n`** times. The structure of a row is – a beginning **`.`** + **`\\`**, middle part **`_`** and an end **`//`** + **`.`**. The number of **the dots** in the first iteration should be 0 and in each following one it **increases** by one. Therefore, we can say that the size of **the dots in the lower part of the figure** equals **`i`**.
 
 ![](/assets/chapter-6-2-images/03.Stop-08.png)
 		
