@@ -14,7 +14,7 @@ Watch a video lesson about how to read floating-point numbers: [https://youtu.be
 
 ## Example: Converting Inches into Centimeters
 
-Let's write a program that reads a floating point number in inches and converts it to centimeters:
+Let's write a program that reads a floating-point number in inches and converts it to centimeters:
 
 ```csharp
 Console.Write("Inches = ");              
