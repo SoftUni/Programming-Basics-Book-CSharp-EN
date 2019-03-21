@@ -64,7 +64,7 @@ We do the necessary calculations:
 
 ![](/assets/chapter-2-2-images/02.Vegetable-market-02.png)
 
-The task does not specify special output format, therefore, we just have to calculate the requested value and print it on the console. As in mathematics and so in programming, division has a priority over addition. However, in this task, first we have to **calculate the sum** of the two input values and then **divide by 1.94**. In order to give priority to addition, we can use brackets. With `Console.WriteLine(…)` we print the output on the console.
+The task does not specify special output format. Therefore, we just have to calculate the requested value and print it on the console. As in mathematics and so in programming, division has a priority over addition. However, in this task, first we have to **calculate the sum** of the two input values and then **divide by 1.94**. In order to give priority to addition, we can use brackets. With `Console.WriteLine(…)` we print the output on the console.
 
 ![](/assets/chapter-2-2-images/02.Vegetable-market-03.png)
 
