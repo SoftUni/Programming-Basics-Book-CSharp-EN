@@ -1,6 +1,6 @@
 # Debugging – Simple Operations with Debugger
 
-So far we wrote a lot of code, and there were some mistakes in it, right? Now we will show a tool that can help us find mistakes more easily: the **debugger**.
+So far, we wrote a lot of code, and there were some mistakes in it, right? Now we will show a tool that can help us find mistakes more easily: the **debugger**.
 
 ## Video: Debugging Code in Visual Studio
 

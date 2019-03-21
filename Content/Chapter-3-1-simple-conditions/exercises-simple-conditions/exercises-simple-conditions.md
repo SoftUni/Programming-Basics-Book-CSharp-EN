@@ -25,7 +25,7 @@ if (a > 5)
 }
 ```
 
-* The **if-else construction** executes one of two blocks depending of whether a condition is true or false:
+* The **if-else construction** executes one of two blocks depending on whether a condition is true or false:
 
 ```csharp
 if (a > 5)
