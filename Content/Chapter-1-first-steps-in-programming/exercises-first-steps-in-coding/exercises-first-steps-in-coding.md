@@ -8,7 +8,7 @@ Watch the following video to summarize what we learned in this chapter: https://
 
 ## What We Learned in This Chapter?
 
-First we have learned **what is programming** – **giving commands, written in a computer language**, which the machine understands and is able to execute. We understood what is **a computer program** – it represents a **sequence of commands**, arranged one after another. We got familiar with **the language for programming C\#** on a base level and how **to create simple console applications** with Visual Studio. We followed **the structure of the programming code in the C\# language**, as for example, the fact that commands are mainly given in the section `static void Main(string[] args)` between **the opening and closing curly parentheses**. We saw how to print with `Console.WriteLine(…)` and how to start our program with \[**Ctrl + F5**\]. We learned how to test our code in **SoftUni Judge**.
+First, we have learned **what is programming** – **giving commands, written in a computer language**, which the machine understands and is able to execute. We understood what **a computer program** is – it represents a **sequence of commands**, arranged one after another. We got familiar with **the language for programming C\#** on a base level and how **to create simple console applications** with Visual Studio. We followed **the structure of the programming code in the C\# language**, as for example, the fact that commands are mainly given in the section `static void Main(string[] args)` between **the opening and closing curly parentheses**. We saw how to print with `Console.WriteLine(…)` and how to start our program with \[**Ctrl + F5**\]. We learned how to test our code in **SoftUni Judge**.
 
 ## The Exercises
 
