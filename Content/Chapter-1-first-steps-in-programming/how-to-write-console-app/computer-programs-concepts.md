@@ -61,7 +61,7 @@ Area = 25
 
 We shall **explain in detail how to write programs in C\#**, why we need to define a **class** and why we need to define a **method** `Main()` a bit later. Now, assume that the C\# language requires all the above code in order to execute a sequence of command.
 
-In order to write commands, we have to know **the syntax and the semantics of the language** which we are working with, in our case – **C\#**. This is why we are going to get familiar with the syntax and the semantics of the language C\#, and with programming generally, in the current book, by learning step by step code writing from the simpler to the more complex programming constructions.
+In order to write commands, we should know **the syntax and the semantics of the language** which we are working with, in our case – **C\#**. Therefore, we are going to get familiar with the syntax and the semantics of the language C\#, and with programming generally, in the current book, by learning step by step code writing from the simpler to the more complex programming constructions.
 
 ## Algorithms
 
