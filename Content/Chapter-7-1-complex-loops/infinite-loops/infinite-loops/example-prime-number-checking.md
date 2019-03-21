@@ -24,14 +24,14 @@ Here are some examples of **composite numbers**:
 * **42** = 2 \* 3 \* 7
 * **143** = 13 \* 11
 
-Positive integers, greater than 1, can be either **prime** or **composite** (product of primes). Numbers like 0 and 1 are not prime, but are also not composite.
+Positive integers, greater than 1, can be either **prime** or **composite** (product of primes). Numbers like **0** and **1** are not prime, but are also not composite.
 
 We can **check if an integer is prime** following the definition: check if **n > 1** and **n** is divisible by **2**, **3**,  …, **n-1** without reminder.
    * If it is divisible by any of the numbers, it is **composite**.
    * If it is not divisible by any of the numbers, then it is **prime**.
 
 <table><tr><td><img src="/assets/alert-icon.png" style="max-width:50px" /></td>
-<td>We can optimize the algorithm instead of checking it to <code><strong>n-1</strong></code>, to check divisors to <code><strong>√n</strong></code>. Think what is the reason for that!</td>
+<td>We can optimize the algorithm instead of checking it to <code><strong>n-1</strong></code>, to check divisors to <code><strong>√n</strong></code>. Think what the reason for that is!</td>
 </tr></table>
 
 ## Prime Checking Algorithm
