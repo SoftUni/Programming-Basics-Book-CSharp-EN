@@ -1,6 +1,6 @@
 # Problem: Change Tiles
 
-**The tiles** on the ground in front of an apartment building **need changing**. The ground has a **square shape with side of N meters**. The tiles are **"W" meters wide** and **"L" meters long**. There is one bench on the ground with **width of M meters and length of O meters**. The tiles under it do not need to be replaced. Each tile is replaced for **0.2 minutes**.
+**The tiles** on the ground in front of an apartment building **need changing**. The ground has a **square shape with side of N meters**. The tiles are **"W" meters wide** and **"L" meters long**. There is one bench on the ground with **width of "M" meters and length of "O" meters**. The tiles under it do not need to be replaced. Each tile is replaced for **0.2 minutes**.
 
 Write a program that **reads the size of the ground, the tiles and the bench from the console**, and calculates how many tiles are needed to cover the ground and what is **the total time for replacing the tiles**. 
 
