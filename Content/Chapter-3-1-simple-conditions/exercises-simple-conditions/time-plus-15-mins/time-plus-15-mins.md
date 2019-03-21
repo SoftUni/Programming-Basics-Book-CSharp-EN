@@ -14,7 +14,7 @@ Write a program that **inputs hours and minutes** of a 24-hour day and calculate
 
 ## Hints and Guidelines
 
-Add 15 minutes and check using a few conditions. If minutes are over 59, **increase hours** with 1 and **reduce minutes** with 60. Identically, check the case when hours are over 23. When you print the minutes you should **check for zero at the front**.
+Add 15 minutes and check using a few conditions. If minutes are over 59, **increase hours** with 1 and **reduce minutes** with 60. Identically, check the case when hours are over 23. When you print the minutes, you should **check for zero at the front**.
 
 ## Testing in the Judge System
 
