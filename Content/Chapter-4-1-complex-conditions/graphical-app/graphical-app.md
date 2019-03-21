@@ -157,7 +157,7 @@ Think about how to **finish** the uncompleted (on purpose) conditions in the **`
 
 ## Visualization of the Rectangle and the Point
 
-What remains is to implement the most complex part: visualization of the rectangle and the point in the control **`pictureBox`** with resizing. We can help ourselves with **the code below**, which makes some calculations and draws a blue rectangle and a dark blue circle (the point) according to the coordinates given in the form. Unfortunately, the complexity of the code exceeds the material learned until the present moment and it is complicated to explain in details exactly how it works. There are comments for orientation. This is the full version of the action **`Draw()`**:
+What remains is to implement the most complex part: visualization of the rectangle and the point in the control **`pictureBox`** with resizing. We can help ourselves with **the code below**, which makes some calculations and draws a blue rectangle and a dark blue circle (the point) according to the coordinates given in the form. Unfortunately, the complexity of the code exceeds the material learned until the present moment and it is complicated to explain in detail exactly how it works. There are comments for orientation. This is the full version of the action **`Draw()`**:
 
 ```csharp
 private void Draw()
