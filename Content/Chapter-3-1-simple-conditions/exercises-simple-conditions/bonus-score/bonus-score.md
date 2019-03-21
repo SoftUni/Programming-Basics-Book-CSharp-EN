@@ -28,7 +28,7 @@ We can calculate the main and additional bonus score with a series of **`if-else
 
 ![](/assets/chapter-3-images/06.Bonus-score-01.png)
 
-Here's an example solution::
+Here's an example solution:
 
 ![](/assets/chapter-3-images/06.Bonus-score-02.png)
 
