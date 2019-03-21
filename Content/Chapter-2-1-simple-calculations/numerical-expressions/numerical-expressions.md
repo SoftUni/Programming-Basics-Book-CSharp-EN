@@ -35,7 +35,7 @@ Trapezoid area = 17.5
 
 ### Testing in the Judge System
 
-Test your solution here : [https://judge.softuni.org/Contests/Practice/Index/504\#4](https://judge.softuni.org/Contests/Practice/Index/504#4).
+Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/504\#4](https://judge.softuni.org/Contests/Practice/Index/504#4).
 
 ## Example: Circle Area and Perimeter
 
