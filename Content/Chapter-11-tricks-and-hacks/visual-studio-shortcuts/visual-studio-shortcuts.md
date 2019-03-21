@@ -9,8 +9,8 @@ Shortcuts are **combinations** that give us the possibility to do some things in
 |  [**CTRL + F**] | The combination **opens the search window**, by which we can **search in our code**. |
 |  [**CTRL + K + C**] | **Comments** part of the code. |
 |  [**CTRL + K + U**] | **Uncomments a code**, which is already commented. |
-|  [**CTRL + Z**] | **Brings back one change** (so called Undo). |
-|  [**CTRL + Y**] | The combination is opposite of [**CTRL + Z**] (the so called Redo). |
+|  [**CTRL + Z**] | **Brings back one change** (so-called Undo). |
+|  [**CTRL + Y**] | The combination is opposite of [**CTRL + Z**] (the so-called Redo). |
 |  [**CTRL + K + D**] | **Formats the code** according the default conventions. |
 |  [**CTRL + Backspace**] | **Deletes** the word to the left of the cursor. |
 |  [**CTRL + Del**] | **Deletes** the word to the right of the cursor. |
