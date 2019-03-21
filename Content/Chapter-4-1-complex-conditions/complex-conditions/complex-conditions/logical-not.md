@@ -1,6 +1,6 @@
 # Logical Negation \(NOT\)
 
-**Logical negation** \(operator `!`\) means a given condition is **is not fulfilled**.
+**Logical negation** \(operator `!`\) means a given condition is **not fulfilled**.
 
 | a | !a |
 | :---: | :---: |
