@@ -53,13 +53,13 @@ To increase by one day in each rotation, we will use a method of **`DateTime` �
 
 ![](/assets/chapter-9-images/02.Magic-dates-02.png)
 
-***Caution***: Since the **`.AddDays(…)`** method returns the "new" date, it is important to assign the result, not just to call the method!
+**Caution**: since the **`.AddDays(…)`** method returns the "new" date, it is important to assign the result, not just to call the method!
 
 In the end, our loop may look like this:
 
 ![](/assets/chapter-9-images/02.Magic-dates-03.png)
 
-***Note***: we can achieve the same result with a **`for` loop**, the initialization of the date goes to the first part of **`for`**, the condition is preserved and the step is the increase by 1 day.
+**Note**: we can achieve the same result with a **`for` loop**, the initialization of the date goes to the first part of **`for`**, the condition is preserved and the step is the increase by 1 day.
 
 ### Calculating Date Weight
 
@@ -89,7 +89,7 @@ To print the dates, we have two options:
 
 ![](/assets/chapter-9-images/02.Magic-dates-08.png)
 
-***Caution***: as we go through the dates from the start year to the end one, they will always be arranged in ascending order as per the description.
+**Caution**: as we go through the dates from the start year to the end one, they will always be arranged in ascending order as per the description.
 
 Finally, if we have not found a date that is eligible, we will have a **`false`** value in the **`found`** variable and we will be able to print **`No`**.
 
