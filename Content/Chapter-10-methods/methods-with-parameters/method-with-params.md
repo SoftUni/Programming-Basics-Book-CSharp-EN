@@ -14,7 +14,7 @@ After that **call** the method and **give it particular values**:
 
 ![](/assets/chapter-10-images/05.Method-parameters-02.png)
 
-When **declaring parameters**, we can use **various** types of variables, and we should be careful that every parameter has a **type** and **name**. It is important to note that when calling the method we must pass to it **values** for the parameters in **the order**, in which they are **declared**. If the parameters are first **`int`** and after that **`string`**, when calling the method we can't give it first a **`string`** and then **`int`**. We can only change places of given parameters if we write the name of the parameter beforehand, as you will see below in one of the examples. This is generally not a good practice!
+When **declaring parameters**, we can use **various** types of variables, and we should be careful that every parameter has a **type** and **name**. It is important to note that when calling the method, we must pass to it **values** for the parameters in **the order**, in which they are **declared**. If the parameters are first **`int`** and after that **`string`**, when calling the method, we can't give it first a **`string`** and then **`int`**. We can only change places of given parameters if we write the name of the parameter beforehand, as you will see below in one of the examples. This is generally not a good practice!
 
 Let's look at the example for declaring a method, which has several parameters of different types.
 
@@ -110,7 +110,7 @@ The first step is to read the input from the console. After that we need to crea
 
 ![](/assets/chapter-10-images/09.Draw-filled-square-01.png)
 
-Our next step is to create a method that will draw the middle rows on the console. Again give it a descriptive name i.e. **`PrintMiddleRow`**.
+Our next step is to create a method that will draw the middle rows on the console. Again, give it a descriptive name i.e. **`PrintMiddleRow`**.
 
 ![](/assets/chapter-10-images/09.Draw-filled-square-02.png)
 

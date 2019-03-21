@@ -1,4 +1,4 @@
-# Returning a Result From a Method
+# Returning a Result from a Method
 
 We already examined methods that do a specific task, for example printing some text, a number or a figure on the console. There are also other types of methods that can **return** some kind of **result**. These are the methods we are going to analyze in the next lines.
 
