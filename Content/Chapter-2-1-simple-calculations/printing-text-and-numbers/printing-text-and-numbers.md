@@ -78,5 +78,4 @@ var town = Console.ReadLine();
 Console.WriteLine($"You are {firstName} {lastName}, a {age}-years old person from {town}.");
 ```
 
-Play with the above code and test it in the judge system: [https://judge.softuni.org/Contests/Practice/Index/504\#3](https://legacy.gitbook.com/book/software-university-foundation/programming-basics-csharp-en/edit#).
-
+Play with the above code and test it in the judge system: [https://judge.softuni.org/Contests/Practice/Index/504\#3](https://judge.softuni.org/Contests/Practice/Index/504#3).
