@@ -54,7 +54,7 @@ Double-click the \[**Draw**\] button in order to add the code that will be execu
 
 ![](/assets/chapter-5-images/13.Turtle-graphics-07.png)
 
-This code moves and rotates the turtle that is initially in the center of the screen \(in the middle of the form\), and draws an equilateral triangle. You can edit it and play with it.
+This code moves and rotates the turtle that is initially in the center of the screen \(in the middle of the form\) and draws an equilateral triangle. You can edit it and play with it.
 
 ## Testing the Application
 
@@ -87,4 +87,3 @@ The purpose of the \[**Show / Hide Turtle**\] button is to show or hide the turt
 ![](/assets/chapter-5-images/13.Turtle-graphics-12.png)
 
 Once again, **start** the application by \[**Ctrl+F5**\] and test whether it works correctly.
-
