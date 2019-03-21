@@ -17,7 +17,7 @@ Watch the video about the "Summing Up Seconds" problem and its solution: https:/
 
 ## Hints and Guidelines
 
-First we sum up the three numbers to get the total result in seconds. Since **1 minute = 60** seconds, we will have to calculate the number of minutes and seconds in the range 0 to 59:
+First, we sum up the three numbers to get the total result in seconds. Since **1 minute = 60** seconds, we will have to calculate the number of minutes and seconds in the range 0 to 59:
 
 - If the result is between 0 and 59, we print 0 minutes + calculated seconds.
 - If the result is between 60 and 119, we print 1 minute + calculated seconds minus 60.
