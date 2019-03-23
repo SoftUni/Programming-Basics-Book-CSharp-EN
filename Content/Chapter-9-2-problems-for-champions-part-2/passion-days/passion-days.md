@@ -7,7 +7,7 @@ The **first line** of the input will pass the **amount** that Lina has **before*
 - If the symbol is a **capital letter**, Lina gets a **50% discount**, which means that you must decrease the money she has by 50% of the numeric representation of the symbol from the ASCII table.
 - If the symbol is a **small letter**, Lina gets a **70% discount**, which means that you must decrease the money she has by 30% of the numeric representation of the symbol from  the ASCII table.
 - If the symbol is **"`%`"**, Lina makes a **purchase** that decreases her money in half.
-- If the symbol is **"`*`"**, Lina **withdraws money from her debit card** and adds 10 lv to her available funds.
+- If the symbol is **"`*`"**, Lina **withdraws money from her debit card** and adds 10 lv. to her available funds.
 - If the symbol is **different from all of the aforementioned**, Lina just makes a purchase without discount, and in this case you should simply subtract the value of the symbol from the ASCII table from her available funds.
 
 If a certain value of her purchases is **higher** than her current available funds, Lina **DOES NOT** make the purchase. Lina's funds **cannot be less than 0**.
@@ -93,7 +93,7 @@ The next part of the algorithm is to **process the symbols from the commands**, 
 > * If the symbol is a **capital letter**, Lina gets a 50% discount, which means that you must decrease the money she has by 50% of the numeric representation of the symbol from the ASCII table.
 > * If the symbol is a **small letter**, Lina gets a 70% discount, which means that you must decrease the money she has by 30% of the numeric representation of the symbol from the ASCII table.
 > * If the symbol is **"%"**,  Lina makes a purchase that decreases her money in half.
-> * If the symbol is **"\*"**, Lina withdraws money from her debit card and adds 10 lv to her available funds.
+> * If the symbol is **"\*"**, Lina withdraws money from her debit card and adds 10 lv. to her available funds.
 > * If the symbol is **different from all of the aforementioned**, Lina just makes a purchase without discount, and in this case you should simply subtract the value of the symbol from the ASCII table from her available funds.
 
 Let's examine the problems that we will be facing in the first condition. The first one is how to distinguish if a particular **symbol is a capital letter**. We can use one of the following ways:
