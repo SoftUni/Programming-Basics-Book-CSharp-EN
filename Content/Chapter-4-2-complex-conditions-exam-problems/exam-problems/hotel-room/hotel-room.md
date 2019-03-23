@@ -1,6 +1,6 @@
 # Problem: Hotel Room
 
-A hotel offers **two types of rooms**: **studio and apartment**.
+A hotel offers **two types of rooms**: **studio and apartment**. Prices are in Bulgarian levs (BGN / lv).
 
 Write a program that calculates **the price of the whole stay for a studio and apartment**. **Prices** depend on the **month** of the stay:
 
