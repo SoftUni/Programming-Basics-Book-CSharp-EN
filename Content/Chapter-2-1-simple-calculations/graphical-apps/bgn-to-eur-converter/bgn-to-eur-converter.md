@@ -93,4 +93,4 @@ private void ConvertCurrency()
 
 Finally, **we start the project** with [**Ctrl+F5**] and test if it works correctly.
 
-If you have any problems with the example above, **watch the video** in the beginning of this chapter. There, the application is being built live, step by step, with a lot of explanations. Or ask a question in the **SoftUni forum**: https://softuni.bg/forum.
+If you have any problems with the example above, you can ask for help in the **SoftUni discussion forum**: https://forum.softuni.org.
