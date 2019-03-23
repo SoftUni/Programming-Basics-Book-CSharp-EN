@@ -1,6 +1,6 @@
 # Problem: Vegetable Market
 
-A gardener is selling his harvest on the vegetables market. He is selling **vegetables for N leva per kilogram** and **fruits for M leva per kilogram**. Write a program that **calculates the earnings of the harvest in Euro** (if **one Euro** equals **1.94 lv.**)
+A gardener is selling his harvest on the vegetables market. He is selling **vegetables for N leva per kilogram** and **fruits for M leva per kilogram**. Write a program that **calculates the earnings of the harvest in Euro**. Assume the EUR/lv. rate is fixed: **1 Euro** == **1.94 lv.**
 
 ## Input Data
 
@@ -26,7 +26,7 @@ Print on the console **one floating-point number: the earnings of all fruits and
 
 * Vegetables cost: 0.194 lv. \* 10 kg. = **1.94 lv.**
 * Fruits cost: 19.4 lv. \* 10 kg.  = **194 lv.**
-* Total: **195.94 lv. = 101 euro**. 
+* Total: **195.94 lv. = 101 euro** (== 101 * 1.94).
 
 | Input    | Output      |
 |-----------|----------------|
