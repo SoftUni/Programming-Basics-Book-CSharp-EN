@@ -8,7 +8,7 @@ We can not mention all of them, because they change over the time and because th
 
 Regardless of the path you have chosen, if you are seriously involved in programming, we recommend subscribing to specialized **online forums, discussion groups and communities**, from which you can get assistance by your colleagues and track the novelties in the software industry.
 
-If you will study programming seriously, **surround yourselves with people who are involved in programming** seriously. Join **communities of software developers**, attend software conferences, go to events for programmers, find friends with whom you can talk about programming and discuss problems and bugs, find environment that can help you. In Sofia and other cities there are free events for programmers, a few times a week. In smaller localities you have the Internet and an access to the entire online community.
+If you will study programming seriously, **surround yourselves with people who are involved in programming** seriously. Join **communities of software developers**, attend software conferences, go to events for programmers, find friends with whom you can talk about programming and discuss problems and bugs, find environment that can help you. In most large towns there are free events for programmers, a few times a week. In smaller localities you have the Internet and an access to the entire online community.
 
 Here are some recommended **resources** that will be useful for your development as a programmer:
 * https://softuni.org – official **website of SoftUni**. In it you will find free (and not only) courses, seminars, video tutorials and trainings in programming, software technologies and digital competences.
