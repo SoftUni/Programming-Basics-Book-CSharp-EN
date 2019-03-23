@@ -6,6 +6,8 @@ Now let's see how to create a graphical \(**GUI**\) app for **currency conversio
 
 ![](/assets/chapter-3-images/14.Converter-01.png)
 
+It converts Bulgarian levs (**BGN**) to Euro (**EUR**), US Dollars (**USD**) or Great Britain Pounds (**GBP**).
+
 ## Video: Building a GUI App "Currency Converter"
 
 Watch the video lesson about building a Windows Forms based GUI app "Currency Converter": https://youtu.be/IIkPmoXmjdg.
