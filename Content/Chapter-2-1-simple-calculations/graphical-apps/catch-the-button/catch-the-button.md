@@ -20,3 +20,4 @@ private void buttonCatchMe_MouseEnter(object sender, EventArgs e)
         rand.Next(maxWidth), rand.Next(maxHeight));
 }
 ```
+Be active, be curious, experiment, play, learn, enjoy!
