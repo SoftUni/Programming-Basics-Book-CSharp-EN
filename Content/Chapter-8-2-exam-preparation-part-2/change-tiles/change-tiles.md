@@ -10,7 +10,7 @@ The following 7 lines must be read from the console:
 * **Floor length**.
 * **Side of the rectangle**.
 * **Height of the rectangle**.
-* **Price of a tile**.
+* **Price of a tile** in **lv** (Bulgarian levs, BGN).
 * **Fee to be paid to the workman**.
 
 **All** numbers must be real numbers within the range [**0.00 … 5000.00**].
@@ -34,7 +34,7 @@ The result must be **formatted up to the second symbol** after the decimal point
 
 | Input | Output | Comments |
 |-----|-----|-----|
-|1000<br>5.55<br>8.95<br>0.90<br>0.85<br>13.99<br>321|You'll need 1209.65 lv more.|**Floor area** &rarr; 5.55 \* 8.95 = **49.67249**<br>**Tile area** &rarr; 0.9 \* 0.85 / 2 = **0.3825**<br>**Needed tiles** &rarr; 49.67249 / 0.3825 = 129.86… = **130 + 5 spare tiles** = **135**<br>**Total amount** &rarr; 135 * 13.99 + 321 (workman) = **2209.65**<br>**2209.65 > 1000** &rarr; **1209.65 lv are insufficient**|
+|1000<br>5.55<br>8.95<br>0.90<br>0.85<br>13.99<br>321|You'll need 1209.65 lv more.|**Floor area** &rarr; 5.55 \* 8.95 = **49.67249**<br>**Tile area** &rarr; 0.9 \* 0.85 / 2 = **0.3825**<br>**Needed tiles** &rarr; 49.67249 / 0.3825 = 129.86… = **130 + 5 spare tiles** = **135**<br>**Total amount** &rarr; 135 \* 13.99 + 321 (workman) = **2209.65**<br>**2209.65 > 1000** &rarr; **1209.65 lv are insufficient**|
 
 ## Hints and Guidelines
 

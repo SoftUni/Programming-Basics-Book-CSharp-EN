@@ -6,6 +6,8 @@ Now let's see how to create a graphical \(**GUI**\) app for **currency conversio
 
 ![](/assets/chapter-3-images/14.Converter-01.png)
 
+It converts Bulgarian levs (**BGN**) to Euro (**EUR**), US Dollars (**USD**) or Great Britain Pounds (**GBP**).
+
 ## Video: Building a GUI App "Currency Converter"
 
 Watch the video lesson about building a Windows Forms based GUI app "Currency Converter": https://youtu.be/IIkPmoXmjdg.
@@ -120,11 +122,11 @@ private void ConvertCurrency()
   {
     convertedAmount = originalAmount / 2.54990m;
   }
-  this.labelResult.Text = originalAmount + " lv. = " +
-  Math.Round(convertedAmount, 2) + " " + this.comboBoxCurrency.SelectedItem;
+  this.labelResult.Text = originalAmount + " BGN = " +
+    Math.Round(convertedAmount, 2) + " " + this.comboBoxCurrency.SelectedItem;
 }
 ```
 
 The above code takes **the amount** for converting the field `numericUpDownAmount` and **the selected currency** for the result from the field `comboBoxCurrency`. Then with a **conditional statement**, according to the selected currency, the amount is divided by **the exchange rate** (which is fixed in the source code). Finally, a text **message with the result** (rounded to the second digit after the decimal point) is generated and recorded in the green box `labelResult`. Try it!
 
-If you have problems with the example above, **watch the video** at the beginning of this chapter or ask in the **SoftUni forum**: [https://softuni.bg/forum](https://softuni.bg/forum).
+If you have problems with the example above, ask for help in the **SoftUni discussion forum**: [https://forum.softuni.org](https://forum.softuni.org).

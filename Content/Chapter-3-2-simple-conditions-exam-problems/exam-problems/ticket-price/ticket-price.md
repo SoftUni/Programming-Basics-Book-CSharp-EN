@@ -1,9 +1,9 @@
 # Problem: Transportation Price
 
 A student has to travel **n kilometers**. He can choose between **three types of transportation**: 
-* **Taxi**. Starting fee: **0.70** lv. Day rate: **0.79** lv./km. Night rate: **0.90** lv./km.
-* **Bus**. Day / Night rate: **0.09** lv./km. Can be used for distances of minimum **20** km.
-* **Train**. Day / Night rate: **0.06** lv./km. Can be used for distances of minimum **100** km.
+* **Taxi**. Starting fee: **0.70** EUR. Day rate: **0.79** EUR/km. Night rate: **0.90** EUR/km.
+* **Bus**. Day / Night rate: **0.09** EUR/km. Can be used for distances of minimum **20** km.
+* **Train**. Day / Night rate: **0.06** EUR/km. Can be used for distances of minimum **100** km.
 
 Write a program that reads the number of **kilometers n** and **period of the day** (day or night) and calculates **the price for the cheapest transport**.
 

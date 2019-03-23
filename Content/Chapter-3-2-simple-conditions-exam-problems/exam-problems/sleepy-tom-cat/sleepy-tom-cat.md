@@ -66,7 +66,7 @@ The time for games is already calculated, which leads us to the **next** step â€
 
 ### Processing the Output Data
 
-Whatever the **result** of the conditional statement is, we have to print how much **the difference in hours and minutes** is. We will do that with a **placeholder** and the variables that store the values of the hours and the minutes, as the formatting will be according to the task requirements for output. ****
+Whatever the **result** of the conditional statement is, we have to print how much **the difference in hours and minutes** is. We will do that with a **placeholder** and the variables that store the values of the hours and the minutes, as the formatting will be according to the task requirements for output.
 
 ![](/assets/chapter-3-2-images/03.Sleepy-tom-cat-05.png)
 

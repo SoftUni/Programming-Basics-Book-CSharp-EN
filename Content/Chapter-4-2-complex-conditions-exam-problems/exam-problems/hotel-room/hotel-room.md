@@ -1,6 +1,6 @@
 # Problem: Hotel Room
 
-A hotel offers **two types of rooms**: **studio and apartment**.
+A hotel offers **two types of rooms**: **studio and apartment**. Prices are in Bulgarian levs (BGN / lv).
 
 Write a program that calculates **the price of the whole stay for a studio and apartment**. **Prices** depend on the **month** of the stay:
 
@@ -27,8 +27,8 @@ The input data is read from the **console** and contains **exactly two lines**:
 
 **Print** the following **two lines** on the console:
 
-- On the **first line**: "**Apartment: { price for the whole stay } lv**".
-- On the **second line**: "**Studio: { price for the whole stay } lv**".
+- On the **first line**: "**Apartment: { price for the whole stay } lv.**"
+- On the **second line**: "**Studio: { price for the whole stay } lv.**"
 
 **The price for the whole stay must be formatted up to two symbols after the decimal point**.
 
@@ -40,7 +40,7 @@ The input data is read from the **console** and contains **exactly two lines**:
 
 | Input | Output |
 | --- | --- |
-|June<br>14|Apartment: 961.80 lv.<br>Studio: 1052.80 lv|
+|June<br>14|Apartment: 961.80 lv.<br>Studio: 1052.80 lv.|
 |August<br>20|Apartment: 1386.00 lv.<br>Studio: 1520.00 lv.|
 
 ## Hints and Guidelines
