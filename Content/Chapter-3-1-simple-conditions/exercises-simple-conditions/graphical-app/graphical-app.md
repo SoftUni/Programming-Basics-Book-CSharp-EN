@@ -123,7 +123,7 @@ private void ConvertCurrency()
     convertedAmount = originalAmount / 2.54990m;
   }
   this.labelResult.Text = originalAmount + " BGN = " +
-  Math.Round(convertedAmount, 2) + " " + this.comboBoxCurrency.SelectedItem;
+    Math.Round(convertedAmount, 2) + " " + this.comboBoxCurrency.SelectedItem;
 }
 ```
 
