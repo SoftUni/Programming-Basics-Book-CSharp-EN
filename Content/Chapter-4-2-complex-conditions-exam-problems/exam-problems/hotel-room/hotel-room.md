@@ -27,8 +27,8 @@ The input data is read from the **console** and contains **exactly two lines**:
 
 **Print** the following **two lines** on the console:
 
-- On the **first line**: "**Apartment: { price for the whole stay } lv**".
-- On the **second line**: "**Studio: { price for the whole stay } lv**".
+- On the **first line**: "**Apartment: { price for the whole stay } lv.**"
+- On the **second line**: "**Studio: { price for the whole stay } lv.**"
 
 **The price for the whole stay must be formatted up to two symbols after the decimal point**.
 
