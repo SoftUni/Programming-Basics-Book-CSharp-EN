@@ -22,7 +22,7 @@ weight(c1c2…cn) = 1 * weight(c1) + 2 * weight(c2) + … + n * weight(cn)
 
 First, **we remove the repeating letters** and get **`bcd`**. Then we apply the formula: **`1 * weight('b') + 2 * weight('c') + 3 * weight('d') = 1 * (-12) + 2 * 47 + 3 * 7 = 103`**.
 
-**Another example**: ** **`weight("cadae") = weight("cade") = 1 * 47 + 2 * 5 + 3 * 7 + 4 * (-32) = -50`**.
+**Another example**: `weight("cadae") = weight("cade") = 1 * 47 + 2 * 5 + 3 * 7 + 4 * (-32) = -50`.
 
 ## Input Data
 
