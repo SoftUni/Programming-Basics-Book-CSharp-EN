@@ -4,7 +4,7 @@ A flowers shop offers 3 types of flowers: **chrysanthemums**, **roses** and **tu
 
 |Season|Chrysanthemums|Roses|Tulips|
 |:---:|:---:|:---:|:---:|
-|spring / summer<br>autumn / winter|2.00 lv/pc<br>3.75 lv/pc|4.10 lv/pc<br>4.50 lv/pc|2.50 lv/pc<br>4.15 lv/pc|
+|spring / summer<br>autumn / winter|2.00 USD/pc<br>3.75 USD/pc|4.10 USD/pc<br>4.50 USD/pc|2.50 USD/pc<br>4.15 USD/pc|
 
 On holidays, prices of all flowers are **increased by 15%.** The following **discounts** are offered:
 * For purchasing more than 7 tulips in spring – **5% of the price** of the whole bouquet.
@@ -13,16 +13,16 @@ On holidays, prices of all flowers are **increased by 15%.** The following **dis
 
 **Discounts are made in the above described order and can be combined! All discounts are valid after increasing of the price on a holiday!**
 
-The price for arranging a bouquet is always **2 lv.** Write a program that calculates the **price of a bouquet**.
+The price for arranging a bouquet is always **2 USD**. Write a program that calculates the **price of a bouquet**.
 
 ## Input Data
 
 The input is read from the **console** and contains **exactly 5 lines**:
- * The first line contains **the number of purchased chrysanthemums** – an integer within the range [**0 … 200**].
- * The second line contains **the number of purchased roses** – an integer within the range [**0 … 200**].
- * The third line contains **the number of purchased tulips** – an integer within the range [**0 … 200**].
- * The fourth line indicates **the season** – [**Spring, Summer, Autumn, Winter**].
- * The fifth line specifies **if the day is a holiday** – [**Y = yes / N = no**].
+* The first line contains **the number of purchased chrysanthemums** – an integer within the range [**0 … 200**].
+* The second line contains **the number of purchased roses** – an integer within the range [**0 … 200**].
+* The third line contains **the number of purchased tulips** – an integer within the range [**0 … 200**].
+* The fourth line indicates **the season** – [**Spring, Summer, Autumn, Winter**].
+* The fifth line specifies **if the day is a holiday** – [**Y = yes / N = no**].
 
 ## Output Data
 
@@ -32,11 +32,17 @@ Print on the console 1 number – **the price of flowers**, formatted up to the 
 
 | Input | Output | Comments |
 | --- | --- | --- |
-|2<br>4<br>8<br>Spring<br>Y<br>|46.14|**Price**: 2\*2.00 + 4\*4.10 + 8\*2.50 = 40.40 lv<br>**Holiday**: 40.40 + 15% = 46.46 lv<br>**5% discount** for more than 7 tulips in spring: 44.14<br>The flowers are in total 20 or less: **no discount**<br>44.14 + 2 **for arranging the bouquet** = 46.14 lv|
+|2<br>4<br>8<br>Spring<br>Y<br>|46.14|**Price**: 2\*2.00 + 4\*4.10 + 8\*2.50 = 40.40 USD<br>
+**Holiday**: 40.40 + 15% = 46.46 USD<br>
+**5% discount** for more than 7 tulips in spring: 44.14<br>
+The flowers are in total 20 or less: **no discount**<br>44.14 + 2 **for arranging the bouquet** = 46.14 USD|
 
 | Input | Output | Comments |
 | --- | --- | --- |
-|3<br>10<br>9<br>Winter<br>N<br>|69.39|**Price**: 3\*3.75 + 10\*4.50 + 9\*4.15 = 93.60 lv<br>**Not a holiday**: no increase in price<br>**10% discount** for 10 or more roses in winter: 84.24<br>The flowers are in total over 20: **20% discount** = 67.392<br>67.392 + 2 **for arranging the bouquet** = 69.392 lv|
+|3<br>10<br>9<br>Winter<br>N<br>|69.39|**Price**: 3\*3.75 + 10\*4.50 + 9\*4.15 = 93.60 USD<br>
+**Not a holiday**: no increase in price<br>**10% discount** for 10 or more roses in winter: 84.24<br>
+The flowers are in total over 20: **20% discount** = 67.392<br>
+67.392 + 2 **for arranging the bouquet** = 69.392 USD|
 
 | Input | Output |
 | --- | --- |
@@ -68,7 +74,7 @@ Let's think of the most appropriate way to **structure** our programming logic. 
 
 ![](/assets/chapter-8-2-images/03.Flowers-04.png)
 
-What remains is to perform **a few checks** regarding **the discounts** of the different types of flowers, depending on the season, and to modify the end result. 
+What remains is to perform **a few checks** regarding **the discounts** of the different types of flowers, depending on the season, and to modify the end result.
 
 ## Testing in the Judge System
 
