@@ -40,7 +40,7 @@ The input data is read from the **console** and contains **exactly two lines**:
 
 | Input | Output |
 | --- | --- |
-|June<br>14|Apartment: 961.80 lv.<br>Studio: 1052.80 lv|
+|June<br>14|Apartment: 961.80 lv.<br>Studio: 1052.80 lv.|
 |August<br>20|Apartment: 1386.00 lv.<br>Studio: 1520.00 lv.|
 
 ## Hints and Guidelines
