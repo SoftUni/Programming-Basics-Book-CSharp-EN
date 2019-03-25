@@ -1,6 +1,6 @@
 # Graphical Application: Converter from BGN to EUR
 
-We need to create **a graphical application** \(GUI application\) that calculates the value in **Euro** \(EUR\) of monetary amount given in **leva** \(BGN\). By changing the amount in leva, the amount in Euro has to be recalculated automatically \(we use rate leva / Euro: **1.95583**\).
+We need to create **a graphical application** \(GUI application\) that calculates the value in **Euro** \(EUR\) of monetary amount given in **Bulgarian lev** \(BGN\). By changing the amount in BGN, the amount in EUR has to be recalculated automatically (we use a fixed rate BGN / EUR: **1.95583**).
 
 ![](/assets/chapter-2-images/13.Currency-converter-01.png)
 
@@ -74,9 +74,7 @@ private void numericUpDownAmount_KeyUp(object sender, KeyEventArgs e)
 }
 ```
 
-All of the caught events call the method **`ConvertCurrency()`**, which converts the given sum from leva to Euro and shows the result in the green box.
-
-We have to write the **code** (program logic) for converting from leva to Euro: 
+All of the caught events call the method **`ConvertCurrency()`**, which converts the given sum from BGN to EUR and shows the result in the green box. We have to write the **code** (program logic) the conversion: 
 
 ```csharp
 private void ConvertCurrency()
