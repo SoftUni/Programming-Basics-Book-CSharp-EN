@@ -1,9 +1,9 @@
 # Problem: Game Tickets
 
-**A group of football fans** decided to buy **tickets for Euro Cup 2016**. The tickets are available in **two** price categories:
+**A group of football fans** decided to buy **tickets for Euro Cup 2016**. The tickets are sold in Bulgarian **leva **(BGN) in **two price categories**:
 
-- **VIP** – **499.99** BGN.
-- **Normal** – **249.99** BGN.
+- **VIP** – **499.99** BGN (Bulgarian leva)
+- **Normal** – **249.99** BGN (Bulgarian leva)
 
 The football fans **have a shared budget**, and the **number of people** in the group determines what percentage of the budget will be **spent on transportation**:
 
