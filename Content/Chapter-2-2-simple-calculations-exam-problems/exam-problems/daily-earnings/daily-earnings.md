@@ -9,7 +9,7 @@ Write a program that calculates **what is the amount of Ivan's net average earni
 **Three numbers** are read from the console.
  * On the first line – **work days per month**. An integer within the range of [**5 … 30**].
  * On the second line – **daily earnings**. A floating-point number within the range of [**10.00 … 2000.00**].
- * On the third line – **exchange rate of USD to EUR** /1 dollar = X euro/. A floating-point number within the range of [**0.04 … 4.99**].
+ * On the third line – **exchange rate of USD to EUR** /1 dollar = X euro/. A floating-point number within the range of [**0.05 … 4.99**].
 
 ## Output Data
 
