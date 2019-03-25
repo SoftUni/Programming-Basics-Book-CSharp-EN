@@ -103,7 +103,7 @@ Our task is to select the currency "**EUR**" when we start the program and chang
 
 ## Writing the Program Code
 
-We have to write the event `ConvertCurrency()` to convert the leva amount into the selected currency:
+We have to write the event `ConvertCurrency()` to convert the BGN amount into the selected currency:
 
 ```csharp
 private void ConvertCurrency()
