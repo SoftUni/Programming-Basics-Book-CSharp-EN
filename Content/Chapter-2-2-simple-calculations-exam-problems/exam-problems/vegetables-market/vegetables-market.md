@@ -1,16 +1,16 @@
 # Problem: Vegetable Market
 
-A gardener is selling his harvest on the vegetables market. He is selling **vegetables for N leva per kilogram** and **fruits for M leva per kilogram**. Write a program that **calculates the earnings of the harvest in Euro**. Assume the EUR/lv. rate is fixed: **1 Euro** == **1.94 lv.**
+A gardener is selling his harvest on the vegetables market. He is selling **vegetables for N coins per kilogram** and **fruits for M coins per kilogram**. Write a program that **calculates the earnings of the harvest in Euro** (EUR). Assume the EUR / coin rate is fixed: **1 Euro** == **1.94 coins**.
 
 ## Input Data
 
 **Four numbers** are read from the console, one per line: 
-* First line: price per kilogram for vegetables – a floating-point number.
-* Second line: price per kilogram for fruits – a floating-point number.
-* Third line: total kilograms of vegetables – an integer.
-* Fourth line: total kilograms of fruits – an integer. 
+ * First line: **vegetable price** per kilogram – a floating-point number.
+ * Second line: **fruit price** per kilogram – a floating-point number.
+ * Third line: total **kilograms of vegetables** – an integer.
+ * Fourth line: total **kilograms of fruits** – an integer. 
 
-**Constraints: All numbers will be within the range from 0.00 to 1000.00**
+**Constraints**: all numbers will be within the range from 0.00 to 1000.00.
 
 ## Output Data
 
@@ -24,9 +24,9 @@ Print on the console **one floating-point number: the earnings of all fruits and
 
 **Clarification for the first example:**
 
-* Vegetables cost: 0.194 lv. \* 10 kg. = **1.94 lv.**
-* Fruits cost: 19.4 lv. \* 10 kg.  = **194 lv.**
-* Total: **195.94 lv. = 101 euro** (== 101 \* 1.94).
+* Vegetables cost: 0.194 coins \* 10 kg = **1.94 coins**.
+* Fruits cost: 19.4 coins \* 10 kg = **194 coins**.
+* Total: **195.94 coins = 101 euro** (== 101 \* 1.94).
 
 | Input    | Output      |
 |-----------|----------------|
@@ -34,11 +34,11 @@ Print on the console **one floating-point number: the earnings of all fruits and
 
 ## Hints and Guidelines
 
-First, we will give a few ideas and particular hints for solving the problem, followed by the essential part of the code.  
+First, we will give a few **ideas** and particular hints for solving the problem, followed by the essential part of the **code**.
 
 ### Idea for Solution
 
-Let's first go through the problem requirements. In this case, we have to calculate the **total income** from the harvest. It equals **the sum of the earnings from the fruits and vegetables** which we can calculate by multiplying **the price per kilogram by the quantity**. The input is given in leva and the output should be in Euro. It is accepted that 1 Euro equals 1.94 leva, therefore, in order to get the wanted **output value, we have to divide the sum by 1.94**.
+Let's first go through the problem requirements. In this case, we have to calculate the **total income** from the harvest. It equals **the sum of the earnings from the fruits and vegetables** which we can calculate by multiplying **the price per kilogram by the quantity**. The input is given in coins and the output should be in EUR. It is assumed that 1 Euro equals 1.94 coins, therefore, in order to get the wanted output value, **we have to divide the sum by 1.94**.
 
 ### Choosing Data Types
 
