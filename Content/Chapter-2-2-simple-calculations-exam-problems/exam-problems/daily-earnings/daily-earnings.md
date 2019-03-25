@@ -2,35 +2,36 @@
 
 Ivan is a programmer in an **American company**, and he **works** at home **approximately N days per month** by earning **approximately M dollars per day**. At the end of the year, Ivan **gets a bonus**, which **equals 2.5 of his monthly salaries**. In addition, **25% of his annual salary goes for taxes**.
 
-Write a program that calculates **what is the amount of Ivan's net average earnings in leva per day**, as he spends them in Bulgaria. It is accepted that **one year has exactly 365 days**. The exchange rate of US **dollar** to Bulgarian **lev** (BGN, lv, leva) will be **read from the console**. 
+Write a program that calculates **what is the amount of Ivan's net average earnings in EUR per day**, as he spends them in Europe. It is accepted that **one year has exactly 365 days**. The exchange rate of US **dollar** (USD) to **Euro** (EUR) will be **read from the console**. 
 
 ## Input Data
 
 **Three numbers** are read from the console.
-* On the first line – **work days per month**. An integer within the range of [**5 … 30**].
-* On the second line – **daily earnings**. A floating-point number within the range of [**10.00 … 2000.00**].
-* On the third line – **exchange rate of dollar to lev** /1 dollar = X lev/. A floating-point number within the range of [**0.99 … 1.99**].
+ * On the first line – **work days per month**. An integer within the range of [**5 … 30**].
+ * On the second line – **daily earnings**. A floating-point number within the range of [**10.00 … 2000.00**].
+ * On the third line – **exchange rate of USD to EUR** /1 dollar = X euro/. A floating-point number within the range of [**0.04 … 4.99**].
 
 ## Output Data
 
-Print **one number** on the console – **the daily earnings in lev**. The result will be **rounded up to the second symbol after the decimal point**. 
+Print **one number** on the console – **the daily earnings in EUR**. The result will be **rounded up to the second digit after the decimal point**. 
 
 ## Examples
 
 | Input        | Output          |
 |---------------|------------------|
-|21<br>75.00<br>1.59|74.61| 
+|21<br>75.00<br>0.88|41.30| 
 
 **Explanation**:
-* **One monthly salary** = 21 \* 75 = 1575 dollars.
-* **Annual income** = 1575 \* 12 + 1575 \* 2.5 = 22837.5 dollars.
-* **Taxes** = 25% of 22837.5 = 5709.375 leva.
-* **Net annual income** = 17128.125 dollars = 27233.71875 leva.
-* **Average earnings per day** = 27233.71875 / 365 = 74.61 leva.
+* **One monthly salary** = 21 \* 75.00 = 1575 dollars.
+* **Annual income** = 1575 \* 12 month + 1575 \* 2.5 bonus = 22837.5 dollars.
+* **Taxes** = 25% of 22837.5 = 5709.375 dollars.
+* **Net annual income in USD** = 22837.5 - 5709.375 = 17128.125 dollars.
+* **Net annual income in EUR** = 17128.125 dollars * 0.88 = 15072.75 EUR.
+* **Average earnings per day** = 15072.75 / 365 ≈ 41.30 EUR.
 
 | Input        | Output            | Input         | Output    |
 |-------------|------------------|-------------|------------------|
-|15<br>105<br>1.71|80.24|22<br>199.99<br>1.50|196.63|
+|15<br>105<br>0.875|41.06|22<br>199.99<br>0.892|116.93|
 
 ## Hints and Guidelines
 
@@ -38,7 +39,7 @@ Firstly, we have to analyze the task and think of a way to solve it. Then, we wi
 
 ### Idea for Solution
 
-Let's first calculate **how much the monthly salary** of Ivan is. We do that by **multiplying the working days per month by his daily earnings**. Firstly, we multiply the number by 12, so as to calculate his salary for 12 months, and then, we multiply it **by 2.5 ** in order to calculate the bonus. After having summed up the two values, we calculate his **annual income**. Then, we **divide 25% of it**. We can do that by multiplying the total income by **0.25** and divide the result by it. Depending on the exchange rate, we **exchange the dollars to leva** and after that we **divide the result by 365 (days per year)**.  
+Let's first calculate **how much the monthly salary** of Ivan is. We do that by **multiplying the working days per month by his daily earnings**. Firstly, we multiply the number **by 12**, so as to calculate his salary for 12 months, and then, we multiply it **by 2.5** in order to calculate the bonus. After having summed up the two values, we calculate his **annual income**. Then, we reduce the annual income **by 25% taxes**. Depending on the exchange rate, we **exchange the dollars (USD) to Euro (EUR)** and after that we **divide the result by 365** (days per year).
 
 ### Choosing Data Types
 
