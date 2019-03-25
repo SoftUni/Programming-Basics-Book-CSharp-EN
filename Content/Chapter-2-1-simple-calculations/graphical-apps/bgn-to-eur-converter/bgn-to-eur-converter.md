@@ -1,6 +1,6 @@
 # Graphical Application: Converter from BGN to EUR
 
-We need to create **a graphical application** \(GUI application\) that calculates the value in **Euro** \(EUR\) of monetary amount given in **Bulgarian lev** \(BGN\). By changing the amount in BGN, the amount in EUR has to be recalculated automatically (we use a fixed rate BGN / EUR: **1.95583**).
+We need to create **a graphical application** \(GUI application\) that calculates the value in **Euro** \(EUR\) of monetary amount given in **Bulgarian levs** \(BGN\). By changing the amount in BGN, the amount in EUR has to be recalculated automatically (we use a fixed rate BGN / EUR: **1.95583**).
 
 ![](/assets/chapter-2-images/13.Currency-converter-01.png)
 
