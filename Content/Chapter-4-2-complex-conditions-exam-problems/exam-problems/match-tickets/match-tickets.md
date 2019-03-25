@@ -7,11 +7,11 @@
 
 The football fans **have a shared budget**, and the **number of people** in the group determines what percentage of the budget will be **spent on transportation**:
 
-- **1 to 4** – 75% of the budget.
-- **5 to 9** – 60% of the budget.
-- **10 to 24** – 50% of the budget.
-- **25 to 49** – 40% of the budget.
-- **50 or more** – 25% of the budget.
+- **1 to 4** – 75% of the budget
+- **5 to 9** – 60% of the budget
+- **10 to 24** – 50% of the budget
+- **25 to 49** – 40% of the budget
+- **50 or more** – 25% of the budget
 
 **Write a program** that **calculates whether the money left in the budget** will be enough for the football fans to **buy tickets in the selected category**, as well as **how much money** they will **have left or be insufficient**.
 
