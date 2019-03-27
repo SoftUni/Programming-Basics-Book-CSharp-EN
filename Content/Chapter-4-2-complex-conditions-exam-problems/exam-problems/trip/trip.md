@@ -1,6 +1,6 @@
 # Problem: Trip
 
-It is strange, but most people start planning their vacations well in advance. A young programmer has **certain budget** and spare time in a particular **season**.
+It is strange, but most people start planning their vacations well in advance. A young programmer from Bulgaria has **certain budget** and spare time in a particular **season**.
 
 Write a program that accepts **as input the budget and season**, and **as output** displays programmer's **vacation place** and **the amount of money they will spend**.
 
