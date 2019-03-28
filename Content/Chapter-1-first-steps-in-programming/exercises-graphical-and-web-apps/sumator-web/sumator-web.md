@@ -1,4 +1,4 @@
-# Lab: Web Application "Sumator" (Calculator)
+# Lab: Web Application "Summator" (Calculator)
 
 Now we are going to create something even more complex, but also more interesting: Web application that **calculates the sum of two numbers**. By **entering two numbers** in the first two text fields and pressing the [**Calculate**] button, **their sum is being calculated** and the result is shown in the third text field.
 
