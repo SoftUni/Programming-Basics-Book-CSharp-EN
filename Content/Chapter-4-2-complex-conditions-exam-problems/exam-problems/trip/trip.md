@@ -1,8 +1,8 @@
 # Problem: Trip
 
-It is strange, but most people start planning their vacations well in advance. A young programmer has **certain budget** and spare time in a particular **season**.
+It is strange, but most people start planning their vacations well in advance. A young programmer from Bulgaria has **certain budget** and spare time in a particular **season**.
 
-Write a program that accepts **as input the budget and season**, and **as output** displays programmer's **vacation place** and **the amount of money they will spend**.
+Write a program that accepts **as input the budget** (in BGN – Bulgarian levs) and **season**, and **as output** displays programmer's **vacation place** and **the amount of money they will spend**.
 
 **The budget determines the destination, and the season determines what amount of the budget will be spent**. If the season is **summer**, the programmer will go **camping**, if it is **winter – they will stay in a hotel**. If it is in **Europe**, **regardless of the season**, the programmer will stay in a **hotel**. Each **camp** or **hotel**, **according to the destination**, has **its own price**, which corresponds to a particular **percentage of the budget**:
 
