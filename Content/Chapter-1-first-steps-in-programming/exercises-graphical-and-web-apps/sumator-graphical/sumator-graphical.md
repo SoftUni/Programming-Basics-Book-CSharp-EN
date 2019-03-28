@@ -1,4 +1,4 @@
-# Lab: Graphical Application "Sumator" (Calculator)
+# Lab: Graphical Application "Summator" (Calculator)
 
 Write a **graphical \(GUI\) application**, which **calculates the sum of two numbers**:
 
@@ -31,7 +31,7 @@ We download from the bar on the left \(Toolbox\) **three text boxes** \(`TextBox
 * `buttonCalculate` -&gt; `Calculate`
 * `label1` -&gt; `+`
 * `label2` -&gt; `=`
-* `Form1` -&gt; `Sumator`
+* `Form1` -&gt; `Summator`
 
 ![](/assets/chapter-1-images/07.Numbers-sum-05.png)
 
