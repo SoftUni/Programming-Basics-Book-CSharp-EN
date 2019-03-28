@@ -12,7 +12,7 @@ Graphical \(GUI\) applications have **a visual user interface**, directly into y
 
 ## Exercises: GUI and Web Applications
 
-In the next exercises we will create a GUI and a Web application:
+In the next exercises we will create a GUI (Desktop) and a Web application:
 
 * [Problem: Graphical Application "Summator" \(Calculator\)](/Content/Chapter-1-first-steps-in-programming/exercises-graphical-and-web-apps/sumator-graphical/sumator-graphical.md)
 * [Problem: Web Application "Summator" \(Calculator\)](/Content/Chapter-1-first-steps-in-programming/exercises-graphical-and-web-apps/sumator-web/sumator-web.md)
