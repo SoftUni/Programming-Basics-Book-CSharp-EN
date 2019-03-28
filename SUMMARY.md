@@ -20,7 +20,7 @@
     * [\* Problem: Square of Stars](Content/Chapter-1-first-steps-in-programming/exercises-first-steps-in-coding/square-of-stars.md)
   * [Lab: Graphical and Web Apps](Content/Chapter-1-first-steps-in-programming/exercises-graphical-and-web-apps/exercises-graphical-and-web-apps.md)
     * [Lab: Graphical Application "Summator"](Content/Chapter-1-first-steps-in-programming/exercises-graphical-and-web-apps/sumator-graphical/sumator-graphical.md)
-    * [Lab: Web Application "Sumator"](Content/Chapter-1-first-steps-in-programming/exercises-graphical-and-web-apps/sumator-web/sumator-web.md)
+    * [Lab: Web Application "Summator"](Content/Chapter-1-first-steps-in-programming/exercises-graphical-and-web-apps/sumator-web/sumator-web.md)
 * [2.1. Simple Calculations](Content/Chapter-2-1-simple-calculations/overview.md)
   * [The System Console](Content/Chapter-2-1-simple-calculations/system-console/system-console.md)
   * [Reading Integers from the Console](Content/Chapter-2-1-simple-calculations/reading-integers-from-console/reading-integers-from-console.md)
