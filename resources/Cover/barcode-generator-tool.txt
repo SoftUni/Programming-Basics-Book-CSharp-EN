@@ -1,2 +1,0 @@
-This is the online barcode generator tool (ISBN to barcode):
-https://bookow.com/resources.php
