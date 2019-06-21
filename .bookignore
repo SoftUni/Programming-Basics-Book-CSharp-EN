@@ -1,2 +1,10 @@
 # Ignore the "resources" folder (it holds files, which are not part of the book assets)
 resources/*
+
+# Ignore files, which are not part of the final output
+.gitignore
+.bookignore
+*.cmd
+ISSUE_TEMPLATE.md
+LICENSE.md
+cover.jpg

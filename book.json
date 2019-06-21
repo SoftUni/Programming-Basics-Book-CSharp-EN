@@ -1,4 +1,12 @@
 {
+	"title": 
+		"Programming Basics with C#",
+	"description": 
+		"Free book + video course + \"Programming Basics with C#\" for absolute beginners. It covers the C# language and the .NET platform, the C# compiler, the Visual Studio development environment, variables, data, calculations, conditional statements, loop constructions, nested loops, methods and lots of practical exercises.",
+	"isbn": 
+		"978-619-00-0902-3",
+	"language":
+		"en",
     "plugins": [
         "ga",
         "meta",
@@ -6,7 +14,8 @@
         "expandable-chapters-small",
         "katex",
         "sitemap",
-        "scripts"
+        "scripts",
+		"page-toc-button"
     ],
     "pluginsConfig": {
         "ga": {
