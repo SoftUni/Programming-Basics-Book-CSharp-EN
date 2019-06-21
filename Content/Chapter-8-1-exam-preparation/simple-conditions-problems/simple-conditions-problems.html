@@ -1,0 +1,3677 @@
+
+<!DOCTYPE HTML>
+<html lang="en" >
+    <head>
+        <meta charset="UTF-8">
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <title>Simple Conditions – Problems · Programming Basics with C#</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="description" content="">
+        <meta name="generator" content="GitBook 3.2.3">
+        
+        <meta name="identifier" content="978-619-00-0902-3" scheme="ISBN">
+        
+    
+    <link rel="stylesheet" href="../../../gitbook/style.css">
+
+    
+            
+                
+                <link rel="stylesheet" href="../../../gitbook/gitbook-plugin-anchors/plugin.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../../gitbook/gitbook-plugin-expandable-chapters-small/expandable-chapters-small.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../../gitbook/gitbook-plugin-katex/katex.min.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../../gitbook/gitbook-plugin-page-toc-button/plugin.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../../gitbook/gitbook-plugin-highlight/website.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../../gitbook/gitbook-plugin-search/search.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../../gitbook/gitbook-plugin-fontsettings/website.css">
+                
+            
+        
+
+    
+
+    
+        
+        <link rel="stylesheet" href="../../../styles/website.css">
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+
+        
+    
+    <meta name="google-site-verification" content="xSQjbYfAeT3z-ew8RE51NA5hmxlZ1qNKgCerlOBthgo">
+    
+    
+    
+    
+    
+    <meta name="HandheldFriendly" content="true"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="../../../gitbook/images/apple-touch-icon-precomposed-152.png">
+    <link rel="shortcut icon" href="../../../gitbook/images/favicon.ico" type="image/x-icon">
+
+    
+    <link rel="next" href="simple-conditions-problems/problem-point-on-a-segment.html" />
+    
+    
+    <link rel="prev" href="../simple-calculations-problems/simple-calc-problems/problem-moving-bricks.html" />
+    
+
+
+    </head>
+    <body>
+        
+<div class="book">
+    <div class="book-summary">
+        
+            
+<div id="book-search-input" role="search">
+    <input type="text" placeholder="Type to search" />
+</div>
+
+            
+                <nav role="navigation">
+                
+
+
+<ul class="summary">
+    
+    
+
+    
+
+    
+        
+        
+    
+        <li class="chapter " data-level="1.1" data-path="../../../">
+            
+                <a href="../../../">
+            
+                    
+                    Welcome
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2" data-path="../../Preface/overview.html">
+            
+                <a href="../../Preface/overview.html">
+            
+                    
+                    Preface
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.2.1" data-path="../../Preface/about-softuni/about-softuni.html">
+            
+                <a href="../../Preface/about-softuni/about-softuni.html">
+            
+                    
+                    About SoftUni and SoftUni Judge
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.2" data-path="../../Preface/how-to-become-a-programmer/how-to-become-a-programmer.html">
+            
+                <a href="../../Preface/how-to-become-a-programmer/how-to-become-a-programmer.html">
+            
+                    
+                    How to Become a Software Developer?
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.3" data-path="../../Preface/about-softuni/about-the-book.html">
+            
+                <a href="../../Preface/about-softuni/about-the-book.html">
+            
+                    
+                    More About the Book
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3" data-path="../../Chapter-1-first-steps-in-programming/overview.html">
+            
+                <a href="../../Chapter-1-first-steps-in-programming/overview.html">
+            
+                    
+                    1. First Steps in Programming
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.3.1" data-path="../../Chapter-1-first-steps-in-programming/how-to-write-console-app/computer-programs-concepts.html">
+            
+                <a href="../../Chapter-1-first-steps-in-programming/how-to-write-console-app/computer-programs-concepts.html">
+            
+                    
+                    Computer Programs – Concepts
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.2" data-path="../../Chapter-1-first-steps-in-programming/how-to-write-console-app/runtime-environments.html">
+            
+                <a href="../../Chapter-1-first-steps-in-programming/how-to-write-console-app/runtime-environments.html">
+            
+                    
+                    Runtime Environments
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.3" data-path="../../Chapter-1-first-steps-in-programming/how-to-write-console-app/computer-programs-examples.html">
+            
+                <a href="../../Chapter-1-first-steps-in-programming/how-to-write-console-app/computer-programs-examples.html">
+            
+                    
+                    Computer Programs – Examples
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.4" data-path="../../Chapter-1-first-steps-in-programming/how-to-write-console-app/development-environments-ide.html">
+            
+                <a href="../../Chapter-1-first-steps-in-programming/how-to-write-console-app/development-environments-ide.html">
+            
+                    
+                    Development Environments (IDE)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.5" data-path="../../Chapter-1-first-steps-in-programming/how-to-write-console-app/example-creating-a-console-application.html">
+            
+                <a href="../../Chapter-1-first-steps-in-programming/how-to-write-console-app/example-creating-a-console-application.html">
+            
+                    
+                    Example: Creating a Console Application
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.6" data-path="../../Chapter-1-first-steps-in-programming/how-to-write-console-app/typical-mistakes-in-csharp-programs.html">
+            
+                <a href="../../Chapter-1-first-steps-in-programming/how-to-write-console-app/typical-mistakes-in-csharp-programs.html">
+            
+                    
+                    Typical Mistakes in C# Programs
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.7" data-path="../../Chapter-1-first-steps-in-programming/exercises-first-steps-in-coding/exercises-first-steps-in-coding.html">
+            
+                <a href="../../Chapter-1-first-steps-in-programming/exercises-first-steps-in-coding/exercises-first-steps-in-coding.html">
+            
+                    
+                    Exercises: First Steps in Coding
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.3.7.1" data-path="../../Chapter-1-first-steps-in-programming/exercises-first-steps-in-coding/expression.html">
+            
+                <a href="../../Chapter-1-first-steps-in-programming/exercises-first-steps-in-coding/expression.html">
+            
+                    
+                    Problem: Expression
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.7.2" data-path="../../Chapter-1-first-steps-in-programming/exercises-first-steps-in-coding/numbers-1-to-20.html">
+            
+                <a href="../../Chapter-1-first-steps-in-programming/exercises-first-steps-in-coding/numbers-1-to-20.html">
+            
+                    
+                    Problem: Numbers from 1 to 20
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.7.3" data-path="../../Chapter-1-first-steps-in-programming/exercises-first-steps-in-coding/triangle-of-stars.html">
+            
+                <a href="../../Chapter-1-first-steps-in-programming/exercises-first-steps-in-coding/triangle-of-stars.html">
+            
+                    
+                    Problem: Triangle of 55 Stars
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.7.4" data-path="../../Chapter-1-first-steps-in-programming/exercises-first-steps-in-coding/rectangle-area.html">
+            
+                <a href="../../Chapter-1-first-steps-in-programming/exercises-first-steps-in-coding/rectangle-area.html">
+            
+                    
+                    Problem: Rectangle Area
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.7.5" data-path="../../Chapter-1-first-steps-in-programming/exercises-first-steps-in-coding/square-of-stars.html">
+            
+                <a href="../../Chapter-1-first-steps-in-programming/exercises-first-steps-in-coding/square-of-stars.html">
+            
+                    
+                    * Problem: Square of Stars
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.8" data-path="../../Chapter-1-first-steps-in-programming/exercises-graphical-and-web-apps/exercises-graphical-and-web-apps.html">
+            
+                <a href="../../Chapter-1-first-steps-in-programming/exercises-graphical-and-web-apps/exercises-graphical-and-web-apps.html">
+            
+                    
+                    Lab: Graphical and Web Apps
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.3.8.1" data-path="../../Chapter-1-first-steps-in-programming/exercises-graphical-and-web-apps/sumator-graphical/sumator-graphical.html">
+            
+                <a href="../../Chapter-1-first-steps-in-programming/exercises-graphical-and-web-apps/sumator-graphical/sumator-graphical.html">
+            
+                    
+                    Lab: Graphical Application "Summator"
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.8.2" data-path="../../Chapter-1-first-steps-in-programming/exercises-graphical-and-web-apps/sumator-web/sumator-web.html">
+            
+                <a href="../../Chapter-1-first-steps-in-programming/exercises-graphical-and-web-apps/sumator-web/sumator-web.html">
+            
+                    
+                    Lab: Web Application "Summator"
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4" data-path="../../Chapter-2-1-simple-calculations/overview.html">
+            
+                <a href="../../Chapter-2-1-simple-calculations/overview.html">
+            
+                    
+                    2.1. Simple Calculations
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.4.1" data-path="../../Chapter-2-1-simple-calculations/system-console/system-console.html">
+            
+                <a href="../../Chapter-2-1-simple-calculations/system-console/system-console.html">
+            
+                    
+                    The System Console
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.2" data-path="../../Chapter-2-1-simple-calculations/reading-integers-from-console/reading-integers-from-console.html">
+            
+                <a href="../../Chapter-2-1-simple-calculations/reading-integers-from-console/reading-integers-from-console.html">
+            
+                    
+                    Reading Integers from the Console
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.3" data-path="../../Chapter-2-1-simple-calculations/system-console/calculating-square-area.html">
+            
+                <a href="../../Chapter-2-1-simple-calculations/system-console/calculating-square-area.html">
+            
+                    
+                    Example: Calculating Square Area
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.4" data-path="../../Chapter-2-1-simple-calculations/data-types-and-variables/data-types-and-variables.html">
+            
+                <a href="../../Chapter-2-1-simple-calculations/data-types-and-variables/data-types-and-variables.html">
+            
+                    
+                    Data Types and Variables
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.5" data-path="../../Chapter-2-1-simple-calculations/reading-floats-from-console/reading-floats-from-console.html">
+            
+                <a href="../../Chapter-2-1-simple-calculations/reading-floats-from-console/reading-floats-from-console.html">
+            
+                    
+                    Reading Floating Point Numbers
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.6" data-path="../../Chapter-2-1-simple-calculations/reading-text/reading-text.html">
+            
+                <a href="../../Chapter-2-1-simple-calculations/reading-text/reading-text.html">
+            
+                    
+                    Reading a Text from the Console
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.7" data-path="../../Chapter-2-1-simple-calculations/printing-text-and-numbers/printing-text-and-numbers.html">
+            
+                <a href="../../Chapter-2-1-simple-calculations/printing-text-and-numbers/printing-text-and-numbers.html">
+            
+                    
+                    Printing Text and Numbers
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.8" data-path="../../Chapter-2-1-simple-calculations/arithmetical-operations/arithmetical-operations.html">
+            
+                <a href="../../Chapter-2-1-simple-calculations/arithmetical-operations/arithmetical-operations.html">
+            
+                    
+                    Arithmetic Operations
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.9" data-path="../../Chapter-2-1-simple-calculations/concatenating-text-and-numbers/concatenating-text-and-numbers.html">
+            
+                <a href="../../Chapter-2-1-simple-calculations/concatenating-text-and-numbers/concatenating-text-and-numbers.html">
+            
+                    
+                    Concatenating Text and Numbers
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.10" data-path="../../Chapter-2-1-simple-calculations/numerical-expressions/numerical-expressions.html">
+            
+                <a href="../../Chapter-2-1-simple-calculations/numerical-expressions/numerical-expressions.html">
+            
+                    
+                    Numerical Expressions
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.11" data-path="../../Chapter-2-1-simple-calculations/exercises-simple-calculations/exercises-simple-calculations.html">
+            
+                <a href="../../Chapter-2-1-simple-calculations/exercises-simple-calculations/exercises-simple-calculations.html">
+            
+                    
+                    Exercises: Simple Calculations
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.4.11.1" data-path="../../Chapter-2-1-simple-calculations/exercises-simple-calculations/blank-visual-studio-solution.html">
+            
+                <a href="../../Chapter-2-1-simple-calculations/exercises-simple-calculations/blank-visual-studio-solution.html">
+            
+                    
+                    Blank Visual Studio Solution
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.11.2" data-path="../../Chapter-2-1-simple-calculations/exercises-simple-calculations/square-area/square-area.html">
+            
+                <a href="../../Chapter-2-1-simple-calculations/exercises-simple-calculations/square-area/square-area.html">
+            
+                    
+                    Problem: Calculating Square Area
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.11.3" data-path="../../Chapter-2-1-simple-calculations/exercises-simple-calculations/inches-to-centimeters/inches-to-centimeters.html">
+            
+                <a href="../../Chapter-2-1-simple-calculations/exercises-simple-calculations/inches-to-centimeters/inches-to-centimeters.html">
+            
+                    
+                    Problem: Inches to Centimeters
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.11.4" data-path="../../Chapter-2-1-simple-calculations/exercises-simple-calculations/greeting-by-name/greeting-by-name.html">
+            
+                <a href="../../Chapter-2-1-simple-calculations/exercises-simple-calculations/greeting-by-name/greeting-by-name.html">
+            
+                    
+                    Problem: Greeting by Name
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.11.5" data-path="../../Chapter-2-1-simple-calculations/exercises-simple-calculations/concatenate-data/concatenate-data.html">
+            
+                <a href="../../Chapter-2-1-simple-calculations/exercises-simple-calculations/concatenate-data/concatenate-data.html">
+            
+                    
+                    Problem: Concatenating Text and Numbers
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.11.6" data-path="../../Chapter-2-1-simple-calculations/exercises-simple-calculations/trapezoid-area/trapezoid-area.html">
+            
+                <a href="../../Chapter-2-1-simple-calculations/exercises-simple-calculations/trapezoid-area/trapezoid-area.html">
+            
+                    
+                    Problem: Trapezoid Area
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.11.7" data-path="../../Chapter-2-1-simple-calculations/exercises-simple-calculations/circle-area-and-perimeter/circle-area-and-perimeter.html">
+            
+                <a href="../../Chapter-2-1-simple-calculations/exercises-simple-calculations/circle-area-and-perimeter/circle-area-and-perimeter.html">
+            
+                    
+                    Problem: Circle Area and Perimeter
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.11.8" data-path="../../Chapter-2-1-simple-calculations/exercises-simple-calculations/rectangle-area/rectangle-area.html">
+            
+                <a href="../../Chapter-2-1-simple-calculations/exercises-simple-calculations/rectangle-area/rectangle-area.html">
+            
+                    
+                    Problem: Rectangle Area
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.11.9" data-path="../../Chapter-2-1-simple-calculations/exercises-simple-calculations/triangle-area/triangle-area.html">
+            
+                <a href="../../Chapter-2-1-simple-calculations/exercises-simple-calculations/triangle-area/triangle-area.html">
+            
+                    
+                    Problem: Triangle Area
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.11.10" data-path="../../Chapter-2-1-simple-calculations/exercises-simple-calculations/celsius-to-fahrenheit/celsius-to-fahrenheit.html">
+            
+                <a href="../../Chapter-2-1-simple-calculations/exercises-simple-calculations/celsius-to-fahrenheit/celsius-to-fahrenheit.html">
+            
+                    
+                    Problem: From °C Degrees to °F Degrees
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.11.11" data-path="../../Chapter-2-1-simple-calculations/exercises-simple-calculations/radians-to-degrees/radians-to-degrees.html">
+            
+                <a href="../../Chapter-2-1-simple-calculations/exercises-simple-calculations/radians-to-degrees/radians-to-degrees.html">
+            
+                    
+                    Problem: Radians to Degrees
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.11.12" data-path="../../Chapter-2-1-simple-calculations/exercises-simple-calculations/usd-to-bgn/usd-to-bgn.html">
+            
+                <a href="../../Chapter-2-1-simple-calculations/exercises-simple-calculations/usd-to-bgn/usd-to-bgn.html">
+            
+                    
+                    Problem: USD to BGN Converter
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.11.13" data-path="../../Chapter-2-1-simple-calculations/exercises-simple-calculations/currency-converter/currency-converter.html">
+            
+                <a href="../../Chapter-2-1-simple-calculations/exercises-simple-calculations/currency-converter/currency-converter.html">
+            
+                    
+                    Problem: * Currency Converter
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.11.14" data-path="../../Chapter-2-1-simple-calculations/exercises-simple-calculations/1000-days-after-birth/1000-days-after-birth.html">
+            
+                <a href="../../Chapter-2-1-simple-calculations/exercises-simple-calculations/1000-days-after-birth/1000-days-after-birth.html">
+            
+                    
+                    Problem:  ** Date Calculations
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.12" data-path="../../Chapter-2-1-simple-calculations/graphical-apps/graphical-apps.html">
+            
+                <a href="../../Chapter-2-1-simple-calculations/graphical-apps/graphical-apps.html">
+            
+                    
+                    Lab: GUI Apps with Numerical Expressions
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.4.12.1" data-path="../../Chapter-2-1-simple-calculations/graphical-apps/bgn-to-eur-converter/bgn-to-eur-converter.html">
+            
+                <a href="../../Chapter-2-1-simple-calculations/graphical-apps/bgn-to-eur-converter/bgn-to-eur-converter.html">
+            
+                    
+                    GUI Application: Converter from BGN to EUR
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.12.2" data-path="../../Chapter-2-1-simple-calculations/graphical-apps/catch-the-button/catch-the-button.html">
+            
+                <a href="../../Chapter-2-1-simple-calculations/graphical-apps/catch-the-button/catch-the-button.html">
+            
+                    
+                    GUI Application: * Catch the Button!
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.13" >
+            
+                <span>
+            
+                    
+                    Calculating Square Area
+            
+                </span>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5" data-path="../../Chapter-2-2-simple-calculations-exam-problems/overview.html">
+            
+                <a href="../../Chapter-2-2-simple-calculations-exam-problems/overview.html">
+            
+                    
+                    2.2. Simple Calculations – Exam Problems
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.5.1" data-path="../../Chapter-2-2-simple-calculations-exam-problems/exam-problems/training-lab/training-lab.html">
+            
+                <a href="../../Chapter-2-2-simple-calculations-exam-problems/exam-problems/training-lab/training-lab.html">
+            
+                    
+                    Problem: Training Lab
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5.2" data-path="../../Chapter-2-2-simple-calculations-exam-problems/exam-problems/vegetables-market/vegetables-market.html">
+            
+                <a href="../../Chapter-2-2-simple-calculations-exam-problems/exam-problems/vegetables-market/vegetables-market.html">
+            
+                    
+                    Problem: Vegetable Market
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5.3" data-path="../../Chapter-2-2-simple-calculations-exam-problems/exam-problems/change-tiles/change-tiles.html">
+            
+                <a href="../../Chapter-2-2-simple-calculations-exam-problems/exam-problems/change-tiles/change-tiles.html">
+            
+                    
+                    Problem: Changing Tiles
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5.4" data-path="../../Chapter-2-2-simple-calculations-exam-problems/exam-problems/money/money.html">
+            
+                <a href="../../Chapter-2-2-simple-calculations-exam-problems/exam-problems/money/money.html">
+            
+                    
+                    Problem: Money
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5.5" data-path="../../Chapter-2-2-simple-calculations-exam-problems/exam-problems/daily-earnings/daily-earnings.html">
+            
+                <a href="../../Chapter-2-2-simple-calculations-exam-problems/exam-problems/daily-earnings/daily-earnings.html">
+            
+                    
+                    Problem: Daily Earnings
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6" data-path="../../Chapter-3-1-simple-conditions/overview.html">
+            
+                <a href="../../Chapter-3-1-simple-conditions/overview.html">
+            
+                    
+                    3.1. Simple Conditions
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.6.1" data-path="../../Chapter-3-1-simple-conditions/comparing-numbers/comparing-numbers.html">
+            
+                <a href="../../Chapter-3-1-simple-conditions/comparing-numbers/comparing-numbers.html">
+            
+                    
+                    Comparing Numbers
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6.2" data-path="../../Chapter-3-1-simple-conditions/simple-conditions/simple-conditions.html">
+            
+                <a href="../../Chapter-3-1-simple-conditions/simple-conditions/simple-conditions.html">
+            
+                    
+                    Simple If-Else Conditions
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6.3" data-path="../../Chapter-3-1-simple-conditions/comparing-numbers/if-else-conditions-examples.html">
+            
+                <a href="../../Chapter-3-1-simple-conditions/comparing-numbers/if-else-conditions-examples.html">
+            
+                    
+                    If-Else Conditions – Examples
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6.4" data-path="../../Chapter-3-1-simple-conditions/variable-lifetime/variable-lifetime.html">
+            
+                <a href="../../Chapter-3-1-simple-conditions/variable-lifetime/variable-lifetime.html">
+            
+                    
+                    Variable Scope
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6.5" data-path="../../Chapter-3-1-simple-conditions/sequence-of-conditions/sequence-of-conditions.html">
+            
+                <a href="../../Chapter-3-1-simple-conditions/sequence-of-conditions/sequence-of-conditions.html">
+            
+                    
+                    Sequence of If-Else Conditions
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6.6" data-path="../../Chapter-3-1-simple-conditions/debugging/debugging.html">
+            
+                <a href="../../Chapter-3-1-simple-conditions/debugging/debugging.html">
+            
+                    
+                    Debugging the Code
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6.7" data-path="../../Chapter-3-1-simple-conditions/exercises-simple-conditions/exercises-simple-conditions.html">
+            
+                <a href="../../Chapter-3-1-simple-conditions/exercises-simple-conditions/exercises-simple-conditions.html">
+            
+                    
+                    Exercises: Simple Conditions
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.6.7.1" data-path="../../Chapter-3-1-simple-conditions/exercises-simple-conditions/excellent-grade/excellent-grade.html">
+            
+                <a href="../../Chapter-3-1-simple-conditions/exercises-simple-conditions/excellent-grade/excellent-grade.html">
+            
+                    
+                    Problem: Excellent Grade
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6.7.2" data-path="../../Chapter-3-1-simple-conditions/exercises-simple-conditions/excellent-grade-or-not/excellent-grade-or-not.html">
+            
+                <a href="../../Chapter-3-1-simple-conditions/exercises-simple-conditions/excellent-grade-or-not/excellent-grade-or-not.html">
+            
+                    
+                    Problem: Excellent Grade or Not
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6.7.3" data-path="../../Chapter-3-1-simple-conditions/exercises-simple-conditions/even-or-odd/even-or-odd.html">
+            
+                <a href="../../Chapter-3-1-simple-conditions/exercises-simple-conditions/even-or-odd/even-or-odd.html">
+            
+                    
+                    Problem: Even or Odd
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6.7.4" data-path="../../Chapter-3-1-simple-conditions/exercises-simple-conditions/greater-number/greater-number.html">
+            
+                <a href="../../Chapter-3-1-simple-conditions/exercises-simple-conditions/greater-number/greater-number.html">
+            
+                    
+                    Problem: Finding the Greater Number
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6.7.5" data-path="../../Chapter-3-1-simple-conditions/exercises-simple-conditions/digit-in-english/digit-in-english.html">
+            
+                <a href="../../Chapter-3-1-simple-conditions/exercises-simple-conditions/digit-in-english/digit-in-english.html">
+            
+                    
+                    Problem: Typing a Digit in Words
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6.7.6" data-path="../../Chapter-3-1-simple-conditions/exercises-simple-conditions/bonus-score/bonus-score.html">
+            
+                <a href="../../Chapter-3-1-simple-conditions/exercises-simple-conditions/bonus-score/bonus-score.html">
+            
+                    
+                    Problem: Bonus Score
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6.7.7" data-path="../../Chapter-3-1-simple-conditions/exercises-simple-conditions/guess-the-password/guess-the-password.html">
+            
+                <a href="../../Chapter-3-1-simple-conditions/exercises-simple-conditions/guess-the-password/guess-the-password.html">
+            
+                    
+                    Problem: Guess the Password
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6.7.8" data-path="../../Chapter-3-1-simple-conditions/exercises-simple-conditions/sum-seconds/sum-seconds.html">
+            
+                <a href="../../Chapter-3-1-simple-conditions/exercises-simple-conditions/sum-seconds/sum-seconds.html">
+            
+                    
+                    Problem: Summing Up Seconds
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6.7.9" data-path="../../Chapter-3-1-simple-conditions/exercises-simple-conditions/metric-converter/metric-converter.html">
+            
+                <a href="../../Chapter-3-1-simple-conditions/exercises-simple-conditions/metric-converter/metric-converter.html">
+            
+                    
+                    Problem: Metric Converter
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6.7.10" data-path="../../Chapter-3-1-simple-conditions/exercises-simple-conditions/number-100-to-200/number-100-to-200.html">
+            
+                <a href="../../Chapter-3-1-simple-conditions/exercises-simple-conditions/number-100-to-200/number-100-to-200.html">
+            
+                    
+                    Problem: Numbers from 100 to 200
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6.7.11" data-path="../../Chapter-3-1-simple-conditions/exercises-simple-conditions/equal-words/equal-words.html">
+            
+                <a href="../../Chapter-3-1-simple-conditions/exercises-simple-conditions/equal-words/equal-words.html">
+            
+                    
+                    Problem: Identical Words
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6.7.12" data-path="../../Chapter-3-1-simple-conditions/exercises-simple-conditions/speed-info/speed-info.html">
+            
+                <a href="../../Chapter-3-1-simple-conditions/exercises-simple-conditions/speed-info/speed-info.html">
+            
+                    
+                    Problem: Speed Assessment
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6.7.13" data-path="../../Chapter-3-1-simple-conditions/exercises-simple-conditions/area-of-figures/area-of-figures.html">
+            
+                <a href="../../Chapter-3-1-simple-conditions/exercises-simple-conditions/area-of-figures/area-of-figures.html">
+            
+                    
+                    Problem: Areas of Figures
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6.7.14" data-path="../../Chapter-3-1-simple-conditions/exercises-simple-conditions/time-plus-15-mins/time-plus-15-mins.html">
+            
+                <a href="../../Chapter-3-1-simple-conditions/exercises-simple-conditions/time-plus-15-mins/time-plus-15-mins.html">
+            
+                    
+                    Problem: Time + 15 Minutes
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6.7.15" data-path="../../Chapter-3-1-simple-conditions/exercises-simple-conditions/equal-numbers/equal-numbers.html">
+            
+                <a href="../../Chapter-3-1-simple-conditions/exercises-simple-conditions/equal-numbers/equal-numbers.html">
+            
+                    
+                    Problem: Equal 3 Numbers
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6.7.16" data-path="../../Chapter-3-1-simple-conditions/exercises-simple-conditions/number-to-words/number-to-words.html">
+            
+                <a href="../../Chapter-3-1-simple-conditions/exercises-simple-conditions/number-to-words/number-to-words.html">
+            
+                    
+                    Problem: * Writing the Numbers from 0 to 100 in Words
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6.8" data-path="../../Chapter-3-1-simple-conditions/exercises-simple-conditions/graphical-app/graphical-app.html">
+            
+                <a href="../../Chapter-3-1-simple-conditions/exercises-simple-conditions/graphical-app/graphical-app.html">
+            
+                    
+                    Lab: GUI App "Currency Converter"
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.7" data-path="../../Chapter-3-2-simple-conditions-exam-problems/overview.html">
+            
+                <a href="../../Chapter-3-2-simple-conditions-exam-problems/overview.html">
+            
+                    
+                    3.2. Simple Conditions – Exam Problems
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.7.1" data-path="../../Chapter-3-2-simple-conditions-exam-problems/exam-problems/ticket-price/ticket-price.html">
+            
+                <a href="../../Chapter-3-2-simple-conditions-exam-problems/exam-problems/ticket-price/ticket-price.html">
+            
+                    
+                    Problem: Transportation Price
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.7.2" data-path="../../Chapter-3-2-simple-conditions-exam-problems/exam-problems/pipes-in-pool/pipes-in-pool.html">
+            
+                <a href="../../Chapter-3-2-simple-conditions-exam-problems/exam-problems/pipes-in-pool/pipes-in-pool.html">
+            
+                    
+                    Problem: Pipes in a Pool
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.7.3" data-path="../../Chapter-3-2-simple-conditions-exam-problems/exam-problems/sleepy-tom-cat/sleepy-tom-cat.html">
+            
+                <a href="../../Chapter-3-2-simple-conditions-exam-problems/exam-problems/sleepy-tom-cat/sleepy-tom-cat.html">
+            
+                    
+                    Problem: Sleepy Tom Cat
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.7.4" data-path="../../Chapter-3-2-simple-conditions-exam-problems/exam-problems/harvest/harvest.html">
+            
+                <a href="../../Chapter-3-2-simple-conditions-exam-problems/exam-problems/harvest/harvest.html">
+            
+                    
+                    Problem: Harvest
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.7.5" data-path="../../Chapter-3-2-simple-conditions-exam-problems/exam-problems/firm/firm.html">
+            
+                <a href="../../Chapter-3-2-simple-conditions-exam-problems/exam-problems/firm/firm.html">
+            
+                    
+                    Problem: Firm
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.8" data-path="../../Chapter-4-1-complex-conditions/overview.html">
+            
+                <a href="../../Chapter-4-1-complex-conditions/overview.html">
+            
+                    
+                    4.1. More Complex Conditions
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.8.1" data-path="../../Chapter-4-1-complex-conditions/nested-conditions/nested-conditions.html">
+            
+                <a href="../../Chapter-4-1-complex-conditions/nested-conditions/nested-conditions.html">
+            
+                    
+                    Nested Conditions
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.8.2" data-path="../../Chapter-4-1-complex-conditions/nested-conditions/example-personal-titles.html">
+            
+                <a href="../../Chapter-4-1-complex-conditions/nested-conditions/example-personal-titles.html">
+            
+                    
+                    Example: Personal Titles
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.8.3" data-path="../../Chapter-4-1-complex-conditions/nested-conditions/example-small-shop.html">
+            
+                <a href="../../Chapter-4-1-complex-conditions/nested-conditions/example-small-shop.html">
+            
+                    
+                    Example: Small Shop
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.8.4" data-path="../../Chapter-4-1-complex-conditions/complex-conditions/complex-conditions.html">
+            
+                <a href="../../Chapter-4-1-complex-conditions/complex-conditions/complex-conditions.html">
+            
+                    
+                    More Complex Conditions
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.8.4.1" data-path="../../Chapter-4-1-complex-conditions/complex-conditions/complex-conditions/logical-and.html">
+            
+                <a href="../../Chapter-4-1-complex-conditions/complex-conditions/complex-conditions/logical-and.html">
+            
+                    
+                    Logical "AND"
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.8.4.2" data-path="../../Chapter-4-1-complex-conditions/complex-conditions/complex-conditions/logical-or.html">
+            
+                <a href="../../Chapter-4-1-complex-conditions/complex-conditions/complex-conditions/logical-or.html">
+            
+                    
+                    Logical "OR"
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.8.4.3" data-path="../../Chapter-4-1-complex-conditions/complex-conditions/complex-conditions/logical-not.html">
+            
+                <a href="../../Chapter-4-1-complex-conditions/complex-conditions/complex-conditions/logical-not.html">
+            
+                    
+                    Logical "NOT"
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.8.5" data-path="../../Chapter-4-1-complex-conditions/complex-logical-conditions/complex-logical-conditions.html">
+            
+                <a href="../../Chapter-4-1-complex-conditions/complex-logical-conditions/complex-logical-conditions.html">
+            
+                    
+                    Complex Conditions – Examples
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.8.6" data-path="../../Chapter-4-1-complex-conditions/switch-case-construction/switch-case-construction.html">
+            
+                <a href="../../Chapter-4-1-complex-conditions/switch-case-construction/switch-case-construction.html">
+            
+                    
+                    Switch-Case Conditional Statement
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.8.7" data-path="../../Chapter-4-1-complex-conditions/exercises-complex-conditions/exercises-complex-conditions.html">
+            
+                <a href="../../Chapter-4-1-complex-conditions/exercises-complex-conditions/exercises-complex-conditions.html">
+            
+                    
+                    Exercises: More Complex Conditions
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.8.7.1" data-path="../../Chapter-4-1-complex-conditions/exercises-complex-conditions/volleyball/problem-cinema.html">
+            
+                <a href="../../Chapter-4-1-complex-conditions/exercises-complex-conditions/volleyball/problem-cinema.html">
+            
+                    
+                    Problem: Cinema
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.8.7.2" data-path="../../Chapter-4-1-complex-conditions/exercises-complex-conditions/volleyball/volleyball.html">
+            
+                <a href="../../Chapter-4-1-complex-conditions/exercises-complex-conditions/volleyball/volleyball.html">
+            
+                    
+                    Problem: Volleyball
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.8.7.3" data-path="../../Chapter-4-1-complex-conditions/exercises-complex-conditions/point-in-the-figure/point-in-the-figure.html">
+            
+                <a href="../../Chapter-4-1-complex-conditions/exercises-complex-conditions/point-in-the-figure/point-in-the-figure.html">
+            
+                    
+                    Problem: * Point in the Figure
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.8.8" data-path="../../Chapter-4-1-complex-conditions/graphical-app/graphical-app.html">
+            
+                <a href="../../Chapter-4-1-complex-conditions/graphical-app/graphical-app.html">
+            
+                    
+                    Lab: GUI App "Point in Rectangle"
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.9" data-path="../../Chapter-4-2-complex-conditions-exam-problems/overview.html">
+            
+                <a href="../../Chapter-4-2-complex-conditions-exam-problems/overview.html">
+            
+                    
+                    4.2. More Complex Conditions – Exam Problems
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.9.1" data-path="../../Chapter-4-2-complex-conditions-exam-problems/exam-problems/on-time-for-the-exam/on-time-for-the-exam.html">
+            
+                <a href="../../Chapter-4-2-complex-conditions-exam-problems/exam-problems/on-time-for-the-exam/on-time-for-the-exam.html">
+            
+                    
+                    Problem: On Time for the Exam
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.9.2" data-path="../../Chapter-4-2-complex-conditions-exam-problems/exam-problems/trip/trip.html">
+            
+                <a href="../../Chapter-4-2-complex-conditions-exam-problems/exam-problems/trip/trip.html">
+            
+                    
+                    Problem: Trip
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.9.3" data-path="../../Chapter-4-2-complex-conditions-exam-problems/exam-problems/operations/operations.html">
+            
+                <a href="../../Chapter-4-2-complex-conditions-exam-problems/exam-problems/operations/operations.html">
+            
+                    
+                    Problem: Operations with Numbers
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.9.4" data-path="../../Chapter-4-2-complex-conditions-exam-problems/exam-problems/match-tickets/match-tickets.html">
+            
+                <a href="../../Chapter-4-2-complex-conditions-exam-problems/exam-problems/match-tickets/match-tickets.html">
+            
+                    
+                    Problem: Game Tickets
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.9.5" data-path="../../Chapter-4-2-complex-conditions-exam-problems/exam-problems/hotel-room/hotel-room.html">
+            
+                <a href="../../Chapter-4-2-complex-conditions-exam-problems/exam-problems/hotel-room/hotel-room.html">
+            
+                    
+                    Problem: Hotel Room
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.10" data-path="../../Chapter-5-1-loops/overview.html">
+            
+                <a href="../../Chapter-5-1-loops/overview.html">
+            
+                    
+                    5.1. Loops (Repetitions)
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.10.1" data-path="../../Chapter-5-1-loops/for-loop/for-loop.html">
+            
+                <a href="../../Chapter-5-1-loops/for-loop/for-loop.html">
+            
+                    
+                    For Loops – Concepts
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.10.1.1" data-path="../../Chapter-5-1-loops/for-loop/for-loop/example-numbers-from-1-to-100.html">
+            
+                <a href="../../Chapter-5-1-loops/for-loop/for-loop/example-numbers-from-1-to-100.html">
+            
+                    
+                    Example: Numbers from 1 to 100
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.10.1.2" data-path="../../Chapter-5-1-loops/for-loop/for-loop/example-numbers-ending-by-7.html">
+            
+                <a href="../../Chapter-5-1-loops/for-loop/for-loop/example-numbers-ending-by-7.html">
+            
+                    
+                    Example: Numbers Ending by 7
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.10.1.3" data-path="../../Chapter-5-1-loops/for-loop/for-loop/example-all-latin-letters.html">
+            
+                <a href="../../Chapter-5-1-loops/for-loop/for-loop/example-all-latin-letters.html">
+            
+                    
+                    Example: All Latin Letters
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.10.2" data-path="../../Chapter-5-1-loops/code-snippet-for-for-loop/code-snippet-for-for-loop.html">
+            
+                <a href="../../Chapter-5-1-loops/code-snippet-for-for-loop/code-snippet-for-for-loop.html">
+            
+                    
+                    Code Snippet for For Loop in Visual Studio
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.10.3" data-path="../../Chapter-5-1-loops/exercises-loops/exercises-loops.html">
+            
+                <a href="../../Chapter-5-1-loops/exercises-loops/exercises-loops.html">
+            
+                    
+                    Exercises: Loops
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.10.3.1" data-path="../../Chapter-5-1-loops/examples-for-loops/example-sum-numbers/example-sum-numbers.html">
+            
+                <a href="../../Chapter-5-1-loops/examples-for-loops/example-sum-numbers/example-sum-numbers.html">
+            
+                    
+                    Problem: Summing up Numbers
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.10.3.2" data-path="../../Chapter-5-1-loops/examples-for-loops/example-max-number/example-max-number.html">
+            
+                <a href="../../Chapter-5-1-loops/examples-for-loops/example-max-number/example-max-number.html">
+            
+                    
+                    Problem: Max Number
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.10.3.3" data-path="../../Chapter-5-1-loops/examples-for-loops/example-min-number/example-min-number.html">
+            
+                <a href="../../Chapter-5-1-loops/examples-for-loops/example-min-number/example-min-number.html">
+            
+                    
+                    Problem: Min Number
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.10.3.4" data-path="../../Chapter-5-1-loops/examples-for-loops/example-left-and-right-sum/example-left-and-right-sum.html">
+            
+                <a href="../../Chapter-5-1-loops/examples-for-loops/example-left-and-right-sum/example-left-and-right-sum.html">
+            
+                    
+                    Problem: Left and Right Sum
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.10.3.5" data-path="../../Chapter-5-1-loops/examples-for-loops/example-even-odd-sum/example-even-odd-sum.html">
+            
+                <a href="../../Chapter-5-1-loops/examples-for-loops/example-even-odd-sum/example-even-odd-sum.html">
+            
+                    
+                    Problem: Even / Odd Sum
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.10.3.6" data-path="../../Chapter-5-1-loops/examples-for-loops/example-vowels-sum/example-vowels-sum.html">
+            
+                <a href="../../Chapter-5-1-loops/examples-for-loops/example-vowels-sum/example-vowels-sum.html">
+            
+                    
+                    Problem: Sum of Vowels
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.10.3.7" data-path="../../Chapter-5-1-loops/exercises-loops/half-sum-element.html">
+            
+                <a href="../../Chapter-5-1-loops/exercises-loops/half-sum-element.html">
+            
+                    
+                    Problem: Element Equal to the Sum of the Rest
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.10.3.8" data-path="../../Chapter-5-1-loops/exercises-loops/even-odd-positions.html">
+            
+                <a href="../../Chapter-5-1-loops/exercises-loops/even-odd-positions.html">
+            
+                    
+                    Problem: Even / Odd Positions
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.10.3.9" data-path="../../Chapter-5-1-loops/exercises-loops/equal-pairs.html">
+            
+                <a href="../../Chapter-5-1-loops/exercises-loops/equal-pairs.html">
+            
+                    
+                    Problem: Equal Pairs
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.10.4" data-path="../../Chapter-5-1-loops/graphical-and-web-apps/drawing-with-turtle/drawing-with-turtle.html">
+            
+                <a href="../../Chapter-5-1-loops/graphical-and-web-apps/drawing-with-turtle/drawing-with-turtle.html">
+            
+                    
+                    Lab: Drawing with a Turtle – Graphical (GUI) Application
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.10.5" data-path="../../Chapter-5-1-loops/graphical-and-web-apps/graphical-and-web-apps.html">
+            
+                <a href="../../Chapter-5-1-loops/graphical-and-web-apps/graphical-and-web-apps.html">
+            
+                    
+                    Lab Exercises: Turtle Graphics
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.10.5.1" data-path="../../Chapter-5-1-loops/graphical-and-web-apps/drawing-hexagon.html">
+            
+                <a href="../../Chapter-5-1-loops/graphical-and-web-apps/drawing-hexagon.html">
+            
+                    
+                    Problem: * Draw a Hexagon with the Turtle
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.10.5.2" data-path="../../Chapter-5-1-loops/graphical-and-web-apps/drawing-star.html">
+            
+                <a href="../../Chapter-5-1-loops/graphical-and-web-apps/drawing-star.html">
+            
+                    
+                    Problem: * Draw a Star with the Turtle
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.10.5.3" data-path="../../Chapter-5-1-loops/graphical-and-web-apps/drawing-spiral.html">
+            
+                <a href="../../Chapter-5-1-loops/graphical-and-web-apps/drawing-spiral.html">
+            
+                    
+                    Problem: * Draw a Spiral with the Turtle
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.10.5.4" data-path="../../Chapter-5-1-loops/graphical-and-web-apps/drawing-sun.html">
+            
+                <a href="../../Chapter-5-1-loops/graphical-and-web-apps/drawing-sun.html">
+            
+                    
+                    Problem: * Draw a Sun with the Turtle
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.10.5.5" data-path="../../Chapter-5-1-loops/graphical-and-web-apps/drawing-spiral-triangle.html">
+            
+                <a href="../../Chapter-5-1-loops/graphical-and-web-apps/drawing-spiral-triangle.html">
+            
+                    
+                    Problem: * Draw a Spiral Triangle with the Turtle
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.11" data-path="../../Chapter-5-2-loops-exam-problems/overview.html">
+            
+                <a href="../../Chapter-5-2-loops-exam-problems/overview.html">
+            
+                    
+                    5.2. Loops – Exam Problems
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.11.1" data-path="../../Chapter-5-2-loops-exam-problems/exam-problems/histogram/histogram.html">
+            
+                <a href="../../Chapter-5-2-loops-exam-problems/exam-problems/histogram/histogram.html">
+            
+                    
+                    Problem: Histogram
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.11.2" data-path="../../Chapter-5-2-loops-exam-problems/exam-problems/smart-lily/smart-lily.html">
+            
+                <a href="../../Chapter-5-2-loops-exam-problems/exam-problems/smart-lily/smart-lily.html">
+            
+                    
+                    Problem: Smart Lilly
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.11.3" data-path="../../Chapter-5-2-loops-exam-problems/exam-problems/back-to-the-past/back-to-the-past.html">
+            
+                <a href="../../Chapter-5-2-loops-exam-problems/exam-problems/back-to-the-past/back-to-the-past.html">
+            
+                    
+                    Problem: Back to the Past
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.11.4" data-path="../../Chapter-5-2-loops-exam-problems/exam-problems/hospital/hospital.html">
+            
+                <a href="../../Chapter-5-2-loops-exam-problems/exam-problems/hospital/hospital.html">
+            
+                    
+                    Problem: Hospital
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.11.5" data-path="../../Chapter-5-2-loops-exam-problems/exam-problems/division/division.html">
+            
+                <a href="../../Chapter-5-2-loops-exam-problems/exam-problems/division/division.html">
+            
+                    
+                    Problem: Division without Remainder
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.11.6" data-path="../../Chapter-5-2-loops-exam-problems/exam-problems/logistics/logistics.html">
+            
+                <a href="../../Chapter-5-2-loops-exam-problems/exam-problems/logistics/logistics.html">
+            
+                    
+                    Problem: Logistics
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.12" data-path="../../Chapter-6-1-nested-loops/overview.html">
+            
+                <a href="../../Chapter-6-1-nested-loops/overview.html">
+            
+                    
+                    6.1. Nested Loops
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.12.1" data-path="../../Chapter-6-1-nested-loops/nested-loops/nested-loops.html">
+            
+                <a href="../../Chapter-6-1-nested-loops/nested-loops/nested-loops.html">
+            
+                    
+                    Nested Loops
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.12.1.1" data-path="../../Chapter-6-1-nested-loops/example-rectangle-10x10/example-rectangle-10x10.html">
+            
+                <a href="../../Chapter-6-1-nested-loops/example-rectangle-10x10/example-rectangle-10x10.html">
+            
+                    
+                    Example: Rectangle of 10 x 10 Stars
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.12.1.2" data-path="../../Chapter-6-1-nested-loops/example-rectangle-NxN/example-rectangle-NxN.html">
+            
+                <a href="../../Chapter-6-1-nested-loops/example-rectangle-NxN/example-rectangle-NxN.html">
+            
+                    
+                    Example: Rectangle of N x N Stars
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.12.1.3" data-path="../../Chapter-6-1-nested-loops/nested-loops/example-square-of-stars.html">
+            
+                <a href="../../Chapter-6-1-nested-loops/nested-loops/example-square-of-stars.html">
+            
+                    
+                    Example: Square of Stars
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.12.1.4" data-path="../../Chapter-6-1-nested-loops/nested-loops/example-triangle-of-dollars.html">
+            
+                <a href="../../Chapter-6-1-nested-loops/nested-loops/example-triangle-of-dollars.html">
+            
+                    
+                    Example: Triangle of Dollars
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.12.1.5" data-path="../../Chapter-6-1-nested-loops/nested-loops/example-square-frame.html">
+            
+                <a href="../../Chapter-6-1-nested-loops/nested-loops/example-square-frame.html">
+            
+                    
+                    Example: Square Frame
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.12.2" data-path="../../Chapter-6-1-nested-loops/drawing-more-complex-figures/drawing-more-complex-figures.html">
+            
+                <a href="../../Chapter-6-1-nested-loops/drawing-more-complex-figures/drawing-more-complex-figures.html">
+            
+                    
+                    Exercises: Drawing Figures
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.12.2.1" data-path="../../Chapter-6-1-nested-loops/nested-loops/example-rhombus-of-stars.html">
+            
+                <a href="../../Chapter-6-1-nested-loops/nested-loops/example-rhombus-of-stars.html">
+            
+                    
+                    Problem: Rhombus of Stars
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.12.2.2" data-path="../../Chapter-6-1-nested-loops/nested-loops/example-christmas-tree.html">
+            
+                <a href="../../Chapter-6-1-nested-loops/nested-loops/example-christmas-tree.html">
+            
+                    
+                    Problem: Christmas Tree
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.12.2.3" data-path="../../Chapter-6-1-nested-loops/drawing-more-complex-figures/sunglasses/sunglasses.html">
+            
+                <a href="../../Chapter-6-1-nested-loops/drawing-more-complex-figures/sunglasses/sunglasses.html">
+            
+                    
+                    Problem: Sunglasses
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.12.2.4" data-path="../../Chapter-6-1-nested-loops/drawing-more-complex-figures/house/house.html">
+            
+                <a href="../../Chapter-6-1-nested-loops/drawing-more-complex-figures/house/house.html">
+            
+                    
+                    Problem: House
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.12.2.5" data-path="../../Chapter-6-1-nested-loops/drawing-more-complex-figures/diamond/diamond.html">
+            
+                <a href="../../Chapter-6-1-nested-loops/drawing-more-complex-figures/diamond/diamond.html">
+            
+                    
+                    Problem: Diamond
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.12.3" data-path="../../Chapter-6-1-nested-loops/exercise-drawing-figures-in-web-app/exercise-drawing-figures-in-web-app.html">
+            
+                <a href="../../Chapter-6-1-nested-loops/exercise-drawing-figures-in-web-app/exercise-drawing-figures-in-web-app.html">
+            
+                    
+                    Lab: Drawing Ratings in a Web
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.13" data-path="../../Chapter-6-2-nested-loops-exam-problems/overview.html">
+            
+                <a href="../../Chapter-6-2-nested-loops-exam-problems/overview.html">
+            
+                    
+                    6.2. Nested Loops – Exam Problems
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.13.1" data-path="../../Chapter-6-2-nested-loops-exam-problems/exam-problems/draw-fort/draw-fort.html">
+            
+                <a href="../../Chapter-6-2-nested-loops-exam-problems/exam-problems/draw-fort/draw-fort.html">
+            
+                    
+                    Problem: Drawing a Fort
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.13.2" data-path="../../Chapter-6-2-nested-loops-exam-problems/exam-problems/butterfly/butterfly.html">
+            
+                <a href="../../Chapter-6-2-nested-loops-exam-problems/exam-problems/butterfly/butterfly.html">
+            
+                    
+                    Problem: Butterfly
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.13.3" data-path="../../Chapter-6-2-nested-loops-exam-problems/exam-problems/stop/stop.html">
+            
+                <a href="../../Chapter-6-2-nested-loops-exam-problems/exam-problems/stop/stop.html">
+            
+                    
+                    Problem: "Stop" Sign
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.13.4" data-path="../../Chapter-6-2-nested-loops-exam-problems/exam-problems/arrow/arrow.html">
+            
+                <a href="../../Chapter-6-2-nested-loops-exam-problems/exam-problems/arrow/arrow.html">
+            
+                    
+                    Problem: Arrow
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.13.5" data-path="../../Chapter-6-2-nested-loops-exam-problems/exam-problems/axe/axe.html">
+            
+                <a href="../../Chapter-6-2-nested-loops-exam-problems/exam-problems/axe/axe.html">
+            
+                    
+                    Problem: Axe
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.14" data-path="../../Chapter-7-1-complex-loops/overview.html">
+            
+                <a href="../../Chapter-7-1-complex-loops/overview.html">
+            
+                    
+                    7.1. More Complex Loops
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.14.1" data-path="../../Chapter-7-1-complex-loops/loop-step/loop-step.html">
+            
+                <a href="../../Chapter-7-1-complex-loops/loop-step/loop-step.html">
+            
+                    
+                    For Loop with Step
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.14.1.1" data-path="../../Chapter-7-1-complex-loops/loop-step/loop-step/example-numbers-n1.html">
+            
+                <a href="../../Chapter-7-1-complex-loops/loop-step/loop-step/example-numbers-n1.html">
+            
+                    
+                    Example: Numbers N...1
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.14.1.2" data-path="../../Chapter-7-1-complex-loops/loop-step/loop-step/example-numbers-12n.html">
+            
+                <a href="../../Chapter-7-1-complex-loops/loop-step/loop-step/example-numbers-12n.html">
+            
+                    
+                    Example: Numbers 1...2^n
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.14.1.3" data-path="../../Chapter-7-1-complex-loops/loop-step/loop-step/example-even-powers-of-2.html">
+            
+                <a href="../../Chapter-7-1-complex-loops/loop-step/loop-step/example-even-powers-of-2.html">
+            
+                    
+                    Example: Even Powers of 2
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.14.2" data-path="../../Chapter-7-1-complex-loops/while-loop/while-loop.html">
+            
+                <a href="../../Chapter-7-1-complex-loops/while-loop/while-loop.html">
+            
+                    
+                    While Loop
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.14.2.1" data-path="../../Chapter-7-1-complex-loops/while-loop/while-loop/example-number-in-range-1100.html">
+            
+                <a href="../../Chapter-7-1-complex-loops/while-loop/while-loop/example-number-in-range-1100.html">
+            
+                    
+                    Example: Number in Range 1…100
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.14.3" data-path="../../Chapter-7-1-complex-loops/greatest-common-divisor/greatest-common-divisor.html">
+            
+                <a href="../../Chapter-7-1-complex-loops/greatest-common-divisor/greatest-common-divisor.html">
+            
+                    
+                    Greatest Common Divisor (GCD)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.14.4" data-path="../../Chapter-7-1-complex-loops/do-while-loop/do-while-loop.html">
+            
+                <a href="../../Chapter-7-1-complex-loops/do-while-loop/do-while-loop.html">
+            
+                    
+                    Do-While Loop
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.14.4.1" data-path="../../Chapter-7-1-complex-loops/do-while-loop/do-while-loop/example-sum-of-digits.html">
+            
+                <a href="../../Chapter-7-1-complex-loops/do-while-loop/do-while-loop/example-sum-of-digits.html">
+            
+                    
+                    Example: Sum of Digits
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.14.5" data-path="../../Chapter-7-1-complex-loops/infinite-loops/infinite-loops.html">
+            
+                <a href="../../Chapter-7-1-complex-loops/infinite-loops/infinite-loops.html">
+            
+                    
+                    Infinite Loops with Break
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.14.5.1" data-path="../../Chapter-7-1-complex-loops/infinite-loops/infinite-loops/example-prime-number-checking.html">
+            
+                <a href="../../Chapter-7-1-complex-loops/infinite-loops/infinite-loops/example-prime-number-checking.html">
+            
+                    
+                    Example: Prime Number Checking
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.14.5.2" data-path="../../Chapter-7-1-complex-loops/infinite-loops/infinite-loops/example-enter-an-even-number.html">
+            
+                <a href="../../Chapter-7-1-complex-loops/infinite-loops/infinite-loops/example-enter-an-even-number.html">
+            
+                    
+                    Example: Enter an Even Number
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.14.6" data-path="../../Chapter-7-1-complex-loops/nested-loops-and-break/nested-loops-and-break.html">
+            
+                <a href="../../Chapter-7-1-complex-loops/nested-loops-and-break/nested-loops-and-break.html">
+            
+                    
+                    Nested Loops and Break
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.14.7" data-path="../../Chapter-7-1-complex-loops/try-catch/try-catch.html">
+            
+                <a href="../../Chapter-7-1-complex-loops/try-catch/try-catch.html">
+            
+                    
+                    Handling Errors: Try-Catch
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.14.8" data-path="../../Chapter-7-1-complex-loops/exercises-with-loops/exercises-with-loops.html">
+            
+                <a href="../../Chapter-7-1-complex-loops/exercises-with-loops/exercises-with-loops.html">
+            
+                    
+                    Exercises: More Complex Loops
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.14.8.1" data-path="../../Chapter-7-1-complex-loops/exercises-with-loops/fibonacci-numbers/fibonacci-numbers.html">
+            
+                <a href="../../Chapter-7-1-complex-loops/exercises-with-loops/fibonacci-numbers/fibonacci-numbers.html">
+            
+                    
+                    Problem: Fibonacci Numbers
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.14.8.2" data-path="../../Chapter-7-1-complex-loops/exercises-with-loops/number-pyramid/number-pyramid.html">
+            
+                <a href="../../Chapter-7-1-complex-loops/exercises-with-loops/number-pyramid/number-pyramid.html">
+            
+                    
+                    Problem: Numbers Pyramid
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.14.8.3" data-path="../../Chapter-7-1-complex-loops/exercises-with-loops/number-table/number-table.html">
+            
+                <a href="../../Chapter-7-1-complex-loops/exercises-with-loops/number-table/number-table.html">
+            
+                    
+                    Problem: Numbers Table
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.14.9" data-path="../../Chapter-7-1-complex-loops/web-app/web-apps-with-complex-loops.html">
+            
+                <a href="../../Chapter-7-1-complex-loops/web-app/web-apps-with-complex-loops.html">
+            
+                    
+                    Lab: Web Application with Complex Loops
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.15" data-path="../../Chapter-7-2-complex-loops-exam-problems/overview.html">
+            
+                <a href="../../Chapter-7-2-complex-loops-exam-problems/overview.html">
+            
+                    
+                    7.2. More Complex Loops – Exam Problems
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.15.1" data-path="../../Chapter-7-2-complex-loops-exam-problems/stupid-password-generator/stupid-password-generator.html">
+            
+                <a href="../../Chapter-7-2-complex-loops-exam-problems/stupid-password-generator/stupid-password-generator.html">
+            
+                    
+                    Problem: Dumb Passwords Generator
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.15.2" data-path="../../Chapter-7-2-complex-loops-exam-problems/magic-combination/magic-combination.html">
+            
+                <a href="../../Chapter-7-2-complex-loops-exam-problems/magic-combination/magic-combination.html">
+            
+                    
+                    Problem: Magic Numbers
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.15.3" data-path="../../Chapter-7-2-complex-loops-exam-problems/stop-number/stop-number.html">
+            
+                <a href="../../Chapter-7-2-complex-loops-exam-problems/stop-number/stop-number.html">
+            
+                    
+                    Problem: Stop Number
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.15.4" data-path="../../Chapter-7-2-complex-loops-exam-problems/special-numbers/special-numbers.html">
+            
+                <a href="../../Chapter-7-2-complex-loops-exam-problems/special-numbers/special-numbers.html">
+            
+                    
+                    Problem: Special Numbers
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.15.5" data-path="../../Chapter-7-2-complex-loops-exam-problems/digits/digits.html">
+            
+                <a href="../../Chapter-7-2-complex-loops-exam-problems/digits/digits.html">
+            
+                    
+                    Problem: Digits
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.16" data-path="../overview.html">
+            
+                <a href="../overview.html">
+            
+                    
+                    8.1. Practical Exam Preparation – Part I
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.16.1" data-path="../the-programming-basics-exam/the-programming-basics-exam.html">
+            
+                <a href="../the-programming-basics-exam/the-programming-basics-exam.html">
+            
+                    
+                    The "Programming Basics" Exam
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.16.2" data-path="../simple-calculations-problems/simple-calc-problems.html">
+            
+                <a href="../simple-calculations-problems/simple-calc-problems.html">
+            
+                    
+                    Simple Calculations – Problems
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.16.2.1" data-path="../simple-calculations-problems/simple-calc-problems/problem-triangle-area.html">
+            
+                <a href="../simple-calculations-problems/simple-calc-problems/problem-triangle-area.html">
+            
+                    
+                    Problem: Triangle Area
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.16.2.2" data-path="../simple-calculations-problems/simple-calc-problems/problem-moving-bricks.html">
+            
+                <a href="../simple-calculations-problems/simple-calc-problems/problem-moving-bricks.html">
+            
+                    
+                    Problem: Moving Bricks
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter active" data-level="1.16.3" data-path="simple-conditions-problems.html">
+            
+                <a href="simple-conditions-problems.html">
+            
+                    
+                    Simple Conditions – Problems
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.16.3.1" data-path="simple-conditions-problems/problem-point-on-a-segment.html">
+            
+                <a href="simple-conditions-problems/problem-point-on-a-segment.html">
+            
+                    
+                    Problem: Point on a Segment
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.16.3.2" data-path="simple-conditions-problems/problem-point-in-a-figure.html">
+            
+                <a href="simple-conditions-problems/problem-point-in-a-figure.html">
+            
+                    
+                    Problem: Point in a Figure
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.16.4" data-path="../complex-conditions-problems/complex-conditions-problems.html">
+            
+                <a href="../complex-conditions-problems/complex-conditions-problems.html">
+            
+                    
+                    Complex Conditions – Problems
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.16.4.1" data-path="../complex-conditions-problems/complex-conditions-problems/problem-date-after-5-days.html">
+            
+                <a href="../complex-conditions-problems/complex-conditions-problems/problem-date-after-5-days.html">
+            
+                    
+                    Problem: Date After 5 Days
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.16.4.2" data-path="../complex-conditions-problems/complex-conditions-problems/problem-sums-of-3-numbers.html">
+            
+                <a href="../complex-conditions-problems/complex-conditions-problems/problem-sums-of-3-numbers.html">
+            
+                    
+                    Problem: Sums of 3 Numbers
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.16.5" data-path="../simple-loops-problems/simple-loops-problems.html">
+            
+                <a href="../simple-loops-problems/simple-loops-problems.html">
+            
+                    
+                    Simple Loops – Problems
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.16.5.1" data-path="../simple-loops-problems/simple-loops-problems/problem-sums-with-step-of-3.html">
+            
+                <a href="../simple-loops-problems/simple-loops-problems/problem-sums-with-step-of-3.html">
+            
+                    
+                    Problem: Sums with Step of 3
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.16.5.2" data-path="../simple-loops-problems/simple-loops-problems/problem-increasing-elements.html">
+            
+                <a href="../simple-loops-problems/simple-loops-problems/problem-increasing-elements.html">
+            
+                    
+                    Problem: Increasing Elements 
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.16.6" data-path="../drawing-figures-problems/drawing-figures-problems.html">
+            
+                <a href="../drawing-figures-problems/drawing-figures-problems.html">
+            
+                    
+                    Drawing Figures – Problems
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.16.6.1" data-path="../drawing-figures-problems/drawing-figures-problems/problem-perfect-diamond.html">
+            
+                <a href="../drawing-figures-problems/drawing-figures-problems/problem-perfect-diamond.html">
+            
+                    
+                    Problem: Perfect Diamond
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.16.6.2" data-path="../drawing-figures-problems/drawing-figures-problems/problem-rectangle-with-stars.html">
+            
+                <a href="../drawing-figures-problems/drawing-figures-problems/problem-rectangle-with-stars.html">
+            
+                    
+                    Problem: Rectangle with Stars
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.16.7" data-path="../nested-loops-problems/nested-loops-problems.html">
+            
+                <a href="../nested-loops-problems/nested-loops-problems.html">
+            
+                    
+                    Nested Loops – Problems
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.16.7.1" data-path="../nested-loops-problems/nested-loops-problems/problem-increasing-4-numbers.html">
+            
+                <a href="../nested-loops-problems/nested-loops-problems/problem-increasing-4-numbers.html">
+            
+                    
+                    Problem: Increasing 4 Numbers
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.16.7.2" data-path="../nested-loops-problems/nested-loops-problems/problem-generating-rectangles.html">
+            
+                <a href="../nested-loops-problems/nested-loops-problems/problem-generating-rectangles.html">
+            
+                    
+                    Problem: Generating Rectangles
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.16.8" data-path="../summary/summary.html">
+            
+                <a href="../summary/summary.html">
+            
+                    
+                    Exam Preparation – Summary
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.17" data-path="../../Chapter-8-2-exam-preparation-part-2/overview.html">
+            
+                <a href="../../Chapter-8-2-exam-preparation-part-2/overview.html">
+            
+                    
+                    8.2. Practical Exam Preparation – Part II
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.17.1" data-path="../../Chapter-8-2-exam-preparation-part-2/distance/distance.html">
+            
+                <a href="../../Chapter-8-2-exam-preparation-part-2/distance/distance.html">
+            
+                    
+                    Problem: Distance
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.17.2" data-path="../../Chapter-8-2-exam-preparation-part-2/change-tiles/change-tiles.html">
+            
+                <a href="../../Chapter-8-2-exam-preparation-part-2/change-tiles/change-tiles.html">
+            
+                    
+                    Problem: Changing Tiles
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.17.3" data-path="../../Chapter-8-2-exam-preparation-part-2/flowers/flowers.html">
+            
+                <a href="../../Chapter-8-2-exam-preparation-part-2/flowers/flowers.html">
+            
+                    
+                    Problem: Flowers Shop
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.17.4" data-path="../../Chapter-8-2-exam-preparation-part-2/grades/grades.html">
+            
+                <a href="../../Chapter-8-2-exam-preparation-part-2/grades/grades.html">
+            
+                    
+                    Problem: Grades
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.17.5" data-path="../../Chapter-8-2-exam-preparation-part-2/christmas-hat/christmas-hat.html">
+            
+                <a href="../../Chapter-8-2-exam-preparation-part-2/christmas-hat/christmas-hat.html">
+            
+                    
+                    Problem: Christmas Hat
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.17.6" data-path="../../Chapter-8-2-exam-preparation-part-2/letters-combinations/letters-combinations.html">
+            
+                <a href="../../Chapter-8-2-exam-preparation-part-2/letters-combinations/letters-combinations.html">
+            
+                    
+                    Problem: Letters Combination
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.18" data-path="../../Chapter-9-1-problems-for-champions/overview.html">
+            
+                <a href="../../Chapter-9-1-problems-for-champions/overview.html">
+            
+                    
+                    9.1. Problems for Champions – Part I
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.18.1" data-path="../../Chapter-9-1-problems-for-champions/crossing-sequences/crossing-sequences.html">
+            
+                <a href="../../Chapter-9-1-problems-for-champions/crossing-sequences/crossing-sequences.html">
+            
+                    
+                    Problem: Crossing Sequences
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.18.2" data-path="../../Chapter-9-1-problems-for-champions/magic-dates/magic-dates.html">
+            
+                <a href="../../Chapter-9-1-problems-for-champions/magic-dates/magic-dates.html">
+            
+                    
+                    Problem: Magic Dates
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.18.3" data-path="../../Chapter-9-1-problems-for-champions/five-special-letters/five-special-letters.html">
+            
+                <a href="../../Chapter-9-1-problems-for-champions/five-special-letters/five-special-letters.html">
+            
+                    
+                    Problem: Five Special Letters
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.19" data-path="../../Chapter-9-2-problems-for-champions-part-2/overview.html">
+            
+                <a href="../../Chapter-9-2-problems-for-champions-part-2/overview.html">
+            
+                    
+                    9.2. Problems for Champions – Part II
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.19.1" data-path="../../Chapter-9-2-problems-for-champions-part-2/passion-days/passion-days.html">
+            
+                <a href="../../Chapter-9-2-problems-for-champions-part-2/passion-days/passion-days.html">
+            
+                    
+                    Problem: Passion Shopping Days
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.19.2" data-path="../../Chapter-9-2-problems-for-champions-part-2/expression/expression.html">
+            
+                <a href="../../Chapter-9-2-problems-for-champions-part-2/expression/expression.html">
+            
+                    
+                    Problem: Numerical Expression
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.19.3" data-path="../../Chapter-9-2-problems-for-champions-part-2/bulls-and-cows/bulls-and-cows.html">
+            
+                <a href="../../Chapter-9-2-problems-for-champions-part-2/bulls-and-cows/bulls-and-cows.html">
+            
+                    
+                    Problem: Bulls and Cows
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.20" data-path="../../Chapter-10-methods/overview.html">
+            
+                <a href="../../Chapter-10-methods/overview.html">
+            
+                    
+                    10. Methods
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.20.1" data-path="../../Chapter-10-methods/what-method-is/what-method-is.html">
+            
+                <a href="../../Chapter-10-methods/what-method-is/what-method-is.html">
+            
+                    
+                    What Is a "Method"?
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.20.2" data-path="../../Chapter-10-methods/methods-with-parameters/method-with-params.html">
+            
+                <a href="../../Chapter-10-methods/methods-with-parameters/method-with-params.html">
+            
+                    
+                    Methods with Parameters
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.20.3" data-path="../../Chapter-10-methods/return-result-from-method/return-result-from-method.html">
+            
+                <a href="../../Chapter-10-methods/return-result-from-method/return-result-from-method.html">
+            
+                    
+                    Returning a Result from a Method
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.20.4" data-path="../../Chapter-10-methods/what-method-is/returning-multiple-values.html">
+            
+                <a href="../../Chapter-10-methods/what-method-is/returning-multiple-values.html">
+            
+                    
+                    Returning Multiple Values
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.20.5" data-path="../../Chapter-10-methods/methods-overloading/methods-overloading.html">
+            
+                <a href="../../Chapter-10-methods/methods-overloading/methods-overloading.html">
+            
+                    
+                    Methods Overloading
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.20.6" data-path="../../Chapter-10-methods/nested-methods/nested-methods.html">
+            
+                <a href="../../Chapter-10-methods/nested-methods/nested-methods.html">
+            
+                    
+                    Nested Methods (Local Functions)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.20.7" data-path="../../Chapter-10-methods/what-method-is/method-naming.html">
+            
+                <a href="../../Chapter-10-methods/what-method-is/method-naming.html">
+            
+                    
+                    Method Naming
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.20.8" data-path="../../Chapter-10-methods/what-method-is/methods-best-practices.html">
+            
+                <a href="../../Chapter-10-methods/what-method-is/methods-best-practices.html">
+            
+                    
+                    Good Practices When Working with Methods
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.21" data-path="../../Chapter-11-tricks-and-hacks/overview.html">
+            
+                <a href="../../Chapter-11-tricks-and-hacks/overview.html">
+            
+                    
+                    11. Tricks and Hacks
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.21.1" data-path="../../Chapter-11-tricks-and-hacks/code-formatting/code-formatting.html">
+            
+                <a href="../../Chapter-11-tricks-and-hacks/code-formatting/code-formatting.html">
+            
+                    
+                    Code Formatting
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.21.2" data-path="../../Chapter-11-tricks-and-hacks/naming-elements-of-the-code/naming-elements-of-the-code.html">
+            
+                <a href="../../Chapter-11-tricks-and-hacks/naming-elements-of-the-code/naming-elements-of-the-code.html">
+            
+                    
+                    Naming Code Elements
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.21.3" data-path="../../Chapter-11-tricks-and-hacks/visual-studio-shortcuts/visual-studio-shortcuts.html">
+            
+                <a href="../../Chapter-11-tricks-and-hacks/visual-studio-shortcuts/visual-studio-shortcuts.html">
+            
+                    
+                    Shortcuts in Visual Studio
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.21.4" data-path="../../Chapter-11-tricks-and-hacks/code-snippets/code-snippets.html">
+            
+                <a href="../../Chapter-11-tricks-and-hacks/code-snippets/code-snippets.html">
+            
+                    
+                    Code Snippets in Visual Studio
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.21.5" data-path="../../Chapter-11-tricks-and-hacks/debugging-techniques/debugging-techniques.html">
+            
+                <a href="../../Chapter-11-tricks-and-hacks/debugging-techniques/debugging-techniques.html">
+            
+                    
+                    Code Debugging Techniques
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.21.6" data-path="../../Chapter-11-tricks-and-hacks/tricks/tricks.html">
+            
+                <a href="../../Chapter-11-tricks-and-hacks/tricks/tricks.html">
+            
+                    
+                    Tricks for C# Developers
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.21.7" data-path="../../Chapter-11-tricks-and-hacks/what-we-learned/what-we-learned.html">
+            
+                <a href="../../Chapter-11-tricks-and-hacks/what-we-learned/what-we-learned.html">
+            
+                    
+                    What We Learned in This Chapter?
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.22" data-path="../../Conclusion/overview.html">
+            
+                <a href="../../Conclusion/overview.html">
+            
+                    
+                    Conclusion
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.22.1" data-path="../../Conclusion/overview/study-software-engineering-in-softuni.html">
+            
+                <a href="../../Conclusion/overview/study-software-engineering-in-softuni.html">
+            
+                    
+                    Study Software Engineering in SoftUni
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.22.2" data-path="../../Conclusion/overview/study-software-engineering-alone.html">
+            
+                <a href="../../Conclusion/overview/study-software-engineering-alone.html">
+            
+                    
+                    Study Software Engineering in Your Own Way
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.22.3" data-path="../../Conclusion/overview/recommended-resources.html">
+            
+                <a href="../../Conclusion/overview/recommended-resources.html">
+            
+                    
+                    Recommended Resources for Developers
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+
+    
+
+    <li class="divider"></li>
+
+    <li>
+        <a href="https://www.gitbook.com" target="blank" class="gitbook-link">
+            Published with GitBook
+        </a>
+    </li>
+</ul>
+
+
+                </nav>
+            
+        
+    </div>
+
+    <div class="book-body">
+        
+            <div class="body-inner">
+                
+                    
+
+<div class="book-header" role="navigation">
+    
+
+    <!-- Title -->
+    <h1>
+        <i class="fa fa-circle-o-notch fa-spin"></i>
+        <a href="../../.." >Simple Conditions – Problems</a>
+    </h1>
+</div>
+
+
+
+
+                    <div class="page-wrapper" tabindex="-1" role="main">
+                        <div class="page-inner">
+                            
+<div id="book-search-results">
+    <div class="search-noresults">
+    
+                                <section class="normal markdown-section">
+                                
+                                <h1 id="simple-conditions-&#x2013;-problems"><a name="simple-conditions-&#x2013;-problems" class="plugin-anchor" href="#simple-conditions-&#x2013;-problems"><i class="fa fa-link" aria-hidden="true"></i></a>Simple Conditions &#x2013; Problems</h1>
+<p><strong>The second</strong> problem of the &quot;Programming Basics&quot; Practical Exam covers <strong>conditional statements and simple calculations</strong>. Participants in the exam should know how to implement simple logic using the <code>if-else</code><strong> conditional statements</strong>, as well as how to read and write data from the console and perform simple calculations.</p>
+<p>Let&apos;s solve a few <strong>sample problems</strong> with simple conditions:</p>
+<ul>
+<li><a href="simple-conditions-problems/problem-point-on-a-segment.html">Problem: Point on a Segment</a></li>
+<li><a href="simple-conditions-problems/problem-point-in-a-figure.html">Problem: Point in a Figure</a></li>
+</ul>
+
+                                
+                                </section>
+                            
+    </div>
+    <div class="search-results">
+        <div class="has-results">
+            
+            <h1 class="search-results-title"><span class='search-results-count'></span> results matching "<span class='search-query'></span>"</h1>
+            <ul class="search-results-list"></ul>
+            
+        </div>
+        <div class="no-results">
+            
+            <h1 class="search-results-title">No results matching "<span class='search-query'></span>"</h1>
+            
+        </div>
+    </div>
+</div>
+
+                        </div>
+                    </div>
+                
+            </div>
+
+            
+                
+                <a href="../simple-calculations-problems/simple-calc-problems/problem-moving-bricks.html" class="navigation navigation-prev " aria-label="Previous page: Problem: Moving Bricks">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+                
+                
+                <a href="simple-conditions-problems/problem-point-on-a-segment.html" class="navigation navigation-next " aria-label="Next page: Problem: Point on a Segment">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+                
+            
+        
+    </div>
+
+    <script>
+        var gitbook = gitbook || [];
+        gitbook.push(function() {
+            gitbook.page.hasChanged({"page":{"title":"Simple Conditions – Problems","level":"1.16.3","depth":2,"next":{"title":"Problem: Point on a Segment","level":"1.16.3.1","depth":3,"path":"Content/Chapter-8-1-exam-preparation/simple-conditions-problems/simple-conditions-problems/problem-point-on-a-segment.md","ref":"Content/Chapter-8-1-exam-preparation/simple-conditions-problems/simple-conditions-problems/problem-point-on-a-segment.md","articles":[]},"previous":{"title":"Problem: Moving Bricks","level":"1.16.2.2","depth":3,"path":"Content/Chapter-8-1-exam-preparation/simple-calculations-problems/simple-calc-problems/problem-moving-bricks.md","ref":"Content/Chapter-8-1-exam-preparation/simple-calculations-problems/simple-calc-problems/problem-moving-bricks.md","articles":[]},"dir":"ltr"},"config":{"plugins":["ga","meta","anchors","expandable-chapters-small","katex","sitemap","scripts","page-toc-button"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"meta":{"content":"xSQjbYfAeT3z-ew8RE51NA5hmxlZ1qNKgCerlOBthgo","data":[],"name":"google-site-verification"},"scripts":{"files":["./assets/js/repl.it-code-runner.js","./assets/js/video.js"]},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"katex":{},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"sitemap":{"hostname":"https://csharp-book.softuni.org/"},"page-toc-button":{},"expandable-chapters-small":{},"ga":{"configuration":"auto","token":"UA-11309924-26"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"anchors":{}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":36,"left":36,"top":48,"bottom":48}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"isbn":"978-619-00-0902-3","variables":{},"title":"Programming Basics with C#","language":"en","gitbook":"*","description":"Free book + video course + \"Programming Basics with C#\" for absolute beginners. It covers the C# language and the .NET platform, the C# compiler, the Visual Studio development environment, variables, data, calculations, conditional statements, loop constructions, nested loops, methods and lots of practical exercises."},"file":{"path":"Content/Chapter-8-1-exam-preparation/simple-conditions-problems/simple-conditions-problems.md","mtime":"2019-03-20T21:55:36.819Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2019-06-21T22:34:29.056Z"},"basePath":"../../..","book":{"language":""}});
+        });
+    </script>
+</div>
+
+        
+    <script src="../../../gitbook/gitbook.js"></script>
+    <script src="../../../gitbook/theme.js"></script>
+    
+        
+        <script src="../../../gitbook/gitbook-plugin-ga/plugin.js"></script>
+        
+    
+        
+        <script src="../../../gitbook/gitbook-plugin-expandable-chapters-small/expandable-chapters-small.js"></script>
+        
+    
+        
+        <script src="../../../gitbook/gitbook-plugin-scripts/837998e4d5434224a8561916c95cfb82-repl.it-code-runner.js"></script>
+        
+    
+        
+        <script src="../../../gitbook/gitbook-plugin-scripts/7a856137115a72d42be8ec13d8cf417f-video.js"></script>
+        
+    
+        
+        <script src="../../../gitbook/gitbook-plugin-page-toc-button/plugin.js"></script>
+        
+    
+        
+        <script src="../../../gitbook/gitbook-plugin-search/search-engine.js"></script>
+        
+    
+        
+        <script src="../../../gitbook/gitbook-plugin-search/search.js"></script>
+        
+    
+        
+        <script src="../../../gitbook/gitbook-plugin-lunr/lunr.min.js"></script>
+        
+    
+        
+        <script src="../../../gitbook/gitbook-plugin-lunr/search-lunr.js"></script>
+        
+    
+        
+        <script src="../../../gitbook/gitbook-plugin-sharing/buttons.js"></script>
+        
+    
+        
+        <script src="../../../gitbook/gitbook-plugin-fontsettings/fontsettings.js"></script>
+        
+    
+
+    </body>
+</html>
+
