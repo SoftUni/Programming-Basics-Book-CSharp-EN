@@ -1,0 +1,15 @@
+
+Page size: 17.78 x 25.4 cm (10 x 7 in) + bleed
+
+Advertisment banner (English)
+
+Spell check all the text
+
+Check all video links
+
+Front cover (with videos)
+
+Back cover
+
+Sample Input and Output -> fix table sizes
+
