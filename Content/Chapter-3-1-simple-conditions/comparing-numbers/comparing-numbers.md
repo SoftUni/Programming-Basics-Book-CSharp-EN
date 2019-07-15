@@ -23,7 +23,7 @@ Note that when printing the **true** and **false** values in C \# language, they
 
 ## Comparison Operators
 
-In C #, we can use the following comparison operators:
+In C#, we can use the following comparison operators:
 
 <table>
 <tr>
@@ -49,6 +49,6 @@ In C #, we can use the following comparison operators:
 </tr>
 </table>
 
-Example:
+The following **example** demonstrates how to use comparison operators in expressions:
 
 ![](/assets/chapter-3-images/00.Comparing-numbers-02.png)
