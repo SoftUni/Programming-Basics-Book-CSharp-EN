@@ -17,7 +17,7 @@ We create **a new project** in the existing Visual Studio solution. In **Solutio
  
 ![](/assets/chapter-3-images/09.Excellent-result-01.png)
 
-A dialog box will open for selecting a project. Choose **C # console application** and specify a name, for example "Excellent-Result":
+A dialog box will open for selecting a project. Choose **C# console application** and specify a name, for example "Excellent-Result":
  
 ![](/assets/chapter-3-images/09.Excellent-result-02.png)
  

@@ -61,7 +61,7 @@ Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/515#
 
 ![](/assets/chapter-7-exam-preparation-images/01.stupid-password-generator-4.png)
     
-* We can convert a **Capital** char **into small** one, using a built-in C # function:
+* We can convert a **Capital** char **into small** one, using a built-in C# function:
     
 ![](/assets/chapter-7-exam-preparation-images/01.stupid-password-generator-5.png)
     
