@@ -25,6 +25,8 @@ Now we have to **write the code** of the program. You can get help by using the 
 
 ## Automatic Switching to the Current Project
 
+If try to run the program using **[Ctrl+F5]**, the result might be incorrect, because it might be the result from the previous project, not the current one, shown at the screen.
+
 We turn on the mode for **automatic switching to the current project** by right-clicking on the main Solution and choosing [**Set StartUp Projects...**]:
 
  ![](/assets/chapter-3-images/02.Excellent-or-not-02.png)

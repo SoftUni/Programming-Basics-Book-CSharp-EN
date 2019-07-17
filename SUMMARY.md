@@ -50,7 +50,6 @@
   * [Lab: GUI Apps with Numerical Expressions](Content/Chapter-2-1-simple-calculations/graphical-apps/graphical-apps.md)
     * [GUI Application: Converter from BGN to EUR](Content/Chapter-2-1-simple-calculations/graphical-apps/bgn-to-eur-converter/bgn-to-eur-converter.md)
     * [GUI Application: \* Catch the Button!](Content/Chapter-2-1-simple-calculations/graphical-apps/catch-the-button/catch-the-button.md)
-  * Calculating Square Area
 * [2.2. Simple Calculations – Exam Problems](Content/Chapter-2-2-simple-calculations-exam-problems/overview.md)
   * [Problem: Training Lab](Content/Chapter-2-2-simple-calculations-exam-problems/exam-problems/training-lab/training-lab.md)
   * [Problem: Vegetable Market](Content/Chapter-2-2-simple-calculations-exam-problems/exam-problems/vegetables-market/vegetables-market.md)
