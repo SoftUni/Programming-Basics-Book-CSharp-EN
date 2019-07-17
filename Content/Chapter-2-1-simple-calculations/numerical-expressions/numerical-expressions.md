@@ -63,9 +63,9 @@ Let's test the program with **radius **`r = 10`:
 
 Test your solution here:[https://judge.softuni.org/Contests/Practice/Index/504\#5](https://judge.softuni.org/Contests/Practice/Index/504#5).
 
-## Example: Rectangle Area in a Coordinate Plane
+## Example: 2D Rectangle Area
 
-A rectangle is set with the **coordinates of two of its opposite angles**. Calculate its **area and perimeter**:
+A rectangle is given with the **coordinates of two of its opposite angles**. Calculate its **area and perimeter**:
 
 ![](/assets/chapter-2-images/00.Rectangle-area-01.png)
 

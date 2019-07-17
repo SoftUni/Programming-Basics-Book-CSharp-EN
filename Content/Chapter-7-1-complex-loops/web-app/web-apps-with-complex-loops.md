@@ -141,4 +141,4 @@ After changing the code in the view, let's start by \[**Ctrl + F5**\] and **test
 
 This time, when you hit a dynamite, the right picture should appear and allow only the "new game" action \(the \[**New Game**\] button\).
 
-Was it complicated? Did you manage to create the game? If you have not succeeded, relax, this is a relatively complex project that includes a great deal of non-studied matter. If you want the Web game to pass through your hands, follow the above steps. You can ask for specific issues in the **SoftUni discussion forum**: [https://forum.softuni.org](https://forum.softuni.org).
+Was it complicated? Did you manage to create the game? If you have not succeeded, relax, this is a relatively complex project that includes a great deal of non-studied matter. If you want the Web game to pass through your hands, follow the above steps. You can ask for specific issues in the SoftUni official **discussion forum** (http://forum.softuni.org) or in the SoftUni official **Facebook page** (https://fb.com/softuni.org).

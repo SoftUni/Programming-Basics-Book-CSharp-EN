@@ -4,7 +4,7 @@ Write a program that **reads a number from the console** \(not necessarily an in
 
 ## Hints and Guidelines
 
-First, we create a **new C\# console project** in the solution “Simple-Calculations”. We right-click the solution in the **Solution Explorer** and we choose \[**Add**\] -&gt; \[**New Project…**\]:
+First, we create a **new C\# console project** in the solution “**Simple-Calculations**”. We right-click the solution in the **Solution Explorer** and we choose \[**Add**\] -&gt; \[**New Project…**\]:
 
 ![](/assets/chapter-2-images/02.Inches-to-centimeters-01.png)
 

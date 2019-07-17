@@ -84,11 +84,13 @@ This book is an **official textbook** for this Udemy course and serves as detail
 
 ## Discussion Forum for Your Questions
 
-Ask your **questions about basic programming book** at the **SoftUni's Facebook Page**:
+Ask your **questions about basic programming book** at the **SoftUni's Facebook page** or in the official **SoftUni discussion forum**:
 
 <p align="center"><strong><a href="https://www.facebook.com/softuni.org">https://fb.com/softuni.org</a></strong></p>
 
-In this discussion forum you will get **proper response to any question associated with the content of this book** also any other questions about programming. The SoftUni community is so big that you will get a response **within a few minutes**. The trainers, assistants and mentors at SoftUni also responds on your questions.
+<p align="center"><strong><a href="http://forum.softuni.org">http://forum.softuni.org</a></strong></p>
+
+In these discussion channels you will get **proper response to any question associated with the content of this book** also any other questions about programming. The SoftUni community is so big that you will get a response **within a few minutes**. The trainers, assistants and mentors at SoftUni also responds on your questions. Note that the forum can hold questions in different languages (English, Bulgarian and others), but if you ask in English, you will get an answer in English.
 
 Because of the big number of learners, you can find in the forum practically any **solution of any exercise, shared by your colleague**. Thousands of students already got the answer on the same exercise, so if you are late you can check the forum. Even though the exercises in "Programming Basics" are changing at some point, the sharing at SoftUni is always welcome and encouraged, that's why you will easily find solutions and guidance in any exercise.
 
