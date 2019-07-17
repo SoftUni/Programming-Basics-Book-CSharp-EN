@@ -9,7 +9,7 @@ In the current practical exercise, we will use a **Blank Solution with a couple 
 
 ![](/assets/chapter-2-images/00.Blank-solution-01.png)
 
-We choose from the dialogue window \[**Templates**\] -&gt; \[**Other Project Types**\] -&gt; \[**Visual Studio Solutions**\] -&gt; \[**Blank Solution**\] and we give an appropriate name of the project, for example “Simple-Calculations”:
+We choose from the **templates** -&gt; \[**Other Project Types**\] -&gt; \[**Visual Studio Solutions**\] -&gt; \[**Blank Solution**\] and we give an appropriate name of the project, for example “Simple-Calculations”:
 
 ![](/assets/chapter-2-images/00.Blank-solution-02.png)
 
