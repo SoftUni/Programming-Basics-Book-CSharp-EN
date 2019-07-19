@@ -24,6 +24,3 @@ Review the document structure (H1, H2, H3, ...)
 Inserting number --> reading number
 
 Add screenshot of softuni.org virtual classroom
-
-
-http://forum.softuni.org -> add Facebook page.
