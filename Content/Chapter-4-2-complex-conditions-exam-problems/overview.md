@@ -1,6 +1,6 @@
 # Chapter 4.2. More Complex Conditions – Exam Problems
 
-The previous chapter introduced you to **nested conditions** in C#. Via nested conditions, the program logic in a particular application can be represented using **`if` conditional statements** that are nested one into another. We also reviewed the **`switch-case`** conditional statement that allows selecting from a list of options.
+The previous chapter introduced you to **nested conditions** in C#. Via nested conditions, the program logic in a particular application can be represented using **`if` conditional statements** that are nested one into another. We also explained the **`switch-case`** conditional statement that allows selecting from a list of options.
 
 Now we are going to do some **exercises** and make sure we have in-depth understanding of the material, by examining a number of more complex problems that had been given to students on exams. Before moving to the problems, let's first recall what **nested conditions** are.
 

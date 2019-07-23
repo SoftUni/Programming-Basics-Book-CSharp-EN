@@ -10,7 +10,7 @@ Write a program that converts **2 \* n integers** and checks whether **the sum o
 
 ## Video: Left and Right Sum
 
-Watch this video lesson to learn how to find calculate the left and the right sum and their difference: https://youtu.be/s_uAuqTnC8w.
+Watch this video lesson to learn how to calculate the left and the right sum and their difference: https://youtu.be/s_uAuqTnC8w.
 
 ## Hints and Guidelines
 

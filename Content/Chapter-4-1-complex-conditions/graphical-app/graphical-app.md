@@ -25,10 +25,11 @@ We create a new project **Windows Forms Application** with a suitable name, for 
 
 **We arrange the controls** inside the form, as it is shown in the figure below:
 
- * 6 boxes for entering a number (**`NumericUpDown`**).
+ * 6 boxes for entering a number (**`NumericUpDown`**), for the `x1`, `y1`, `x2` and `y2` coordinates of the rectangle and for the `x` and `y` coordinates of the point.
  * Labels (**`Label`**) before each box for entering a number.
  * A button (**`Button`**) for drawing the rectangle and the point. 
- * A text block for the result (**`Label`**).
+ * A text block for the result (**`Label`**) – the green box at the screenshot.
+ * A rectangular drawing box (PictureBox) for visualizing the rectangle and the point.
 
 We set the **sizes** and **properties** of the controls to look as close as the ones in the picture:
 

@@ -35,7 +35,7 @@ If we run the above code and enter `5` as input, the **output** will be as follo
 =-=-=-=-=-
 ```
 
-Using a combination of **calculations**, **conditional statements** and **nested loops**, we can implement **more complex logic**. For example, we can draw a rhombus of stars as follows:
+Using a combination of **calculations**, **conditional statements** and **nested loops**, we can implement **more complex logic**. For example, we can draw a **rhombus of stars** as follows:
 
 ```csharp
 int n = 10;
@@ -67,4 +67,4 @@ The above code will print on the console the following **output**:
     *
 ```
 
-Let's explain in greater detail how to use **nested loops** to implement more complex login in our C\# programs.
+Let's explain in greater detail how to use **nested loops** to implement more complex logic in our C\# programs.
