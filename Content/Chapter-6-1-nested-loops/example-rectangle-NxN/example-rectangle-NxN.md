@@ -8,7 +8,7 @@ Write a program that gets a positive integer **n** and prints on the console **a
 
 ## Video: Rectangle of N x N Stars
 
-Watch this video lesson to learn how to print a rectangle of 10 x 10 stars on the console using nested for-loops: https://youtu.be/9sB4Z2TI1AE.
+Watch this video lesson to learn how to print a rectangle of N x N stars on the console using nested for-loops: https://youtu.be/9sB4Z2TI1AE.
 
 ## Hints and Guidelines
 
