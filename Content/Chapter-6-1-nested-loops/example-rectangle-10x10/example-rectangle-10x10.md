@@ -18,7 +18,7 @@ How does the example work? We initialize **a loop with a variable `i = 1`**, whi
 
 ## Solution using Nested Loops
 
-The above solution uses a trick to avoid nesting loops: it prints 10 stars using the string constructor (instead of printing a star 10 times in a nested loop). Another solution, using nested for-loops, might look like this:
+The above solution uses a trick to avoid nesting loops: it prints 10 stars using the string constructor (instead of printing a star 10 times in a nested loop). Another solution, using **nested for-loops**, might look like this:
 
 ![](/assets/chapter-6-images/01.Rectangle-of-10-x-10-stars-nested-loops.png)
 
