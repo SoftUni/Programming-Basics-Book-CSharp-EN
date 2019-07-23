@@ -16,7 +16,7 @@ This is sample solution, which uses a single loop, holding a command to print `n
 
 ![](/assets/chapter-6-images/02.Rectangle-of-N-x-N-stars-01.png)
 
-You may also use nested for-loops: outer loop 1..n for the rows and inner loop 1…n for the columns, which prints a single star.
+You may also use **nested for-loops**: outer loop 1..n for the **rows** and inner loop 1…n for the **columns**, which prints a single star.
 
 ## Testing in the Judge System
 
