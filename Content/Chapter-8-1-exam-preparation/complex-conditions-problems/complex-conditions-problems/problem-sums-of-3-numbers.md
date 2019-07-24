@@ -52,7 +52,7 @@ We now have to understand the order in which the **two addends** will be written
 
 ![](/assets/chapter-8-1-images/06.Sums-3-numbers-03.png)
 
-Similarly, we will supplement the other two cases. The full code and output of the program will look like this:
+Similarly, we will supplement the other two cases. The full code of the program will look like this:
 
 ![](/assets/chapter-8-1-images/06.Sums-3-numbers-04.png)
 
