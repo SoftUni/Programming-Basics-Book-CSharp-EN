@@ -4,7 +4,7 @@ The next type of loops we will get familiar with are the **`do-while`** loops. B
 
 ![](/assets/chapter-7-images/00.Do-while-01.png)
 
-The usual set of sample problems follows. Their solutions will help us better understand the **`do-while`** loops.
+Now let’s proceed to the usual set of sample practical problems follows. Their solutions will help us better understand the **`do-while`** loops.
 
 ## Video: Do-While Loop
 
