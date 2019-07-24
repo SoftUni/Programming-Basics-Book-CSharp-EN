@@ -1,6 +1,6 @@
 # Lab: Web Application with Complex Loops
 
-Now we know how to repeat a group of actions using **loops**. Let's do something interesting: **a web-based game**. Yes, a real game, with graphics and game logic. Let's have fun. It will be complicated, but if you do not understand how it works, there is no problem. We are now getting into programming. You will advance with coding and with the software technologies over the time. For now, just follow the steps.
+Now we know how to repeat a group of actions using **loops**. Let's do something interesting: **a web-based game**. Yes, a real game, with graphics and game logic. Let's have fun. It will be complicated, but if you do not understand how it works, there is no problem. We are now entering into programming. You will advance with coding and with the software technologies over the time. For now, just follow the steps.
 
 ## Problem: Web Application "Fruits Game"
 
