@@ -35,18 +35,18 @@ We take the input from the console.
 
 ![](/assets/chapter-8-1-images/06.Sums-3-numbers-01.png)
 
-## Composing a Frame for the Solution
+## Composing a Template for the Solution
 
 We have to check if the **sum** of a pair of numbers is equal to the third number. We have three possible cases:
 * a + b = c
 * a + c = b 
 * b + c = a
 
-We will write a **frame**, which will later be complemented by the required code. If none of the above three conditions is met, we will make our program print "**No**".
+We will write a **template**, which will later be complemented by the required code. If none of the above three conditions is met, we will make our program print "**No**".
 
 ![](/assets/chapter-8-1-images/06.Sums-3-numbers-02.png)
 
-## Writing Code in the Frame
+## Writing Code in the Template
 
 We now have to understand the order in which the **two addends** will be written in the output of the program. For this purpose, we will create **a nested condition** that checks which one of the two numbers is the larger one. In the first case, it will look like this:
 
