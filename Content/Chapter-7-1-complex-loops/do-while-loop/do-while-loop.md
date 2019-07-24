@@ -24,6 +24,8 @@ Here is how we can specifically calculate factorial:
       * We decrease the value of **`n`** by **-1**.
    * Outside the body of the loop, we print the final factorial value.
    
+This is a sample code, implementing the above described steps:
+   
 ![](/assets/chapter-7-images/08.Factorial-01.png)
 
 ### Testing in the Judge System
