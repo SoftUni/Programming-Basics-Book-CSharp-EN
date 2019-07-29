@@ -4,7 +4,8 @@ A flowers shop offers 3 types of flowers: **chrysanthemums**, **roses** and **tu
 
 |Season|Chrysanthemums|Roses|Tulips|
 |:---:|:---:|:---:|:---:|
-|spring / summer<br>autumn / winter|2.00 USD/pc<br>3.75 USD/pc|4.10 USD/pc<br>4.50 USD/pc|2.50 USD/pc<br>4.15 USD/pc|
+|spring / summer|2.00 USD/pc|4.10 USD/pc|2.50 USD/pc|
+|autumn / winter|3.75 USD/pc|4.50 USD/pc|4.15 USD/pc|
 
 On holidays, prices of all flowers are **increased by 15%.** The following **discounts** are offered:
 * For purchasing more than 7 tulips in spring – **5% of the price** of the whole bouquet.
