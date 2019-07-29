@@ -8,7 +8,7 @@ Watch this video lesson to learn how to use the `try-catch` statement to enter a
 
 ## What is Try-Catch?
 
-The `try-catch` construction is used to **capture and handle exceptions \(errors\)** during program execution.
+The `try-catch` construction is used to **intercept and handle exceptions \(errors\)** during the program execution.
 
 In programming, **exceptions** are a notification of an event that violates the normal operation of a program. Such exceptional events **interrupt the execution** of the program, and it is looking for something to process the situation. If it does not find it, the exception is printed on the console. If found, **the exception is processed**, and the program continues its normal execution. After a while, we'll see how this happens.
 

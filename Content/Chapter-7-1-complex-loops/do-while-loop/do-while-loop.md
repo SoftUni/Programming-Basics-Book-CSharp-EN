@@ -4,7 +4,7 @@ The next type of loops we will get familiar with are the **`do-while`** loops. B
 
 ![](/assets/chapter-7-images/00.Do-while-01.png)
 
-The usual set of sample problems follows. Their solutions will help us better understand the **`do-while`** loops.
+Now let’s proceed to the usual set of sample practical problems follows. Their solutions will help us better understand the **`do-while`** loops.
 
 ## Video: Do-While Loop
 
@@ -23,6 +23,8 @@ Here is how we can specifically calculate factorial:
       * We assign a new value to **`fact`** that is the result of multiplying the current **`fact`** value to the current value of **`n`**.
       * We decrease the value of **`n`** by **-1**.
    * Outside the body of the loop, we print the final factorial value.
+   
+This is a sample code, implementing the above described steps:
    
 ![](/assets/chapter-7-images/08.Factorial-01.png)
 

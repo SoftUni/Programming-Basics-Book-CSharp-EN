@@ -2,7 +2,7 @@
 
 **Date** is given in a "**dd-mm-yyyy**" format, e.g. 17-04-2018. We calculate **the weight of that date** by taking all of its digits, multiplying each digit with the others after it, and finally summing up all the results obtained. In our case, we have 8 digits: **17032007**, so the weight is **`1*7 + 1*0 + 1*3 + 1*2 + 1*0 + 1*0 + 1*7`** **+** **`7*0 + 7*3 + 7*2 + 7*0 + 7*0 + 7*7`** **+** **`0*3 + 0*2 + 0*0 + 0*0 + 0*7`** **+** **`3*2 + 3*0 + 3*0 + 3*7`** **+** **`2*0 + 2*0 + 2*7`** **+** **`0*0 + 0*7`** **+** **`0*7`** = **144**.
 
-Our task is to write a program that finds all **the magical dates – dates between two specific years (inclusive) corresponding to the weight given in the input data**. Dates must be printed in ascending order (by date) in the format "**dd-mm-yyyy**". We will only use the valid dates in the traditional calendar (the leap years have 29 days in February).
+Our task is to write a program that finds all the **magical dates between two specific years (inclusively) corresponding to given weight**. Dates must be printed in ascending order (by date) in the format "**dd-mm-yyyy**". We will only use the valid dates in the traditional calendar (the leap years have 29 days in February).
 
 ## Input Data
 

@@ -1,6 +1,6 @@
 # Lab: Web Application with Complex Loops
 
-Now we know how to repeat a group of actions using **loops**. Let's do something interesting: **a web-based game**. Yes, a real game, with graphics and game logic. Let's have fun. It will be complicated, but if you do not understand how it works, there is no problem. We are now getting into programming. You will advance with coding and with the software technologies over the time. For now, just follow the steps.
+Now we know how to repeat a group of actions using **loops**. Let's do something interesting: **a web-based game**. Yes, a real game, with graphics and game logic. Let's have fun. It will be complicated, but if you do not understand how it works, there is no problem. We are now entering into programming. You will advance with coding and with the software technologies over the time. For now, just follow the steps.
 
 ## Problem: Web Application "Fruits Game"
 
@@ -12,7 +12,7 @@ Watch this video lesson to learn how to build an ASP.NET MVC Web application "Fr
 
 ### Fruits Game Explained
 
-Shooting is done by columns, top to bottom or bottom to top, and the location of impact \(the column under fire\) is set by scroll bar. Because of the inaccuracy of the scroller, the player is not quite sure which column they are going to shoot. Thus, every shot has a chance not to hit and this makes the game more interesting \(like the sling in Angry Birds\).
+Shooting is done by columns, top to bottom or bottom to top, and the location of impact \(the column under fire\) is set by a scroll bar. Because of the inaccuracy of the scroller, the player is not quite sure which column they are going to shoot. Thus, every shot has a chance not to hit and this makes the game more interesting \(like the sling in Angry Birds\).
 
 Our game should look like this:
 

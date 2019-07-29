@@ -28,6 +28,8 @@ In more detail the above idea looks like this:
        * We assign a new value of **`sum`** that is the result of the sum of the current value of **`sum`** with the last digit of **`n`**.
        * We assign a new value to **`n`**, which is the result of removing the last digit of **`n`**.
    * Outside the body of the loop, we print the final value of the sum.
+   
+This is a sample code, implementing the above described steps:
 
 ![](/assets/chapter-7-images/09.Sum-digits-01.png)
 

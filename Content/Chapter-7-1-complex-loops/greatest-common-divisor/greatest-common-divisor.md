@@ -50,6 +50,8 @@ We will solve the problem through **Euclid's algorithm**:
   * On the variable `a` we assign **the previous** value of the variable `b`.
 * Once the loop is complete and we have found the GCD, we print it on the screen.
 
+This is a sample implementation of the Euclidean algorithm:
+
 ![](/assets/chapter-7-images/07.GCD-01.png)
 
 ### Testing in the Judge System

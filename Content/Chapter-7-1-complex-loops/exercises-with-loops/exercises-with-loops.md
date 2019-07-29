@@ -19,7 +19,7 @@ for (var i = 1; i <= n; i+=3)
 }
 ```
 
-The `while` / `do-while` loops are repeated while a **condition** is in effect:
+The `while` / `do-while` loops are repeated while a **condition is true**:
 
 ```csharp
 int num = 1;
