@@ -23,7 +23,7 @@ This method prints a header, which is a sequence of the **`-`** symbol. Because 
 
 **The body** of the method contains **the program code**, which is between the curly brackets **`{`** and **`}`**. These brackets **always** follow its **declaration** and between them we write the code, which solves the problem described by the method's name.
 
-To call this method, we just write its name, along with `()` like it is shown below:
+To **call this method**, we just write its **name**, along with `()` like it is shown below:
 ```csharp
 PrintHeader();
 ```
