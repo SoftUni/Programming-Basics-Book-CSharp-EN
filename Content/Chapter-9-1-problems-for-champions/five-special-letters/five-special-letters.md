@@ -2,7 +2,7 @@
 
 Two numbers are given: **start** and **end**. Write a program that **generates all combinations of 5 letters**, each among the sets of **`{'a', 'b', 'c', 'd', 'e'}`** so that the weight of these 5 letters is a number in the range **`[start … end]`**, inclusive. Print them in alphabetical order, in a single row, separated by a space.
 
-**The weight of one letter** is calculated as follows:
+**The weight of the letters** is calculated as follows:
 
 ```csharp 
 weight('a') = 5;
