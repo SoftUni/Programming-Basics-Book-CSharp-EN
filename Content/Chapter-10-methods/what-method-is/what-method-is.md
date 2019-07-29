@@ -117,4 +117,4 @@ In the end we'll **call** the **`PrintReceipt`** method from the body of the **`
 
 ### Testing in the Judge System
 
-The program with five methods that are call from one another is ready and we can **run and test it**, after which we can send it for testing in the judge system: [https://judge.softuni.org/Contests/Practice/Index/594#0](https://judge.softuni.org/Contests/Practice/Index/594#0).
+The program with five methods that are invoked from one another is ready and we can **run and test it**, after which we can send it for testing in the judge system: [https://judge.softuni.org/Contests/Practice/Index/594#0](https://judge.softuni.org/Contests/Practice/Index/594#0).
