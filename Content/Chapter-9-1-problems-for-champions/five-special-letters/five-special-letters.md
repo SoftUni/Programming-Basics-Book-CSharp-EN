@@ -60,6 +60,9 @@ The result should be printed on the console as a sequence of strings, **arranged
 | ------ | -------- |
 |300<br>400| No|
 
+## Hints and Guidelines
+Let’s give some hints and guidelines for solving this problem.
+
 ### Reading the Input Data
 
 As every problem, we start the solution by **reading and processing the input data**. In this case, we have **two integers** that can be processed with a combination of the **`int.Parse(…)`** and **`Console.ReadLine()`** methods.
@@ -74,7 +77,9 @@ In order to generate **all combinations with length of 1** using 5 symbols, we w
 
 ![](/assets/chapter-9-images/03.Five-special-letters-02.png)
 
-Now that we have all 5-digit combinations, we must find a way to "turn" the five digits into a word with the letters from 'a' to 'e'. One of the ways to do that is to **predefine a simple string that contains the letters** that we have
+### Transforming Combinations into Words
+
+Now that we have all 5-digit combinations, we must find a way to "turn" the five digits into a word with the letters from '`a`' to '`e`'. One of the ways to do that is to **predefine a simple string that contains the letters** that we have
 
 ![](/assets/chapter-9-images/03.Five-special-letters-03.png)
 
