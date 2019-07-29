@@ -18,11 +18,11 @@ Print a number on the console: **the kilometers passed**, formatted up to the **
 
 | Input | Output | Comments |
 |-----|-----|-----|
-|90<br>60<br>70<br>80|330.90|**Distance with initial speed**: 90 km/h \* 1 hr (60 min) = **90 km**<br>**After speed increase**: 90 + 10% = 99.00 km/h \* 1.166 hr (70 min) = **115.50 km**<br>**After speed decrease**: 99 - 5% = 94.05 km/h \* 1.33 hr (80 min) = **125.40 km**<br>**Total number of km passed**: **330.9 km**|
+|90<br>60<br>70<br>80|330.90|**Distance with initial speed**: 90 km/h \* 1 hour (60 min) = **90 km**<br>**After speed increase**: 90 + 10% = 99.00 km/h \* 1.166 hours (70 min) = **115.50 km**<br>**After speed decrease**: 99 - 5% = 94.05 km/h \* 1.33 hours (80 min) = **125.40 km**<br>**Total number of km passed**: **330.9 km**|
 
 | Input | Output | Comments |
 |-----|-----|-----|
-|140<br>112<br>75<br>190|917.12|**Distance with initial speed**: 140 km/h \* 1.86 hr (112 min) = **261.33 km**<br>**After speed increase**: 140 + 10% = 154.00 km/h \* 1.25 hr (75 min) = **192.5 km**<br>**After speed decrease**: 154.00 - 5% = 146.29 km/h \* 3.16 hr (190 min) = **463.28 km**<br>**Total number of km passed**: **917.1166 km**|
+|140<br>112<br>75<br>190|917.12|**Distance with initial speed**: 140 km/h \* 1.86 hours (112 min) = **261.33 km**<br>**After speed increase**: 140 + 10% = 154.00 km/h \* 1.25 hours (75 min) = **192.5 km**<br>**After speed decrease**: 154.00 - 5% = 146.29 km/h \* 3.16 hours (190 min) = **463.28 km**<br>**Total number of km passed**: **917.1166 km**|
 
 ## Hints and Guidelines
 
