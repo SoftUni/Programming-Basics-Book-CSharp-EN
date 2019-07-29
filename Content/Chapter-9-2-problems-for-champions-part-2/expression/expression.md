@@ -28,9 +28,7 @@ The input data is always valid and always in the described format. No need to va
 
 ## Output Data
 
-The output data must be printed on the console. The output consists of one line – the output of the **calculated mathematical expression**.
-
-The output must be **rounded up to the second digit after the decimal point**.
+The output data must be printed on the console. The output consists of one line: the **result** of the calculated mathematical expression, rounded up to the **second digit after the decimal point**.
 
 ## Constraints
 
