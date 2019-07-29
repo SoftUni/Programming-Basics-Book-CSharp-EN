@@ -2,6 +2,8 @@
 
 Write a program that **calculates statistics for grades** in an exam. At the beginning, the program reads the **number of students** who attended the exam and for **each student – their grade**. At the end, the program must **print the percentage of students** that have grades between 2.00 and 2.99, between 3.00 and 3.99, between 4.00 and 4.99, 5.00 or more, as well as the **average grade** of the exam.
 
+**Note**: we use the **Bulgarian grading system**, where the grade scale starts from **2.00** (Fail) and ends at **6.00** (Excellent): https://en.wikipedia.org/wiki/Grading_systems_by_country#Bulgaria.
+
 ## Input Data
 
 Read from the console a **sequence of numbers, each on a separate line**:
