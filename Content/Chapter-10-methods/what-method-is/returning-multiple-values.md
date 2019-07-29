@@ -36,6 +36,14 @@ This method returns a result of **`ValueTuple`** type, containing two variables 
 var division = Divide(1, 3);
 ```
 
-In order to get the results returned from the method, we apply **point notation to the variable** **`division`**:
+In order to get the results returned from the method, we apply **point notation to the variable** **`division`**, as it is shown on the example below:
+
+```csharp
+var division = Divide(1, 3);
+int res = division.result;
+int rem = division.reminder;
+```
+
+To simplify the developers, Visual Studio implements **auto-complete for tuples**, returned from a method, just as it can be expected:
 
 ![](/assets/chapter-10-images/15.Tuples-02.jpg)
