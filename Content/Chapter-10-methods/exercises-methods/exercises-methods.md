@@ -1,4 +1,4 @@
-# Exercises
+# Exercises: Methods
 
 In order to learn in practice what we have learned about methods we will **solve a few problems**, in which it will be required to **write methods** with certain functionality and after that to invoke them by passing them data, read from the console.
 
