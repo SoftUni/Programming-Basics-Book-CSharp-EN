@@ -10,11 +10,13 @@ Create a method **`RepeatString(str, count)`**, which takes parameters of type *
 
 ## Hints and Guidelines
 
-Add to the method below the input string to the result that you will print:
+In the method below, inside the loop, append the input string to the result, that you will finally return:
 
 ![](/assets/chapter-10-images/21.Repeated-string-01.png)
 
-Keep in mind that in C# concatenating strings in loops leads to bad productivity and is not recommended. Look for more effective solutions here: https://stackoverflow.com/questions/411752.
+Keep in mind that **in C# concatenating strings in loops leads to bad performance** and is not recommended. Learn more at: https://docs.microsoft.com/dotnet/api/system.text.stringbuilder#the-string-and-stringbuilder-types.
+
+Look for more effective solutions here: https://stackoverflow.com/questions/411752.
 
 ## Testing in the Judge System
 
