@@ -45,5 +45,5 @@ We will work on the following exercises:
 * [Problem: N-th Digit](/Content/Chapter-10-methods/exercises-methods/nth-digit.md)
 * [Problem: Integer to Base](/Content/Chapter-10-methods/exercises-methods/integer-to-base.md)
 * [Problem: Notifications](/Content/Chapter-10-methods/exercises-methods/notifications.md)
-* [Problem: Numbers to Words](/Content/Chapter-10-methods/exercises-methods/numbers-to-words/numbers-to-words.md)
-* [Problem: String Encryption](/Content/Chapter-10-methods/exercises-methods/string-encryption/string-encryption.md)
+* [Problem: Numbers to Words](/Content/Chapter-10-methods/exercises-methods/numbers-to-words.md)
+* [Problem: String Encryption](/Content/Chapter-10-methods/exercises-methods/string-encryption.md)

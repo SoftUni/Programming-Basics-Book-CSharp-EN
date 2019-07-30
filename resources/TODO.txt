@@ -24,3 +24,5 @@ Review the document structure (H1, H2, H3, ...)
 Inserting number --> reading number
 
 Add screenshot of softuni.org virtual classroom
+
+Check whether the .md files in each chapter match the table of contents (SUMMARY.md)
