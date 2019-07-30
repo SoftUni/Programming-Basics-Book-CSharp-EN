@@ -1,6 +1,6 @@
 # Problem: "Hello, Name!"
 
-Write a method which takes a name as a parameter and prints on the console "*Hello, \<name\>!*".
+Write a method which takes a name as a parameter and prints on the console "*Hello, \{name\}!*".
 
 ## Sample Input and Output
 

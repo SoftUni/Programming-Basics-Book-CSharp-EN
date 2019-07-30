@@ -6,10 +6,10 @@ In order to learn in practice what we have learned about methods we will **solve
 
 Before starting, let's review what we have learned about the **methods in C\#**:
 
-* We learned that the **purpose** of methods is to **divide** big programs with a lot of lines of code into smaller, shorter tasks.
+* We learned that the **purpose** of methods is to **split** big programs with a lot of lines of code into smaller, shorter tasks.
 * We introduced ourselves with the **structure** of methods, how to **declare** them and **invoke** them by their name.
 * We went over examples for methods with **parameters** and how to use them in our program.
-* We learned what **signature** and **return value** of a  method is and also what is the function of the operator `return`.
+* We learned what **signature** and **return value** of a  method is and also what is the purpose of the operator `return`.
 * We introduced ourselves with the **good practice** when working with methods, how to name them and their parameters, how to format code, etc.
 
 ### Defining a Method
@@ -25,7 +25,7 @@ static double CircleArea(double radius)
 
 ### Invoking a Method
 
-This is how we **invoke a method**, pass a parameter value for the invocation and process the returned value:
+This is how we **invoke a method**, pass a parameter value (**argument**) for the invocation and process the returned value:
 
 ```csharp
 Console.WriteLine("a = {0}, area = {1}", 5.33, CircleArea(5.33));
