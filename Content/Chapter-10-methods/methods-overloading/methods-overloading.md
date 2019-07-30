@@ -1,14 +1,16 @@
 # Method Overloading
 
-In many programming languages like C# and Java the same method can be declared in **few variants** with the same name and different parameters. This goes by the term “**method overloading**”. Now let's see how to write these overloaded methods in C#.
+In many programming languages like C# and Java the same method can be declared in **few variants** with the **same name and different parameters**. This goes by the term “**method overloading**”. Now let's see how to write these overloaded methods in C#.
 
 ## Method Signature
 
-In programming methods are **identified** through the elements of their declaration: **name** of the method + a list of its **parameters**. These two elements define its specification, the so called “**method signature**”. It is defined by the **method name** and the **definitions of the method parameters** (their types).
+In programming methods are **identified** through the elements of their declaration: **name** of the method + a list of its **parameters**. These two elements define its specification, the so called “**method signature**”.
+
+The **method signature** is defined by the **method name** and the **definitions of the method parameters** (only parameter types are considered, and the parameter names are ignored). Example:
 
 ![](/assets/chapter-10-images/16.Method-signature-01.png)
 
-In this example the method's signature is its name (**`Print`**), together with its parameter (**`string text`**).
+In this example the method's signature is its name (**`Print`**), together with its parameter types (**`string`**).
 
 If our program holds several **methods with the same name**, but with **different lists of parameters (signatures)**, we can say that we use **method overloading**.
 
@@ -20,9 +22,9 @@ As we mentioned, if you use **the same name for several methods with different s
 
 ## Signature and Return Value Type
 
-It is important to say that **the returned type as a result** of the method **is not a part of its signature**. If the returned type was a part of the signature, then the compiler doesn't know which method exactly to call.
+It is important to say that **the returned type as a result** of the method **is not a part of its signature**. If the returned type was a part of the signature, then the compiler doesn't know which method exactly to call (there is an ambiguity).
 
-Let's look at the following example – we have two methods with different return types. Despite that, Visual Studio shows that there is a mistake, because both of their signatures are the same. Therefore, when trying to call a method named **`Print(…)`**, the compiler can't know which of the two methods to run.
+Let's look at the following **example**: we have two methods with different return types. Despite that, Visual Studio shows that there is a mistake, because both of their signatures are the same. Therefore, when trying to call a method named **`Print(…)`**, the compiler can't know which of the two methods to invoke.
 
 ![](/assets/chapter-10-images/17.Method-overloading-02.png)
 
