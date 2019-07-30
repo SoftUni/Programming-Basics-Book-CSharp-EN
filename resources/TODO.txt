@@ -1,6 +1,5 @@
-Редактирано до края на глава 1
+Редактирано до края на глава 10
 ---------------------------
-
 
 Page size: 17.78 x 25.4 cm (10 x 7 in) + bleed
 
@@ -26,3 +25,5 @@ Inserting number --> reading number
 Add screenshot of softuni.org virtual classroom
 
 Check whether the .md files in each chapter match the table of contents (SUMMARY.md)
+
+Fix the colors for the links, e.g. this link has wrong color: https://stackoverflow.com/questions/411752.
