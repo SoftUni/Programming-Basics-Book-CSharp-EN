@@ -229,7 +229,7 @@
   * [Nested Methods \(Local Functions\)](Content/Chapter-10-methods/nested-methods/nested-methods.md)
   * [Method Naming](Content/Chapter-10-methods/method-naming/method-naming.md)
   * [Good Practices When Working with Methods](Content/Chapter-10-methods/methods-best-practices/methods-best-practices.md)
-  * [Exercises: Methods](Content/Chapter-10-methods/exercieses-methods/exercieses-methods.md)
+  * [Exercises: Methods](Content/Chapter-10-methods/exercises-methods/exercises-methods.md)
 	* [Problem: "Hello, Name!"](/Content/Chapter-10-methods/exercises-methods/hello-name.md)
 	* [Problem: Min Method](/Content/Chapter-10-methods/exercises-methods/min-method.md)
 	* [Problem: String Repeater](/Content/Chapter-10-methods/exercises-methods/string-repeater.md)
