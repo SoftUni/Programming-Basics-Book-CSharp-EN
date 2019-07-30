@@ -36,6 +36,13 @@ We have a method in the example below, which compares two numbers and returns a 
 
 ![](/assets/chapter-10-images/11.Return-operator-02.png)
 
+We can **invoke** the above method and ensure that it behaves as expected:
+ - CompareTo(3, 4) &rarr; -1
+ - CompareTo(20, 10) &rarr; 1
+ - CompareTo(5, 5) &rarr; 0
+ - CompareTo(-5, -7) &rarr; 1
+ - CompareTo(-10, -5) &rarr; -1
+
 ### The Code After "Return" is Inaccessible
 
 After the **`return`** operator, there **should not** be any more lines of code in the current block, because if there are, Visual Studio will warn you that it has found a piece of code **that is inaccessible**:

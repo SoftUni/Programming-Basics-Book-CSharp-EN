@@ -28,9 +28,7 @@ The input data is always valid and always in the described format. No need to va
 
 ## Output Data
 
-The output data must be printed on the console. The output consists of one line – the output of the **calculated mathematical expression**.
-
-The output must be **rounded up to the second digit after the decimal point**.
+The output data must be printed on the console. The output consists of one line: the **result** of the calculated mathematical expression, rounded up to the **second digit after the decimal point**.
 
 ## Constraints
 
@@ -87,6 +85,8 @@ The next step is the processing of our **`symbol`** variable. We have 3 possible
 Let's examine the actions that we need to undertake in the relevant cases that we defined:
 * If our symbol is an **operator**, then the only thing we need to do is to **set a new value for the `expressionOperator` variable**.
 * If our symbol is a **digit**, then we need to **change the current result of the expression depending on the current operator**, i.e. if  **`expressionOperator`** is a **`-`**, then we must **decrease the result by the numerical representation of the current symbol**. We can get the numerical representation of the current symbol via the formula that we used upon checking the condition for this case (the **`[ASCII code of our symbol] – [the ASCII code of the symbol `0`] = [the digit that represents the symbol]`**)
+
+This is a sample code, implemented the above idea:
 
 ![](/assets/chapter-9-2-images/02.X-expression-07.png)
 

@@ -104,7 +104,7 @@ An exemplary condition for the first part of the requirements looks like this:
 
 ![](/assets/chapter-9-2-images/01.Passion-days-04.png)
 
-**Note**: **`purchases`** is a variable of **`int`** type, in which we store the number of all purchases.
+**Note**: the variable “**`purchases`**” is of **`int`** type, in which we store the number of all purchases.
 
 We believe the reader should not have difficulties implementing all the other conditions because they are very similar to the first one.
 
