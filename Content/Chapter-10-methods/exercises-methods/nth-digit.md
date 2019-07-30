@@ -1,6 +1,6 @@
 # Problem: N-th Digit
 
-Create a method **`FindNthDigit(number, index)`**, which takes a number and index N as parameters and prints the N-th digit of the number (counting from right to left and starting from 1). After that print the result on the console.
+Create a method **`FindNthDigit(number, index)`**, which takes a number and index N as parameters and prints the N-th digit of the number (counting **from right to left** and starting from 1). After that print the result on the console.
 
 ## Sample Input and Output
 

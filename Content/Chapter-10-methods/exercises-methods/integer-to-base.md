@@ -10,7 +10,7 @@ Write a method **`IntegerToBase(number, toBase)`**, which takes as parameters an
 
 ## Hints and Guidelines
 
-In order to solve the problem we will declare a string, in which we will keep the result. After this we need to do the following calculations to convert the number.
+In order to solve the problem, we will declare a string, in which we will keep the result. After this we need to do the following calculations to convert the number.
 * Calculate **the remainder** of the number, divided by the base.
 * **Insert the remainder** in the beginning of the string.
 * **Divide** the number to the base.
