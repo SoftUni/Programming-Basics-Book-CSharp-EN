@@ -8,9 +8,9 @@ The C# language is made by **Microsoft** and they are the people who define the 
 
 ## The Official C# Code Conventions
 
-The official **C# code convention** by Microsoft is published in the "C# Coding Conventions" article in MSDN (https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions) and in this book we will guide ourselves by it.
+The official **C# code conventions** by Microsoft are published in the "**C# Coding Conventions**" article in the .NET documentation and in this book we shall follow them: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions.
 
-For formatting code Microsoft recommends **curly brackets `{}`** to be on a separate line and just below the construction to which they apply, as in the example below.
+For code formatting Microsoft recommends **curly brackets `{}`** to be on a separate line and just below the construction to which they apply, as in the example below:
 
 ```csharp
 if (someCondition)
