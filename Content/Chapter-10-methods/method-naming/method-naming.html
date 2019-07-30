@@ -3679,16 +3679,20 @@
                                 <section class="normal markdown-section">
                                 
                                 <h1 id="naming-methods"><a name="naming-methods" class="plugin-anchor" href="#naming-methods"><i class="fa fa-link" aria-hidden="true"></i></a>Naming Methods</h1>
-<p>When you name a method, it is good to use <strong>meaningful names</strong>. Because every method <strong>handles</strong> a part of our problem, when naming it we should keep in mind <strong>the action it does</strong>, i.e. it is a good practice for <strong>the name to describe what the method does</strong>.</p>
-<p>In C# the method name must start with <strong>uppercase letter</strong> and should be made of a verb or a couple: verb + noun. The name is formatted by following the <strong>Upper Camel Case</strong> convention (PascalCase), i.e. <strong>each word, including the first one, starts with uppercase</strong>.  The brackets <strong><code>(</code></strong> and <strong><code>)</code></strong> always follow the name. </p>
-<p>Each method must do one task and its name should describe this task. </p>
-<p>A few examples for <strong>correctly</strong> named methods:</p>
+<p>When you name methods, use <strong>meaningful names</strong>.</p>
+<ul>
+<li>Because every method <strong>handles</strong> a part of our problem, when naming it we should keep in mind <strong>the action it does</strong>, i.e. it is a good practice for <strong>the name to describe what the method does</strong>.</li>
+<li>Each method must do <strong>only one task</strong> and its name should describe this task. This principle in programming is known as &#x201C;<strong>strong cohesion</strong>&#x201D;.</li>
+<li>In C# the method name must start with <strong>uppercase letter</strong> and should be made of a <strong>verb</strong> or a couple: <strong>verb + noun</strong>. The name is formatted by following the <strong>Upper Camel Case</strong> convention (PascalCase), i.e. <strong>each word, including the first one, starts with uppercase</strong>.</li>
+<li>The brackets <strong><code>(</code></strong> and <strong><code>)</code></strong> always follow the name (without spaces). </li>
+</ul>
+<p>A few examples for <strong>correctly named methods</strong>:</p>
 <ul>
 <li><strong><code>FindStudent</code></strong></li>
 <li><strong><code>LoadReport</code></strong></li>
 <li><strong><code>Sine</code></strong></li>
 </ul>
-<p>A few examples for <strong>incorrectly</strong> naming our methods:</p>
+<p>A few examples for <strong>incorrectly named methods</strong> (think why):</p>
 <ul>
 <li><strong><code>Method1</code></strong></li>
 <li><strong><code>DoSomething</code></strong></li>
@@ -3696,10 +3700,10 @@
 <li><strong><code>SampleMethod</code></strong></li>
 <li><strong><code>DirtyHack</code></strong></li>
 </ul>
-<p>If you cannot think of an appropriate name, then the method most probably solves more than one task or doesn&apos;t have a clearly defined purpose and in this case you have to think how to divide it in several simpler methods.</p>
+<p>If you cannot think of an appropriate name, then the method most probably solves more than one task or doesn&apos;t have a <strong>clearly defined purpose</strong> and in this case you have to think how to <strong>split it</strong> into several simpler methods.</p>
 <h2 id="naming-method-parameters"><a name="naming-method-parameters" class="plugin-anchor" href="#naming-method-parameters"><i class="fa fa-link" aria-hidden="true"></i></a>Naming Method Parameters</h2>
 <p>When naming <strong>the parameters</strong> of a method you can apply almost the same rules as with the methods themselves. The difference here is that it is good for the names of the parameters to use a noun or a couple of an adjective and a noun, and when naming the parameters, we use the <strong><code>lowerCamelCase</code></strong> convention, i.e. <strong>each word except for the first one starts with uppercase</strong>. We should note that it is a good practice that the name of the parameter <strong>shows</strong> what <strong>unit</strong> is used when working with it.</p>
-<p>A few examples for <strong>correctly</strong> named parameters:</p>
+<p>A few examples for <strong>correctly named parameters</strong>:</p>
 <ul>
 <li><strong><code>firstName</code></strong></li>
 <li><strong><code>report</code></strong></li>
@@ -3708,7 +3712,7 @@
 <li><strong><code>fontSizeInPixels</code></strong></li>
 <li><strong><code>font</code></strong></li>
 </ul>
-<p>A few examples for <strong>incorrectly</strong> named parameters:</p>
+<p>A few examples for <strong>incorrectly named parameters</strong>:</p>
 <ul>
 <li><strong><code>p</code></strong></li>
 <li><strong><code>p1</code></strong></li>
@@ -3760,7 +3764,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Method Naming","level":"1.20.7","depth":2,"next":{"title":"Good Practices When Working with Methods","level":"1.20.8","depth":2,"path":"Content/Chapter-10-methods/methods-best-practices/methods-best-practices.md","ref":"Content/Chapter-10-methods/methods-best-practices/methods-best-practices.md","articles":[]},"previous":{"title":"Nested Methods (Local Functions)","level":"1.20.6","depth":2,"path":"Content/Chapter-10-methods/nested-methods/nested-methods.md","ref":"Content/Chapter-10-methods/nested-methods/nested-methods.md","articles":[]},"dir":"ltr"},"config":{"plugins":["ga","meta","anchors","expandable-chapters-small","katex","sitemap","scripts","page-toc-button"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"meta":{"content":"xSQjbYfAeT3z-ew8RE51NA5hmxlZ1qNKgCerlOBthgo","data":[],"name":"google-site-verification"},"scripts":{"files":["./assets/js/repl.it-code-runner.js","./assets/js/video.js"]},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"katex":{},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"sitemap":{"hostname":"https://csharp-book.softuni.org/"},"page-toc-button":{},"expandable-chapters-small":{},"ga":{"configuration":"auto","token":"UA-11309924-26"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"anchors":{}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":36,"left":36,"top":48,"bottom":48}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"isbn":"978-619-00-0902-3","variables":{},"title":"Programming Basics with C#","language":"en","gitbook":"*","description":"Free book + video course + \"Programming Basics with C#\" for absolute beginners. It covers the C# language and the .NET platform, the C# compiler, the Visual Studio development environment, variables, data, calculations, conditional statements, loop constructions, nested loops, methods and lots of practical exercises."},"file":{"path":"Content/Chapter-10-methods/method-naming/method-naming.md","mtime":"2019-03-22T18:00:09.576Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2019-07-30T09:48:09.101Z"},"basePath":"../../..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Method Naming","level":"1.20.7","depth":2,"next":{"title":"Good Practices When Working with Methods","level":"1.20.8","depth":2,"path":"Content/Chapter-10-methods/methods-best-practices/methods-best-practices.md","ref":"Content/Chapter-10-methods/methods-best-practices/methods-best-practices.md","articles":[]},"previous":{"title":"Nested Methods (Local Functions)","level":"1.20.6","depth":2,"path":"Content/Chapter-10-methods/nested-methods/nested-methods.md","ref":"Content/Chapter-10-methods/nested-methods/nested-methods.md","articles":[]},"dir":"ltr"},"config":{"plugins":["ga","meta","anchors","expandable-chapters-small","katex","sitemap","scripts","page-toc-button"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"meta":{"content":"xSQjbYfAeT3z-ew8RE51NA5hmxlZ1qNKgCerlOBthgo","data":[],"name":"google-site-verification"},"scripts":{"files":["./assets/js/repl.it-code-runner.js","./assets/js/video.js"]},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"katex":{},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"sitemap":{"hostname":"https://csharp-book.softuni.org/"},"page-toc-button":{},"expandable-chapters-small":{},"ga":{"configuration":"auto","token":"UA-11309924-26"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"anchors":{}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":36,"left":36,"top":48,"bottom":48}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"isbn":"978-619-00-0902-3","variables":{},"title":"Programming Basics with C#","language":"en","gitbook":"*","description":"Free book + video course + \"Programming Basics with C#\" for absolute beginners. It covers the C# language and the .NET platform, the C# compiler, the Visual Studio development environment, variables, data, calculations, conditional statements, loop constructions, nested loops, methods and lots of practical exercises."},"file":{"path":"Content/Chapter-10-methods/method-naming/method-naming.md","mtime":"2019-07-30T11:02:44.765Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2019-07-30T12:28:09.838Z"},"basePath":"../../..","book":{"language":""}});
         });
     </script>
 </div>
