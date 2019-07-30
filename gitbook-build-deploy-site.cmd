@@ -6,7 +6,7 @@ call gitbook install
 
 call gitbook build . --log=debug --debug
 
-git clone https://github.com/SoftUni/Programming-Basics-Book-CSharp-EN -b gh-pages _gh-pages
+git clone --depth 1 https://github.com/SoftUni/Programming-Basics-Book-CSharp-EN -b gh-pages _gh-pages
 
 xcopy /s /y _book _gh-pages
 
