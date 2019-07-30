@@ -2,7 +2,9 @@
 
 In this section we will recall some **tricks and techniques** in programming with C\#, already seen in this book, which can be very useful if you attend an exam for beginner programming.
 
-## Inserting Variables in Strings
+## Inserting Variable Values in Strings
+
+In programming we often need to **combine text with variable values** to obtain a string value, e.g.
 
 ```csharp
 var text = "some text";
@@ -23,16 +25,19 @@ In this example we can see that we can insert **not only text variables**. We ca
 
 ## Formatting with 2 Digits After the Decimal Point
 
+When we print numbers, we often need to round them to 2 digits after the decimal point, e.g.
+
 ```csharp
 var number = 5.432432;
 Console.WriteLine(Math.Round(number, 2));
 // This will print on the console "5.43"
 ```
 
-`Math.Round(…)` takes 2 parameters:
+## Rounding Numbers
 
-* the first one is **the number we want to round**
-* the second one is the number that determines **how many digits after the decimal point we want to round to** \(this should always be an integer\)
+To round numbers, we may use the `Math.Round(…)` method, which takes 2 parameters:
+  - the first one is **the number we want to round**
+  - the second one is the number that determines **how many digits after the decimal point we want to round to** (this should always be an integer)
 
 If we want to round the number to **2 digits after the decimal point** and the third digit is lower than 5, as in the example above, the rounding is down, but if the third digit is equal or bigger than 5 – the rounding is up as in the example below:
 
@@ -74,7 +79,9 @@ The conditional `if`** construction** contains the following elements:
 * Keyword `if`
 * **A Boolean expression** \(condition\)
 * **Body** of the conditional construction
-* Optional: `else`** clause**
+* Optional: **`else` clause**
+
+Example:
 
 ```csharp
 if (condition)
@@ -87,18 +94,18 @@ else (condition)
 }
 ```
 
-To make it easier we can use a code snippet for an `if`** construction**:
+To make it easier we can use a code snippet for an **`if` construction**:
 
 * `if`** + \[Tab\] + \[Tab\]**
 
 ## How to Write a 'For' Loop?
 
-For a `for`** loop** we need a couple of things:
+For a **`for` loop** we need a couple of things:
 
-* Initializing block, in which the counting variable is declared \(`var i`\) and its initial value is set.
-* Condition for repetition \(`i <= 10`\).
-* Renewing the counter \(`i++`\).
-* Body of the loop.
+- **Initializing block**, in which the counter variable is declared (`var i`) and its initial value is set
+- **Condition** for repetition (`i <= 10`)
+- Loop variable (counter) **updating statement** (`i++`)
+- **Body** of the loop, holding statements
 
 ```csharp
 for (var i = 0; i < 5; i++;)

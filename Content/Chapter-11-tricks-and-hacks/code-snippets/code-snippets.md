@@ -30,7 +30,15 @@ We see many things we haven't seen yet, but don't worry, we will become acquaint
 
 ## Changing an Existing Snippet
 
-Now we have to focus on the part `<Title></Title>`, `<Shortcut></Shortcut>` and the code between `CDATA[]`. Firstly, we will change the title in `<Title></Title>` and in the place of `cw`we will write `cr`, as this will be **the title of our snippet**. After that, in the section `<Shortcut></Shortcut>`, we will change what we have to write to **call our snippet** \(the shortcut\) from `cw` to `cr`. Finally, we need to change the code in `CDATA[]`, from `WriteLine` to `ReadLine`: `CDATA[$SystemConsole$.ReadLine($end$);]`. If you wish, you can change the sections `<Description></Description>` and `<Author></Author>`. The changed file should look like this:
+To create a new snipped, we shall take an existing snipped, modify it and save it in a new snipped file.
+
+We have to focus on the part `<Title></Title>`, `<Shortcut></Shortcut>` and the code between `CDATA[]`.
+  - Firstly, we will change the title in `<Title></Title>` and in the place of `cw`we will write `cr`, as this will be **the title of our snippet**.
+  - After that, in the section `<Shortcut></Shortcut>`, we will change what we have to write to **call our snippet** \(the shortcut\) from `cw` to `cr`.
+  - Finally, we need to change the code in `CDATA[]`, from `WriteLine` to `ReadLine`: `CDATA[$SystemConsole$.ReadLine($end$);]`.
+  - If you wish, you can change the sections `<Description></Description>` and `<Author></Author>`.
+
+The changed file, after all described modifications, should look like this:
 
 ![](/assets/chapter-11-images/01.Code-snippet-05.jpg)
 
@@ -42,7 +50,6 @@ After we have written our snippet, we should **save the file in format** `snippe
 
 ![](/assets/chapter-11-images/01.Code-snippet-08.jpg)
 
-Now when we write `cr` in Visual Studio, **our new snippet** appears:
+Now when we write “`cr`” and press **[Tab]** twice in Visual Studio, **our new snippet** will appear, as it is shown in the screenshot below:
 
 ![](/assets/chapter-11-images/01.Code-snippet-07.jpg)
-
