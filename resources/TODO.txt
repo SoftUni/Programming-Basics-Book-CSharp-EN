@@ -1,13 +1,10 @@
-Редактирано до края на глава 10
----------------------------
-
 Page size: 17.78 x 25.4 cm (10 x 7 in) + bleed
 
 Advertisment banner (English)
 
-Spell check all the text
+[done] Spell-check all the text
 
-Check all video links
+[done] Check all video links
 
 Front cover (with videos)
 
@@ -15,12 +12,7 @@ Back cover
 
 Sample Input and Output -> fix table sizes
 
-download -> drag and drop 
-We download from the bar on the left
-
 Review the document structure (H1, H2, H3, ...)
-
-Inserting number --> reading number
 
 Add screenshot of softuni.org virtual classroom
 
