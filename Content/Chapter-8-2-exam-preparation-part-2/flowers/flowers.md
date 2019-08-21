@@ -27,7 +27,7 @@ The input is read from the **console** and contains **exactly 5 lines**:
 
 ## Output Data
 
-Print on the console 1 number – **the price of flowers**, formatted up to the second symbol after the decimal point.
+Print on the console 1 number – **the price of flowers**, formatted up to the second digit after the decimal point.
 
 ## Sample Input and Output
 

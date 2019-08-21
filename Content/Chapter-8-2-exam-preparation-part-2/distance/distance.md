@@ -12,7 +12,7 @@ Write a program that calculates **what is the distance passed by a car (in kilom
 
 ## Output Data
 
-Print a number on the console: **the kilometers passed**, formatted up to the **second symbol after the decimal point**.
+Print a number on the console: **the kilometers passed**, formatted up to the **second digit after the decimal point**.
 
 ## Sample Input and Output
 

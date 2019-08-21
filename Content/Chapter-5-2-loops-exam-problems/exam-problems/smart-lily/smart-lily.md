@@ -17,7 +17,7 @@ Print on the console one single line:
 * “**Yes! {N}**” – where **N** is the remaining money after the purchase
 * If the money is not enough:
 * “**No! {M}**” – where **M** is the insufficiency amount
-* Numbers **N** and **M** must be **formatted up to the second symbol after the decimal point**.
+* Numbers **N** and **M** must be **formatted up to the second digit after the decimal point**.
 
 ## Sample Input and Output
 
