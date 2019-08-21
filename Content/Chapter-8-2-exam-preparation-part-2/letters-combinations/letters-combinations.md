@@ -1,6 +1,6 @@
 # Problem: Letters Combination
 
-Write a program that prints on the console **all combinations of 3 letters** within a specified range, by skipping the combinations **containing a letter set from the console**. Finally, print the number of printed combinations.
+Write a program that prints on the console **all combinations of 3 letters** within a specified range, by skipping the combinations **containing a certain letter**. Finally, print the number of printed combinations.
 
 ## Input Data
 
@@ -29,23 +29,23 @@ Print on a single line **all combinations** corresponding to the requirements, f
 
 ### Reading the Input Data
 
-By requirements, we have input data on **3 lines**, each of which is represented by one symbol of the **ASCII table** ([http://www.asciitable.com](http://www.asciitable.com)). We could use an already **defined function** in C#, by converting the input data into **`char`** data type, as follows:
+By requirements, we have input data on **3 lines**, each of which is represented by one character of the **ASCII table** ([http://www.asciitable.com](http://www.asciitable.com)). We could use an already **defined function** in C#, by converting the input data into **`char`** data type, as follows:
 
 ![](/assets/chapter-8-2-images/06.Letters-01.png)
 
-### Printing All Symbols from Start to End
+### Printing All Characters from Start to End
 
-Let's think of how we can achieve the **end result**. In case the task requirement is to print all symbols, from the starting to the end one (by skipping a particular letter), what should we do? 
+Let's think of how we can achieve the **end result**. In case the task requirement is to print all characters, from the starting to the end one (by skipping a particular letter), what should we do? 
 
-The easiest and most efficient way is to use a **loop**, by passing through **all symbols** and printing those that are **different** from the **letter** that we need to skip. One of the advantages of C# is that we have the opportunity to use a different data type for a loop variable:
+The easiest and most efficient way is to use a **loop**, by passing through **all characters** and printing those that are **different** from the **letter** that we need to skip. One of the advantages of C# is that we have the opportunity to use a different data type for a loop variable:
 
 ![](/assets/chapter-8-2-images/06.Letters-02.png)
 
-The result of running the code is all letters from **a** to **z** included, printed on a single line and separated by spaces. Does this look like the end result of our task? We must find a **way** to print **3 symbols**, as required, instead of **1**. Running such a program very much looks like a slot machine. We often win in slots, if we arrange a few identical symbols on a row. Let's say that the machine has space for three symbols. When we **stop** on a particular **symbol** on the first place, the other two places will **continue** rolling symbols among all possible ones. In our case, **all possible symbols** are the letters from the starting to the end one, entered by the user, and the solution of our program is identical to the way a slot machine works.
+The result of running the code is all letters from **a** to **z** included, printed on a single line and separated by spaces. Does this look like the end result of our task? We must find a **way** to print **3 characters**, as required, instead of **1**. Running such a program very much looks like a slot machine. We often win in slots, if we arrange a few identical characters on a row. Let's say that the machine has space for three characters. When we **stop** on a particular **character** on the first place, the other two places will **continue** rolling characters among all possible ones. In our case, **all possible characters** are the letters from the starting to the end one, entered by the user, and the solution of our program is identical to the way a slot machine works.
 
-### Printing Combination of Three Symbols
+### Printing Combination of 3 Characters
 
-We use a **loop** that runs through **all symbols** from the starting to the end letter (included). On **each iteration** of the **first** loop, we run a **second** one with the same parameters (but **only if** the letter of the first loop is valid, i.e. does not match the one that we must exclude, by requirements). In each iteration of the **second** loop, we run **one** more with the **same parameters** and the same **condition**. This way we have three nested loops, as we will print the symbols in the body of the **latter**.
+We use a **loop** that runs through **all characters** from the starting to the end letter (included). On **each iteration** of the **first** loop, we run a **second** one with the same parameters (but **only if** the letter of the first loop is valid, i.e. does not match the one that we must exclude, by requirements). In each iteration of the **second** loop, we run **one** more with the **same parameters** and the same **condition**. This way we have three nested loops, as we will print the characters in the body of the **latter**.
 
 ![](/assets/chapter-8-2-images/06.Letters-03.png)
 
