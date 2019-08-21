@@ -1,21 +1,24 @@
 Page size: 17.78 x 25.4 cm (10 x 7 in) + bleed
 
-Advertisment banner (English)
-
 [done] Spell-check all the text
 
 [done] Check all video links
 
-Front cover (with videos)
+[done] second symbol after the decimal point --> second digit after the decimal point
 
-Back cover
+[done] Sample Input and Output -> fix table sizes
 
-Sample Input and Output -> fix table sizes
-
-Review the document structure (H1, H2, H3, ...)
+[done] Fix the colors for the links, e.g. this link has wrong color: https://stackoverflow.com/questions/411752.
 
 Add screenshot of softuni.org virtual classroom
 
+Review the document structure (H1, H2, H3, ...)
+
 Check whether the .md files in each chapter match the table of contents (SUMMARY.md)
 
-Fix the colors for the links, e.g. this link has wrong color: https://stackoverflow.com/questions/411752.
+Advertisment banner (English)
+
+Front cover (with videos)
+
+Back cover (English)
+
