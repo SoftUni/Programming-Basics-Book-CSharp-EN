@@ -10,7 +10,7 @@ Page size: 17.78 x 25.4 cm (10 x 7 in) + bleed
 
 [done] Fix the colors for the links, e.g. this link has wrong color: https://stackoverflow.com/questions/411752.
 
-Add screenshot of softuni.org virtual classroom
+[done] Add screenshots of the softuni.org virtual classroom
 
 Review the document structure (H1, H2, H3, ...)
 
