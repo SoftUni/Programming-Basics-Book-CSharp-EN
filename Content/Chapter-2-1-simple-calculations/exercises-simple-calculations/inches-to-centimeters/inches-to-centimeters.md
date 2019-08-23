@@ -27,7 +27,7 @@ In Visual Studio **the current active project** in a solution is marked in semi-
 
 ![](/assets/chapter-2-images/02.Inches-to-centimeters-05.png)
 
-## Setting up a Startup Project
+## Setting Up a Startup Project
 
 To switch the mode to **automatically go to current project**, we right-click the main solution and we choose \[**Set StartUp Projects…**\]:
 

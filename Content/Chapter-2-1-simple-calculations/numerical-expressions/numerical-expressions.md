@@ -97,15 +97,15 @@ Test your solution here:[https://judge.softuni.org/Contests/Practice/Index/504\#
 
 ## Other Expressions
 
-Expressions in C\# can be not only numerical, but also can text expressions, date expressions or expressions of other type:
+Expressions in C\# can be not only numerical, but also can be text expressions, date expressions or expressions of other type:
 
 ```csharp
 var price = 20;
-var priceUSD = "$ " + price;
+var priceUSD = "$ " + price; // text expression
 var priceGBP = price + " GBP";
 Console.WriteLine(priceUSD); // $ 20
 Console.WriteLine(priceGBP); // 20 GBP
 var date = new DateTime(2017, 6, 14);
-var dateAfter5days = date.AddDays(5); // 14-Jun-17
+var dateAfter5days = date.AddDays(5); // 14-Jun-17 (date expression)
 Console.WriteLine(dateAfter5days); // 19-Jun-17 00:00:00
 ```

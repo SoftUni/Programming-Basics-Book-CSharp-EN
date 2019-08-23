@@ -59,8 +59,8 @@
 <url> <loc>https://csharp-book.softuni.org/Content/Chapter-3-1-simple-conditions/overview.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://csharp-book.softuni.org/Content/Chapter-3-1-simple-conditions/comparing-numbers/comparing-numbers.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://csharp-book.softuni.org/Content/Chapter-3-1-simple-conditions/simple-conditions/simple-conditions.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://csharp-book.softuni.org/Content/Chapter-3-1-simple-conditions/comparing-numbers/if-else-conditions-examples.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://csharp-book.softuni.org/Content/Chapter-3-1-simple-conditions/variable-lifetime/variable-lifetime.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://csharp-book.softuni.org/Content/Chapter-3-1-simple-conditions/if-else-conditions/if-else-conditions-examples.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://csharp-book.softuni.org/Content/Chapter-3-1-simple-conditions/variable-scope/variable-scope.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://csharp-book.softuni.org/Content/Chapter-3-1-simple-conditions/sequence-of-conditions/sequence-of-conditions.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://csharp-book.softuni.org/Content/Chapter-3-1-simple-conditions/debugging/debugging.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://csharp-book.softuni.org/Content/Chapter-3-1-simple-conditions/exercises-simple-conditions/exercises-simple-conditions.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
