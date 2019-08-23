@@ -2,9 +2,13 @@
 
 The previous chapter introduced you to **nested conditions** in C#. Via nested conditions, the program logic in a particular application can be represented using **`if` conditional statements** that are nested one into another. We also explained the **`switch-case`** conditional statement that allows selecting from a list of options.
 
-Now we are going to do some **exercises** and make sure we have in-depth understanding of the material, by examining a number of more complex problems that had been given to students on exams. Before moving to the problems, let's first recall what **nested conditions** are.
+Now we are going to solve some **practical exercises** and make sure we have in-depth understanding of the material, by discussing a number of more complex problems that had been given to students on exams.
 
-## Nested Conditions
+## More Complex Conditions – Quick Review
+
+Before moving to the problems, let's first recall what **nested conditions** are.
+
+### Nested Conditions
 
 ```csharp
 if (condition1)
@@ -20,7 +24,7 @@ if (condition1)
 <td>Remember that it is <b>not a good practice</b> to write <b>deeply nested conditional statements</b> (with more than three levels of nesting). Avoid nesting of more than three conditional statements inside one another. This complicates the code and makes its reading and understanding difficult.</td>
 </tr></table>
 
-## Switch-Case Conditions
+### Switch-Case Conditions
 
 When the program operation depends on the value of a variable, instead of doing consecutive checks with multiple `if-else` blocks, we can use the `switch-case` conditional statement.
 
