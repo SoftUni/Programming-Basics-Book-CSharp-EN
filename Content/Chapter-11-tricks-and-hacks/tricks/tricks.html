@@ -3680,7 +3680,8 @@
                                 
                                 <h1 id="tricks-for-c-developers"><a name="tricks-for-c-developers" class="plugin-anchor" href="#tricks-for-c-developers"><i class="fa fa-link" aria-hidden="true"></i></a>Tricks for C# Developers</h1>
 <p>In this section we will recall some <strong>tricks and techniques</strong> in programming with C#, already seen in this book, which can be very useful if you attend an exam for beginner programming.</p>
-<h2 id="inserting-variables-in-strings"><a name="inserting-variables-in-strings" class="plugin-anchor" href="#inserting-variables-in-strings"><i class="fa fa-link" aria-hidden="true"></i></a>Inserting Variables in Strings</h2>
+<h2 id="inserting-variable-values-in-strings"><a name="inserting-variable-values-in-strings" class="plugin-anchor" href="#inserting-variable-values-in-strings"><i class="fa fa-link" aria-hidden="true"></i></a>Inserting Variable Values in Strings</h2>
+<p>In programming we often need to <strong>combine text with variable values</strong> to obtain a string value, e.g.</p>
 <pre><code class="lang-csharp"><span class="hljs-keyword">var</span> text = <span class="hljs-string">&quot;some text&quot;</span>;
 Console.WriteLine(<span class="hljs-string">&quot;{0}&quot;</span>, text);
 <span class="hljs-comment">// This will print on the console &quot;some text&quot;</span>
@@ -3693,11 +3694,13 @@ Console.WriteLine(<span class="hljs-string">&quot;{0} {1} {0}&quot;</span>, text
 </code></pre>
 <p>In this example we can see that we can insert <strong>not only text variables</strong>. We can also use a given variable <strong>several times</strong> and for this we put the number which <strong>corresponds with the position of the variable</strong> in the placeholder. In this case on position zero is the variable <code>text</code>, and at first position is the variable <code>number</code>. At the beginning, numbering can be confusing, but you need to remember that in programming <strong>counting starts from 0</strong>.</p>
 <h2 id="formatting-with-2-digits-after-the-decimal-point"><a name="formatting-with-2-digits-after-the-decimal-point" class="plugin-anchor" href="#formatting-with-2-digits-after-the-decimal-point"><i class="fa fa-link" aria-hidden="true"></i></a>Formatting with 2 Digits After the Decimal Point</h2>
+<p>When we print numbers, we often need to round them to 2 digits after the decimal point, e.g.</p>
 <pre><code class="lang-csharp"><span class="hljs-keyword">var</span> number = <span class="hljs-number">5.432432</span>;
 Console.WriteLine(Math.Round(number, <span class="hljs-number">2</span>));
 <span class="hljs-comment">// This will print on the console &quot;5.43&quot;</span>
 </code></pre>
-<p><code>Math.Round(&#x2026;)</code> takes 2 parameters:</p>
+<h2 id="rounding-numbers"><a name="rounding-numbers" class="plugin-anchor" href="#rounding-numbers"><i class="fa fa-link" aria-hidden="true"></i></a>Rounding Numbers</h2>
+<p>To round numbers, we may use the <code>Math.Round(&#x2026;)</code> method, which takes 2 parameters:</p>
 <ul>
 <li>the first one is <strong>the number we want to round</strong></li>
 <li>the second one is the number that determines <strong>how many digits after the decimal point we want to round to</strong> (this should always be an integer)</li>
@@ -3729,8 +3732,9 @@ Console.WriteLine(<span class="hljs-string">&quot;{0:f2}&quot;</span>, num);
 <li>Keyword <code>if</code></li>
 <li><strong>A Boolean expression</strong> (condition)</li>
 <li><strong>Body</strong> of the conditional construction</li>
-<li>Optional: <code>else</code><strong> clause</strong></li>
+<li>Optional: <strong><code>else</code> clause</strong></li>
 </ul>
+<p>Example:</p>
 <pre><code class="lang-csharp"><span class="hljs-keyword">if</span> (condition)
 {
     <span class="hljs-comment">// body</span>
@@ -3740,17 +3744,17 @@ Console.WriteLine(<span class="hljs-string">&quot;{0:f2}&quot;</span>, num);
     <span class="hljs-comment">// body</span>
 }
 </code></pre>
-<p>To make it easier we can use a code snippet for an <code>if</code><strong> construction</strong>:</p>
+<p>To make it easier we can use a code snippet for an <strong><code>if</code> construction</strong>:</p>
 <ul>
 <li><code>if</code><strong> + [Tab] + [Tab]</strong></li>
 </ul>
 <h2 id="how-to-write-a-for-loop"><a name="how-to-write-a-for-loop" class="plugin-anchor" href="#how-to-write-a-for-loop"><i class="fa fa-link" aria-hidden="true"></i></a>How to Write a &apos;For&apos; Loop?</h2>
-<p>For a <code>for</code><strong> loop</strong> we need a couple of things:</p>
+<p>For a <strong><code>for</code> loop</strong> we need a couple of things:</p>
 <ul>
-<li>Initializing block, in which the counting variable is declared (<code>var i</code>) and its initial value is set.</li>
-<li>Condition for repetition (<code>i &lt;= 10</code>).</li>
-<li>Renewing the counter (<code>i++</code>).</li>
-<li>Body of the loop.</li>
+<li><strong>Initializing block</strong>, in which the counter variable is declared (<code>var i</code>) and its initial value is set</li>
+<li><strong>Condition</strong> for repetition (<code>i &lt;= 10</code>)</li>
+<li>Loop variable (counter) <strong>updating statement</strong> (<code>i++</code>)</li>
+<li><strong>Body</strong> of the loop, holding statements</li>
 </ul>
 <pre><code class="lang-csharp"><span class="hljs-keyword">for</span> (<span class="hljs-keyword">var</span> i = <span class="hljs-number">0</span>; i &lt; <span class="hljs-number">5</span>; i++;)
 {
@@ -3804,7 +3808,7 @@ Console.WriteLine(<span class="hljs-string">&quot;{0:f2}&quot;</span>, num);
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Tricks for C# Developers","level":"1.21.6","depth":2,"next":{"title":"What We Learned in This Chapter?","level":"1.21.7","depth":2,"path":"Content/Chapter-11-tricks-and-hacks/what-we-learned/what-we-learned.md","ref":"Content/Chapter-11-tricks-and-hacks/what-we-learned/what-we-learned.md","articles":[]},"previous":{"title":"Code Debugging Techniques","level":"1.21.5","depth":2,"path":"Content/Chapter-11-tricks-and-hacks/debugging-techniques/debugging-techniques.md","ref":"Content/Chapter-11-tricks-and-hacks/debugging-techniques/debugging-techniques.md","articles":[]},"dir":"ltr"},"config":{"plugins":["ga","meta","anchors","expandable-chapters-small","katex","sitemap","scripts","page-toc-button"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"meta":{"content":"xSQjbYfAeT3z-ew8RE51NA5hmxlZ1qNKgCerlOBthgo","data":[],"name":"google-site-verification"},"scripts":{"files":["./assets/js/repl.it-code-runner.js","./assets/js/video.js"]},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"katex":{},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"sitemap":{"hostname":"https://csharp-book.softuni.org/"},"page-toc-button":{},"expandable-chapters-small":{},"ga":{"configuration":"auto","token":"UA-11309924-26"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"anchors":{}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":36,"left":36,"top":48,"bottom":48}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"isbn":"978-619-00-0902-3","variables":{},"title":"Programming Basics with C#","language":"en","gitbook":"*","description":"Free book + video course + \"Programming Basics with C#\" for absolute beginners. It covers the C# language and the .NET platform, the C# compiler, the Visual Studio development environment, variables, data, calculations, conditional statements, loop constructions, nested loops, methods and lots of practical exercises."},"file":{"path":"Content/Chapter-11-tricks-and-hacks/tricks/tricks.md","mtime":"2019-03-22T18:00:09.585Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2019-07-30T14:08:49.871Z"},"basePath":"../../..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Tricks for C# Developers","level":"1.21.6","depth":2,"next":{"title":"What We Learned in This Chapter?","level":"1.21.7","depth":2,"path":"Content/Chapter-11-tricks-and-hacks/what-we-learned/what-we-learned.md","ref":"Content/Chapter-11-tricks-and-hacks/what-we-learned/what-we-learned.md","articles":[]},"previous":{"title":"Code Debugging Techniques","level":"1.21.5","depth":2,"path":"Content/Chapter-11-tricks-and-hacks/debugging-techniques/debugging-techniques.md","ref":"Content/Chapter-11-tricks-and-hacks/debugging-techniques/debugging-techniques.md","articles":[]},"dir":"ltr"},"config":{"plugins":["ga","meta","anchors","expandable-chapters-small","katex","sitemap","scripts","page-toc-button"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"meta":{"content":"xSQjbYfAeT3z-ew8RE51NA5hmxlZ1qNKgCerlOBthgo","data":[],"name":"google-site-verification"},"scripts":{"files":["./assets/js/repl.it-code-runner.js","./assets/js/video.js"]},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"katex":{},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"sitemap":{"hostname":"https://csharp-book.softuni.org/"},"page-toc-button":{},"expandable-chapters-small":{},"ga":{"configuration":"auto","token":"UA-11309924-26"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"anchors":{}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":36,"left":36,"top":48,"bottom":48}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"isbn":"978-619-00-0902-3","variables":{},"title":"Programming Basics with C#","language":"en","gitbook":"*","description":"Free book + video course + \"Programming Basics with C#\" for absolute beginners. It covers the C# language and the .NET platform, the C# compiler, the Visual Studio development environment, variables, data, calculations, conditional statements, loop constructions, nested loops, methods and lots of practical exercises."},"file":{"path":"Content/Chapter-11-tricks-and-hacks/tricks/tricks.md","mtime":"2019-07-30T20:57:37.903Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2019-08-23T10:19:32.250Z"},"basePath":"../../..","book":{"language":""}});
         });
     </script>
 </div>

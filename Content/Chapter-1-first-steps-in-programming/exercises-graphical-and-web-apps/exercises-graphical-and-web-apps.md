@@ -4,7 +4,7 @@ Now we are about to build one simple **web application** and one simple **graphi
 
 ## Console, Graphical and Web Applications
 
-With **console applications**, as you can figure out yourselves, **all operations** for reading input and printing output are **done through the console**. **The input data is inserted** in the console, which is then read by the application, also in it, and the **output data is printed** on the console after or during the runtime of the program.
+With **console applications**, as you can figure out yourselves, **all operations** for reading input and printing output are **done through the console**. **The input data is entered** in the console, which is then read by the application, also in it, and the **output data is printed** on the console after or during the runtime of the program.
 
 While a console application **uses the text console**, web applications **use web-based user interface**. To **execute them**, two things are needed – **a web server** and **a web browser**, as **the browser** plays the main role in **the visualization of the data and the interaction with the user**. Web applications are much more pleasant for the user, they visually look better, and a mouse and touch screen can be used \(for tablets and smartphones\), but programming stands behind all of that. And this is why **we have to learn to program** and we have already made our first very little steps towards that.
 

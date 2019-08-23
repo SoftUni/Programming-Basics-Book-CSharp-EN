@@ -44,14 +44,14 @@ Now we have to prepare the fruits for drawing in the view. Add the following cod
 
 ![](/assets/chapter-7-images/15.Fruits-06.png)
 
-The above code defines the fields for **number of rows, number of columns**, **fruit table** \(playing field\), **points** accumulated by the player and information whether the game is active or **ended** \(field `gameOver`\). The playing field has 9 columns in 3 rows and contains for each field a text stating what is inside it: `apple`**, **`banana`**, **`orange`**, **`kiwi`**, **`empty`** or **`dynamite`.  
+The above code defines the fields for **number of rows, number of columns**, **fruit table** (playing field), **points** accumulated by the player and information whether the game is active or **ended** (field `gameOver`). The playing field has 9 columns in 3 rows and contains for each field a text stating what is inside it: `apple`**, **`banana`**, **`orange`**, **`kiwi`**, **`empty`** or **`dynamite`.  
 The main action `Index ()` prepares the game field by recording in the `ViewBag` the structure of the game elements and invoking the view that draws them into the game page of the web browser as HTML.
 
 ## Generate Random Fruits
 
-We need to generate random fruits. To do this, we need to write a `GenerateRandomFruits()` method with the code from the image below. This code records in the matrix `fruits` names of different images and thus builds the playing field. Each cell of the table records one of the following values: `apple`**, **`banana`**, **`orange`**, **`kiwi`**, **`empty`** or  **`dynamite`. Next, to draw the corresponding image in the view, the text of the table will be merged with `.png` and this will give the name of the picture file that has to be inserted into the HTML page as part of the playing field. Filling in the playing field \(9 columns with 3 rows\) happens in the view `Index.cshtml` with two nested `for` loops \(for row and column\).
+We need to generate random fruits. To do this, we need to write a `GenerateRandomFruits()` method with the code from the image below. This code records in the matrix `fruits` names of different images and thus builds the playing field. Each cell of the table records one of the following values: `apple`**, **`banana`**, **`orange`**, **`kiwi`**, **`empty`** or  **`dynamite`. Next, to draw the corresponding image in the view, the text of the table will be joined with the suffix “`.png`” and this will give the name of the picture file that has to be inserted into the HTML page as part of the playing field. Filling in the playing field (9 columns with 3 rows) happens in the view `Index.cshtml` with two nested `for` loops (for row and column).
 
-In order to generate random fruit for each cell, a **random number** is generated between 0 and 8 \(see the class `Random` in .NET\). If the number is 0 or 1, we place `apple`, if it is between 2 and 3, we place `banana` and so on. If the number is 8, we place `dynamite`. Obviously, the fruits appear twice as often as the dynamite. Here's the code:
+In order to generate random fruit for each cell, a **random number** is generated between 0 and 8 (see the class `Random` in .NET). If the number is 0 or 1, we place `apple`, if it is between 2 and 3, we place `banana` and so on. If the number is 8, we place `dynamite`. Obviously, the fruits appear twice as often as the dynamite. Here's the code:
 
 ![](/assets/chapter-7-images/15.Fruits-07.png)
 
@@ -69,7 +69,7 @@ Now we add the **game images** \(they are part of the project files for this pro
 
 Drawing Fruits in `Index.cshtml`:
 
-In order to **draw the playing field** with the fruits, we need to rotate **two nested loops** \(for rows and columns\). Each row consists of 9 images, each of which contains an `apple`, `banana` or other fruit, or empty `empty`, or `dynamite`. Images are drawn by printing an HTML tag to insert a picture of the type `<img src = "/images/apple.png" />`. Nine pictures are stacked one after the other on each row, followed by a new line with a `<br>`. This is repeated three times for the three lines. Finally, the player's points are printed. Here is what **the code** for drawing the playing field and points looks like:
+In order to **draw the playing field** with the fruits, we need to rotate **two nested loops** \(for rows and columns\). Each row consists of 9 images, each of which contains an `apple`, `banana` or other fruit, or empty `empty`, or `dynamite`. Images are drawn by printing an HTML tag to insert a picture: `<img src = "/images/apple.png" />`. Nine pictures are stacked one after the other on each row, followed by a new line with a `<br>`. This is repeated three times for the three lines. Finally, the player's points are printed. Here is what **the code** for drawing the playing field and points looks like:
 
 ![](/assets/chapter-7-images/15.Fruits-09.png)
 

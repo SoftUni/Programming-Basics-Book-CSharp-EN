@@ -23,13 +23,13 @@ The results must be **formatted up to the second symbol** after the decimal poin
 
 ## Sample Input and Output
 
-| Input | Output | Comments |
-| --- | --- | --- |
-|10<br>3.00<br>2.99<br>5.68<br>3.01<br>4<br>4<br>6.00<br>4.50<br>2.44<br>5<br>|Top students: 30.00%<br>Between 4.00 and 4.99: 30.00%<br>Between 3.00 and 3.99: 20.00%<br>Fail: 20.00%<br>Average: 4.06|5 or more: **three students** = 30% of 10<br>Between 4.00 and 4.99: **three students** = 30% of 10<br>Between 3.00 and 3.99: **two students** = 20% of 10<br>Below 3: **two students** = 20% of 10<br>The average grade is: 3 + 2.99 + 5.68 + 3.01 + 4 + 4 + 6 + 4.50 + 2.44 + 5 = 40.62 / 10 = 4.062|
+| Input | Output | Comments
+| ----- | ------ | --------
+|6<br>2<br>3<br>4<br>5<br>6<br>2.2|Top students: 33.33%<br>Between 4.00 and 4.99: 16.67%<br>Between 3.00 and 3.99: 16.67%<br>Fail: 33.33%<br>Average: 3.70|5 or more: **2 students** = 33.33% of 6<br>Between 4.00 and 4.99: **1 student** = 30% of 6<br>Between 3.00 and 3.99: **1 student** = 20% of 6<br>Below 3: **2 students** = 20% of 6<br>The average grade is: 2 + 3 + 4 + 5 + 6 + 2.2 = **22. 2 / 6 = 3.70**|
 
-| Input | Output |
-| --- | --- |
-|6<br>2<br>3<br>4<br>5<br>6<br>2.2|Top students: 33.33%<br>Between 4.00 and 4.99: 16.67%<br>Between 3.00 and 3.99: 16.67%<br>Fail: 33.33%<br>Average: 3.70|
+| Input | Output | Comments
+| ----- | ------ | --------
+|10<br>3.00<br>2.99<br>5.68<br>3.01<br>4<br>4<br>6.00<br>4.50<br>2.44<br>5<br>|Top students: 30.00%<br>Between 4.00 and 4.99: 30.00%<br>Between 3.00 and 3.99: 20.00%<br>Fail: 20.00%<br>Average: 4.06|5 or more: **3 students** = 30% of 10<br>Between 4.00 and 4.99: **3 students** = 30% of 10<br>Between 3.00 and 3.99: **2 students** = 20% of 10<br>Below 3: **2 students** = 20% of 10<br>The average grade is: 3 + 2.99 + 5.68 + 3.01 + 4 + 4 + 6 + 4.50 + 2.44 + 5 = **40.62 / 10 = 4.062**|
 
 ## Hints and Guidelines
 

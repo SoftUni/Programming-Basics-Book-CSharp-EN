@@ -66,7 +66,7 @@ We could write an expression that calculates the annual income without brackets 
 
 ### Printing the Result
 
-Finally, we have to print the result on the console. We notice that **the number has to be rounded up to the second symbol after the decimal point**. In order to do that, we can use a **placeholder – an item that will be replaced by a particular value when printing**. In C#, a digit surrounded by curly brackets is used for a **placeholder**. As **in programming counting starts from 0**, the expression **`{0}`** means that it will be replaced by the first given argument. We can format an integer or a floating-point number by using **F** or **f**, which is followed by a whole positive number, specifying the number of digits after the decimal point:
+Finally, we have to print the result on the console. We notice that **the number has to be rounded up to the second digit after the decimal point**. In order to do that, we can use a **placeholder – an item that will be replaced by a particular value when printing**. In C#, a digit surrounded by curly brackets is used for a **placeholder**. As **in programming counting starts from 0**, the expression **`{0}`** means that it will be replaced by the first given argument. We can format an integer or a floating-point number by using **F** or **f**, which is followed by a whole positive number, specifying the number of digits after the decimal point:
 
 ![](/assets/chapter-2-2-images/05.Daily-earnings-03.png)
 

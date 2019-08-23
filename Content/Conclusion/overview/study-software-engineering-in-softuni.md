@@ -4,7 +4,7 @@ The first, and respectively recommended option to master fully and on high level
 
 ## Training Duration in SoftUni
 
-The training in SoftUni has a duration of **2-3 years** (depending on the profession and the selected specializations) and during that period it is normal to reach a good starting level (junior developer), but this is **only if you study seriously** and write code intensely every day. Upon having good grades, a typical student **starts a job around the middle of the training (after around 1.5 years)**. Thanks to the well-developed partners network, **the career center of SoftUni offers work** in a software or IT company to all SoftUni students who have very good or excellent grades. **Starting a job** in the major in case of having good grades at SoftUni, combined with willingness to work and reasonable expectations towards the employers, is almost guaranteed.
+The training in SoftUni has a duration of **1-2 years** (depending on the profession and the selected specializations) and during that period it is normal to reach a good starting level (junior developer), but this is **only if you study seriously** and write code intensely every day. Upon having good grades, a typical student **starts a job around the middle of the training (after around 1.5 years)**. Thanks to the well-developed partners network, **the career center of SoftUni offers work** in a software or IT company to all SoftUni students who have very good or excellent grades. **Starting a job** in the major in case of having good grades at SoftUni, combined with willingness to work and reasonable expectations towards the employers, is almost guaranteed.
 
 ## It Takes at Least a Year of Intense Code Writing to Become a Programmer
 
