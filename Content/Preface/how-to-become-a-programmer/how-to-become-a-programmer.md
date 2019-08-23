@@ -84,14 +84,14 @@ For those clearly technological skills **the programming language does matter**.
 * **For the rest 75% of the skills the programming language doesn't matter**, and these skills are resistant in time and transportable between different languages and technologies.
 
 Here are some commonly used software development stacks which software companies are looking for \(as of Jan 2019\):
-
-* **C\#** + OOP + FP + classes from .NET + SQL Server databases + Entity Framework \(EF\) + ASP.NET MVC + HTTP + HTML + CSS + JS + DOM + jQuery
-* **JavaScript** \(JS\) + OOP + FP + databases + MongoDB or MySQL + HTTP + web programming + HTML + CSS + JS + DOM + jQuery + Node.js + Express + Angular or React
-* **Python** + OOP + FP + databases + MongoDB or MySQL + HTTP + web development + HTML + CSS + JS + DOM + jQuery + Django or Flask
-* **Java** + Java API classes + OOP + FP + databases + MySQL + HTTP + web programming + HTML + CSS + JS + DOM + jQuery + JSP / Servlets + Spring MVC or Java EE / JSF
-* **PHP** + OOP + databases + MySQL + HTTP + web development + HTML + CSS + JS + DOM + jQuery + Laravel or Symfony or other MVC framework for PHP
-* **C++** + OOP + STL + Boost + native development + databases + HTTP + other languages
-* **Swift** + MacOS + iOS + Cocoa + Cocoa Touch + XCode + HTTP + REST + other languages
+  -	**C#** + OOP + FP + classes from .NET + SQL Server databases + Entity Framework (EF) + ASP.NET MVC + HTTP + HTML + CSS + JS + DOM + jQuery + cloud + containers
+  - **JavaScript (JS)** + OOP + FP + databases + MongoDB or MySQL + HTTP + web programming + HTML + CSS + JS + DOM + jQuery + Node.js + Express + Angular or React + cloud + containers
+  - **Python** + OOP + FP + databases + MongoDB or MySQL + HTTP + web development + HTML + CSS + JS + DOM + jQuery + Django or Flask + cloud + containers
+  -	**Java** + Java API classes + OOP + FP + databases + MySQL + HTTP + web programming + HTML + CSS + JS + DOM + jQuery + JSP / Servlets + Spring MVC or Java EE / JSF + cloud + containers
+  -	**PHP** + OOP + databases + MySQL + HTTP + web development + HTML + CSS + JS + DOM + jQuery + Laravel or Symfony or other MVC framework for PHP + cloud + containers
+  -	**C++** + OOP + STL + Boost + native development + databases + HTTP + other languages and technologies
+  -	**Swift** + OOP + MacOS + iOS + Cocoa + Cocoa Touch + XCode + HTTP + REST + other languages and technologies
+  - **Go** + OOP + Linux + Protobuf + gRPC + cloud + containers + other languages and technologies
 
 If the words above look scary and absolutely incomprehensible, then you are at the very beginning of your career and you need **many years of learning** until you reach the profession of a "software engineer". Do not worry, every programmer goes through one or several technology stacks and needs to study **a set of interconnected technologies**, but the bottom line is **the ability to write programming logic \(coding\)**, and the skill of **algorithmic thinking** \(to solve programming problems\). It's not possible without them!
 
