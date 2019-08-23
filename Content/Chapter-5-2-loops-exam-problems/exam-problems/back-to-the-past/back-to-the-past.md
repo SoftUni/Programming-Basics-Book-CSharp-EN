@@ -53,9 +53,13 @@ The input is read from the console and **contains exactly 2 lines**:
 </p></td>
 </tr>
 </tbody>
-</table>    
+</table>
 
-## Reading the Input Data
+## Hints and Guidelines
+
+Let’s solve the problem step by step: read the input data, iterate over the years, check the heritage and print the output.
+
+### Reading the Input Data
 
 The method to solve this task is no different than the previous ones, so we start **declaring and initializing** the necessary variables:
 
@@ -63,13 +67,13 @@ The method to solve this task is no different than the previous ones, so we star
 
 The requirements say that Ivan is 18 years old, so when declaring the variable **`years`** we assign it an initial value of **18**. We read the other variables from the console.
 
-## Iterating through the Years
+### Iterating through the Years
 
 Using a **`for` loop**, we will iterate through all years. We **start from 1800** – the year in that Ivan returns, and we reach the **year until which he must live in the past**. We check in the loop if the current year is **even** or **odd**. We do this by **division with remainder** (**`%`**) by 2. If the year is **even**, we subtract from **`heritage`** **12000**, and if is **odd**, we subtract from **`heritage`** **12000 + 50 * (years)**.
 
 ![](/assets/chapter-5-2-images/03.Back-to-the-past-02.png)
 
-## Checking if Heritage is Enough and Printing the Output
+### Checking if Heritage is Enough and Printing the Output
 
 Finally, we need to print out the results by checking **if the `heritage`** is enough to live without working or not. If the **`heritage`** is a **positive number**, we print: “**`Yes! He will live a carefree life and will have {N} dollars left.`**”, and if it is a **negative number**: “**`He will need {М} dollars to survive.`**”. Do not forget to format the sum up to the second digit after the decimal point.
 

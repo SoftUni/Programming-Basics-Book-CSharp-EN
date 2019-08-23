@@ -39,7 +39,11 @@ If the student arrives with more than one minute difference compared to the exam
 |11<br>30<br>10<br>55|Early<br>35 minutes before the start|
 |11<br>30<br>12<br>29|Late<br>59 minutes after the start|
 
-## Processing the Input Data
+## Hints and Guidelines
+
+Let's solve the problem step by step.
+
+### Processing the Input Data
 
 According to the assignment, we expect **four** lines containing different **integers** to be passed. Examining the provided parameters, we can use the **`int`** type, as it is suitable for the expected values. We simultaneously **read** the input data and **parse** the string value to the selected data type for **integer**.
 
@@ -49,7 +53,7 @@ Examining the expected output, we can create variables that contain the differen
 
 ![](/assets/chapter-4-2-images/01.On-time-for-the-exam-02.png)
 
-## Calculating Exam Start Time and Student Arrival Time
+### Calculating Exam Start Time and Student Arrival Time
 
 After reading the input data, we can now start writing the logic for calculating the result. Let's first calculate the **start time** of the exam **in minutes** for easier and more accurate comparison.
 
@@ -63,7 +67,7 @@ What remains is to calculate the difference between the two times, in order to d
 
 ![](/assets/chapter-4-2-images/01.On-time-for-the-exam-05.png)
 
-## Checking If the Student Arrived on Time or They Were Late
+### Checking If the Student Arrived on Time or They Were Late
 
 Our next step is to do the required **checks and calculations**, and finally we will print the output. Let's separate the code into **two** parts: 
 
@@ -78,7 +82,7 @@ In all other cases we assume that the student **was late**, which we set as **de
 
 ![](/assets/chapter-4-2-images/01.On-time-for-the-exam-06.png)
 
-## Calculating Time Difference
+### Calculating Time Difference
 
 Finally, we need to understand and print **what is the time difference between exam start time and student arrival time**, as well as whether this time difference indicates time of arrival **before or after the exam start**.
 
@@ -88,7 +92,7 @@ We also need to do one more check – whether the time of student's arrival is *
 
 ![](/assets/chapter-4-2-images/01.On-time-for-the-exam-07.png)
 
-## Printing the Result
+### Printing the Result
 
 Finally, what remains is to print the result on the console. According to the requirements, if the student arrived right on time (**not even a minute difference**), we do not need to print a second result. This is why we apply the following **condition**:
 
