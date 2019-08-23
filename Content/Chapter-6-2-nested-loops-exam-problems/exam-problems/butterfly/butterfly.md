@@ -26,6 +26,8 @@ We can see in the explanation that **the input data** will be taken from only on
 
 ![](/assets/chapter-6-2-images/02.Butterfly-01.png)
 
+### Divide the Figure into Parts
+
 We can divide the figure into 3 parts – upper wing, body and lower wing. In order to draw the upper wing, we need to divide it into parts – beginning **`*`**, middle part **`\ /`** and end **`*`**. After looking at the examples we find out that the beginning is with size **`n - 2`**.
 
 ![](/assets/chapter-6-2-images/02.Butterfly-02.png)
@@ -38,7 +40,7 @@ We can see in the examples that on an even row we have a beginning **`*`**, a mi
 
 ![](/assets/chapter-6-2-images/02.Butterfly-04.png)
 
-## Printing the Body and the Lower Wing 
+### Printing the Body and the Lower Wing 
 
 In order to create **the body of the butterfly** we can use **the variable** **`halfRowSize`** again and print on the console exactly **one** row. The body structure begins with **`(white space)`**, middle **`@`** and ends with **`(white space)`**.
 
