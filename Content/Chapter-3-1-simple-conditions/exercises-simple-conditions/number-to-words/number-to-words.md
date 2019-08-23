@@ -1,6 +1,6 @@
-# Problem: * Writing the Numbers from 0 to 100 in Words
+# Problem: * Numbers from 0 to 100 as English Words
 
-Write a program that converts a number in the range of [**0 ... 100**] into text.
+Write a program that converts a number in the range of [**0 ... 100**] into text (in English).
 
 ## Sample Input and Output
 

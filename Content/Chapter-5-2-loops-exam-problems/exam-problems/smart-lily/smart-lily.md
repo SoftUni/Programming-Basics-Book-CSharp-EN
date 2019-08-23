@@ -48,21 +48,25 @@ Print on the console one single line:
 </tbody>
 </table>
 
-## Reading the Input Data
+## Hints and Guidelines
 
 The solution of this problem, like the previous one, can also be split into three parts – **reading** the input data, **processing** them and **printing the output**.
+
+### Reading the Input Data
+
+We can read the input data like this:
 
 ![](/assets/chapter-5-2-images/02.Smart-lilly-01.png)
 
 We start again by selecting the appropriate **data types** and names of variables. For the Lilly's years (**`age`**) and the unit price of the toy (**`presentPrice`**) the description requires **integers**. That's why we will use **`int` type**. For the price of the washing machine (**`priceOfWashingMachine`**) we know that it is **real number and we choose `double`**. Of course, we can skip the explicit specification of type, by using **`var`**. In the above code we **declare** and **initialize** (assign value to) the variables.
 
-## Creating Helper Variables
+### Creating Helper Variables
 
 To solve the problem, we will need several helper variables – for the **count of toys** (**`numberOfToys`**), for the **saved money** (**`savedMoney`**) and for the **money received on each birthday** (**`moneyForBirthday`**). The initial value of **`moneyForBirthday`** is 10, because the description says that the first sum, which Lilly gets, is 10 USD:
 
 ![](/assets/chapter-5-2-images/02.Smart-lilly-02.png)
 
-## Calculating Savings
+### Calculating Savings
 
 ![](/assets/chapter-5-2-images/02.Smart-lilly-03.png)
 
@@ -72,7 +76,7 @@ We also add the money from the sold toys to Lilly's savings.
 
 ![](/assets/chapter-5-2-images/02.Smart-lilly-04.png)
 
-## Formatting and Printing the Output
+### Formatting and Printing the Output
 
 Finally, we need to print the obtained results, considering the formatting specified in the description, i.e. sum needs to be **rounded up to 2 symbols after the decimal point**:
 

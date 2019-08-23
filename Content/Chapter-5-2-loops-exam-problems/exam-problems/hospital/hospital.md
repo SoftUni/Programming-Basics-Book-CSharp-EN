@@ -58,9 +58,13 @@ Print **on the console 2 lines**:
 <td valign="top">Treated patients: 21.<br>Untreated patients: 0.</td>
 </tr>
 </tbody>
-</table>    
+</table>
 
-## Reading the Input Data
+## Hints and Guidelines
+
+Let’s solve the problem step by step: read the input data, calculate the number treated and untreated patients and print the output.
+ 
+### Reading the Input Data
 
 Again, we begin by **declaring and initializing** the required variables:
 
@@ -68,7 +72,7 @@ Again, we begin by **declaring and initializing** the required variables:
 
 The period in which we have to make the calculations is read from the console and saved in the **`period`** variable. We will also need some helper variables: the number of treated patients (**`treatedPatients`**), the number of untreated patients (**`untreatedPatients`**) and the number of doctors (**`countOfDoctors`**), which is initially 7. 
 
-## Calculating the Number of Treated and Untreated Patients
+### Calculating the Number of Treated and Untreated Patients
 
 ![](/assets/chapter-5-2-images/04.Hospital-02.png)
 

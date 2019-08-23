@@ -49,9 +49,9 @@ Let's write a program that prints **the day of the week** (in English) depending
 
 Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/508#8](https://judge.softuni.org/Contests/Practice/Index/508#8).
 
-## Multiple Switch-Cases
+## Multiple Labels in Switch-Cases
 
-In **C#** we have the possibility to **use multiple `case`** labels, when they have to execute **the same code**. This way, when our **program** finds a **match**, it will execute the **next** code, because **after** the respective **`case`** label **there is no code** for execution and a **`break`** operator.
+In **C#** we have the possibility to **use multiple `case`** labels in the `switch-case` coonstruction, when they have to execute **the same code**. This way, when our **program** finds a **match**, it will execute the **next** code, because **after** the respective **`case`** label **there is no code** for execution and a **`break`** operator.
 
 ```csharp
 switch (selector)
