@@ -1,6 +1,6 @@
 # The System Console
 
-Simply called "**console**", the "system console", the "system **terminal**", also the "computer console", represents the tool by which we **give the computer commands** in a text format and **get the results** from their execution again as a text.
+Simply called "**console**", the "**system console**", the "**system terminal**", the "standard input / output", also the "**computer command-line console**", represents the tool by which we **give the computer commands** in a text format and **get the results** from their execution again as a text.
 
 ## Video: The System Console
 
