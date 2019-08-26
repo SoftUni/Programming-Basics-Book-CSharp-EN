@@ -21,7 +21,7 @@ Watch this video to learn more about the practical exam, the problems, the evalu
 
 ## The Problems
 
-Now, let's proceed with the **exam problems**. They come in 6 groups, covering the 6 most important topics in this book:
+Now, let's proceed with the **exam problems**. As it was already explained, they come in 6 groups, covering the 6 most important topics in this book:
 
 * [Simple Calculations – Problems](/Content/Chapter-8-1-exam-preparation/simple-calculations-problems/simple-calc-problems.md)
 * [Simple Conditions – Problems](/Content/Chapter-8-1-exam-preparation/simple-conditions-problems/simple-conditions-problems.md)
