@@ -25,6 +25,8 @@ Print a vertical arrow on the console, in which "**`#`**" (number sign) marks th
 From the explanation we see that **the input data** will be read from one input line only, which will contain **an integer** within the range [**3 … 1000**]. This is why we will use **a variable** of **`int`** type.
 
 ![](/assets/chapter-6-2-images/04.Arrow-01.png)
+
+### Divide the Figure into Parts
 		
 We can divide the figure into **3 parts** – upper, middle and lower one. **The upper part** contains two sub-parts – a first row and a body of the arrow. We can see from the examples that the count of **the outer dots** on the first row and in the body of the arrow is **`(n - 1) / 2`**. We can write this value in **a variable** **`outerDots`**. 
 
@@ -38,7 +40,7 @@ We can see from the examples the structure of the first row. We must use the dec
 
 ![](/assets/chapter-6-2-images/04.Arrow-04.png)
 
-## Printing the Body and the Middle Row of the Arrow
+### Printing the Body and the Middle Row of the Arrow
 
 In order to draw **the body of the arrow**, we need to create **a loop**, which runs **`n - 2`** times.
 
@@ -48,7 +50,7 @@ In order to draw **the body of the arrow**, we need to create **a loop**, which 
 
 ![](/assets/chapter-6-2-images/04.Arrow-06.png)
 
-## Printing the Lower Part of the Arrow
+### Printing the Lower Part of the Arrow
 
 In order to draw **the lower part of the arrow**, we need to assign new values to **the variables** **`outerDots`** and **`innerDots`**.
 

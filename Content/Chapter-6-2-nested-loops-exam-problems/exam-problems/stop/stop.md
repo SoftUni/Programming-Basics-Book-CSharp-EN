@@ -26,6 +26,8 @@ We can see from the explanation that **the input data** will come from only one 
 
 ![](/assets/chapter-6-2-images/03.Stop-01.png)
 
+### Divide the Figure into Parts
+
 We can **divide** the figure into **3 parts** – upper, middle and lower. **The upper part** contains two sub-parts – first row and rows in which the sign widens. **The first row** is made of a beginning **`.`**, middle part **`_`** and an end **`.`**. After looking at the examples we can say that the beginning is **`n + 1`** columns wide, so it is good to write this **value** in a separate **variable**.
 
 ![](/assets/chapter-6-2-images/03.Stop-02.png)
@@ -38,7 +40,7 @@ After we have declared and initialized the two variables, we can print the first
 
 ![](/assets/chapter-6-2-images/03.Stop-04.png)
 
-## Printing the Upper Part of the Sign
+### Printing the Upper Part of the Sign
 
 In order to draw the rows in which the sign is getting **"wider"**, we need to create **a loop**, which runs **`n`** times. The structure of a row contains a beginning **`.`**, **`//`** + middle part **`_`** + **`\\`** and an end **`.`**. In order to reuse the already created **variables**, we need to decrease **`dots`** by 1 and **`underscores`** by 2, because we have already **printed** the first row, and the dots and underscores in the upper part of the figure are **decreasing**. 
 
@@ -48,7 +50,7 @@ In each following iteration **the beginning** and **the end** decrease by 1, and
 
 ![](/assets/chapter-6-2-images/03.Stop-06.png)
 
-## Printing the Middle Row and the Lower Part of the Sign
+### Printing the Middle Row and the Lower Part of the Sign
 
 **The middle part** of the figure begins with **`//`** + **`_`**, middle part **`STOP!`** and an end **`_`** + **`\\`**. The count of the underscores **`_`** is **`(underscores - 5) / 2`**.
 

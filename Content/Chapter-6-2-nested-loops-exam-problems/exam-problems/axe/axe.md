@@ -26,6 +26,10 @@ In order to solve the problem, we first need to calculate **the dashes in the le
 
 ![](/assets/chapter-6-2-images/05.Axe-01.png)
 
+### Divide the Figure into Parts
+
+We divide the figure into 3 parts: upper part, middle part (the handle), down part.
+
 After we have declared and initialized **the variables**, we can begin drawing the figure by starting with **the upper part**. We can see from the examples what the structure of **the first row** is, and we can create a loop, which runs **`n`** times. At each iteration of the loop **the middle dashes** increase by 1, and **the right dashes** decrease by 1.
 
 ![](/assets/chapter-6-2-images/05.Axe-02.png)
@@ -34,13 +38,13 @@ In order to use again **the variables** that we created in order to draw the han
 
 ![](/assets/chapter-6-2-images/05.Axe-03.png)
 
-## Printing the Handle 
+### Printing the Handle 
 
 We can draw **the handle of the axe** by creating a loop, which runs **`n - 2`** times. We can see in the examples what its structure is.
 
 ![](/assets/chapter-6-2-images/05.Axe-04.png)
 
-## Printing the Lower Part of the Axe
+### Printing the Lower Part of the Axe
 
 We need to divide **the lower part** of the figure into two sub-parts – **head of the axe** and **the last row of the figure**. We will print **the head of the axe** on the console by creating a loop that runs **`n / 2 - 1`** times. At each iteration **the left dashes** and **the right dashes** decrease by 1, and **the middle dashes** increase by 2.
 

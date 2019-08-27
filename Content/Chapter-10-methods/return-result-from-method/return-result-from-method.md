@@ -50,7 +50,7 @@ After the **`return`** operator, there **should not** be any more lines of code 
 ![](/assets/chapter-10-images/11.Return-operator-03.png)
 
 <table><tr><td><img src="/assets/alert-icon.png" style="max-width:50px" />
-</td><td>In programming you can't have the <code><b>return</b></code> operator twice, one after the other, because executing the first one won't allow the execution of the second one. From time to time programmers joke by saying “<b><i>write</i> <code>return; return;</code> <i>and let's go</i></b>”, in order to explain that the program logic is lost.</td></tr>
+</td><td>In programming you <b>can't have the <code><b>return</b></code> operator twice</b>, one after the other (double <code><b>return</b></code>), because executing the first one won't allow the execution of the second one. From time to time programmers joke by saying “<b><i>write</i> <code>return; return;</code> <i>and let's go</i></b>”, in order to explain that the program logic is lost.</td></tr>
 </table>
 
 ## Using the Returned Value

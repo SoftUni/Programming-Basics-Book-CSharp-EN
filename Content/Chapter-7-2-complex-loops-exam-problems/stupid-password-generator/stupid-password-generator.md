@@ -33,7 +33,7 @@ We can split the solution of the problem into 3 parts:
 * **Processing the input data** – using of nested loops to iterate through every possible symbol for each of the five password symbols.
 * **Printing the output** – printing every "dumb" password that meets the  requirements.
 
-## Reading the Input Data
+### Reading the Input Data
 
 For **reading** of **input** data we will declare two integer variables **`int`**: **`n`** and **`l`**.
 
@@ -41,7 +41,7 @@ For **reading** of **input** data we will declare two integer variables **`int`*
 
 Let's declare and initialize the **variables** that will store the **characters** of the password: for the characters of **digit** type – **`int`** – **`d1`**, **`d2`**, **`d3`**, and for the **letters** – of **`char`** type – **`l1`**, **`l2`**. To make it easier we will skip explicit specification of the type by replacing it with the keyword **`var`**.
 
-## Processing the Input Data and Printing Output
+### Processing the Input Data and Printing Output
 
 We need to create **five** **`for`** nested loops, one for each variable. To ensure that the last digit **d3** is **greater** than the first two, we will use the built-in function **`Math.Max (...)`**. 
 

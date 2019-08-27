@@ -1,6 +1,6 @@
 # The "Programming Basics" Practical Exam
 
-The course **"Programming Basics"** finishes with a **practical exam**. There are **6** problems included, and you will have **4 hours** to solve them. **Each** of the exam problems will **cover** one of the **topics** studied during the course. Problem topics are as follows:
+The course **"Programming Basics"** at SoftUni finishes with a **practical exam**. There are **6** problems included, and you will have **4 hours** to solve them. **Each** of the exam problems will **cover** one of the **topics** studied during the course. Problem topics are as follows:
 
 * Problem with **simple calculations** \(no conditions\)
 * Problem with **simple condition** \(simple checks\)
@@ -21,7 +21,7 @@ Watch this video to learn more about the practical exam, the problems, the evalu
 
 ## The Problems
 
-Now, let's proceed with the **exam problems**. They come in 6 groups, covering the 6 most important topics in this book:
+Now, let's proceed with the **exam problems**. As it was already explained, they come in 6 groups, covering the 6 most important topics in this book:
 
 * [Simple Calculations – Problems](/Content/Chapter-8-1-exam-preparation/simple-calculations-problems/simple-calc-problems.md)
 * [Simple Conditions – Problems](/Content/Chapter-8-1-exam-preparation/simple-conditions-problems/simple-conditions-problems.md)
