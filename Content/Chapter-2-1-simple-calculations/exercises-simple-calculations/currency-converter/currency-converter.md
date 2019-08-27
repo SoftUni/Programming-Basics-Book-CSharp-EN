@@ -1,4 +1,4 @@
-# Problem: * Console Currency Converter
+# Problem: * Currency Converter
 
 Write a program for **conversion of money from one currency into another**. It has to support the following currencies: **BGN, USD, EUR, GBP**. Use the following fixed currency rates:
 
