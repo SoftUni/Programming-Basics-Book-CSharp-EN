@@ -99,7 +99,14 @@ Some programming languages do not use a compiler and are being **interpreted dir
 
 **Environments for development** are convenient, because they integrate everything necessary for the development of the program, without the need to exit the environment. If we don't use an environment for development, we will have to write the code in a text editor, to compile it with a command on the console, to run it with another command on the console and to write more additional commands when needed, which is very time consuming. That is why most of the programmers use an IDE in their everyday work.
 
-For programming with **the C\# language** the most commonly used IDE is **Visual Studio**, which is developed and distributed freely by Microsoft and can be downloaded from: [https://www.visualstudio.com/downloads/](https://www.visualstudio.com/downloads/). Alternatives of Visual Studio are **Rider** \([https://www.jetbrains.com/rider/](https://www.jetbrains.com/rider/)\) and **MonoDevelop** / **Xamarin Studio** \([http://www.monodevelop.com](http://www.monodevelop.com)\) and **SharpDevelop** \([http://www.icsharpcode.net/OpenSource/SD/](http://www.icsharpcode.net/OpenSource/SD/)\). In the current book, we are going to use the development environment Visual Studio. This an example how a development IDE may look \(the Visual Studio IDE for C\#\):
+For programming with **the C\# language** the most commonly used IDE is **Visual Studio**, which is developed and distributed freely by Microsoft and can be downloaded from: [https://www.visualstudio.com/downloads/](https://www.visualstudio.com/downloads/). Alternatives of Visual Studio are:
+  - **Rider** – https://www.jetbrains.com/rider
+  - **MonoDevelop / Xamarin Studio** – https://www.monodevelop.com
+  - **SharpDevelop** – http://www.icsharpcode.net/OpenSource/SD
+  - **Visual Studio Code** - https://code.visualstudio.com
+  - **Eclipse aCute** – https://projects.eclipse.org/projects/tools.acute
+
+In the current book, we are going to use the development environment Visual Studio. This an example how a development IDE may look \(the Visual Studio IDE for C\#\):
 
 ![](/assets/chapter-1-images/01.Hello-csharp-04.png)
 

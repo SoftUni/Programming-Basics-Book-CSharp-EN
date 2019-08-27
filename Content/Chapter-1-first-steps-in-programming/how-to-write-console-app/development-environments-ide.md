@@ -14,7 +14,11 @@ Watch a video lesson about how to install and run the Visual Studio IDE: [https:
 
 We begin with the installation of the integrated environment **Microsoft Visual Studio **\(Community, version 2017, latest as of June 2017\). Installing later versions of Visual Studio (like Visual Studio 2019 and Visual Studio 2021) should be very similar.
 
-The **Community** version of Visual Studio \(VS\) is distributed freely by Microsoft and can be downloaded from: [https://www.visualstudio.com/vs/community](https://www.visualstudio.com/vs/community). The installation is typical for Windows with \[**Next**\], \[**Next**\] and \[**Finish**\], but it's important to include the components for "**desktop development**" and "**ASP.NET**". It is not necessary to change the rest of the settings for the installation.
+The **Community** version of Visual Studio \(VS\) is distributed freely by Microsoft and can be downloaded from: [https://www.visualstudio.com/vs/community](https://www.visualstudio.com/vs/community).
+
+![](/assets/chapter-1-images/00.visual-studio-0.png)
+
+The installation is typical for Windows with \[**Next**\], \[**Next**\] and \[**Finish**\], but it's important to include the components for "**desktop development**" and "**ASP.NET**". It is not necessary to change the rest of the settings for the installation.
 
 The next lines describe in detail **the steps for the installation of Visual Studio** \(version Community 2017\). After we download the installation file and start it, the following screen appears:
 
