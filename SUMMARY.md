@@ -4,7 +4,7 @@
 * [Preface](Content/Preface/overview.md)
   * [About SoftUni and SoftUni Judge](Content/Preface/about-softuni/about-softuni.md)
   * [How to Become a Software Developer?](Content/Preface/how-to-become-a-programmer/how-to-become-a-programmer.md)
-  * [More About the Book](Content/Preface/about-softuni/about-the-book.md)
+  * [More About the Book](Content/Preface/about-the-book/about-the-book.md)
 * [1. First Steps in Programming](Content/Chapter-1-first-steps-in-programming/overview.md)
   * [Computer Programs – Concepts](Content/Chapter-1-first-steps-in-programming/how-to-write-console-app/computer-programs-concepts.md)
   * [Runtime Environments](Content/Chapter-1-first-steps-in-programming/how-to-write-console-app/runtime-environments.md)
