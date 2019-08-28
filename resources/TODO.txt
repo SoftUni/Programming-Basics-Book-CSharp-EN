@@ -14,7 +14,7 @@ Page size: 17.78 x 25.4 cm (10 x 7 in) + bleed
 
 [done] Review the document structure (H1, H2, H3, ...)
 
-Check whether the .md files in each chapter match the table of contents (SUMMARY.md)
+[done] Check whether the .md files in each chapter match the table of contents (SUMMARY.md)
 
 Advertisment banner (English)
 
