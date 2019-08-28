@@ -39,4 +39,3 @@ The next command `var area = a * a;` keeps in a new variable `area` the result o
 The next command `Console.Write("Square area = ");` prints the given text without going to the next line. Again, use  `Console.Write(…)`, and not `Console.WriteLine(…)`, and this way the cursor stays on the same line in order to print the calculated area of the square afterwards.
 
 The last command `Console.WriteLine(area);` prints the calculated value of the variable `area`.
-
