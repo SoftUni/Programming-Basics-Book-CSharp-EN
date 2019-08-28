@@ -82,6 +82,22 @@ To reach more readers, the book authors recorded a 22-hours **free video course 
 
 This book is an **official textbook** for this Udemy course and serves as detailed tutorial, extending the course content with additional topics and more detailed explanations.
 
+## License and Distribution
+
+The book is distributed **freely** in electronic format under an open license **[CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0)**.
+
+The book is published and distributed **on paper** by SoftUni and you can buy a hard copy from online bookstores like Amazon.
+
+The **source code** of the book can be found in GitHub: https://github.com/SoftUni/Programming-Basics-Book-CSharp-EN.
+
+International Standard Book Number (ISBN): **978-619-00-0902-3**.
+
+## Official Facebook Page of the Book
+
+The book has an **official Facebook page** where you can track the news about the book series "Programming Basics", new releases, events and initiatives:
+
+<p align="center"><strong><a href="https://facebook.com/IntroProgrammingBooks/">fb.com/IntroProgrammingBooks</a></strong></p>
+
 ## Discussion Forum for Your Questions
 
 Ask your **questions about basic programming book** at the **SoftUni's Facebook page** or in the official **SoftUni discussion forum**:
@@ -95,12 +111,6 @@ In these discussion channels you will get **proper response to any question asso
 Because of the big number of learners, you can find in the forum practically any **solution of any exercise, shared by your colleague**. Thousands of students already got the answer on the same exercise, so if you are late you can check the forum. Even though the exercises in "Programming Basics" are changing at some point, the sharing at SoftUni is always welcome and encouraged, that's why you will easily find solutions and guidance in any exercise.
 
 If you do have a specific question, for example if you spend many hours on certain piece of code and it doesn't work correctly, you can always **ask in the forum**. You will be surprised how friendly are the SoftUni's forum participants.
-
-## Official Facebook Page of the Book
-
-The book has an **official Facebook page** where you can track the news about the book series "Programming Basics", new releases, events and initiatives:
-
-<p align="center"><strong><a href="https://facebook.com/IntroProgrammingBooks/">fb.com/IntroProgrammingBooks</a></strong></p>
 
 ## Reporting Bugs
 
