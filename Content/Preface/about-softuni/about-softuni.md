@@ -20,6 +20,18 @@ The free courses at SoftUni have the purpose to introduce you to **basic program
 
 This **programming book** accompanies the free programming lessons for beginners in SoftUni and serves as an additional teaching aid to help the learning process.
 
+## The SoftUni Interactive Classroom
+
+SoftUni teaches programming and trains software engineering professionals worldwide through its innovative **SoftUni Interactive Classroom** (https://softuni.org), which combines **video lessons** with live coding sessions, **live code examples** and interactive **live coding exercises** with live remote **real-time developer support** (live chat with the trainers), integrated into a single platform on the Web.
+
+Using the SoftUni Interactive Classroom, you **learn directly in the Web browser**, where you **write, execute and test code** and your exercise solutions are automatically evaluated using an integrated **judge system**. When you have difficulties with some exercise, you **ask for help** over multiple channels: **automated hints** and guidelines and **live help** from the trainers (live chat with an expert from the SoftUni training team). Give it a try at: https://softuni.org.
+
+This is how the **SoftUni Interactive Learning Platform (Interactive Classroom)** looks like:
+ 
+![](/assets/chapter-0-images/SoftUni-Interactive-Classroom-Video.png)
+
+![](/assets/chapter-0-images/SoftUni-Interactive-Classroom-Live-Coding-Exercise.png)
+
 ## The Automated Judge System
 
 **The SoftUni Judge system** \([https://judge.softuni.org](https://judge.softuni.org)\) is an automated Internet system for **checking the solutions of programming exercises via series of tests**. The submission and verification happen in **real time**: you submit the solution and within seconds you get an answer whether it is correct. Each **successfully** taken test gives you the points it gains. For a completely correct solution you get all the points for this problem. For partially correct solution you get part of the points for the task. For a completely wrong solution you get 0 points. This how the **SoftUni Judge** looks like:![](/assets/chapter-1-images/02.Expression-03.png)**All problems from the current book are available for testing in SoftUni judge** and we strongly recommend testing them after you solve them to be sure you don't miss anything and that your solution works correctly according to the task requirements.
@@ -36,15 +48,3 @@ The SoftUni judge system is **available any time** via its website: [https://jud
   * Using the SoftUni system is **free** and it's not bound with the participation in SoftUni's courses.
 
 We are convinced that after sending a few tasks **you will like getting instant feedback** for your solutions and the Judge system will become your favorite assistant in your programming practice.
-
-## The SoftUni Interactive Classroom
-
-SoftUni teaches programming and trains software engineering professionals worldwide through its innovative **SoftUni Interactive Classroom** (https://softuni.org), which combines **video lessons** with live coding sessions, **live code examples** and interactive **live coding exercises** with live remote **real-time developer support** (live chat with the trainers), integrated into a single platform on the Web.
-
-Using the SoftUni Interactive Classroom, you **learn directly in the Web browser**, where you **write, execute and test code** and your exercise solutions are automatically evaluated using an integrated **judge system**. When you have difficulties with some exercise, you **ask for help** over multiple channels: **automated hints** and guidelines and **live help** from the trainers (live chat with an expert from the SoftUni training team). Give it a try at: https://softuni.org.
-
-This is how the **SoftUni Interactive Learning Platform (Interactive Classroom)** looks like:
- 
-![](/assets/chapter-0-images/SoftUni-Interactive-Classroom-Video.png)
-
-![](/assets/chapter-0-images/SoftUni-Interactive-Classroom-Live-Coding-Exercise.png)
