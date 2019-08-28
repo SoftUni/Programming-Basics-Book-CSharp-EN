@@ -2,6 +2,8 @@
 
 The first, and respectively recommended option to master fully and on high level the profession of a "software engineer", is to start your training via the **end-to-end SoftUni program for software engineers**: https://softuni.org. The SoftUni curriculum is carefully developed by **Dr. Svetlin Nakov and his team**, in order to provide you consequently and with gradually increasing complexity all the skills that a software engineer must have, in order **to start a career as a software developer** in an IT company.
 
+![](/assets/chapter-0-images/SoftUni-Interactive-Classroom-Video.png)
+
 ## Training Duration in SoftUni
 
 The training in SoftUni has a duration of **1-2 years** (depending on the profession and the selected specializations) and during that period it is normal to reach a good starting level (junior developer), but this is **only if you study seriously** and write code intensely every day. Upon having good grades, a typical student **starts a job around the middle of the training (after around 1.5 years)**. Thanks to the well-developed partners network, **the career center of SoftUni offers work** in a software or IT company to all SoftUni students who have very good or excellent grades. **Starting a job** in the major in case of having good grades at SoftUni, combined with willingness to work and reasonable expectations towards the employers, is almost guaranteed.
@@ -26,7 +28,7 @@ The training for software engineers at SoftUni is a **very serious occupation** 
 
 The forms of training at SoftUni are **on-site** (the better choice) and **online** (if you don't have another option). In both forms of training, in order to learn the program in the curriculum (that is required by software companies for starting a job), you need **a lot of learning**. You just need to **find the time for it**! Reason #1 for having hard time on the road to the profession in SoftUni is not spending enough time for the training: as a minimum you need to spend at least 20-30 hours a week.
 
-## SoftUni for People who Work and Study
+## SoftUni for People Who Work and Study
 
 We recommend to everyone who gets **excellent score at the SoftUni entrance exam** and are really passionate about making programming their profession, to leave the rest of their commitments aside and **spend their entire time** on learning the profession of a "software engineer" and start making a living through it.
 

@@ -22,4 +22,4 @@ Here are some recommended **resources** that will be useful for your development
 
 On behalf of the entire authors' team, we **wish you endless success in the profession and in your life**! We will be really happy if we have helped you get **passionate about programming** and we have inspired you to go bravely towards becoming a "software engineer", which will bring you a good job that you will work with pleasure, give you a quality life and prosperity, as well as amazing perspectives for development and possibilities for making impressive projects with inspiration and passion.
 
-<p align="right"><i>Sofia, March 5, 2019</i></p>
+<p align="right"><i>Sofia, September 1, 2019</i></p>
