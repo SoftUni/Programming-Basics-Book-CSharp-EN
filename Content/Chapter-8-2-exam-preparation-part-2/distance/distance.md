@@ -4,7 +4,7 @@ Write a program that calculates **what is the distance passed by a car (in kilom
 
 ## Input Data
 
-**4 lines** are read from the console:
+The input comes from the console and consists of **4 lines**:
  * The **initial speed** in km/h – an integer within the range [**1 … 300**].
  * The **first time frame** in minutes – an integer within the range [**1 … 1000**].
  * The **second time frame** in minutes – an integer within the range [**1 … 1000**].
