@@ -17,7 +17,7 @@ Print on the console on a single line all numbers, that meet the condition, sepa
 
 | Input | Output | Comments |
 | --- | --- | --- |
-||1<br>30<br>15|30 24 18 12 6|Numbers from 30 to 1, that are divisible at the same time by 2 and 3 without reminder are: 30, 24, 18, 12 and 6. The number 15 **is not equal** to any, so the sequence **continues**.|
+|1<br>30<br>15|30 24 18 12 6|Numbers from 30 to 1, that are divisible at the same time by 2 and 3 without reminder are: 30, 24, 18, 12 and 6. The number 15 **is not equal** to any, so the sequence **continues**.|
 
 | Input | Output | Comments |
 | --- | --- | --- |
