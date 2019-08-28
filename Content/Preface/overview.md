@@ -6,16 +6,16 @@ The book "**Programming Basics with C#**" introduces the readers with writing **
 
 Watch a video lesson about what shall we learn in this book + video course here: https://youtu.be/H6TWSOhav9I.
 
-## More About this Book + Video Course
+## The Book Uses C# and Visual Studio
 
-The programming language **[C#](https://en.wikipedia.org/wiki/C_Sharp_%28programming_language%29)** and the development environment **[Visual Studio](https://visualstudio.microsoft.com)** are used. All examples are given in C#, which is a modern, general purpose programming language, a good choice for beginners.
-
-The curriculum provides basic training for a deeper study of programming and prepares readers for the **entrance exam** in SoftUni.
+This book and video lessons coming with it, teach **basic coding skills**, using the programming language **[C#](https://en.wikipedia.org/wiki/C_Sharp_%28programming_language%29)** and the development environment **[Visual Studio](https://visualstudio.microsoft.com)**. All examples are given in **C#**, which is a modern, general purpose programming language, a good choice for beginners.
 
 <table><tr><td><img src="/assets/alert-icon.png" style="max-width:50px" /></td>
-<td>This book only gives you  <b> the first steps to programming</b>. It covers very basic skills that you must develop for years, in order to reach a high enough level and start working as a programmer.</td></tr></table>
+<td>This book only gives you <b>the first steps to programming</b>. It covers very basic skills that you must develop for years, in order to reach a high enough level and start working as a programmer.</td></tr></table>
 
-This book is the official textbook for the free **Programming Basics** course for absolute beginners at the [**Software University (SoftUni)**](https://softuni.org).
+# Official Textbook at SoftUni
+
+This book is the official textbook for the free **Programming Basics** course for absolute beginners at the [**Software University (SoftUni)**](https://softuni.org). The curriculum provides basic training for a deeper study of programming and prepares readers for the **entrance exam** in SoftUni.
 
 The book is also used as unofficial **textbook for school-level programming courses** in the high schools, studying professions like "**Programmer**", "**Application Programmer**" and "**System Programmer**", as well as an additional teaching tool in the initial programming courses at the **secondary schools, mathematical and professional high schools**.
 
