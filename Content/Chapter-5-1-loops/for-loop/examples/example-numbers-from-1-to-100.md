@@ -4,7 +4,7 @@ Write a program that **prints the numbers from 1 to 100**. The program does not 
 
 ## Video: Numbers 1...100
 
-Watch the video lesson to learn how to print the numbers from 1 to 100 using a for-loop: [](https://youtu.be/pui8KxT_uPI).
+Watch the video lesson to learn how to print the numbers from 1 to 100 using a for-loop: [https://youtu.be/pui8KxT_uPI](https://youtu.be/pui8KxT_uPI).
 
 ## Hints and Guidelines
 
