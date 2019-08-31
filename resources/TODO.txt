@@ -1,23 +1,64 @@
 Page size: 17.78 x 25.4 cm (10 x 7 in) + bleed
 
 [done] Spell-check all the text
-
 [done] Check all video links
-
-[done] second symbol after the decimal point --> second digit after the decimal point
-
+[done] Second symbol after the decimal point --> second digit after the decimal point
 [done] Sample Input and Output -> fix table sizes
-
 [done] Fix the colors for the links, e.g. this link has wrong color: https://stackoverflow.com/questions/411752.
-
 [done] Add screenshots of the softuni.org virtual classroom
-
 [done] Review the document structure (H1, H2, H3, ...)
-
 [done] Check whether the .md files in each chapter match the table of contents (SUMMARY.md)
-
 [done] Front cover (with videos)
-
 [done] Back cover (English)
-
 [done] Advertisment banner (English)
+
+Convert to ePub and Mobi book formats (hint: use "calibre")
+
+Post in the book authors FB groups
+
+Blog post in Nakov.com
+
+Amazon: publish at KDP for print on demand
+
+Google Books upload
+
+GoodReads book profile + comments
+
+SlideShare upload
+
+Archive.org upload
+
+Scribd upload
+
+Upload the book in Wikibooks.org (example: http://en.wikibooks.org/wiki/C_Sharp_Programming)
+Upload in docstoc.com
+Upload in authorstream.com
+Submit in freecomputerbooks.com
+Submit in e-booksdirectory.com
+Submit in Lulu.com
+Submit to http://www.onlineprogrammingbooks.com
+Submit to http://www.freetechbooks.com
+Submit to http://www.free-ebooks.net
+Submit to http://www.codeproject.com/Tips/315638/List-of-freely-available-programming-books?msg=4672824#xx4672824xx
+Submit to http://www.biblio.com
+Submit to http://it-ebooks.info/tag/programming/
+Publish to Kindle - http://www.amazonkdp.com
+Upload to http://openlibrary.org
+Upload bookfinder4u.com
+Subit to Shelfari (by Amazon)
+Smashwords - https://www.smashwords.com
+http://www.worldcat.org
+http://manybooks.net
+Submit here: http://bookboon.com/en/c-cpp-csharp-ebooks
+http://programming-motherfucker.com/become.html#C#
+http://www.freeprogrammingresources.com/csharp-books.html
+http://www.ebook3000.com/Programming/
+http://it-ebooks.info/
+http://appsapps.com/ebooks/?cat=10
+http://social.msdn.microsoft.com/Forums/en-US/5173de3d-5d5b-4b93-87a7-057d5241a02c/free-download-c-ebook
+http://readwrite.com/2011/05/28/free-e-books-on-c#awesm=~ojc5LWpTWNfSDN
+http://cplus.about.com/od/codelibrary/a/free-ebooks.htm, http://cplus.about.com/od/freeebookscprogrammi2/Free_EBooks_for_C_Programming.htm
+http://www.dmoz.org/Computers/Programming/Languages/C-sharp/Books/
+http://c-school-ebook.softpedia.com
+Add to http://thepiratebay.org
+
