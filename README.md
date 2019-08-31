@@ -4,9 +4,7 @@ The **free** book "**Programming Basics with C#**" introduces the readers to wri
 
 Watch the promo video about this book + video course: https://youtu.be/_F606F3OgmQ.
 
-> This project is not entirely accomplished. Once we finish it, we will publish the book in PDF / MOBI / other formats.
-
-<img src = "/assets/CSharp-Programming-Basics-Book-Cover.png" alt="Programming Basics with C# – book cover" class="readme-book-cover-image" />
+<a href="resources/Programming-Basics-CSharp-Nakov-v2019.pdf"><img src = "/assets/CSharp-Programming-Basics-Book-Cover.png" alt="Programming Basics with C# – book cover" class="readme-book-cover-image" /></a>
 
  * [Preface](Content/Preface/overview.md)
  * [1. First Steps in Programming](Content/Chapter-1-first-steps-in-programming/overview.md)
@@ -30,8 +28,11 @@ Watch the promo video about this book + video course: https://youtu.be/_F606F3Og
  * [11. Tricks and Hacks](Content/Chapter-11-tricks-and-hacks/overview.md)
  * [Conclusion](Content/Conclusion/overview.md)
  
-Download the book "Programming Basics with C#" in PDF format:
-* <a href="#">Programming-Basics-CSharp-v2019.pdf</a> (still not ready)
+Download the book "Programming Basics with C#" in **PDF** format:
+* <a href="resources/Programming-Basics-CSharp-v2019.pdf">Programming-Basics-CSharp-v2019.pdf</a>
+
+Download the book "Programming Basics with C#" in **MS Word** format:
+* <a href="resources/Programming-Basics-CSharp-v2019.docx">Programming-Basics-CSharp-v2019.docx</a>
 
 Brief information about this edition:
  * Title: **Programming Basics with C#**
