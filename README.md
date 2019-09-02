@@ -28,8 +28,14 @@ Watch the promo video about this book + video course: https://youtu.be/_F606F3Og
  * [11. Tricks and Hacks](Content/Chapter-11-tricks-and-hacks/overview.md)
  * [Conclusion](Content/Conclusion/overview.md)
 
-**Download** the book "Programming Basics with C#" in **PDF** format:
+**Download** the book "Programming Basics with C#" in **PDF** format (desktop readers):
 * <a href="https://github.com/SoftUni/Programming-Basics-Book-CSharp-EN/blob/master/resources/Programming-Basics-CSharp-Book-and-Video-Lessons-Nakov-v2019.pdf">Programming-Basics-CSharp-Book-and-Video-Lessons-Nakov-v2019.pdf</a>
+
+**Download** the book "Programming Basics with C#" in **ePub** format (standard e-book readers):
+* <a href="https://github.com/SoftUni/Programming-Basics-Book-CSharp-EN/blob/master/resources/Programming-Basics-CSharp-Book-and-Video-Lessons-Nakov-v2019.epub?raw=true">Programming-Basics-CSharp-Book-and-Video-Lessons-Nakov-v2019.epub</a>
+
+**Download** the book "Programming Basics with C#" in **mobi** format (Kindle e-book readers):
+* <a href="https://github.com/SoftUni/Programming-Basics-Book-CSharp-EN/blob/master/resources/Programming-Basics-CSharp-Book-and-Video-Lessons-Nakov-v2019.mobi?raw=true">Programming-Basics-CSharp-Book-and-Video-Lessons-Nakov-v2019.mobi</a>
 
 Brief information about this edition:
  * Title: **Programming Basics with C#**
