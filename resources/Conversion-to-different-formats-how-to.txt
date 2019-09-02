@@ -1,0 +1,32 @@
+# How to convert the book into different file formats
+
+
+## Original
+DOCX Document - MS Word (Office 365)
+
+
+## PDF
+Save as PDF with MS Word
+
+
+## ePub (e-book readers)
+
+Use Calibre - https://calibre-ebook.com
+
+Embed fonts (Look & feel -> Fonts -> Embed all fonts)
+
+Remove all paddings (Look & feel -> Styling -> Filter style information -> remove padding)
+
+Add custom CSS to fix broken margins (edit the stylesheet.css inside the ePub ZIP archive):
+
+td p {
+  margin-left: 5px !important;
+  margin-right: 5px !important;
+}
+
+
+## Mobi (Amazon Kindle)
+
+Use Kindle Previewer 3 - https://kdp.amazon.com/en_US/help/topic/G202131170
+
+Open the .epub file (it will internally convert to Kindle) and export it as .mobi file
