@@ -28,7 +28,7 @@ Download the free C# programming basics book (as PDF, ePub and Mobi formats), wa
 
 Tags
 ----
-free, programming, book, computer programming, coding, writing code, programming basics, ebook, book programming, C#, CSharp, C# book, Visual Studio, .NET, tutorial, C# tutorial, programming concepts, data types, variables, expressions, calculations, statements, console input and output, conditional statements, control-flow logic, nested conditions, loops, nested loops, methods, functions, method parameters, method return values, problem solving, practical exercises, practical coding, learn by examples, learn by doing, code examples, online judge system, Nakov, Svetlin Nakov, SoftUni, ISBN 978-619-00-0902-3, ISBN 9786190009023
+book, programming, free, computer programming, coding, writing code, programming basics, ebook, programming book, book programming, C#, CSharp, C# book, Visual Studio, .NET, tutorial, C# tutorial, video lessons, C# videos, programming videos, programming lessons, coding lessons, coding videos, programming concepts, data types, variables, operators, expressions, calculations, statements, console input and output, control-flow logic, program logic, conditional statements, nested conditions, loops, nested loops, methods, functions, method parameters, method return values, problem solving, practical exercises, practical coding, learn by examples, learn by doing, code examples, online judge system, Nakov, Svetlin Nakov, SoftUni, ISBN 978-619-00-0902-3, ISBN 9786190009023
 
 
 Contents
@@ -98,7 +98,7 @@ Chapter 9.2. Problems for Champions – Part II - another set of more complex prob
 
 Chapter 10. Methods - what is method, when to use methods, defining and calling methods (functions), passing parameters and returning values, returning multiple values, overloading methods, using nested methods (local functions), naming methods correctly, good practices for using methods
 
-Chapter 11. Tricks and Hacks - some techniques, tricks and hacks for improving our performance with C# and Visual Studio: hints how to format the code, conventions an guidelines about naming the code elements, using keyboard shortcuts in VS, defining and using code snippets in VS, debugging code, using breakpoints and watches
+Chapter 11. Tricks and Hacks - some special techniques, tricks and hacks for improving our performance with C# and Visual Studio: hints how to format the code, conventions an guidelines about naming the code elements, using keyboard shortcuts in VS, defining and using code snippets in VS, debugging code, using breakpoints and watches
 
 Conclusion - the skills of the software engineers, how to continue learning software development after this book (study software engineering in SoftUni, study in your own way), how to get learning resources and how many time it takes to become a skillful software engineer and start a job
 
