@@ -3,6 +3,8 @@ Subtitle: Comprehensive Introduction to Programming with C#: Video Book + Learni
 ISBN: 978-619-00-0902-3 (9786190009023)
 Author: Svetlin Nakov & Team
 Pages: 408 (102878 words)
+Page size: 7 x 10 inches (17.78 x 25.4 cm)
+Cover size: 15.162 x 10.250 inches
 Language: English
 Published: Sofia, September 2019
 Publisher: Faber Publishing, Bulgaria
