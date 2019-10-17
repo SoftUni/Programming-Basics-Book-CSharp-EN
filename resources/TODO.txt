@@ -11,7 +11,7 @@ Page size: 17.78 x 25.4 cm (10 x 7 in) + bleed
 [done] Front cover (with videos)
 [done] Back cover (English)
 [done] Advertisment banner (English)
-[done] Convert to ePub and Mobi book formats (hint: use "calibre")
+[done] Convert to ePub and Mobi book formats (hint: use "calibre" and "Kindle Previwer" )
 [done] Post in the book authors FB groups
 [done] Google Books upload (C# English book)
 
