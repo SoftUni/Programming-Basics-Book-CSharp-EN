@@ -5,6 +5,7 @@ Author: Svetlin Nakov & Team
 Pages: 408 (102878 words)
 Page size: 7 x 10 inches (17.78 x 25.4 cm)
 Cover size: 15.162 x 10.250 inches
+Margins: 0.625 inches inside margin, 0.25 inches outside margin
 Language: English
 Published: Sofia, September 2019
 Publisher: Faber Publishing, Bulgaria
