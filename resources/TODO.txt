@@ -14,8 +14,7 @@ Page size: 17.78 x 25.4 cm (10 x 7 in) + bleed
 [done] Convert to ePub and Mobi book formats (hint: use "calibre" and "Kindle Previwer" )
 [done] Post in the book authors FB groups
 [done] Google Books upload (C# English book)
-
-Amazon: publish at KDP for print on demand
+[done] Amazon: publish at KDP for print on demand
 
 Blog post in Nakov.com
 
