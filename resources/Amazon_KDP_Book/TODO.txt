@@ -1,0 +1,11 @@
+Telerik, telerik.com -> SoftUni, softuni.org
+in details -> in detail
+www.introprogramming.info -> https://introprogramming.info
+Google Code -> GitHub
+Author's resumes -> update from the C# Principles BG book, use linkedin instead of sites
+Reviews: check links, use LinkedIn, instead of emails
+www.nakov.com -> https://nakov.com
+Fix the size of all tables holding important info (with the exclamation mark icon)
+Fix the size of all tables holding source code (coding blocks)
+Fix the exclamation mark icon with better looking icon (higher quality image)
+Check the header of all chapters -> the size of the line in not correct
