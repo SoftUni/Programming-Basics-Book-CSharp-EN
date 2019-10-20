@@ -37,6 +37,10 @@ Watch the promo video about this book + video course: https://youtu.be/_F606F3Og
 **Download** the book "Programming Basics with C#" in **mobi** format (Kindle e-book readers):
 * <a href="https://github.com/SoftUni/Programming-Basics-Book-CSharp-EN/blob/master/resources/Programming-Basics-CSharp-Book-and-Video-Lessons-Nakov-v2019.mobi?raw=true">Programming-Basics-CSharp-Book-and-Video-Lessons-Nakov-v2019.mobi</a>
 
+**Order the book** as **paperback copy** from Amazon:
+ - <a href="https://www.amazon.com/dp/6190009026">Amazon.com (United States): Programming Basics with C#: Comprehensive Introduction to Programming with C#: Book + Video Lessons</a>
+ - <a href="https://www.amazon.co.uk/dp/6190009026">Amazon.co.uk (Europe): Programming Basics with C#: Comprehensive Introduction to Programming with C#: Book + Video Lessons</a>
+
 Brief information about this edition:
  * Title: **Programming Basics with C#**
  * Authors: **Svetlin Nakov & Team**
