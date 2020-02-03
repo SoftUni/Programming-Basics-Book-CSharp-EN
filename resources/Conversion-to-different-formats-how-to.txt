@@ -17,13 +17,16 @@ Embed fonts (Look & feel -> Fonts -> Embed all fonts)
 
 Remove all paddings (Look & feel -> Styling -> Filter style information -> remove padding)
 
-Add custom CSS to fix broken margins (edit the stylesheet.css inside the ePub ZIP archive):
+Add custom CSS to fix broken margins and images (edit the stylesheet.css inside the ePub ZIP archive):
 
 td p {
   margin-left: 5px !important;
   margin-right: 5px !important;
 }
 
+img {
+	height: auto !important;
+}
 
 ## Mobi (Amazon Kindle)
 
