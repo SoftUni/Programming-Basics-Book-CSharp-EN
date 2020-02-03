@@ -72,21 +72,23 @@ Based on the way we arrange the logical scheme (the order in which we will check
 
 After that, we need to apply a condition to check the value of the **season**. Based on it, we will determine what percentage of the budget will be spent, as well as where the programmer will stay – in a **hotel** or a **camp**.
 
-### Calculations
+This is a sample code that may b eused to implement he above idea:
 
-Let's create and initialize the variables needed for applying the logic and calculations.
+![](/assets/chapter-4-2-images/02.Trip-03.png)
 
-![](/assets/chapter-4-2-images/02.Trip-02.png)
+![](/assets/chapter-4-2-images/02.Trip-04.png)
 
-Similarly to the example in the previous task, we can initialize variables with some of the output results, in order to spare additional initialization.
+![](/assets/chapter-4-2-images/02.Trip-05.png)
 
-When examining once again the problem requirements, we notice that the main distribution of where the vacation will take place is determined by the **value of the budget**, i.e. our main logic is divided into two cases: 
-* If the budget is **less than** a particular value.
-* If it is **less than** another value or is **more than** the specified border value. 
+We can optimize the conditions checking by assigning a **default value** and then check one solution less. This **saves one logical step**.
 
-Based on the way we arrange the logical scheme (the order in which we will check the border values), we will have more or less conditions in the solution. **Why?**
+For example, this block:
 
-After that, we need to apply a condition to check the value of the **season**. Based on it, we will determine what percentage of the budget will be spent, as well as where the programmer will stay – in a **hotel** or a **camp**.
+![](/assets/chapter-4-2-images/02.Trip-03.png)
+
+can be shortened like this:
+
+![](/assets/chapter-4-2-images/02.Trip-06.png)
 
 ### Printing the Result
 
