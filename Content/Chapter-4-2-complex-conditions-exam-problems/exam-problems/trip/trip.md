@@ -72,7 +72,7 @@ Based on the way we arrange the logical scheme (the order in which we will check
 
 After that, we need to apply a condition to check the value of the **season**. Based on it, we will determine what percentage of the budget will be spent, as well as where the programmer will stay – in a **hotel** or a **camp**.
 
-This is a sample code that may be used to implement he above idea:
+This is a sample code that may be used to implement the above idea:
 
 ![](/assets/chapter-4-2-images/02.Trip-03.png)
 
@@ -80,7 +80,7 @@ This is a sample code that may be used to implement he above idea:
 
 ![](/assets/chapter-4-2-images/02.Trip-05.png)
 
-We can optimize the conditions checking by assigning a **default value** and then check one solution less. This **saves one logical step**.
+We can optimize the conditions checking by assigning a **default value** and then checking one variant less. This **saves one logical step**.
 
 For example, this block:
 
