@@ -14,7 +14,17 @@
 [done] Google Books upload (C# English book)
 [done] Amazon: publish at KDP for print on demand
 
+Add reviews at GoodReads:
+https://www.goodreads.com/book/show/48575855-programming-basics-with-c
+
+Add reviews at Google Books:
+https://books.google.bg/books?id=vzKyDwAAQBAJ
+
 Blog post in Nakov.com
+
+Blog post in introprogramming.info
+
+Introprogramming.info: put the C# Basics book at the front page
 
 Google Books upload (C#, Java, JS, Python, C++ in BG)
 
