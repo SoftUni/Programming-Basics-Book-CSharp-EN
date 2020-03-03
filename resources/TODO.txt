@@ -20,6 +20,9 @@ https://www.goodreads.com/book/show/48575855-programming-basics-with-c
 Add reviews at Google Books:
 https://books.google.bg/books?id=vzKyDwAAQBAJ
 
+Submit the book at Open Culture:
+http://www.openculture.com/free_ebooks
+
 Blog post in Nakov.com
 
 Blog post in introprogramming.info
