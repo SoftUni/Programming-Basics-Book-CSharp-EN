@@ -42,7 +42,7 @@ A fruit shop during **week days** sells in the following **prices**:
 |:-----:|:-----:|
 |banana<br>apple<br>orange<br>grapefruit<br>kiwi<br>pineapple<br>grapes|2.50<br>1.20<br>0.85<br>1.45<br>2.70<br>5.50<br>3.85|
 
-During the weekend days the prices are **higher**:
+During the **weekend days** the prices are **higher**:
 
 |Fruit|Price|
 |:-----:|:-----:|
