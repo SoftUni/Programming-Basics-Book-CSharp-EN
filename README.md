@@ -28,6 +28,8 @@ Watch the promo video about this book + video course: https://youtu.be/_F606F3Og
  * [11. Tricks and Hacks](Content/Chapter-11-tricks-and-hacks/overview.md)
  * [Conclusion](Content/Conclusion/overview.md)
 
+## Download the Book
+
 **Download** the book "Programming Basics with C#" in **PDF** format (desktop readers, recommended):
 * <a href="https://github.com/SoftUni/Programming-Basics-Book-CSharp-EN/blob/master/resources/Programming-Basics-CSharp-Book-and-Video-Lessons-Nakov-v2019.pdf">Programming-Basics-CSharp-Book-and-Video-Lessons-Nakov-v2019.pdf</a>
 
@@ -41,6 +43,8 @@ Watch the promo video about this book + video course: https://youtu.be/_F606F3Og
  - <a href="https://www.amazon.com/dp/6190009026">Amazon.com (United States): Programming Basics with C#: Comprehensive Introduction to Programming with C#: Book + Video Lessons</a>
  - <a href="https://www.amazon.co.uk/dp/6190009026">Amazon.co.uk (Europe): Programming Basics with C#: Comprehensive Introduction to Programming with C#: Book + Video Lessons</a>
 
+## Book Details
+
 Brief information about this edition:
  * Title: **Programming Basics with C#**
  * Authors: **Svetlin Nakov & Team**
@@ -50,12 +54,16 @@ Brief information about this edition:
  * Source code: https://github.com/SoftUni/Programming-Basics-Book-CSharp-EN
  * All authors, editors, translators and **contributors**: Aleksander Krastev, Aleksander Lazarov, Angel Dimitriev, Vasko Viktorov, Ventsislav Petrov, Daniel Tsvetkov, Dimitar Tatarski, Dimo Dimov, Diyan Tonchev, Elena Rogleva, Zhivko Nedyalkov, Julieta Atanasova, Zahariya Pehlivanova, Ivelin Kirilov, Iskra Nikolova, Kalin Primov, Kristiyan Pamidov, Luboslav Lubenov, Nikolay Bankin, Nikolay Dimov, Pavlin Petkov, Petar Ivanov, Preslav Mihaylov, Rositsa Nenova, Ruslan Filipov, Svetlin Nakov, Stefka Vasileva, Teodor Kurtev, Tonyo Zhelev, Hristiyan Hristov, Hristo Hristov, Tsvetan Iliev, Yulian Linev, Yanitsa Vuleva, Marina Shideroff, Nelly Karaivanova, Bilyana Borislavova, Kalina Milanova, Karina Cholakova, Marieta Petrova, Mirela Damyanova, Petko Dyankov.
 
+## Book Editions
+
 This book is available in several versions in different programming languages:
- * [Programming Basics with C# (Bulgarian)](https://csharp-book.softuni.bg)
  * [Programming Basics with C# (English)](https://csharp-book.softuni.org)
+ * [Programming Basics with C# (Bulgarian)](https://csharp-book.softuni.bg)
  * [Programming Basics with Java (Bulgarian)](https://java-book.softuni.bg)
  * [Programming Basics with JavaScript (Bulgarian)](https://js-book.softuni.bg)
  * [Programming Basics with Python (Bulgarian)](https://python-book.softuni.bg)
  * [Programming Basics with C++ (Bulgarian)](https://cpp-book.softuni.bg)
- 
+
+## Free Practical Programming Course
+
 Enjoy reading and do not forget to **sign up** for the [**Practical Free Course "Programming Basics"**](https://softuni.org) coming together with this book, because **programming is learned by practice**, code writing and solving many, many problems, not just by reading!
