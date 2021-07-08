@@ -1,0 +1,34 @@
+name: Gitbook Build & Deploy to gh-pages
+
+on: [workflow_dispatch]
+
+jobs:
+  build-and-publish:
+    name: Build and Deploy Gitbook
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout the source code from GitHub
+        uses: actions/checkout@v2
+        with: { fetch-depth: 0 }
+      - name: Install Node.js (version 10, not higher!)
+        uses: actions/setup-node@v2
+        with: { node-version: '10' }
+      - name: Install Gitbook CLI client (gitbook-cli)
+        run: npm install -g gitbook-cli
+      - name: Install Gitbook plugins (git install)
+        run: gitbook install
+      - name: Build the book to the `_book` folder (git build)
+        run: gitbook build . --log=debug --debug
+      - name: Checkout the `gh-pages` branch into the `_gh-pages` folder
+        run: git worktree add ./_gh-pages gh-pages
+      - name: Copy the compiled book files to `_gh-pages`
+        run: cp -R ./_book/* ./_gh-pages
+      - name: Commit and push the changed book files in the `gh-pages` branch
+        run: |
+          cd _gh-pages
+          git add .
+          git status
+          git config --local user.name "github-actions-gitbook-bot"
+          git config --local user.email "github-actions-gitbook-bot@users.noreply.github.com"
+          git commit -m "Book web site deployment"
+          git push

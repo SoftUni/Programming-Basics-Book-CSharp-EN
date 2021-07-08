@@ -23,6 +23,9 @@ https://books.google.bg/books?id=vzKyDwAAQBAJ
 Submit the book at Open Culture:
 http://www.openculture.com/free_ebooks
 
+Submit entry here:
+https://hackr.io/tutorials/learn-c-sharp
+
 Blog post in Nakov.com
 
 Blog post in introprogramming.info
