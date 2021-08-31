@@ -1,19 +1,19 @@
-# Problem: Dumb Passwords Generator
+# Problem: Stupid Passwords Generator
 
-Write a program that enters two integers **n** and **l** and generates in alphabetical order all possible  **"dumb" passwords** that consist of the following **5 characters**:
--	Character 1: digit from **1** to **n**.
--	Character 2: digit from **1** to **n**.
--	Character 3: small letter among the first **l** letters of the Latin alphabet.
--	Character 4: small letter among the first **l** letters of the Latin alphabet.
--	Character 5: digit from **1** to **n, bigger than first 2 digits**.
+Write a program that enters two integers **n** and **l** and generates in alphabetical order all possible  **"stupid" passwords** that consist of the following **5 characters**:
+-	Character 1: a digit from **1** to **n**.
+-	Character 2: a digit from **1** to **n**.
+-	Character 3: a small letter among the first **l** letters of the Latin alphabet.
+-	Character 4: a small letter among the first **l** letters of the Latin alphabet.
+-	Character 5: a digit from **1** to **n, greater than first 2 digits**.
 
-## Input Data
+## Input
 
 The input is read from the console and consists of **two integers: n** and **l** within the range [**1 … 9**], each on a single line.
 
-## Output Data
+## Output
 
-Print on the console **all "dumb" passwords in alphabetical order**, separated by **space**.
+Print on the console **all "stupid" passwords in alphabetical order**, separated by **space**.
 
 ## Sample Input and Output
 
@@ -29,42 +29,42 @@ Print on the console **all "dumb" passwords in alphabetical order**, separated b
 
 We can split the solution of the problem into 3 parts:
 
-* **Reading the input** – in the current problem this includes reading two numbers **`n`** and **`l`**, each on a single line.
-* **Processing the input data** – using of nested loops to iterate through every possible symbol for each of the five password symbols.
-* **Printing the output** – printing every "dumb" password that meets the  requirements.
+* **Read the input** – for the current problem this consists of reading two numbers **`n`** and **`l`**, each on a single line.
+* **Process the input** – use nested loops to iterate through every possible symbol for each of the five password symbols.
+* **Print the result** – print every "stupid" password that meets the  requirements.
 
-### Reading the Input Data
+### Read the Input
 
-For **reading** of **input** data we will declare two integer variables **`int`**: **`n`** and **`l`**.
+To **read** the **input** we will declare two integer variables **`int`**: **`n`** and **`l`**.
 
 ![](/assets/chapter-7-exam-preparation-images/01.stupid-password-generator-1.png)
 
-Let's declare and initialize the **variables** that will store the **characters** of the password: for the characters of **digit** type – **`int`** – **`d1`**, **`d2`**, **`d3`**, and for the **letters** – of **`char`** type – **`l1`**, **`l2`**. To make it easier we will skip explicit specification of the type by replacing it with the keyword **`var`**.
+Let's declare and initialize the **variables** that will store the **characters** of the password: type **`int`** for the **numeric** characters – **`d1`**, **`d2`**, **`d3`**, and type **`char`** for the **letters** – **`l1`**, **`l2`**. To make it easier, we will skip explicit specification of the type by replacing it with the keyword **`var`**.
 
-### Processing the Input Data and Printing Output
+### Process the Input and Print the Output
 
-We need to create **five** **`for`** nested loops, one for each variable. To ensure that the last digit **d3** is **greater** than the first two, we will use the built-in function **`Math.Max (...)`**. 
+We have to create **five** nested **`for`** loops, one for each variable. To ensure that the last digit **d3** is **greater** than the first two, we will use the built-in function **`Math.Max (...)`**. 
 
 ![](/assets/chapter-7-exam-preparation-images/01.stupid-password-generator-2.png)
 
-## Testing in the Judge System
+## Test the code in the Judge System
 
 Test your solution here: [https://judge.softuni.org/Contests/Practice/Index/515#0](https://judge.softuni.org/Contests/Practice/Index/515#0).
 
 ## Did you Know That…?
 
-* In C# we can **define a `for`** loop with variable of **`char`** type:
+* In C# we can **define a `for`** loop with a variable of **`char`** type:
 
 ![](/assets/chapter-7-exam-preparation-images/01.stupid-password-generator-3.png)
 
-* We can **read** variable of **`char`** type from the console with the following structure:
+* We can **read** a variable of type **`char`** from the console by using the following structure:
 
 ![](/assets/chapter-7-exam-preparation-images/01.stupid-password-generator-4.png)
     
-* We can convert a **Capital** char **into small** one, using a built-in C# function:
+* We can convert a **Capital** char **into a small** one, using a built-in C# function:
     
 ![](/assets/chapter-7-exam-preparation-images/01.stupid-password-generator-5.png)
     
-* By reading the chars from the console, we can directly convert upper to lowercase letters, **by combining the above two lines**:
+* When reading the chars from the console, we can directly convert uppercase letters to lowercase letters **by combining the two lines above**:
 
 ![](/assets/chapter-7-exam-preparation-images/01.stupid-password-generator-6.png)
