@@ -29,7 +29,7 @@ Print on a single line **all combinations** corresponding to the requirements, f
 
 ### Reading the Input Data
 
-By requirements, we have input data on **3 lines**, each of which is represented by one character of the **ASCII table** ([http://www.asciitable.com](http://www.asciitable.com)). We could use an already **defined function** in C#, by converting the input data into **`char`** data type, as follows:
+By requirements, we have input data on **3 lines**, each of which is represented by one character of the **ASCII table** ([https://www.asciitable.com](https://www.asciitable.com)). We could use an already **defined function** in C#, by converting the input data into **`char`** data type, as follows:
 
 ![](/assets/chapter-8-2-images/06.Letters-01.png)
 

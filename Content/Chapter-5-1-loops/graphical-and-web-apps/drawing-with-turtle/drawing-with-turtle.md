@@ -16,7 +16,7 @@ The purpose of the following exercise is to play with a "move and rotate" **draw
 
 Let's first get familiar with **the concept of drawing "Turtle Graphics"**. Take a look at the following sources:
 
-* Definition of "turtle graphics": [http://c2.com/cgi/wiki?TurtleGraphics](http://c2.com/cgi/wiki?TurtleGraphics)
+* Definition of "turtle graphics": [https://wiki.c2.com/?TurtleGraphics](https://wiki.c2.com/?TurtleGraphics)
 * Article on "turtle graphics" in Wikipedia – [https://en.wikipedia.org/wiki/Turtle\_graphics](https://en.wikipedia.org/wiki/Turtle_graphics)
 * Interactive online tool for drawing with a turtle – [https://blockly-games.appspot.com/turtle](https://blockly-games.appspot.com/turtle)
 
@@ -28,7 +28,7 @@ We will start by creating a new **C\# Windows Forms Project**:
 
 ## Installing Turtle Graphics NuGet Package
 
-Install the **NuGet** package **"`Nakov.TurtleGraphics`"** to your new Windows Forms project. From Visual Studio you can add **external libraries** \(packages\) to an existing C\# project. They add up additional functionality to our applications. The official repository for C\# libraries is maintained by Microsoft and is called **NuGet** \([http://www.nuget.org](http://www.nuget.org)\).
+Install the **NuGet** package **"`Nakov.TurtleGraphics`"** to your new Windows Forms project. From Visual Studio you can add **external libraries** \(packages\) to an existing C\# project. They add up additional functionality to our applications. The official repository for C\# libraries is maintained by Microsoft and is called **NuGet** \([https://www.nuget.org](https://www.nuget.org)\).
 
 Right-click the **Solution Explorer** project and select \[**Manage NuGet Packages…**\]:
 

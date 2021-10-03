@@ -1,6 +1,6 @@
 # Problem: Bulls and Cows
 
-We all know the game called "Bulls and Cows" ([http://en.wikipedia.org/wiki/Bulls_and_cows](http://en.wikipedia.org/wiki/Bulls_and_cows)). Upon having a particular 4-digit **secret number** and a 4-digit **suggested number**, the following rules are applied:
+We all know the game called "Bulls and Cows" ([https://en.wikipedia.org/wiki/Bulls_and_cows](https://en.wikipedia.org/wiki/Bulls_and_cows)). Upon having a particular 4-digit **secret number** and a 4-digit **suggested number**, the following rules are applied:
 * If a digit in the suggested number matches a digit in the secret number and is located at the **same position**, we have a ***bull***.
 * If a digit in the suggested number matches a digit in the secret number, but is located at a **different position**, we have a ***cow***.
 

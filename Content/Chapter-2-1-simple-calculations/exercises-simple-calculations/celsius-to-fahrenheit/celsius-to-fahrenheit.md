@@ -1,6 +1,6 @@
 # Problem: Converter – from °C Degrees to °F Degrees
 
-Write a program that reads **degrees on Celsius scale** \(°C\) and converts them to **degrees on Fahrenheit scale** \(°F\). Look on the Internet for a proper [formula](http://bfy.tw/MrFX "Search in Google") to do the calculations. Round the result to **2 digits after the decimal point**. Here are a few examples:
+Write a program that reads **degrees on Celsius scale** \(°C\) and converts them to **degrees on Fahrenheit scale** \(°F\). Look on the Internet for a proper [formula](https://bfy.tw/MrFX "Search in Google") to do the calculations. Round the result to **2 digits after the decimal point**. Here are a few examples:
 
 ## Sample Input and Output
 

@@ -102,7 +102,6 @@ Some programming languages do not use a compiler and are being **interpreted dir
 For programming with **the C\# language** the most commonly used IDE is **Visual Studio**, which is developed and distributed freely by Microsoft and can be downloaded from: [https://www.visualstudio.com/downloads/](https://www.visualstudio.com/downloads/). Alternatives of Visual Studio are:
   - **Rider** – https://www.jetbrains.com/rider
   - **MonoDevelop / Xamarin Studio** – https://www.monodevelop.com
-  - **SharpDevelop** – http://www.icsharpcode.net/OpenSource/SD
   - **Visual Studio Code** - https://code.visualstudio.com
   - **Eclipse aCute** – https://projects.eclipse.org/projects/tools.acute
 

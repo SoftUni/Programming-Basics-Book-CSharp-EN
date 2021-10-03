@@ -18,7 +18,7 @@ Following the principle of **free software and free knowledge**, Svetlin Nakov l
 
 The book was initially written in **Bulgarian language** in 2017 and later translated into **English** in 2019.
 
-The project is part of the hard work of the **[Software University Foundation](http://softuni.foundation)** to create and distribute an open learning content to teach software engineers and IT professionals.
+The project is part of the hard work of the **[Software University Foundation](https://softuni.foundation)** to create and distribute an open learning content to teach software engineers and IT professionals.
 
 ### Authors Team
 
