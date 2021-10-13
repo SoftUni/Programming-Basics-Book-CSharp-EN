@@ -22,9 +22,9 @@ In most cases a `for`** loop** is run between `1` and `n` times \(for example fr
 
 Now, let's demonstrate how to use the for loop in practice by a few simple examples:
 
-* [Example: Numbers from 1 to 100](/Content/Chapter-5-1-loops/for-loop/for-loop/example-numbers-from-1-to-100.md)
-* [Example: Numbers Ending by 7](/Content/Chapter-5-1-loops/for-loop/for-loop/example-numbers-ending-by-7.md)
-* [Example: All Latin Letters](/Content/Chapter-5-1-loops/for-loop/for-loop/example-all-latin-letters.md)
+* [Example: Numbers from 1 to 100](/Content/Chapter-5-1-loops/for-loop/examples/example-numbers-from-1-to-100.md)
+* [Example: Numbers Ending by 7](/Content/Chapter-5-1-loops/for-loop/examples/example-numbers-ending-by-7.md)
+* [Example: All Latin Letters](/Content/Chapter-5-1-loops/for-loop/examples/example-all-latin-letters.md)
 
 
 
