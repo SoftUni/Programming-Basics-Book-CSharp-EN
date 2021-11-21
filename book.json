@@ -1,20 +1,21 @@
 {
-	"title": 
-		"Programming Basics with C# - Free Coding Book with Video Lessons",
-	"description": 
-		"Free book + video course + \"Programming Basics with C#\" for absolute beginners - an interactive coding tutorial. It covers the C# language and the .NET platform, the C# compiler, the Visual Studio development environment, variables, data, calculations, console input / output, conditional statements, loop constructions, nested loops, methods and lots of practical exercises with interactive online evaluation system (judge system).",
-	"isbn": 
-		"978-619-00-0902-3",
-	"language":
-		"en",
+    "title": 
+        "Programming Basics with C# - Free Coding Book with Video Lessons",
+    "description": 
+        "Free book + video course + \"Programming Basics with C#\" for absolute beginners - an interactive coding tutorial. It covers the C# language and the .NET platform, the C# compiler, the Visual Studio development environment, variables, data, calculations, console input / output, conditional statements, loop constructions, nested loops, methods and lots of practical exercises with interactive online evaluation system (judge system).",
+    "isbn": 
+        "978-619-00-0902-3",
+    "language":
+        "en",
     "plugins": [
         "ga",
         "meta",
         "anchors",
+        "header",
         "expandable-chapters-small",
         "katex",
         "scripts",
-		"page-toc-button"
+        "page-toc-button"
     ],
     "pluginsConfig": {
         "ga": {
@@ -32,6 +33,9 @@
                 "./assets/js/repl.it-code-runner.js",
                 "./assets/js/video.js"
             ]
+        }
+        "layout": {
+            "headerPath" : "./assets/header.html"
         }
     },
     "pdf": {
