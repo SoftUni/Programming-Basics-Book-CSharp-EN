@@ -24,7 +24,7 @@ Why is it so? As we can see, the result is **missing "1 1"**. When the program r
 
 ## Correct Implementation
 
-What is **the right solution**? One way to solve this problem is by declaring a **`bool` variable** to keep track if the loop rotation has to continue. If you need to exit (leave all nested loops), we set the variable to **`true`** and exit the inner loop with a **`break`**, and in the next check we exit the outer loop. Here is an example implementation of this idea:
+What is **the right solution**? One way to solve this problem is by declaring a **`bool` variable** to keep track if the loop iteration has to continue. If you need to exit (leave all nested loops), we set the variable to **`true`** and exit the inner loop with a **`break`**, and in the next check we exit the outer loop. Here is an example implementation of this idea:
 
 ![](/assets/chapter-7-images/00.Nested-and-break-undesired-result-02.png)
 
