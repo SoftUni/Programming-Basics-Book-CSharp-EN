@@ -15,7 +15,7 @@ jobs:
         with: { node-version: '10' }
       - name: Install Gitbook CLI client (gitbook-cli)
         run: npm install -g gitbook-cli
-      - name: Install Gitbook plugins (git install)
+      - name: Install Gitbook plugins (gitbook install)
         run: gitbook install
       - name: Build the book to the `_book` folder (git build)
         run: gitbook build . --log=debug --debug
