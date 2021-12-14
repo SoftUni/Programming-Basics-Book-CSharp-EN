@@ -47,7 +47,7 @@ Dr. **Svetlin Nakov** \([https://nakov.com](https://nakov.com)\) is a passionate
 
 ![](/assets/chapter-0-images/Svetlin-Nakov-photo-face.jpg)
 
-Svetlin Nakov has 20+ years of technical background as software engineer, software project manager, consultant, **trainer** and **entrepreneur **with rich experience with .NET, Java EE, information systems, databases, cryptography and software security, Web development, JavaScript, PHP, Python and software engineering. He is the leading **author of 15 books** on computer programming, software technologies, cryptography, C\#, Java, JavaScript, Python and tens of technical and scientific publications.  He is a big fan of **knowledge sharing** and is proud Wikipedia contributor, free books author and open-source supporter.
+Svetlin Nakov has 20+ years of technical background as software engineer, software project manager, consultant, **trainer** and **entrepreneur** with rich experience with .NET, Java EE, information systems, databases, cryptography and software security, Web development, JavaScript, PHP, Python and software engineering. He is the leading **author of 15 books** on computer programming, software technologies, cryptography, C\#, Java, JavaScript, Python and tens of technical and scientific publications.  He is a big fan of **knowledge sharing** and is proud Wikipedia contributor, free books author and open-source supporter.
 
 Svetlin has been a **speaker** at hundreds of conferences, seminars, meetups, courses and other trainings in the United States, Singapore, Germany, Egypt, Bulgaria and other locations. He holds a **PhD **degree in computer science \(for his research on computational linguistics and machine learning\), several **medals** from the **International Informatics Olympiads** \(IOI\) and the Bulgarian **President’s award “John Atanasoff”**. He has been a part-time lecturer / trainer in Sofia University (Bulgaria), New Bulgarian University (Bulgaria), the Technical University of Sofia (Bulgaria), Ngee Ann Polytechnic (Singapore), Kingsland University (USA) and few others.
 
@@ -66,17 +66,20 @@ This is the **official book site** and any new version will be uploaded there. T
 This book on programming for beginners is available in several programming languages \(or is in the process of being adapted for them\):
 
 * [Programming Basics with C\# \(Bulgarian\)](https://csharp-book.softuni.bg)
-* [Programming Basics with C\# \(English\)](https://csharp-book.softuni.bg)
+* [Programming Basics with C\# \(English\)](https://csharp-book.softuni.org)
 * [Programming Basics with Java \(Bulgarian\)](https://java-book.softuni.bg)
+* [Programming Basics with Java \(English\)](https://java-book.softuni.org)
 * [Programming Basics with JavaScript \(Bulgarian\)](https://js-book.softuni.bg)
+* [Programming Basics with JavaScript \(English\)](https://js-book.softuni.org)
 * [Programming Basics with Python \(Bulgarian\)](https://python-book.softuni.bg)
+* [Programming Basics with Python \(English\)](https://python-book.softuni.org)
 * [Programming Basics with C++ \(Bulgarian\)](https://cpp-book.softuni.bg)
 
 If you prefer a different language, select it from the list above.
 
 ## Video Course "Comprehensive Introduction to Programming with C#" in Udemy
 
-To reach more readers, the book authors recorded a 22-hours **free video course in Udemy**, which achieved thousands of enrollments from 100+ countries:
+To reach more readers, the book authors recorded a 22-hours **free video course in Udemy**, which achieved tens of thousands of enrollments from 100+ countries:
 
 <p align="center"><strong><a href="https://www.udemy.com/comprehensive-introduction-to-programming-with-csharp/">Udemy: Comprehensive Introduction to Programming with C#</a></strong></p>
 
