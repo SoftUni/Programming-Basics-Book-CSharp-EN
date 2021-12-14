@@ -33,7 +33,7 @@ Book cover design: Marina Shideroff.
  * English translation lead and editor: Nelly Karaivanova.
  * Translators: Bilyana Borislavova, Kalina Milanova, Karina Cholakova, Marieta Petrova, Mirela Damyanova, Petko Dyankov.
 
-## Video Lessons Team
+### Video Lessons Team
 
 The video lessons for this book were recorded by:
 
