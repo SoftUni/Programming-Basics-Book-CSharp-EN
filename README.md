@@ -48,11 +48,12 @@ Watch the promo video about this book + video course: https://youtu.be/_F606F3Og
 Brief information about this edition:
  * Title: **Programming Basics with C#**
  * Authors: **Svetlin Nakov & Team**
+   * Main authors: Aleksander Krastev, Aleksander Lazarov, Angel Dimitriev, Vasko Viktorov, Ventsislav Petrov, Daniel Tsvetkov, Dimitar Tatarski, Dimo Dimov, Diyan Tonchev, Elena Rogleva, Zhivko Nedyalkov, Julieta Atanasova, Zahariya Pehlivanova, Ivelin Kirilov, Iskra Nikolova, Kalin Primov, Kristiyan Pamidov, Luboslav Lubenov, Nikolay Bankin, Nikolay Dimov, Pavlin Petkov, Petar Ivanov, Rositsa Nenova, Ruslan Filipov, Svetlin Nakov, Stefka Vasileva, Teodor Kurtev, Tonyo Zhelev, Hristiyan Hristov, Hristo Hristov, Tsvetan Iliev, Yulian Linev, Yanitsa Vuleva
+   * Other contributors: Bilyana Borislavova, Kalina Milanova, Karina Cholakova, Marieta Petrova, Marina Shideroff, Mirela Damyanova, Nelly Karaivanova, Petko Dyankov, Preslav Mihaylov
  * ISBN: **978-619-00-0902-3** (9786190009023)
  * Edition: **Faber Publishing, Sofia, 2019**
  * License: **CC-BY-SA**
  * Source code: https://github.com/SoftUni/Programming-Basics-Book-CSharp-EN
- * All authors, editors, translators and **contributors**: Aleksander Krastev, Aleksander Lazarov, Angel Dimitriev, Vasko Viktorov, Ventsislav Petrov, Daniel Tsvetkov, Dimitar Tatarski, Dimo Dimov, Diyan Tonchev, Elena Rogleva, Zhivko Nedyalkov, Julieta Atanasova, Zahariya Pehlivanova, Ivelin Kirilov, Iskra Nikolova, Kalin Primov, Kristiyan Pamidov, Luboslav Lubenov, Nikolay Bankin, Nikolay Dimov, Pavlin Petkov, Petar Ivanov, Preslav Mihaylov, Rositsa Nenova, Ruslan Filipov, Svetlin Nakov, Stefka Vasileva, Teodor Kurtev, Tonyo Zhelev, Hristiyan Hristov, Hristo Hristov, Tsvetan Iliev, Yulian Linev, Yanitsa Vuleva, Marina Shideroff, Nelly Karaivanova, Bilyana Borislavova, Kalina Milanova, Karina Cholakova, Marieta Petrova, Mirela Damyanova, Petko Dyankov.
 
 ## Book Editions
 
@@ -60,6 +61,7 @@ This book is available in several versions in different programming languages:
  * [Programming Basics with C# (English)](https://csharp-book.softuni.org)
  * [Programming Basics with Java (English)](https://java-book.softuni.org)
  * [Programming Basics with JavaScript (English)](https://js-book.softuni.org)
+ * [Programming Basics with Python (English)](https://python-book.softuni.org)
  * [Programming Basics with C# (Bulgarian)](https://csharp-book.softuni.bg)
  * [Programming Basics with Java (Bulgarian)](https://java-book.softuni.bg)
  * [Programming Basics with JavaScript (Bulgarian)](https://js-book.softuni.bg)
