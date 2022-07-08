@@ -251,3 +251,10 @@
   * [Study Software Engineering in SoftUni](Content/Conclusion/study-software-engineering-in-softuni.md)
   * [Study Software Engineering in Your Own Way](Content/Conclusion/study-software-engineering-alone.md)
   * [Recommended Resources for Developers](Content/Conclusion/recommended-resources.md)
+
+<hr />
+
+* [🎓 SoftUni Global](https://softuni.org)
+* [👨🏼‍💻 Learn Programming @ SoftUni Global](https://softuni.org/learn)
+* [▶️ SoftUni Global @ YouTube](https://www.youtube.com/c/CodeWithNakov)
+* [📚 Nakov's Books](https://introprogramming.info)
