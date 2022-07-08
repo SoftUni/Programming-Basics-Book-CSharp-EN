@@ -84,3 +84,184 @@ span.run-code-loading {
     width: 100%;
     height: 100%;
 }
+
+/* Navigation Modal */
+
+.logo {
+    padding-top: 0.5em;
+    width: 120px;
+}
+
+.topnav {
+    background-color: #f1f1f1;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+}
+
+.topnav a {
+    text-align: center;
+    display: inline-block;
+    color: #333333;
+    padding-left: 1.5em;
+}
+
+@media screen and (max-width: 1000px) {
+    .topnav {
+        display: grid;
+    }
+    .topnav a {
+        padding-left: 0em;
+        padding-bottom: 0.3em;
+    }
+    .logobox {
+        padding-top: 0.3em;
+    }
+}
+
+@media screen and (max-width: 300px) {
+    .topnav {
+        display: none;
+    }
+}
+
+
+/* Modal Popup */
+
+.modal-background {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    padding-top: 7em;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgb(0, 0, 0);
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+.modal-content {
+    border-radius: 2em;
+    display: block;
+    background-color: #fefefe;
+    margin: auto;
+    position: relative;
+    padding: 1.5em;
+    width: 39em;
+    color: #333333;
+    font-family: "trebuchet ms", helvetica, sans-serif;
+}
+
+.modal-title {
+    font-size: 2.1em;
+    font-weight: bold;
+    text-align: center;
+    display: block;
+}
+
+.button-wrapper {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 0.7em;
+}
+
+.button-wrapper a {
+    border-radius: 2em;
+    text-align: center;
+    display: inline-block;
+    padding: 0.7em 1.4em 0.7em 1.4em;
+    margin: 0.3em;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #333333 !important;
+    text-decoration: none !important;
+    background-color: #44a9f8;
+}
+
+.upper-text {
+    display: block;
+}
+
+.upper-text-link {
+    color: #333333 !important;
+    text-decoration: none !important;
+}
+
+.middle-text {
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    display: block;
+}
+
+.middle-text span {
+    display: block;
+    padding-left: 1.7em;
+}
+
+.middle-text-title {
+    padding-left: 0em !important;
+}
+
+.lower-text {
+    margin-bottom: 2em;
+    padding-bottom: 1em;
+}
+
+.close-wrapper {
+    display: flex;
+    justify-content: right;
+}
+
+.close {
+    position: absolute;
+    bottom: 0;
+    right: 0.5em;
+    color: #aaaaaa;
+    font-size: 3em;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 700px) {
+    .modal-content {
+        width: 18em;
+        padding-left: 1em;
+        padding-right: 1em;
+        padding-bottom: 0em;
+    }
+    .button-wrapper a {
+        padding: 0.3em 0.7em 0.3em 0.7em;
+        border-radius: 1em;
+    }
+    .upper-text {
+        display: none;
+    }
+    .middle-text {
+        display: none;
+    }
+    .lower-text {
+        display: none;
+    }
+    .close {
+        position: absolute;
+        top: 0;
+        right: 0.3em;
+        color: #aaaaaa;
+        font-size: 3em;
+        font-weight: bold;
+    }
+}
+
+@media screen and (max-width: 300px) {
+    .modal-content {
+        display: none;
+    }
+}
