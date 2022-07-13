@@ -107,7 +107,7 @@ Ask your **questions about basic programming book** at the **SoftUni's Facebook 
 
 <p align="center"><strong><a href="https://www.facebook.com/softuni.org">https://fb.com/softuni.org</a></strong></p>
 
-<p align="center"><strong><a href="http://forum.softuni.org">http://forum.softuni.org</a></strong></p>
+<p align="center"><strong><a href="https://forum.softuni.org">https://forum.softuni.org</a></strong></p>
 
 In these discussion channels you will get **proper response to any question associated with the content of this book** also any other questions about programming. The SoftUni community is so big that you will get a response **within a few minutes**. The trainers, assistants and mentors at SoftUni also responds on your questions. Note that the forum can hold questions in different languages (English, Bulgarian and others), but if you ask in English, you will get an answer in English.
 
