@@ -9,3 +9,5 @@ Add a [**Hexagon**] button that draws a regular hexagon:
 Repeat 6 times the following in a loop:
 * 60 degrees rotation.
 * Forward step of 100.
+
+If you have a problem with the above exercises, ask for help in the SoftUni official **discussion forum** (https://forum.softuni.org) or in the SoftUni official **Facebook page** (https://fb.com/softuni.org).
