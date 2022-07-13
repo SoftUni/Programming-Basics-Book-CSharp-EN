@@ -70,7 +70,7 @@ As you can guess **the programming language doesn't matter** for the development
 
 We need to clarify once again that **the programming language does not matter** for the assimilation of all these skills. They accumulate slowly, over many years of practice in the profession. Some knowledge is fundamental and can be learned theoretically, but for their full understanding and in-depth awareness, you need years of practice.
 
-Fundamental knowledge and skills for programming, software development, software engineering, and computer science are taught during the [**Software Engineering Program**](https://softuni.org/curriculum), as well as a number of [elective courses](https://softuni.org/trainings/opencourses). Working with a variety of software libraries, APIs, frameworks and software technologies and their interaction gradually builds this knowledge and skills, so do not expect that you will understand them from a single course, book or project.
+Fundamental knowledge and skills for programming, software development, software engineering, and computer science are taught during the [**Software Engineering Program**](https://softuni.org/learn), as well as a number of [elective courses](https://softuni.bg/trainings/opencourses). Working with a variety of software libraries, APIs, frameworks and software technologies and their interaction gradually builds this knowledge and skills, so do not expect that you will understand them from a single course, book or project.
 
 To start working as a programmer, only **basic knowledge in the areas listed above** is enough and the improvement happens at the workplace according to the technology and development tools used in the company and the team.
 
