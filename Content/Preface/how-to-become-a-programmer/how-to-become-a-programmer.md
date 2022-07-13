@@ -29,7 +29,7 @@ The skill of coding **can be acquired in a few months** of hard learning and sol
 
 The book \(and the courses based on it\) gives only the beginning of one long and serious training on the way to professional programming. If you don't learn perfectly the material from this book, you can't become a programmer. You are going to miss fundamentals and it will be harder in the future. For this reason, **give enough time to programming basics**: solve many problems and write code every day for months until you learn to **solve every problem from the book very easily**. Then go ahead.
 
-We specifically note that **the programming language does not matter** for the ability to code. You can code or not. If you can code with C\#, you will easily learn to code with Java, C++ or other languages. That's why **the coding skills** are being studied quite seriously at the beginners courses in SoftUni \([curriculum](https://softuni.org/curriculum)\), and each programming book for beginners starts with them, including this one.
+We specifically note that **the programming language does not matter** for the ability to code. You can code or not. If you can code with C\#, you will easily learn to code with Java, C++ or other languages. That's why **the coding skills** are being studied quite seriously at the beginners courses in SoftUni \([curriculum]([https://softuni.org/curriculum](https://learn.softuni.org/catalog))\), and each programming book for beginners starts with them, including this one.
 
 ## Skill \#2 – Algorithmic Thinking \(30%\)
 
@@ -43,7 +43,7 @@ How to **build algorithmic thinking**?
 
 The current book develops the **beginner level of algorithmic thinking**, but it's not enough to make you a good programmer. To become good at this profession you must add **logical thinking and problem solving skills**, beyond the range of this book. For example, working with **data structures** \(arrays, lists, matrices, hash-tables, binary trees\) and basic **algorithms** \(searching, sorting, searching in tree structures, recursion, etc.\).
 
-**Algorithmic thinking skill** can be seriously developed at the beginner courses for software engineers in SoftUni \(see [curriculum](https://softuni.bg/curriculum)\) as well as in specialized algorithmic courses [data structures](https://softuni.bg/opencourses/data-structures) and [algorithms](https://softuni.bg/opencourses/algorithms).
+**Algorithmic thinking skill** can be seriously developed at the beginner courses for software engineers in SoftUni \(see [curriculum]([https://softuni.bg/curriculum)](https://learn.softuni.org/catalog)\) as well as in specialized algorithmic courses [data structures](https://softuni.bg/opencourses/data-structures) and [algorithms](https://softuni.bg/opencourses/algorithms).
 
 As you can guess **the programming language doesn't matter** for the development of algorithmic thinking. To think logically is a universal skill, and it's not related only to programming. Because of the well-developed logical thinking it's believed that programmers are smart people, and that a stupid person can't become a programmer.
 
