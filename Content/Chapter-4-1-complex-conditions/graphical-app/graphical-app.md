@@ -239,4 +239,4 @@ In the end we **compile the code**. If there are errors, we eliminate them. The 
 
 **We start the application** and **test** it. We enter different data to see whether it behaves correctly.
 
-If you have problems with the sample project above, feel free to ask in the SoftUni official **discussion forum** (http://forum.softuni.org) or in the SoftUni official **Facebook page** (https://fb.com/softuni.org).
+If you have problems with the sample project above, feel free to ask in the SoftUni official **discussion forum** (https://forum.softuni.org) or in the SoftUni official **Facebook page** (https://fb.com/softuni.org).
