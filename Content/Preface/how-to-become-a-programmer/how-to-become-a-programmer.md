@@ -43,7 +43,7 @@ How to **build algorithmic thinking**?
 
 The current book develops the **beginner level of algorithmic thinking**, but it's not enough to make you a good programmer. To become good at this profession you must add **logical thinking and problem solving skills**, beyond the range of this book. For example, working with **data structures** \(arrays, lists, matrices, hash-tables, binary trees\) and basic **algorithms** \(searching, sorting, searching in tree structures, recursion, etc.\).
 
-**Algorithmic thinking skill** can be seriously developed at the beginner courses for software engineers in SoftUni \(see [curriculum]([https://softuni.bg/curriculum)](https://learn.softuni.org/catalog)\) as well as in specialized algorithmic courses [data structures](https://softuni.bg/opencourses/data-structures) and [algorithms](https://softuni.bg/opencourses/algorithms).
+**Algorithmic thinking skill** can be seriously developed at the beginner courses for software engineers in SoftUni \(see [curriculum](https://learn.softuni.org/catalog)\) as well as in specialized algorithmic courses [data structures](https://softuni.bg/opencourses/data-structures) and [algorithms](https://softuni.bg/opencourses/algorithms).
 
 As you can guess **the programming language doesn't matter** for the development of algorithmic thinking. To think logically is a universal skill, and it's not related only to programming. Because of the well-developed logical thinking it's believed that programmers are smart people, and that a stupid person can't become a programmer.
 
