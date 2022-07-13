@@ -16,7 +16,7 @@ Remember the **[four main groups of skills](https://csharp-book.softuni.org/Cont
 
 If you were **not able** to solve all problems or a large part of them, go back and solve them! Remember that **becoming a programmer** requires **a lot of work and efforts**. This profession is not for lazy people. There is no way to learn it, unless **you seriously practice** programming for years!
 
-As we already explained, the first and basic skill of a programmer is **to learn to write code** with ease and pleasure. This is namely the mission of this book: to teach you how to code. We recommend you, besides reading the book, to enroll in the **[practical course "Programming Basics" at SoftUni](https://softuni.bg/courses/programming-basics)**, which is offered for free, in on-site or online format of training.
+As we already explained, the first and basic skill of a programmer is **to learn to write code** with ease and pleasure. This is namely the mission of this book: to teach you how to code. We recommend you, besides reading the book, to enroll in the **[practical course "Programming Basics" at SoftUni](https://softuni.org/learn/)**, which is offered for free, in on-site or online format of training.
 
 ## How to Proceed After This Book?
 
