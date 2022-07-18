@@ -106,22 +106,29 @@ span.run-code-loading {
     padding-left: 1.5em;
 }
 
-@media screen and (max-width: 1000px) {
-    .topnav {
-        display: grid;
-    }
-    .topnav a {
-        padding-left: 0em;
-        padding-bottom: 0.3em;
-    }
-    .logobox {
-        padding-top: 0.3em;
-    }
-}
-
 @media screen and (max-width: 300px) {
     .topnav {
         display: none;
+    }
+}
+
+@media screen and (max-width: 750px) {
+    .logo {
+        content: url("/assets/softuni-global-vertical-logo.svg");
+        padding-top: 0.5em;
+        padding-left: 1.5em;
+        width: 80px;
+    }
+    .topnav {
+        white-space: normal;
+        display: flex;
+        flex-direction: row;
+    }
+     .topnav a {
+        padding-left: 0em;
+        padding-right: 1.5em;
+        padding-bottom: 0.3em;
+        font-size: 75%
     }
 }
 
