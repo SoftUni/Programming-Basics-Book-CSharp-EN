@@ -133,13 +133,62 @@ span.run-code-loading {
 }
 
 
-/* Modal Popup */
+/* Top navigation menu */
+
+.topnav {
+    padding: 10px 5px 5px 15px;
+    border-radius: 3px;
+    background-color: #f1f1f1;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+}
+
+.topnav a {
+    text-align: center;
+    display: inline-block;
+    color: #333333;
+    padding-right: 2.5em;
+}
+
+.topnav .logo {
+    padding-top: 0.4em;
+    width: 120px;
+    min-width: 90px;
+}
+
+@media screen and (max-width: 800px) {
+    .topnav .logo {
+        content: url("/assets/softuni-global-vertical-logo.svg");
+        padding: 5px 0;
+        width: 50px;
+        min-width: 40px;
+    }
+    .topnav {
+        white-space: normal;
+        flex-direction: row;
+    }
+    .topnav a {
+        font-size: 90%;
+        padding-right: 7%;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .topnav a {
+        padding-right: 1.2em;
+        font-size: 80%;
+    }
+}
+
+
+/* Modal popup */
 
 .modal-background {
     display: none;
     position: fixed;
-    z-index: 1;
-    padding-top: 7em;
+    z-index: 999;
+    padding-top: 6em;
     left: 0;
     top: 0;
     width: 100%;
@@ -164,7 +213,9 @@ span.run-code-loading {
 .modal-title {
     font-size: 2.1em;
     font-weight: bold;
+    line-height: 1.3em;
     text-align: center;
+    padding-bottom: 10px;
     display: block;
 }
 
@@ -223,7 +274,7 @@ span.run-code-loading {
 
 .close {
     position: absolute;
-    bottom: 0;
+    top: 0;
     right: 0.5em;
     color: #aaaaaa;
     font-size: 3em;
@@ -245,7 +296,7 @@ span.run-code-loading {
         padding-bottom: 0em;
     }
     .button-wrapper a {
-        padding: 0.3em 0.7em 0.3em 0.7em;
+        padding: 0.3em 1.0em 0.3em 1.0em;
         border-radius: 1em;
     }
     .upper-text {
@@ -270,5 +321,8 @@ span.run-code-loading {
 @media screen and (max-width: 300px) {
     .modal-content {
         display: none;
+    }
+    .modal-background {
+        padding-top: 4em;
     }
 }
