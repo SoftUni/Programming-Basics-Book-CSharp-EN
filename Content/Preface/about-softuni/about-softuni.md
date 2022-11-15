@@ -10,8 +10,6 @@ Watch a video lesson about SoftUni and SoftUni Judge here: [https://youtu.be/TDl
 
 The Software University provides **quality education**, **profession**, **job** and **diploma** for programmers, software engineers and IT professionals. SoftUni builds an extremely successful and strong **connection between education and industry** by collaboration with hundreds of software companies, provides job and internship of its students, creates quality professionals for the software industry and directly responds to the needs of employers via the training process.
 
-[![](/assets/chapter-0-images/SoftUni-logo-small.png)](https://softuni.org)
-
 ## Free Programming Courses at SoftUni
 
 SoftUni organizes **free programming lessons for beginners**: online and physically in few locations. The purpose is to give a chance to **everyone who is interested** in programming and technologies to **try programming** and check if they are interested and if they would get seriously involved in software development. You can sign up for the free course in **programming basics** using the SoftUni application page: [https://softuni.org](https://softuni.org).
