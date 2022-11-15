@@ -26,7 +26,7 @@ SoftUni’s self-paced programs teach software developers worldwide in the innov
 
 Using the **SoftUni Interactive Platform**, you **write, execute and test code directly into the browser** and your exercise solutions are automatically evaluated by the integrated **Judge system**. If you have difficulties with an assignment, you can **get assistance** in multiple ways: with automated hints and guidelines or through SoftUni’s **help center**. Try it now with a [**7-day free trial**](https://learn.softuni.org/catalog?utm_source=FreeProgrammingBooks&utm_medium=text&utm_campaign=PythonBook).
 
-This is how the **SoftUni Interactive Learning Platform (Interactive Classroom)** looks like:
+This is how the **SoftUni Interactive Classroom** looks like:
  
 ![](/assets/chapter-0-images/SoftUni-Interactive-Classroom-Video.png)
 
