@@ -1,6 +1,6 @@
 # Chapter 8.1. Practical Exam Preparation – Part I
 
-In **the present chapter** we will examine a few **problems** with a level of **difficulty** that can be expected in **the problems** of the practical **exam** in "Programming Basics". We will **review** and **practice** all the knowledge that was gained from this book and through the "Programming Basics" course.
+In **the present chapter** we will examine a few **problems** to **review** and **practice** all the knowledge that was gained from this book.
 
 ## Video: Chapter Overview
 
