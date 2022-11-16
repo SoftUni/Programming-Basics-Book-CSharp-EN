@@ -81,7 +81,7 @@ Having **basic knowledge in the areas listed above** is enough to start a job as
 For those clearly technological skills **the programming language does matter**.
 
 * **Note**: only for these 25% of the profession the programming language does matter!
-* **For the rest 75% of the skills the programming language doesn't matter**, and these skills are resistant in time and transportable between different languages and technologies.
+* **For the rest 75% of the skills the programming language doesn't matter**, and these skills are resistant in time and transferable between different languages and technologies.
 
 Here are some commonly used software development stacks which software companies are looking for \(as of Jan 2019\):
   -	**C#** + OOP + FP + classes from .NET + SQL Server databases + Entity Framework (EF) + ASP.NET MVC + HTTP + HTML + CSS + JS + DOM + jQuery + cloud + containers
