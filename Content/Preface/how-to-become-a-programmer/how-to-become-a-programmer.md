@@ -29,7 +29,7 @@ The skill of coding **can be acquired in a few months** of hard learning and sol
 
 The book \(and the courses based on it\) gives only the beginning of one long and serious training on the way to professional programming. If you don't learn perfectly the material from this book, you can't become a programmer. You are going to miss fundamentals and it will be harder in the future. For this reason, **give enough time to programming basics**: solve many problems and write code every day for months until you learn to **solve every problem from the book very easily**. Then go ahead.
 
-We specifically note that **the programming language does not matter** for the ability to code. You can code or not. If you can code with C\#, you will easily learn to code with Java, C++ or other languages. That's why **the coding skills** are being studied quite seriously at the in all [SoftUni programs](https://learn.softuni.org/catalog?utm_source=FreeProgrammingBooks&utm_medium=text&utm_campaign=C%23Book), and each programming book for beginners starts with them, including this one.
+We specifically note that **the programming language does not matter** for the ability to code. You can code or not. If you can code with C\#, you will easily learn to code with Java, C++ or other languages. That's why **the coding skills** are being studied quite seriously at the in all [SoftUni programs](https://learn.softuni.org/catalog?utm_source=C+sharp&utm_medium=text&utm_campaign=free+programming+books), and each programming book for beginners starts with them, including this one.
 
 ## Skill \#2 – Algorithmic Thinking \(30%\)
 
@@ -43,7 +43,7 @@ How to **build algorithmic thinking**?
 
 The current book develops the **beginner level of algorithmic thinking**, but it's not enough to make you a good programmer. To become good at this profession you must add **logical thinking and problem solving skills**, beyond the range of this book. For example, working with **data structures** \(arrays, lists, matrices, hash-tables, binary trees\) and basic **algorithms** \(searching, sorting, searching in tree structures, recursion, etc.\).
 
-**Algorithmic thinking skill** can be developed while studying in the [Software Developer programs](https://learn.softuni.org/catalog?utm_source=FreeProgrammingBooks&utm_medium=text&utm_campaign=C%23Book) at SoftUni as well as in specialized algorithmic courses data structures and algorithms.
+**Algorithmic thinking skill** can be developed while studying in the [Software Developer programs](https://learn.softuni.org/catalog?utm_source=C+sharp&utm_medium=text&utm_campaign=free+programming+books) at SoftUni as well as in specialized algorithmic courses data structures and algorithms.
 
 As you may have guessed, the choice of **programming language does not matter** for the development of algorithmic thinking. It is a skill unrelated to Programming. Because of their well-developed logical thinking, there is the misconception that all programmers are smart people and having a high IQ is a requirement for entering into the profession.
 
@@ -70,7 +70,7 @@ As you may have guessed, the choice of **programming language does not matter** 
 
 We need to once again mention that **the programming language does not matter** for acquiring all these skills. You will accumulate them slowly, over years. Some fundamental knowledge can be learned theoretically, but to get an in-depth understanding of it you need a lot of practice.
 
-Fundamental knowledge and skills for programming, software development, software engineering, and computer science are taught during the [**Software Developer Program**](https://learn.softuni.org/catalog?utm_source=FreeProgrammingBooks&utm_medium=text&utm_campaign=C%23Book), as well as a number of [**open courses**](https://learn.softuni.org/catalog?utm_source=FreeProgrammingBooks&utm_medium=text&utm_campaign=C%23Book). Working with a variety of software libraries, APIs, frameworks and software technologies and their interaction gradually builds this knowledge and skills, so do not expect that you will understand them from a single course, book or project.
+Fundamental knowledge and skills for programming, software development, software engineering, and computer science are taught during the [**Software Developer Program**](https://learn.softuni.org/catalog?utm_source=C+sharp&utm_medium=text&utm_campaign=free+programming+books), as well as a number of [**open courses**](https://learn.softuni.org/catalog?utm_source=C+sharp&utm_medium=text&utm_campaign=free+programming+books). Working with a variety of software libraries, APIs, frameworks and software technologies and their interaction gradually builds this knowledge and skills, so do not expect that you will understand them from a single course, book or project.
 
 Having **basic knowledge in the areas listed above** is enough to start a job as a programmer. Your further improvement will come as a result of the technology and development tools you will use in your day-to-day work.
 
@@ -102,7 +102,7 @@ As it already became clear, **the difference between programming languages** and
 * All programmers have around **80-90% of the same skills** that do not depend on the programming language! These are the skills to program and to design and develop software, that are very similar in different programming languages and development technologies.
 * The more languages and technologies you know, the faster you will learn new ones, and the less you will feel the difference between them.
 
-Let us state once again that the **choice of programming language (mostly) does not matter** - you just need to learn to program. This process starts with **coding** (by reading this book or enrolling in a [**Software Developer program**](https://learn.softuni.org/catalog?utm_source=FreeProgrammingBooks&utm_medium=text&utm_campaign=C%23Book)), continues with mastering more complex **programming concepts** (like data structures, algorithms, OOP, and FP), and includes using **fundamental knowledge and skills for software development, software engineering, and computer science**.
+Let us state once again that the **choice of programming language (mostly) does not matter** - you just need to learn to program. This process starts with **coding** (by reading this book or enrolling in a [**Software Developer program**](https://learn.softuni.org/catalog?utm_source=C+sharp&utm_medium=text&utm_campaign=free+programming+books)), continues with mastering more complex **programming concepts** (like data structures, algorithms, OOP, and FP), and includes using **fundamental knowledge and skills for software development, software engineering, and computer science**.
 
 Only when you start working with a specific technology into a software project you will need **a specific programming language**, knowledge about specific programming libraries \(APIs\), frameworks and software technologies \(front-end UI technologies, back-end technologies, ORM technologies, etc.\). Keep calm, you will learn them, all programmers are learning them, but first you need to learn the foundation: **to program and do it well**.
 
