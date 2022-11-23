@@ -1,6 +1,6 @@
 # Study Software Engineering at SoftUni
 
-The first option, which we recommend, is to enroll in a **[Software Developer program](https://learn.softuni.org/catalog?utm_source=FreeProgrammingBooks&utm_medium=text&utm_campaign=C%23Book)** to master programming on a professional level. The SoftUni curriculum is carefully developed by **Dr. Svetlin Nakov and his team**, in order to provide you consequently and with gradually increasing complexity all the skills that a software engineer must have, in order **to start a career as a software developer** in an IT company.
+The first option, which we recommend, is to enroll in a **[Software Developer program](https://learn.softuni.org/catalog?utm_source=C+sharp&utm_medium=text&utm_campaign=free+programming+books)** to master programming on a professional level. The SoftUni curriculum is carefully developed by **Dr. Svetlin Nakov and his team**, in order to provide you consequently and with gradually increasing complexity all the skills that a software engineer must have, in order **to start a career as a software developer** in an IT company.
 
 ![](/assets/chapter-0-images/SoftUni-Interactive-Classroom-Video.png)
 
@@ -20,7 +20,7 @@ If the tasks from the book and the preparation examples are hard for you, then y
 
 ## The SoftUni Curriculum for Software Developers
 
-**[SoftUni’s self-paced programs](https://learn.softuni.org/catalog?utm_source=FreeProgrammingBooks&utm_medium=text&utm_campaign=C%23Book)** are designed as a sequence of modules giving you fundamental knowledge in software development and practical skills to prepare you to work as a programmer with the latest software technologies. The classes are divided into learning theory (30%) and doing exercises and projects (70%).
+**[SoftUni’s self-paced programs](https://learn.softuni.org/catalog?utm_source=C+sharp&utm_medium=text&utm_campaign=free+programming+books)** are designed as a sequence of modules giving you fundamental knowledge in software development and practical skills to prepare you to work as a programmer with the latest software technologies. The classes are divided into learning theory (30%) and doing exercises and projects (70%).
 
 ## How Many Hours per Day Does the Training Take?
 
