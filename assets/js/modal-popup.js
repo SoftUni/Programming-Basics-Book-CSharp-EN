@@ -6,7 +6,7 @@ gitbook.events.bind("page.change", function() {
                 <span id="close-btn" class="close">&times;</span>
                 <span class="modal-title">Learn Programming<br> and Start a Tech Job!</span>
                 <span class="button-wrapper">
-                    <a target="_blank" href="https://learn.softuni.org/catalog?utm_source=FreeProgrammingBooks&utm_medium=pop-up&utm_campaign=C%23Book">Enroll Now</a>
+                    <a target="_blank" href="https://learn.softuni.org/catalog?utm_source=C+sharp&utm_medium=pop+up&utm_campaign=free+programming+books">Enroll Now</a>
                 </span>
                 <span class="upper-text">
                     <span><b>Begin</b> your <b>IT career</b> with a <b>our online training programs</b> for <b>Java</b> and <b>JavaScript</b>.
