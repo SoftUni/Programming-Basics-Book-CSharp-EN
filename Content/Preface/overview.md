@@ -23,12 +23,6 @@ The book is also used as unofficial **textbook for school-level programming cour
 
 That book is suitable for **absolute beginners in programming** who want to try what programming is and learn the main constructions for writing programming code that are used in software development, regardless of the programming language and the technologies used. The book gives a **solid basis** of practical skills that you can use in any future training in programming and software development.
 
-For anyone who hadn't passed [**the free course on Programming Basics in SoftUni**](https://softuni.org), we specifically recommend to sign up for it **completely free**, because one learns programming by doing it, not by reading it! During the course you will get free access to lessons, explanations and demonstrations on site or online \(such as video tutorials\), **a lot of practice and code writing**, help with the task solutions after each topic, access to trainers, assistants and mentors, as well as forums and discussion groups for any questions, access to a community of thousands of people who are new in programming, and any other help that a beginner might need.
-
-The free course for beginners in SoftUni is suitable for **school students** (of age 10+), **university students** and **workers** having any other professions, who want to gain technical knowledge and check if programming is what they like to do and understand if they would like to develop in the software development field.
-
-**A new group starts each month.** The "Programming Basics" course at SoftUni is organized regularly using a few different programming languages as basis. So, just check it out! The course is **free**, and you can quit any time you like. **Signing up** for free on-site or online training is available via the **SoftUni application form**: [https://softuni.org](https://softuni.org).
-
 ## Why Did We Choose C\#?
 
 For this book, we choose the **C\# language** because it is a **modern programming language** for high-level programming, open source, easy to learn and **suitable for beginners**. Using C\# is **widespread**, with a well-developed ecosystem, numerous libraries and technology frameworks, and accordingly, it gives many **perspectives** for development. C\# combines paradigms of procedural, object-oriented and functional programming in a modern way with easy syntax. In this book, we will use **C\#** language and **Visual Studio** development environment, which are available for free from Microsoft.
