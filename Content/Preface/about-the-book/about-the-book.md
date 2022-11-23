@@ -8,7 +8,7 @@ Watch a video lesson about the trainers and contributors who developed this book
 
 ## The History Behind This Book
 
-The head of the project for the free programming books for beginners with open-source code is **[Dr. Svetlin Nakov](https://nakov.com)**. He is the main author and also the ideologist of the [**Software Developer programs’**](https://learn.softuni.org/catalog?utm_source=FreeProgrammingBooks&utm_medium=text&utm_campaign=C%23Book) learning content.
+The head of the project for the free programming books for beginners with open-source code is **[Dr. Svetlin Nakov](https://nakov.com)**. He is the main author and also the ideologist of the [**Software Developer programs’**](https://learn.softuni.org/catalog?utm_source=C+sharp&utm_medium=text&utm_campaign=free+programming+books) learning content.
 
 Everything started with the mass **free basic programming courses** that have been conducted in Bulgaria since 2014, when the "SoftUni" initiative was launched. At the beginning these courses had larger range and covered more theory, but in 2016 Dr. Svetlin Nakov completely revised, updated and simplified the whole method of teaching, strongly emphasizing on practice. This is how the core of the **learning content of this book was created**. It was completely natural to write a **book** for the tens of thousands of participants at the SoftUni basic programming course.
 
@@ -41,7 +41,7 @@ The video lessons for this book were recorded by:
 
 The entire project for creating this book, videos and teaching curriculum for beginners in programming is driven by **Svetlin Nakov** who inspired the other contributors to join this project and share their knowledge and skills.
 
-Dr. **Svetlin Nakov** \([https://nakov.com](https://nakov.com)\) is a passionate **software engineer**, inspirational **technical trainer** and tech **entrepreneur** from Bulgaria, experienced in broad range of languages, software technologies and platforms. He is co-founder of several highly successful **tech startups** and non-profit organizations. Svetlin is training, innovation and inspiration leader at [**SoftUni**](https://softuni.org?utm_source=FreeProgrammingBooks&utm_medium=text&utm_campaign=C%23Book) – the largest tech education provider in South-Eastern Europe.
+Dr. **Svetlin Nakov** \([https://nakov.com](https://nakov.com)\) is a passionate **software engineer**, inspirational **technical trainer** and tech **entrepreneur** from Bulgaria, experienced in broad range of languages, software technologies and platforms. He is co-founder of several highly successful **tech startups** and non-profit organizations. Svetlin is training, innovation and inspiration leader at [**SoftUni**](https://softuni.org/learn/?utm_source=C+sharp&utm_medium=text&utm_campaign=free+programming+books) – the largest tech education provider in South-Eastern Europe.
 
 ![](/assets/chapter-0-images/Svetlin-Nakov-photo-face.jpg)
 
@@ -49,7 +49,7 @@ Svetlin Nakov has 20+ years of technical background as software engineer, softwa
 
 Svetlin has been a **speaker** at hundreds of conferences, seminars, meetups, courses and other trainings in the United States, Singapore, Germany, Egypt, Bulgaria and other locations. He holds a **PhD **degree in computer science \(for his research on computational linguistics and machine learning\), several **medals** from the **International Informatics Olympiads** \(IOI\) and the Bulgarian **President’s award “John Atanasoff”**. He has been a part-time lecturer / trainer in Sofia University (Bulgaria), New Bulgarian University (Bulgaria), the Technical University of Sofia (Bulgaria), Ngee Ann Polytechnic (Singapore), Kingsland University (USA) and few others.
 
-Currently **Svetlin Nakov** together with his partners drive the global expansion of the largest training center for software engineers in the South-Eastern Europe and the region – the [**Software University**](https://softuni.org?utm_source=FreeProgrammingBooks&utm_medium=text&utm_campaign=C%23Book), where he inspires and **teaches hundreds of thousands of young people** in computer science, software development, information technologies and digital skills, and gives them a profession and a job.
+Currently **Svetlin Nakov** together with his partners drive the global expansion of the largest training center for software engineers in the South-Eastern Europe and the region – the [**Software University**](https://softuni.org/learn/?utm_source=C+sharp&utm_medium=text&utm_campaign=free+programming+books), where he inspires and **teaches hundreds of thousands of young people** in computer science, software development, information technologies and digital skills, and gives them a profession and a job.
 
 ## Official Book Web Site
 
