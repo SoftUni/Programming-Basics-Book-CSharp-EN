@@ -1,6 +1,6 @@
 # Study Software Engineering at SoftUni
 
-The first option, which we recommend, is to enroll in a [**Software Developer program**](https://learn.softuni.org/catalog?utm_source=FreeProgrammingBooks&utm_medium=text&utm_campaign=C%23Book)** to master programming on a professional level. The SoftUni curriculum is carefully developed by **Dr. Svetlin Nakov and his team**, in order to provide you consequently and with gradually increasing complexity all the skills that a software engineer must have, in order **to start a career as a software developer** in an IT company.
+The first option, which we recommend, is to enroll in a **[Software Developer program](https://learn.softuni.org/catalog?utm_source=FreeProgrammingBooks&utm_medium=text&utm_campaign=C%23Book)** to master programming on a professional level. The SoftUni curriculum is carefully developed by **Dr. Svetlin Nakov and his team**, in order to provide you consequently and with gradually increasing complexity all the skills that a software engineer must have, in order **to start a career as a software developer** in an IT company.
 
 ![](/assets/chapter-0-images/SoftUni-Interactive-Classroom-Video.png)
 
