@@ -13,12 +13,6 @@ This book and video lessons coming with it, teach **basic coding skills**, using
 <table><tr><td><img src="/assets/alert-icon.png" style="max-width:50px" /></td>
 <td>This book only gives you <b>the first steps to programming</b>. It covers very basic skills that you must develop for years, in order to reach a high enough level and start working as a programmer.</td></tr></table>
 
-# Official Textbook at SoftUni
-
-This book is the official textbook for the free **Programming Basics** course for absolute beginners at the [**Software University (SoftUni)**](https://softuni.org). The curriculum provides basic training for a deeper study of programming and prepares readers for the **entrance exam** in SoftUni.
-
-The book is also used as unofficial **textbook for school-level programming courses** in the high schools, studying professions like "**Programmer**", "**Application Programmer**" and "**System Programmer**", as well as an additional teaching tool in the initial programming courses at the **secondary schools, mathematical and professional high schools**.
-
 ## Who Is This Book Intended For?
 
 That book is suitable for **absolute beginners in programming** who want to try what programming is and learn the main constructions for writing programming code that are used in software development, regardless of the programming language and the technologies used. The book gives a **solid basis** of practical skills that you can use in any future training in programming and software development.
@@ -31,7 +25,7 @@ As we will explain later, **the programming language that we start with, does no
 
 ## Learning Resources: Code + Videos + Exercises + Judge
 
-This free coding book combines **video lessons**, text and **code examples** with explanations, practical **coding exercises** with hints and guidelines, **[presentation slides](https://github.com/SoftUni/Programming-Basics-Resources/tree/master/Presentation-Slides-CSharp-EN)** and an automated **[judge system](https://judge.softuni.org)** for checking your solutions.
+This free coding book combines **video lessons**, text and **code examples** with explanations, practical **coding exercises** with hints and guidelines, **[presentation slides](https://github.com/SoftUni/Programming-Basics-Resources/tree/master/Presentation-Slides-CSharp-EN)** and the automated **[Judge system](https://judge.softuni.org)** for checking your solutions.
 
 It is **more than a book** or tutorial. It is a carefully designed tool for learning programming by **a lot of practical coding**, suitable for beginners with no experience.
 
