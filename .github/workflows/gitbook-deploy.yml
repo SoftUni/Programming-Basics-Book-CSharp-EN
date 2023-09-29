@@ -2,6 +2,9 @@ name: Gitbook Build & Deploy to gh-pages
 
 on: [workflow_dispatch]
 
+permissions:
+  contents: write
+
 jobs:
   build-and-publish:
     name: Build and Deploy Gitbook
