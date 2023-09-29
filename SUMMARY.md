@@ -254,7 +254,7 @@
 
 <hr />
 
-* [🎓 SoftUni Global](https://softuni.org)
-* [👨🏼‍💻 Learn Programming @ SoftUni Global](https://softuni.org/learn)
+* [🎓 SoftUni Global](https://softuni.org/learn/?utm_source=C+sharp&utm_medium=left+menu&utm_campaign=free+programming+books)
+* [👨🏼‍💻 Learn Programming @ SoftUni Global](https://learn.softuni.org/catalog?utm_source=C+sharp&utm_medium=left+menu&utm_campaign=free+programming+books)
 * [▶️ SoftUni Global @ YouTube](https://www.youtube.com/c/CodeWithNakov)
 * [📚 Nakov's Books](https://introprogramming.info)

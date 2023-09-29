@@ -12,4 +12,4 @@ Repeat 5 times the following in a loop:
 * Forward step of 200.
 * 144 degrees rotation.
 
-If you have a problem with the above exercises, ask for help in the SoftUni official **discussion forum** (https://forum.softuni.org) or in the SoftUni official **Facebook page** (https://fb.com/softuni.org).
+If you have a problem with the above exercises, ask for help in the SoftUni official **discussion forum** (https://www.reddit.com/r/softuni) or in the SoftUni official **Facebook page** (https://fb.com/softuni.org).

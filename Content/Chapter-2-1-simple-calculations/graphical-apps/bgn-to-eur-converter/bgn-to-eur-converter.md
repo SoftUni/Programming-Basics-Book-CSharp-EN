@@ -91,4 +91,4 @@ private void ConvertCurrency()
 
 Finally, **we start the project** with [**Ctrl+F5**] and test if it works correctly.
 
-If you have any problems with the example above, you can ask for help in the SoftUni official **discussion forum** (https://forum.softuni.org) or in the SoftUni official **Facebook page** (https://fb.com/softuni.org).
+If you have any problems with the example above, you can ask for help in the SoftUni official **discussion forum** (https://www.reddit.com/r/softuni) or in the SoftUni official **Facebook page** (https://fb.com/softuni.org).

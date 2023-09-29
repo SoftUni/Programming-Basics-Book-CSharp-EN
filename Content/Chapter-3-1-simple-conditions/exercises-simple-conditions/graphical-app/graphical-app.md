@@ -129,4 +129,4 @@ private void ConvertCurrency()
 
 The above code takes **the amount** for converting the field `numericUpDownAmount` and **the selected currency** for the result from the field `comboBoxCurrency`. Then with a **conditional statement**, according to the selected currency, the amount is divided by **the exchange rate** (which is fixed in the source code). Finally, a text **message with the result** (rounded to the second digit after the decimal point) is generated and recorded in the green box `labelResult`. Try it!
 
-If you have problems with the example above, ask for help in the SoftUni official **discussion forum** (http://forum.softuni.org) or in the SoftUni official **Facebook page** (https://fb.com/softuni.org).
+If you have problems with the example above, ask for help in the SoftUni official **discussion forum** (https://www.reddit.com/r/softuni) or in the SoftUni official **Facebook page** (https://fb.com/softuni.org).

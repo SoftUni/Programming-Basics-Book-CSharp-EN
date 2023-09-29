@@ -20,7 +20,7 @@ Create a new **console C# program**. To read the number N (2 ≤ N ≤100), use 
 
 Finish the program above, so that it prints a square, made out of stars. It might be necessary to use **`for`** loops. Look for information on the Internet.
 
-**Attention**: this task is harder than the rest and is given now on purpose, and it's marked with a star, in order to provoke you to look for information on the Internet. This is one of the most important skills that you have to develop while you're learning programming: **looking for information on the Internet**. This is what you're going to do every day, if you work as a developer, so don't be scared, try it out. If you have any difficulties, you can also ask for help in the SoftUni official **discussion forum** (https://forum.softuni.org) or in the SoftUni official **Facebook page** (https://fb.com/softuni.org).
+**Attention**: this task is harder than the rest and is given now on purpose, and it's marked with a star, in order to provoke you to look for information on the Internet. This is one of the most important skills that you have to develop while you're learning programming: **looking for information on the Internet**. This is what you're going to do every day, if you work as a developer, so don't be scared, try it out. If you have any difficulties, you can also ask for help in the SoftUni official **discussion forum** (https://www.reddit.com/r/softuni) or in the SoftUni official **Facebook page** (https://fb.com/softuni.org).
 
 ## Testing in the Judge System
 

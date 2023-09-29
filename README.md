@@ -67,7 +67,3 @@ This book is available in several versions in different programming languages:
  * [Programming Basics with JavaScript (Bulgarian)](https://js-book.softuni.bg)
  * [Programming Basics with Python (Bulgarian)](https://python-book.softuni.bg)
  * [Programming Basics with C++ (Bulgarian)](https://cpp-book.softuni.bg)
-
-## Free Practical Programming Course
-
-Enjoy reading and do not forget to **sign up** for the [**Practical Free Course "Programming Basics"**](https://softuni.org) coming together with this book, because **programming is learned by practice**, code writing and solving many, many problems, not just by reading!

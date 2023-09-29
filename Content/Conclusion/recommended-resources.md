@@ -11,12 +11,12 @@ Regardless of the path you have chosen, if you are seriously involved in program
 If you will study programming seriously, **surround yourselves with people who are involved in programming** seriously. Join **communities of software developers**, attend software conferences, go to events for programmers, find friends with whom you can talk about programming and discuss problems and bugs, find environment that can help you. In most large towns there are free events for programmers, a few times a week. In smaller localities you have the Internet and an access to the entire online community.
 
 Here are some recommended **resources** that will be useful for your development as a programmer:
-* https://softuni.org – official **website of SoftUni**. In it you will find free (and not only) courses, seminars, video tutorials and trainings in programming, software technologies and digital competences.
+* [https://learn.softuni.org](https://learn.softuni.org/catalog?utm_source=C+sharp&utm_medium=text&utm_campaign=free+programming+books) – the official page for **SoftUni’s self-paced Software Developer programs** and **open courses**.
 * https://www.facebook.com/softuni.org – official **Facebook page of SoftUni**. By it you will learn regarding new courses, seminars and events related to programming and software development.
-* https://introprogramming.info – official website of the **books "Programming Basics"** with **C#** and **Java** by Dr. Svetlin Nakov and his team. The books examine in-depth programming basics, basic data structures and algorithms, object-oriented programming, and other basic skills, and are an excellent continuation for reading after the current book. However, **besides reading, you need to do intense code writing**, do not forget that!
+* https://introprogramming.info – official website of the **books "Programming Basics"** with **C#**, **Java**, **JavaScript**, and **Python** by Dr. Svetlin Nakov and his team. The books examine in-depth programming basics, basic data structures and algorithms, object-oriented programming, and other basic skills, and are an excellent recommendation for reading after the current book. However, **besides reading, you need to do intense code writing**, do not forget that!
 * https://stackoverflow.com – **Stack Overflow** is one of the **widest** discussion forums for programmers worldwide, where you will find assistance for any possible question in the world of programming. If you are fluent in English, look up at StackOverflow and ask your questions there.
 * https://www.udemy.com – **Udemy** is one of the biggest **marketplaces** for technical trainings, offered free or at affordable prices.
-* https://www.meetup.com/find/tech/ – look for **tech meetups** around your city and involve in communities that you like. Most of the tech meetups are free and newbies are welcome.
+* https://www.meetup.com – look for **tech meetups** around your city and involve in communities that you like. Most of the tech meetups are free and newbies are welcome.
 
 ## Good Luck to All!
 
