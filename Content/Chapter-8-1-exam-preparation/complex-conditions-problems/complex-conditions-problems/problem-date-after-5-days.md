@@ -8,7 +8,7 @@ Watch the video lesson about solving the "Date After 5 Days" problem: https://yo
 
 ## Problem Description
 
-There are two numbers **d** (day) and **m** (month) that form **a date**. Write a program that prints the date that will be **5 days a particular date**. For example, 5 days after **28.03** is the date **2.04**. We assume that the months: April, June, September and November have 30 days, February has 28 days, and the rest have 31 days. Months to be printed with **leading zero** when they contain a single digit (e.g. 01, 08).
+There are two numbers **d** (day) and **m** (month) that form **a date**. Write a program that prints the date that will be **5 days after particular date**. For example, 5 days after **28.03** is the date **2.04**. We assume that the months: April, June, September and November have 30 days, February has 28 days, and the rest have 31 days. Months to be printed with **leading zero** when they contain a single digit (e.g. 01, 08).
 
 ## Input
 
