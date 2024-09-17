@@ -1,19 +1,19 @@
 # Problem: Special Numbers
 
-Write a program that **reads one integer number N** and generates all possible **special numbers** from **1111** to **9999**. To be considered **special**, a number must correspond to the **following condition**:
-- **N to be divisible by each of its digits without reminder**.
+Write a program that **reads an integer N** and generates all possible **special numbers** from **1111** to **9999**. To be considered **special**, a number must satisfy the **following condition**:
+- **N must be divisible by each of its digits without remainder**.
 
-**Example:** upon **N = 16, 2418** is a special number:
-- 16 / 2 = 8 **without reminder**
-- 16 / 4 = 4 **without reminder**
-- 16 / 1 = 16 **without reminder**
-- 16 / 8 = 2 **without reminder**
+**Example:** if **N = 16, 2418** is a special number:
+- 16 / 2 = 8 **without remainder**
+- 16 / 4 = 4 **without remainder**
+- 16 / 1 = 16 **without remainder**
+- 16 / 8 = 2 **without remainder**
 
-## Input Data
+## Input
 
 The input is read from the console and consists of **one integer** within the range **[1 … 600 000]**.
 
-## Output Data
+## Output
 
 Print on the console **all special numbers**, separated by **space**.
 
@@ -21,7 +21,7 @@ Print on the console **all special numbers**, separated by **space**.
 
 |Input|Output|Comments|
 |---|---|---|
-|3|1111 1113 1131 1133 1311 1313 1331 1333 3111 3113 3131 3133 3311 3313 3331 3333|3 / 1 = 3 without reminder<br>3 / 3 = 1 without reminder<br>3 / 3 = 1 without reminder<br>3 / 3 = 1 without reminder|
+|3|1111 1113 1131 1133 1311 1313 1331 1333 3111 3113 3131 3133 3311 3313 3331 3333|3 / 1 = 3 without remainder<br>3 / 3 = 1 without remainder<br>3 / 3 = 1 without remainder<br>3 / 3 = 1 without remainder|
 
 |Input|Output|Input|Output|
 |---|---|---|---|
@@ -29,7 +29,7 @@ Print on the console **all special numbers**, separated by **space**.
 
 ## Hints and Guidelines
 
-Solve the problem by yourself using what you learned from the previous two problems. Keep in mind the difference between operators for **integer division `/`** and **division with reminder `%`** in C#.
+Solve the problem on your own using what you have learned from the previous two problems. Keep in mind the difference between operators for **integer division `/`** and **division with remainder `%`** in C#.
 
 ## Testing in the Judge System
 
