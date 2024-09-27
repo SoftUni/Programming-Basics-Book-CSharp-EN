@@ -1,27 +1,27 @@
 # Problem: Stop Number
 
-Write a program that prints on the console all numbers from **N** to **M**, that are **divisible by 2** and **3 without reminder**, in **reversed order**. We will read one more "stop" number from the console – **S**. If any of the numbers divisible by 2 and 3 **is equal to the stop number, it should not be printed**, and the program should end. **Otherwise print all numbers up to N**, that meet the condition.
+Write a program that prints on the console all numbers from **N** to **M**, that are **divisible by 2** and **3 without remainder**, in **reversed order**. We will read from the console one additional "stop" number – **S**. If any of the numbers divisible by 2 and 3 **is equal to the stop number, it should not be printed** and the program should end. **Otherwise print all numbers up to N** that meet the condition.
 
-## Input Data
+## Input
 
 Read from the console 3 numbers, each on a single line:
 * **N** – integer number: **0 &le; N &lt; M**.
 * **M** – integer number: **N &lt; M &le; 10000**.
 * **S** – integer number: **N &le; S &le; M**.
 
-## Output Data
+## Output
 
-Print on the console on a single line all numbers, that meet the condition, separated by space. 
+Print on the console, on a single line, all numbers that meet the condition, separated by space. 
 
 ## Sample Input and Output
 
 | Input | Output | Comments |
 | --- | --- | --- |
-|1<br>30<br>15|30 24 18 12 6|Numbers from 30 to 1, that are divisible at the same time by 2 and 3 without reminder are: 30, 24, 18, 12 and 6. The number 15 **is not equal** to any, so the sequence **continues**.|
+|1<br>30<br>15|30 24 18 12 6|The numbers from 30 to 1 that are divisible by both 2 and 3 without remainder are: 30, 24, 18, 12 and 6. The number 15 **is not equal** to any of them, so the sequence **continues**.|
 
 | Input | Output | Comments |
 | --- | --- | --- |
-|1<br>36<br>12|36 30 24 18|Numbers from 36 to 1, that are divisible at the same time by 2 and 3 without reminder are: 36, 30, 24, 18, 12 and 6. The number 12 **is equal** to the stop number, so **we stop by 18**.|
+|1<br>36<br>12|36 30 24 18|The numbers from 36 to 1, that are divisible by both 2 and 3 without remainder are: 36, 30, 24, 18, 12 and 6. The number 12 **is equal** to the stop number, so **we stop at 18**.|
 
 | Input | Output |
 | --- | --- |
@@ -30,23 +30,23 @@ Print on the console on a single line all numbers, that meet the condition, sepa
 ## Hints and Guidelines
 
 The problem can be divided into **four** logical parts:
-* **Reading** the input.
-* **Checking** all numbers in the given range, and then running a **loop**.
-* **Checking** the conditions of the problem according to every number in the given range.
-* **Printing** the numbers.
+* **Read** the input.
+* **Check** all numbers in the given range by running a **loop**.
+* **Check** if each of the numbers within the given range meets the required conditions.
+* **Print** the numbers.
 
-**First** part is ordinary – we read **three** integer numbers from the console, so we will use **`int`**.
+**The first** part is easy – we read **three** integer numbers from the console, so we use **`int`**.
 
-We have already seen examples of the **second** part – initialization of the **`for`** loop. It is a bit **tricky** – the explanation mentions that the numbers have to be printed in **reversed order**. This means that the **initial** value of the variable **`i`** will be **bigger**, and from the examples we can see that it is **M**. Thus, the **final** value of **`i`** should be **N**. The fact that we will print the results in reversed order and the values of **`i`**, suggests that the step would be **decreased by 1**.
+We are also familiar with the **second** part – the initialization of a **`for`** loop. There is a little **catch** here – the problem requires us to print the numbers in **reversed order**. This means that the **initial** value of the variable **`i`** will be the **greater** number, and from the examples we can see that this is **M**. Thus, the **final** value of **`i`** should be **N**. The fact that we will print the results in reversed order and the values of **`i`** suggests that the step will **decrease i by 1**.
 
 ![](/assets/chapter-7-exam-preparation-images/04.stop-number-1.png)
 
-After we have initialized the **`for`** loop, it is time for the **third** part of the problem – **checking** the condition if the given **number is divisible both by 2 and 3 without reminder**. We will do this using one simple **`if`** condition that we will leave to the reader to do by themselves.
+After we have initialized the **`for`** loop, it is time for the **third** part of the problem – to **check** the condition if the given **number is divisible by both 2 and 3 without remainder**. We will do this by using one simple **`if`** condition that we will let the reader construct themselves.
 
-Another **tricky** part of this problem is that apart from the above check we need to do **another** one – whether the **number is equal to the "stop" number** entered from the console on the third line. To do this check, the previous one has to be passed. For this reason, we will add another **`if`** statement that we will **nest in the previous one**. If the condition is **true**, we need to stop the program from printing. We can do this using a **`break`** operator, and it will lead us **out** of the **`for`** loop.
+The other **tricky** part in this problem is that, apart from the check above, we need an **additional** one – whether the **number is equal to the "stop" number** entered from the console on the third line. To reach this check, the number we're checking has to pass the check above. That's why we add another **`if`** statement **nested in the previous one**. If the condition is **true**, we have to stop printing. We can achieve this with the **`break`** operator which will lead us **out** of the **`for`** loop.
  
-If the **condition** that checks whether the number is equal with "stop" number returns a **`false`** result, our program should **continue to print**. This covers the **fourth and last** part of our program.
+Accordingly, if the **condition** that checks whether the number is equal to the "stop" number returns **`false`**, our program should **continue printing**. This covers the **fourth and last** part of our program.
 
-## Testing in the Judge System
+## Test in the Judge System
 
 Test your solution here:  [https://judge.softuni.org/Contests/Practice/Index/515#2](https://judge.softuni.org/Contests/Practice/Index/515#2).
