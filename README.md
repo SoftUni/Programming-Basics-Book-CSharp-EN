@@ -67,3 +67,6 @@ This book is available in several versions in different programming languages:
  * [Programming Basics with JavaScript (Bulgarian)](https://js-book.softuni.bg)
  * [Programming Basics with Python (Bulgarian)](https://python-book.softuni.bg)
  * [Programming Basics with C++ (Bulgarian)](https://cpp-book.softuni.bg)
+ 
+ 
+ CHANGED ROW
